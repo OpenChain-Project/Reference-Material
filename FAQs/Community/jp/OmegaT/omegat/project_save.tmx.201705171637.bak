@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_5_r9644:9647" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Questions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170517T073602Z" creationid="nobuo imada" creationdate="20170517T073602Z">
+        <seg>一般的な質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170517T073645Z" creationid="nobuo imada" creationdate="20170517T073645Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;とは何ですか?</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Avoiding Compliance Pitfalls</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063635Z" creationid="maabou" creationdate="20170325T063635Z">
+        <seg>コンプライアンスで陥る落とし穴を回避する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062307Z" creationid="maabou" creationdate="20170325T062307Z">
+        <seg>コンテンツ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170322T201923Z" creationid="maabou" creationdate="20170322T201923Z">
+        <seg>カリキュラム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different legal jurisdictions may have different legal requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T001815Z" creationid="maabou" creationdate="20170325T001553Z">
+        <seg>法域が異なる場合においては法的要求事項が異なる場合がありますので</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>End to End Compliance Management (Example Process)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063433Z" creationid="maabou" creationdate="20170325T063433Z">
+        <seg>エンド ツー エンドのコンプライアンス管理（例となるプロセス）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Policy</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063919Z" creationid="maabou" creationdate="20170325T063919Z">
+        <seg>FOSS ポリシー、方針、方策</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Training Reference Deck, Version 2 FINAL DRAFT&lt;t0/&gt;Designed for the &lt;t1/&gt;OpenChain Specification 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170322T210009Z" creationid="maabou" creationdate="20170322T194658Z">
+        <seg>FOSSトレーニング参照資料 第2版 最終ドラフト&lt;t0/&gt;&lt;t1/&gt;OpenChain 仕様書  第1.0版対応</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to FOSS Compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062648Z" creationid="maabou" creationdate="20170325T062648Z">
+        <seg>FOSSコンプライアンス概論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction to FOSS Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062624Z" creationid="maabou" creationdate="20170325T062624Z">
+        <seg>FOSSライセンス概論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Software Concepts for FOSS&lt;t0/&gt; Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063055Z" creationid="maabou" creationdate="20170325T063055Z">
+        <seg>FOSSレビューで重要となるソフトウェアの概念&lt;t0/&gt; Review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>question</note>
+      <tuv lang="EN-US">
+        <seg>Please note that each chapter has “Check Your Understanding” slides with questions and answers in the slide notes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T023100Z" creationid="maabou" creationdate="20170325T022748Z">
+        <seg>各章には質問形式の「理解度チェック」のスライドを設けていますのでご留意ください。回答はスライドのノート欄に記載されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Released under the &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170322T210942Z" creationid="maabou" creationdate="20170322T210139Z">
+        <seg>本資料は &lt;t0/&gt;Creative Commons CC0 1.0 Universal&lt;t1/&gt; ライセンスの下でリリースされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Running a FOSS Review</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T063330Z" creationid="maabou" creationdate="20170325T063330Z">
+        <seg>FOSSレビューを実施する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These can be used as the basis for in-house tests for FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T023015Z" creationid="maabou" creationdate="20170325T023015Z">
+        <seg>これらの質問や答えはFOSSコンプライアンスの組織内テストの素材として使うことができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These slides can be used&lt;t0/&gt; to help train internal teams about FOSS compliance issues and to conform with the OpenChain Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T020508Z" creationid="maabou" creationdate="20170325T010131Z">
+        <seg>本スライドは、組織内チームに向けたFOSSコンプライアンスに係る重要事項についてトレーニングを実施する際のヘルプや&lt;t0/&gt;OpenChainの仕様との照らし合わせに用いることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These slides follow US law.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T001219Z" creationid="maabou" creationdate="20170325T000739Z">
+        <seg>本スライドは米国法令に準じています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This should be taken into account when using these slides as part of a compliance training program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T002037Z" creationid="maabou" creationdate="20170325T001725Z">
+        <seg>コンプライアンス トレーニング プログラムの一部で本スライドを使う際にはこの点を考慮する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This&lt;t0/&gt; slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170326T055925Z" creationid="maabou" creationdate="20170325T064522Z">
+        <seg>本&lt;t0/&gt; スライドは単独で3時間のトレーニングセッションに関係します</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the OpenChain Curriculum Slides.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T001925Z" creationid="maabou" creationdate="20170325T001925Z">
+        <seg>OpenChain カリキュラムのスライドへようこそ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is Intellectual Property?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T062321Z" creationid="maabou" creationdate="20170325T062321Z">
+        <seg>知的財産とは何か？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここのdeliverは難しい。文脈的には、「そのままトレーニングのパッケージとして使える」というニュアンスだと捉えた。単純に「資料として配付する」というニュアンスだと弱い印象があった。後半部分は、「まとめて一日半のトレーニング」でなくても「章ごとに分けたトレーニング構成でもよい」、という意味でとらえている。</note>
+      <tuv lang="EN-US">
+        <seg>You can deliver these slides as one half-day training session or you&lt;t0/&gt; can deliver each chapter as a separate module.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170325T064541Z" creationid="maabou" creationdate="20170325T020454Z">
+        <seg>このスライドを半日のトレーニングセッションとして提供することができます。各章を分け、個別のモジュールとして構成した形で提供することも可能です。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

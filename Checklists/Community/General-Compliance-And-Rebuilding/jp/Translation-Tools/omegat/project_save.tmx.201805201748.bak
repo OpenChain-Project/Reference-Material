@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(This should include package versions and any similar information critical to ensuring compliance.)</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084032Z" creationid="Takashi　Kunai" creationdate="20180515T084032Z">
+        <seg>(これには、コンプライアンスを確実に履行するために必須のパッケージの版数や類似の情報が含まれるべきです。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A great place to start is the Open Compliance Program &lt;t0/&gt;Self-Assessment Compliance Checklist&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T045708Z" creationid="Takashi　Kunai" creationdate="20180515T030326Z">
+        <seg>スタート地点として優れているのは、Open Compliance Program の&lt;t0/&gt;「自己診断コンプライアンスチェックリスト」&lt;t1/&gt;です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A happy medium is the goal.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010630Z" creationid="Takashi　Kunai" creationdate="20180514T084925Z">
+        <seg>程よい中庸こそがゴールです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A quotation worth bearing in mind with regards all aspects of compliance engineering comes from C. Northcote Parkinson:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003407Z" creationid="Takashi　Kunai" creationdate="20180514T081836Z">
+        <seg>コンプライアンス実行のすべての局面において心に留めておくべきパーキンソン氏の名言があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adapt existing business processes to support the FOSS compliance program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T071926Z" creationid="Takashi　Kunai" creationdate="20180515T071732Z">
+        <seg>FOSSコンプライアンスプログラムを支えるために既存のビジネスプロセスを適合させること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another way would be to cover the “core” of the issue and leave details to trained personnel or sub-checklists as needed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060856Z" creationid="Takashi　Kunai" creationdate="20180515T024759Z">
+        <seg>別の方法として、課題の「中核部分」のみをカバーして、詳細は訓練を受けた要員や、あるいは、サブチェックリストに委ねるやり方もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are the copies of the Compliance Artifacts archived for at&lt;t0/&gt; &lt;t1/&gt;least as long as the Supplied Software is offered or as&lt;t2/&gt; &lt;t3/&gt;required by the Identified Licenses (whichever is longer)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T075428Z" creationid="Takashi　Kunai" creationdate="20180520T075428Z">
+        <seg>コンプライアンス関連資料は、少なくとも当該供給ソフトウェアが提供され続けている期間、または、確認ライセンスが要求する期間（のいずれか長い方の期間）、保管されていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basics of Intellectual Property law pertaining to FOSS&lt;t0/&gt; &lt;t1/&gt;and FOSS licenses,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082559Z" creationid="Takashi　Kunai" creationdate="20180516T082559Z">
+        <seg>FOSS、および、FOSSライセンスに関する知財法の基礎&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CONFIDENTIAL &lt;t0/&gt;5&lt;t1/&gt;/&lt;t2/&gt;5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T081415Z" creationid="Takashi　Kunai" creationdate="20180520T081415Z">
+        <seg>&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Can you easily retrieve the archived copies of the&lt;t0/&gt; &lt;t1/&gt;Compliance Artifacts of the Supplied Software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074833Z" creationid="Takashi　Kunai" creationdate="20180520T074833Z">
+        <seg>供給ソフトウェアに関するコンプライアンス関連資料の保管された写しを容易に取りだすことができますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064137Z" creationid="Takashi　Kunai" creationdate="20180514T064137Z">
+        <seg>チェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklist For Rebuilding Product X</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084452Z" creationid="Takashi　Kunai" creationdate="20180515T072635Z">
+        <seg>製品Xの再ビルドに向けたチェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checklists</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T080805Z" creationid="Takashi　Kunai" creationdate="20180514T080805Z">
+        <seg>チェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Directory)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083616Z" creationid="Takashi　Kunai" creationdate="20180518T073957Z">
+        <seg>(例えば、電子メールアドレス、または、Linux Foundationのオープンココンプライアンスディレクトリ等によって)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Discover all FOSS early in the procurement/development cycle​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065723Z" creationid="Takashi　Kunai" creationdate="20180515T065614Z">
+        <seg>すべてのFOSSを購買・開発サイクルの早期段階で見つけること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you allow employees to contribute to FOSS&lt;t0/&gt; &lt;t1/&gt;projects on behalf of your organization?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T080424Z" creationid="Takashi　Kunai" creationdate="20180520T080424Z">
+        <seg>従業員が組織・企業を代表してFOSSプロジェクトに貢献することを許容していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you archive copies of the Compliance Artifacts of the&lt;t0/&gt; &lt;t1/&gt;Supplied Software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T074641Z" creationid="Takashi　Kunai" creationdate="20180520T074641Z">
+        <seg>供給ソフトウェアに関するコンプライアンス関連資料の写しを保管していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have FOSS component records for each Supplied&lt;t0/&gt; &lt;t1/&gt;Software release which demonstrates the documented&lt;t2/&gt; &lt;t3/&gt;procedure was properly followed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083843Z" creationid="Takashi　Kunai" creationdate="20180519T053148Z">
+        <seg>供給ソフトウェアの各リリースに対応したFOSSコンポーネントの記録を用意し、&lt;t0/&gt;&lt;t1/&gt;そこで文書化された手続きが適正に実施されたことを示すようにしていますか？&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have FOSS training materials (e.g., slide&lt;t0/&gt; &lt;t1/&gt;decks or online course) covering the following topics?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082337Z" creationid="Takashi　Kunai" creationdate="20180514T070812Z">
+        <seg>以下のようなトピックをカバーしたFOSSトレーニング資料（例えば、スライドショーやオンラインコースなど）を用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented FOSS contribution&lt;t0/&gt; &lt;t1/&gt;policy?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T080731Z" creationid="Takashi　Kunai" creationdate="20180520T080516Z">
+        <seg>FOSSコントリビューションポリシ－を文書化していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented policy that governs FOSS&lt;t0/&gt; &lt;t1/&gt;license compliance of the Supplied Software&lt;t2/&gt; &lt;t3/&gt;distribution (e.g., via training, internal wiki, or other&lt;t4/&gt; &lt;t5/&gt;practical communication method)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082058Z" creationid="Takashi　Kunai" creationdate="20180514T065357Z">
+        <seg>供給ソフトウェアの頒布についてFOSSライセンスコンプライアンスを統制する文書化されたポリシーを用意していますか？（例えば、トレーニング、社内Wiki、あるいは、その他の伝達手法を用いて）&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented procedure for handling review&lt;t0/&gt; &lt;t1/&gt;and remediation of non-compliant cases?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072421Z" creationid="Takashi　Kunai" creationdate="20180518T082010Z">
+        <seg>コンプライアンスに反する状況の調査や、救済策を実施する文書化された手続きを用意していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented procedure for identifying,&lt;t0/&gt; &lt;t1/&gt;tracking and archiving information about the collection of&lt;t2/&gt; &lt;t3/&gt;FOSS components from which a Supplied Software release is&lt;t4/&gt; &lt;t5/&gt;comprised?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072622Z" creationid="Takashi　Kunai" creationdate="20180519T052410Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;供給ソフトウェアリリースを構成する&lt;t2/&gt;&lt;t3/&gt;一連のFOSSコンポーネントに関する情報を特定、追跡、保存する文書化された手続きを用意していますか？&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented procedure that</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070257Z" creationid="Takashi　Kunai" creationdate="20180514T070017Z">
+        <seg>文書化された手順によって</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented procedure that assigns</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083708Z" creationid="Takashi　Kunai" creationdate="20180518T074929Z">
+        <seg>FOSSコンプライアンスの問い合わせを受け付ける責任者をアサインする文書化された手続きを用意していますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented procedure that describes a&lt;t0/&gt; &lt;t1/&gt;process that ensures the Compliance Artifacts are&lt;t2/&gt; &lt;t3/&gt;distributed with Supplied Software as required by the&lt;t4/&gt; &lt;t5/&gt;Identified Licenses?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083911Z" creationid="Takashi　Kunai" creationdate="20180520T074444Z">
+        <seg>コンプライアンス関連資料が、確認ライセンスの要求するとおりに供給ソフトウェアと併せて頒布されることを確かにする文書化された手続きを用意していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a documented procedure to review and&lt;t0/&gt; &lt;t1/&gt;document the obligations, restrictions&lt;t2/&gt; &lt;t3/&gt;and rights granted by each Identified License</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083546Z" creationid="Takashi　Kunai" creationdate="20180518T071310Z">
+        <seg>供給ソフトウェアで特定されたライセンスごとに、その義務、制約、および、権利をレビューし、かつ、記録する文書化された手続きを持っていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you have a process for reviewing the Identified&lt;t0/&gt; &lt;t1/&gt;Licenses to determine the obligations, restrictions and&lt;t2/&gt; &lt;t3/&gt;rights granted by each license?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T070959Z" creationid="Takashi　Kunai" creationdate="20180518T070316Z">
+        <seg>特定されたライセンスをレビューし、各ライセンスの義務、制約、権利を判断するプロセスが用意されていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you track the completion of the training for all&lt;t0/&gt; &lt;t1/&gt;Software Staff?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071806Z" creationid="Takashi　Kunai" creationdate="20180518T065143Z">
+        <seg>全ソフトウェア要員を対象に、トレーニングの完了を追跡していますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure adequate compliance staffing and designate clear lines of responsibility.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T005154Z" creationid="Takashi　Kunai" creationdate="20180515T071434Z">
+        <seg>十分なコンプライアンス要員を確保し、責任系統を明示すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licensing concepts (including the concepts of&lt;t0/&gt; &lt;t1/&gt;permissive and copyleft licenses),</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082815Z" creationid="Takashi　Kunai" creationdate="20180516T082815Z">
+        <seg>FOSSライセンスの基本概念 (パーミッシブライセンスやコピーレフトライセンスの概念を含む&lt;t0/&gt;&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS project licensing models</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082908Z" creationid="Takashi　Kunai" creationdate="20180516T082908Z">
+        <seg>FOSSプロジェクトのいろいろなライセンスモデル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the concept of addressing the “complete and corresponding” source code for distribution is arguably the first and most useful area to have a specific checklist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003501Z" creationid="Takashi　Kunai" creationdate="20180515T011804Z">
+        <seg>例えば、頒布物の「全対応ソースコード」に対処する仕組み造りは、間違いなく特定用途チェックリストを適用する最初の、また、最適な領域でしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Compliance Checklist</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T053126Z" creationid="Takashi　Kunai" creationdate="20180515T053126Z">
+        <seg>総括的コンプライアンス チェックリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Has a rebuild been successfully completed on a clean machine?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085257Z" creationid="Takashi　Kunai" creationdate="20180515T085257Z">
+        <seg>再ビルドは、余分なソフトウェアなどのないクリーンなコンピュータシステム上で、エラーなしに完了したか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have 85% or more of the Software Staff completed a&lt;t0/&gt; &lt;t1/&gt;FOSS training within the last 24 months?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071829Z" creationid="Takashi　Kunai" creationdate="20180518T065523Z">
+        <seg>過去24ヶ月間にソフトウェア要員の85%以上がFOSSトレーニングを修了しましたか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have any uncertainties been escalated to the Open Source support team?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085521Z" creationid="Takashi　Kunai" creationdate="20180515T085521Z">
+        <seg>不確かな点は、オープンソースサポートチームに対して持ちあげられたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have the rebuild results been verified?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085346Z" creationid="Takashi　Kunai" creationdate="20180515T085346Z">
+        <seg>再ビルドの結果は検証されたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have training on the organization’s FOSS policy available to everyone​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T005420Z" creationid="Takashi　Kunai" creationdate="20180515T072326Z">
+        <seg>すべての要員にFOSSポリシーの教育訓練を用意すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you assigned a person, group or function responsible&lt;t0/&gt; &lt;t1/&gt;for managing internal FOSS compliance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T071719Z" creationid="Takashi　Kunai" creationdate="20180518T075625Z">
+        <seg>組織内部においてFOSSコンプライアンスを管理することに責任を負う要員、グループ、あるいは、職制をアサインしましたか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you assigned individual(s) responsible for receiving&lt;t0/&gt; &lt;t1/&gt;external FOSS compliance inquiries (“FOSS Liaison”)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T072405Z" creationid="Takashi　Kunai" creationdate="20180518T072405Z">
+        <seg>外部から来るFOSSコンプライアンスの問い合わせを受け付けることに責任のある要員をアサインしていますか？&lt;t0/&gt;&lt;t1/&gt; (「FOSS窓口」)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you assigned responsibilities to develop and maintain&lt;t0/&gt; &lt;t1/&gt;FOSS compliance policy and processes?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T081059Z" creationid="Takashi　Kunai" creationdate="20180518T081059Z">
+        <seg>FOSSコンプライアンスのポリシー、および、そのプロセスを作成し、また、維持することに責任を負う担当者をアサインしていますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have you implemented a procedure that handles at least the&lt;t0/&gt; &lt;t1/&gt;following common FOSS license use cases for the FOSS&lt;t2/&gt; &lt;t3/&gt;components of each supplied &lt;t4/&gt;Supplied&lt;t5/&gt; Software release?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073101Z" creationid="Takashi　Kunai" creationdate="20180519T054154Z">
+        <seg>供給ソフトウェアの各リリースを構成するFOSSコンポーネントに対応して、少なくとも以下のような共通的なFOSSライセンスユースケースを取り扱う手続きを作成していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is a complete &lt;t0/&gt;description&lt;t1/&gt; of the build environment provided?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003719Z" creationid="Takashi　Kunai" creationdate="20180515T083747Z">
+        <seg>ビルド環境の完全な内容記述が用意されているか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is a list of rebuild steps provided?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084816Z" creationid="Takashi　Kunai" creationdate="20180515T084816Z">
+        <seg>再ビルドのステップの一覧は用意されているか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is legal expertise pertaining to FOSS compliance accessible&lt;t0/&gt; &lt;t1/&gt;to the FOSS Compliance Role (e.g., internal or external)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T072052Z" creationid="Takashi　Kunai" creationdate="20180518T080832Z">
+        <seg>FOSSコンプライアンスの履行担当者は、FOSSコンプライアンスに関する（社内、または、社外の）法務専門家にアクセス可能ですか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the FOSS Liaison function publicly identified (e.g. via an&lt;t0/&gt; &lt;t1/&gt;email address and/or the Linux Foundation’s Open</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T074116Z" creationid="Takashi　Kunai" creationdate="20180518T073718Z">
+        <seg>FOSS窓口への連絡方法が外部から識別できますか？&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is the policy internally communicated?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082125Z" creationid="Takashi　Kunai" creationdate="20180514T065550Z">
+        <seg>そのポリシーは社内で周知されていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is your Software Staff aware of the existence of the&lt;t0/&gt; &lt;t1/&gt;FOSS Contribution Policy (e.g. via training, internal&lt;t2/&gt; &lt;t3/&gt;wiki, or other practical communication method)?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T084035Z" creationid="Takashi　Kunai" creationdate="20180520T080626Z">
+        <seg>ソフトウェア要員は、FOSSコントリビューションポリシ－の存在を、（トレーニング、社内Wiki、その他の伝達手法を用いて）認知していますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next&lt;t0/&gt; &lt;t1/&gt;steps</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T081649Z" creationid="Takashi　Kunai" creationdate="20180516T081649Z">
+        <seg>次の&lt;t0/&gt; &lt;t1/&gt;ステップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One way of approaching this would be to create an exhaustive list of all the steps possible and necessary.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060831Z" creationid="Takashi　Kunai" creationdate="20180515T024545Z">
+        <seg>この課題への取り組みとして、可能な、また、必要なすべての手段を網羅したリストを作るのは一つの方法です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plenty of options exist for more comprehensive checklists.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T025708Z" creationid="Takashi　Kunai" creationdate="20180515T025708Z">
+        <seg>もっと包括的なチェックリストには、非常に多くのオプションがあるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Priority</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T064224Z" creationid="Takashi　Kunai" creationdate="20180514T064224Z">
+        <seg>優先度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Process for identifying, recording and/or tracking of&lt;t0/&gt; &lt;t1/&gt;FOSS components contained in Supplied Software?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T070650Z" creationid="Takashi　Kunai" creationdate="20180518T064905Z">
+        <seg>供給ソフトウェア中に含まれるFOSSコンポーネントを、特定したり、記録したり、また、追跡したりするためのプロセスがありますか?&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided the FOSS contribution policy permits&lt;t0/&gt; &lt;t1/&gt;contributions, do you have a documented procedure&lt;t2/&gt; &lt;t3/&gt;that describes the FOSS contribution process?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T081335Z" creationid="Takashi　Kunai" creationdate="20180520T081335Z">
+        <seg>FOSSコントリビューションポリシ－がFOSSへの貢献を認めているとき、&lt;t0/&gt;&lt;t1/&gt;FOSSコントリビューションプロセスを記述する文書化された手続きを用意していますか？&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Responsable</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T081918Z" creationid="Takashi　Kunai" creationdate="20180516T081918Z">
+        <seg>責任者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and Approve all FOSS packages used.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065732Z" creationid="Takashi　Kunai" creationdate="20180515T065715Z">
+        <seg>使用するすべてのFOSSパッケージをレビューし、承認すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and approve any outbound contributions to FOSS projects.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T005042Z" creationid="Takashi　Kunai" creationdate="20180515T070258Z">
+        <seg>外部のFOSSプロジェクトへの貢献をレビューし、承認すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the ‘General Compliance Checklist’ for a short and simple checklist.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060140Z" creationid="Takashi　Kunai" creationdate="20180515T003207Z">
+        <seg>ここに掲載する「総括的コンプライアンス チェックリスト」は、簡潔で簡易なチェックリストです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See ‘Checklist For Rebuilding Product X’ for an example of the latter.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084512Z" creationid="Takashi　Kunai" creationdate="20180515T025328Z">
+        <seg>「製品Xの再ビルドに向けたチェックリスト」は、後者の例です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Software Staff roles and &lt;t0/&gt; &lt;t1/&gt;responsibilities pertaining to&lt;t2/&gt; &lt;t3/&gt;FOSS compliance specifically and the FOSS policy &lt;t4/&gt;ingeneral&lt;t5/&gt;,</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T064921Z" creationid="Takashi　Kunai" creationdate="20180516T083821Z">
+        <seg>ソフトウェア要員の役割と責任、&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;FOSSコンプライアンスに関しては具体的に、また、とFOSSポリシーについてはの概要的に &lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T073150Z" creationid="Takashi　Kunai" creationdate="20180515T073150Z">
+        <seg>ステップ #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #1: Ongoing Compliance Tasks</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T065422Z" creationid="Takashi　Kunai" creationdate="20180515T053316Z">
+        <seg>ステップ #1: 継続的なコンプライアンス業務</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #2</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084040Z" creationid="Takashi　Kunai" creationdate="20180515T084040Z">
+        <seg>ステップ #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #2: Support Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T004710Z" creationid="Takashi　Kunai" creationdate="20180515T070740Z">
+        <seg>ステップ #2: コンプライアンス活動を支える要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #3</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T084824Z" creationid="Takashi　Kunai" creationdate="20180515T084824Z">
+        <seg>ステップ #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #4</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085305Z" creationid="Takashi　Kunai" creationdate="20180515T085305Z">
+        <seg>ステップ #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Step #5</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T085353Z" creationid="Takashi　Kunai" creationdate="20180515T085353Z">
+        <seg>ステップ #5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The FOSS policy and where to find it.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T070928Z" creationid="Takashi　Kunai" creationdate="20180514T070928Z">
+        <seg>FOSSポリシー、および、それがどこにあるか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The FOSS&lt;t2/&gt; &lt;t3/&gt;Compliance role and FOSS Liaison can be the same</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T071800Z" creationid="Takashi　Kunai" creationdate="20180518T075758Z">
+        <seg>FOSSコンプライアンスを履行する役割と&lt;t2/&gt;&lt;t3/&gt;FOSS窓口は、同一の要員であっても構いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This checklist can be part of the review process for ensuring “complete and corresponding” source code is available when distributing products containing GPL code.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T003647Z" creationid="Takashi　Kunai" creationdate="20180515T073140Z">
+        <seg>このチェックリストは、GPLコードを含んだ製品の頒布の際に、「全対応ソースコード」を確実に提供するためのレビュープロセスの一部となりえるものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This checklist, like the material above, is free of charge and freely available so you can explore what is best to meet your requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T061325Z" creationid="Takashi　Kunai" creationdate="20180515T052628Z">
+        <seg>このチェックリストは、上記の資料と同様、無償で自由に利用できますので、何が組織の要件に一番合致するのかを探るのに使えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a more detailed list running through the whole process and may be required for a larger organization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T052520Z" creationid="Takashi　Kunai" creationdate="20180515T052520Z">
+        <seg>同チェックリストは、コンプライアンスプロセス全般で行われるより詳細な点検項目を提供しており、やや大きな組織で必要とされるものでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is from the &lt;t0/&gt;OpenChain Curriculum slides&lt;t1/&gt;.&lt;t2/&gt; It is based - in turn - on the Linux Foundation Open Compliance Program &lt;t3/&gt;Self-Assessment Compliance Checklist&lt;t4/&gt;.&lt;t5/&gt; It may be suitable for a small organization or for framing the general issue for a large organization.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060354Z" creationid="Takashi　Kunai" creationdate="20180515T004717Z">
+        <seg>これは、 &lt;t0/&gt;「OpenChainカリキュラム」&lt;t1/&gt;&lt;t2/&gt; のスライドショーに掲載されているものですが、Linux FoundationのOpen Compliance Program &lt;t3/&gt;「自己診断コンプライアンスチェックリスト」&lt;t4/&gt;&lt;t5/&gt; の一部を使っています。このチェックリストは、小規模な組織で利用するのに、あるいは、大規模な組織における全般的な課題の抽出に適しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Track progress of all compliance activities​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T072545Z" creationid="Takashi　Kunai" creationdate="20180515T072545Z">
+        <seg>すべてのコンプライアンス活動の進捗を追跡すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Verify the information necessary to satisfy FOSS obligations​.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T070115Z" creationid="Takashi　Kunai" creationdate="20180515T070115Z">
+        <seg>FOSSの義務を満たすために必要な情報を検証すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What constitutes a happy medium really depends on your organizational size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T010645Z" creationid="Takashi　Kunai" creationdate="20180514T085217Z">
+        <seg>程よい中庸として何を採るかは、組織の規模に依存します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When used incorrectly they can be too general to cover the work at hand or become overwhelming task lists requiring endless review.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T004547Z" creationid="Takashi　Kunai" creationdate="20180514T084144Z">
+        <seg>しかし、間違った使い方をするとチェックリストは、現場の作業をカバーするにはあまりに総括的であったり、あるいは、終わりのないレビューを要求するとんでもない作業リストともなりえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When used properly checklists can be a useful way to manage your GPL compliance tasks in a quick, consistent and effective manner.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180514T083401Z" creationid="Takashi　Kunai" creationdate="20180514T083401Z">
+        <seg>正しく使えばチェックリストは、GPLコンプライアンス作業を、素早い、首尾一貫した、また効率的なやり方で管理する有用な手法となりえます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You might elect to have more specific checklists to address specific compliance goals.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180515T060459Z" creationid="Takashi　Kunai" creationdate="20180515T010601Z">
+        <seg>状況によっては、特定のコンプライアンス目標を意図して、より特定的なチェックリストを作成することもあるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>communicates&lt;t0/&gt; the existence of the FOSS policy to all&lt;t1/&gt; &lt;t2/&gt;Software Staff?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T082247Z" creationid="Takashi　Kunai" creationdate="20180514T070245Z">
+        <seg>FOSSポリシーの存在がすべてのソフトウェア要員に周知されていますか？&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains FOSS or other software under an incompatible&lt;t0/&gt; &lt;t1/&gt;license interacting with other components within the&lt;t2/&gt; &lt;t3/&gt;Supplied Software;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073530Z" creationid="Takashi　Kunai" creationdate="20180519T055617Z">
+        <seg>供給ソフトウェア内の他のコンポーネントとやりとりする、両立性のないライセンス条件のFOSSやその他のソフトウェアを含んでいる&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains FOSS with attribution requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073602Z" creationid="Takashi　Kunai" creationdate="20180520T073602Z">
+        <seg>帰属要求のあるFOSSを含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains modified FOSS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073212Z" creationid="Takashi　Kunai" creationdate="20180519T054704Z">
+        <seg>改変されたFOSSを含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>distributed in binary form;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073124Z" creationid="Takashi　Kunai" creationdate="20180519T054223Z">
+        <seg>バイナリー形態での頒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>distributed in source form;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T073138Z" creationid="Takashi　Kunai" creationdate="20180519T054251Z">
+        <seg>ソースコード形態での頒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>governing&lt;t0/&gt; the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T071407Z" creationid="Takashi　Kunai" creationdate="20180518T071407Z">
+        <seg>&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>individual&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180518T075807Z" creationid="Takashi　Kunai" creationdate="20180518T075807Z">
+        <seg>&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>integrated with other FOSS such that it may trigger copyleft&lt;t0/&gt; &lt;t1/&gt;obligations;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180519T054617Z" creationid="Takashi　Kunai" creationdate="20180519T054617Z">
+        <seg>コピーレフトの義務が発生するような他のFOSSと統合&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>responsibility&lt;t0/&gt; for receiving FOSS compliance inquiries?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180520T083718Z" creationid="Takashi　Kunai" creationdate="20180518T075016Z">
+        <seg>&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“&lt;t0/&gt;Work expands so as to fill the time available for its completion.&lt;t1/&gt;”</seg>
+      </tuv>
+      <tuv lang="JA" changeid="Takashi　Kunai" changedate="20180516T004243Z" creationid="Takashi　Kunai" creationdate="20180514T081947Z">
+        <seg>「&lt;t0/&gt;仕事というものは、その仕事の完了までに使える時間を使いきるまで続きます。&lt;t1/&gt;」</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

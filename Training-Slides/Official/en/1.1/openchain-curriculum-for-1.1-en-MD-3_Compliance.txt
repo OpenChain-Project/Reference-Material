@@ -1,0 +1,128 @@
+** CHAPTER 3
+
+Introduction to FOSS Compliance
+
+# --------------------
+
+** FOSS Compliance Goals
+
+- Know your obligations. You should have a process for identifying and tracking
+  FOSS components that are present in your software
+
+- Satisfy license obligations. Your process should be capable of handling FOSS
+  license obligations that arise from your organization’s business practices
+
+# --------------------
+
+** What Compliance Obligations Must Be Satisfied?
+
+Depending on the FOSS license(s) involved, your compliance obligations may consist of:
+
+- Attribution and Notices. You may need to provide or retain copyright and license text in the
+  source code and/or product documentation or user interface, so that downstream users know
+  the origin of the software and their rights under the licenses. You may also need to provide
+  notices regarding modifications, or full copies of the license.
+
+- Source code availability. You may need to provide source code for the FOSS software, for
+  modifications you make, for combined or linked software, and scripts that control the build
+  process.
+
+- Reciprocity. You may need to maintain modified versions or derivative works under the same
+  license that governs the FOSS component.
+
+- Other terms. The FOSS license may restrict use of the copyright holder name or trademark,
+  may require modified versions to use a different name to avoid confusion, or may terminate
+  upon any breach.
+
+# --------------------
+
+** FOSS Compliance Issues: Distribution
+
+- Dissemination of material to an outside entity 
+  - Applications downloaded to a user’s machine or mobile device
+  - JavaScript, web client, or other code that is downloaded to the user’s machine 
+
+- For some FOSS licenses, access via a computer network can be
+  a “trigger” event
+  - Some licenses define the trigger event to include permitting access to software running
+    on a server (e.g., all versions of the Affero GPL if the software is modified) or in the
+    case of “users interacting with it remotely through a computer network”
+
+# --------------------
+
+** FOSS Compliance Issues: Modification
+
+- Changes to the existing program (e.g., additions, deletions of code in a file,
+  combining components together)
+
+- Under some FOSS licenses, modifications may cause additional obligations
+  upon distribution, such as:
+  - Providing notice of modification 
+  - Providing accompanying source code 
+  - Licensing modifications under the same license that governs the FOSS component
+
+# --------------------
+
+** FOSS Compliance Program
+
+Organizations that have been successful at FOSS compliance have created
+their own FOSS Compliance Programs (consisting of policies, processes,
+training and tools) to:
+
+1. Facilitate effective usage of FOSS in their products (commercial or
+   otherwise)
+
+2. Respect FOSS developer/owner rights and comply with license obligations
+
+3. Contribute to and participate in FOSS communities
+
+# --------------------
+
+** Implementing Compliance Practices
+
+Prepare business processes and sufficient staff to handle:
+
+- Identification of the origin and license of all internal and external software
+
+- Tracking FOSS software within the development process
+
+- Performing FOSS review and identifying license obligations
+
+- Fulfillment of license obligations when product ships 
+
+- Oversight for FOSS Compliance Program, creation of policy, and compliance
+  decisions
+
+- Training
+
+# --------------------
+
+** Compliance Benefits
+
+Benefits of a robust FOSS Compliance program include:
+
+- Increased understanding of the benefits of FOSS and how it impacts your organization
+
+- Increased understanding of the costs and risks associated with using FOSS 
+
+- Increased knowledge of available FOSS solutions
+
+- Reduction and management of infringement risk, increased respect of FOSS
+  developers/owners’ licensing choices
+
+- Fostering relationships with the FOSS community and FOSS organizations
+
+# --------------------
+
+** Check Your Understanding
+
+- What does FOSS compliance mean?
+
+- What are two main goals of a FOSS Compliance Program?
+
+- List and describe important business practices of a FOSS Compliance Program.
+
+- What are some benefits of a FOSS Compliance Program?
+
+# ====================
+

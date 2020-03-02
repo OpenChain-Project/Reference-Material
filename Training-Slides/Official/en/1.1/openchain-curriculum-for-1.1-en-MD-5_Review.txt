@@ -1,0 +1,276 @@
+** CHAPTER 5
+
+Running a FOSS Review
+
+# --------------------
+
+** FOSS Review
+
+- After Program and Product Management and Engineers have
+  reviewed proposed FOSS components for usefulness and quality, a review
+  of the rights and obligations
+  associated with the use of the selected components should be initiated
+
+- A key element to a FOSS Compliance Program is a FOSS Review process. This
+  process is where a company can analyze the FOSS software it uses and
+  understand its rights and obligations 
+
+- The FOSS Review process includes the following steps:
+  - Gather relevant information
+  - Analyze and understand license obligations
+  - Provide guidance compatible with company policy and business objectives
+
+# --------------------
+
+** Initiating a FOSS Review
+
+Anyone working with FOSS in the company should be able to initiate a FOSS
+Review, including Program or Product Managers, Engineers, and Legal. 
+
+Note: The process often starts when new FOSS-based software is selected by
+engineering or outside vendors.
+
+# --------------------
+
+** What information do you need to gather?
+
+- When analyzing FOSS usage, collect information about the identity of the FOSS
+  component, its origin, and how the FOSS component will be used. This may
+  include:
+  - Package name
+  - Status of the community around the package (activity, diverse membership,
+    responsiveness)
+  - Version
+  - Download or source code URL
+  - Copyright owner
+  - License and License URL
+  - Attribution and other notices and URLs
+  - Description of modifications intended to be made
+  - List of dependencies
+  - Intended use in your product
+  - First product release that will include the package
+  - Location where the source code will be maintained
+  - Possible previous approvals in another context
+  - If from an external vendor: 
+  - Development team's point of contact
+  - Copyright notices, attribution, source code for vendor modifications if
+    needed to satisfy license obligations
+
+# --------------------
+
+** FOSS Review Team
+
+A FOSS Review team includes the company representatives that support, guide, coordinate and
+review the use of FOSS. These representatives may include:
+
+- Legal to identify and evaluate license obligations
+
+- Source code scanning and tooling support to help identify and track FOSS usage
+
+- Engineering Specialists working with business interests, commercial licensing, export
+  compliance, etc., who may be impacted by FOSS usage
+
+# --------------------
+
+** Analyzing Proposed FOSS Usage
+
+The FOSS Review team should assess the information it has gathered before providing guidance
+for issues. This may include scanning the code to confirm the accuracy of the information.
+
+The FOSS Review team should consider:
+- Is the code and associated information complete, consistent and accurate?
+- Does the declared license match what is in the code files?
+- Does the license permit use with other components of the software? 
+
+# --------------------
+
+Source Code Scanning Tools
+
+- There are many different automated source code scanning tools with capabilities including (but are not limited to):
+License scanning
+Binary scanning
+Code scanning
+Dev Ops integration
+Component management
+
+- All of the solutions address specific needs and none will solve all possible challenges. 
+
+- Many companies use both an automated tool and manual review.
+
+- A good example of freely available source code scanning tool is FOSSology, 
+a project hosted by the Linux Foundation: https://www.fossology.org 
+
+# --------------------
+
+License Scanner: Introduction
+
+- Purpose:
+Identifies licenses and license relevant statements
+  
+- Problem
+  - Licensing of OSS can be heterogeneous, different licensing applies to parts of OSS
+  - Licensing statements are not uniform
+  - Many licenses exist, number growing
+
+# --------------------
+
+License Scanner: Technical
+
+- Mode of operation: 
+Tool searches in content for license relevant keywords, phrases, license texts
+  - Different approaches can be applied: regular expressions, text comparison, phrase collection
+  - Requires database of license texts, licensing statements
+  - Comparison with existing license texts enables exact identification 
+  - Licensing information can summarized for open source package
+  
+# --------------------
+
+Binary Scanner: Introduction
+
+- Purpose:
+Identifies used software packages in software binaries
+  
+- Problem: 
+A binary is comprised of different software packages, but if not declared, not obvious to determine
+  - Applies in compiled programming languages: 
+  programming language code is translated (=compiled) into machine executable code (machine = processor)
+  - Script languages (e.g. JavaScript) are not compiled
+  - Binaries are usually not readable, understanding contents difficult
+  - However, identification of contents can be inevitable for understanding required license compliance tasks
+
+# --------------------
+
+Binary Scanner: Technical
+
+- Mode of operation: 
+Binary scanning is a heuristic, secure mapping not supported for every possible binary
+
+- Compiled machine language can contain characteristic elements 
+  - For example used string variables (=text) or other content compiled into the binary
+  - Simpler method: capturing file names, or for run-time code (e.g. Java): method and field names 
+
+- Requires database of mapping from source code to resulting artefacts in binary
+
+# --------------------
+
+Code Scanner: Introduction
+
+- Purpose: 
+Can identify published origin of source code and other files
+  
+- Problem: 
+how to understand that source code or other files have been taken from elsewhere, 
+not self-created, and not declared
+
+- If "own" software is not entirely own software and not understood: 
+  - Applies in compiled programming languages: 
+  programming language code is translated (=compiled) into machine executable code (machine = processor)
+  - Missing rights for business case in "own" software
+  - But distribution requires distribution rights are available
+  - Identification of origin is first step to understand available rights
+
+# --------------------
+
+Code Scanner: Technical
+
+- Mode of operation: 
+upload source code or just files or fingerprints of it, 
+get origin in case it is captured by database
+
+- File contents are compared with contents from (huge) database of published contents 
+  - Fingerprinting of file contents (“hashing”) allow for accelerated search and storage in database
+  - Not only coverage of entire files, but fragments of it
+  - Content is large (e.g. the entire GitHub)
+
+# --------------------
+
+Dev Ops Integration: Introduction
+
+- Purpose: 
+Uses the information from building the software to determine OSS used
+  
+- Problem: 
+for larger software projects a tool based approach is inevitable to understand involved OSS
+  - Modern software building environments have defined dependencies
+  - During compilation, dependencies can be captured to understand used dependencies
+  - License compliance integrated into the Dev Ops tooling implements automation
+  - Reporting as part of Dev Ops tooling reduces manual efforts
+  - Enables short release cycles in an agile environment
+
+# --------------------
+
+Dev Ops Integration: Technical
+
+- Integration into Dev Ops tooling requires customization 
+  - Building software depends on used technology as well as individually setup tooling
+  - Today, building environments sometimes contain already metadata about licensing of involved OSS software
+  - Identified software elements may require additional checks to determine actual licensing information 
+  (in case of heterogeneous licensing)
+
+# --------------------
+
+Component Catalogue: Introduction
+
+- Purpose: 
+Collect information about used software components and their use in products 
+or projects is centrally collected and can be reused
+  
+- Problem: 
+Once analyzed component with respect to license compliance shall not require repeated analyses, 
+but reuse of information shall be possible
+
+- Component catalogue: 
+  - Maps component usage in products or projects
+  - Makes sense if an organization has actually multiple products
+  - Shows organization the important software components
+  - Allows for a comprehensive overview about involved licensing per product
+
+# --------------------
+
+Component Catalogue: Technical
+
+- A component catalogue can be viewed as a portal/database holding the catalogue information
+
+- Another use case is archiving OSS distributions / source code 
+  - Storing also multiple other files, for example license analysis reports, SPDX files
+  
+- Provides reporting output, for example OSS product documentation 
+
+- Also integration in Dev Ops tooling is useful to automatically create BOM of products
+
+# --------------------
+
+** Working through the FOSS Review
+
+The FOSS Review process crosses disciplines, including engineering, business, and legal teams. It
+should be interactive to ensure all those groups correctly understand the issues and can create
+clear, shared guidance.
+
+# --------------------
+
+FOSS Review Oversight
+
+The FOSS Review process should have executive oversight to resolve disagreements and approve
+the most important decisions.
+
+# --------------------
+
+** Check Your Understanding
+
+- What is the purpose of a FOSS Review?
+
+- What is the first action you should take if you want to use FOSS components?
+
+- What should you do if you have a question about using FOSS?
+
+- What kinds of information might you collect for a FOSS review?
+
+- What information helps identify who is licensing the software? 
+
+- What additional information is important when reviewing a FOSS component
+  from an outside vendor?
+
+- What steps can be taken to assess the quality of information collected in a
+  FOSS Review?
+
+# --------------------

@@ -1,0 +1,5 @@
+slides/openchain-curriculum-for-1-2-eight-chapter.pptx
+slides/openchain-curriculum-for-1-1.pptx
+practices/recommendedengineeringpractices.docx
+practices/recommendedcompliancepractices.docx
+checklists/Checklists.docx
