@@ -1,0 +1,26 @@
+These are the build instructions to rebuild the open source components for XXX.
+
+Please note: rebuilding the source code and reinstalling the resulting programs onto the device are not supported by our technical support department! Installing modified software will void warranty!
+
+The instructions below have been tested on XXX. Other Linux distributions have not been tested.
+
+To rebuild the software you will need to follow the following steps:
+
+1. install a (virtual) machine with XXX, with at least XX GiB of free disk space available
+
+2. install the following packages:
+   * XXX
+   * XXX
+   * XXX
+   * XXX
+   * XXX
+
+3. create a directory XXX and unpack the archive XXX to this directory.
+
+4. type the following commands to start the build:
+
+XXX
+XXX
+XXX
+
+5. after the build you will be able to find the built binaries in XXX
