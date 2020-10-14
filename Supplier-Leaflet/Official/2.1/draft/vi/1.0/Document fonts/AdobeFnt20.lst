@@ -1,0 +1,107 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Light
+FamilyName:Avenir Next W1G
+StyleName:Light
+FullName:Avenir Next W1G Light
+MenuName:Avenir Next W1G Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Document fonts\AvenirNextW1G-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104060
+FileModTime:1575972885
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir Next W1G Light
+NameArray:0,Win,1,Avenir Next W1G Light
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Medium
+FamilyName:Avenir Next W1G
+StyleName:Medium
+FullName:Avenir Next W1G Medium
+MenuName:Avenir Next W1G Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Document fonts\AvenirNextW1G-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115424
+FileModTime:1575972885
+WeightClass:450
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir Next W1G Medium
+NameArray:0,Win,1,Avenir Next W1G Medium
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Regular
+FamilyName:Avenir Next W1G
+StyleName:Regular
+FullName:Avenir Next W1G Regular
+MenuName:Avenir Next W1G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Document fonts\AvenirNextW1G-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114588
+FileModTime:1575972885
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next W1G
+NameArray:0,Mac,4,Avenir Next W1G Regular
+NameArray:0,Win,1,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Thin
+FamilyName:Avenir Next W1G
+StyleName:Thin
+FullName:Avenir Next W1G Thin
+MenuName:Avenir Next W1G Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Document fonts\AvenirNextW1G-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103180
+FileModTime:1575972885
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir Next W1G Thin
+NameArray:0,Win,1,Avenir Next W1G Thin
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+

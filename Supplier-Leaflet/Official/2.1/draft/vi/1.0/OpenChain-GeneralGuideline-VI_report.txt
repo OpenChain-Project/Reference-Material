@@ -1,0 +1,163 @@
+Adobe InDesign Package Report
+
+PUBLICATION NAME: OpenChain-GeneralGuideline-VI.indd
+
+PACKAGE DATE: 12/13/2019 4:58 PM
+Creation Date: 12/10/2019
+Modification Date: 12/13/2019
+SUMMARY
+
+(Show Data for Hidden and Non-Printing Layers)
+
+Fonts: 5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Links and Images: 8 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 5 use RGB color space
+
+Colors and Inks: 4 Process Inks; 0 Spot Inks
+CMS is ON
+
+
+
+External Plug-ins 0
+
+
+
+Non Opaque Objects :On PagePB, 8
+
+
+
+
+FONTS
+
+(Show Problems Only)
+5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+
+
+
+LINKS AND IMAGES
+
+Links and Images: 8 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 5 use RGB color space
+
+- Name: File..jpeg; Type: JPEG RGB; Status: Linked
+Filename: File..jpeg
+Link Updated: Friday, December 13, 2019 10:47 AM
+File Last Modified:  
+Actual ppi: 300x300   Effective ppi: 1095x1095
+Layer Overrides: N/A
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\File..jpeg
+Link Profile:   None
+On Page 4
+
+- Name: Idee.jpeg; Type: JPEG RGB; Status: Linked
+Filename: Idee.jpeg
+Link Updated: Friday, December 13, 2019 10:47 AM
+File Last Modified:  
+Actual ppi: 300x300   Effective ppi: 1727x1727
+Layer Overrides: N/A
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\Idee.jpeg
+Link Profile:   None
+On Page 1
+
+- Name: OpenChain_Logo_Pantone_CMYK.ai; Type: Adobe Portable Document Format (PDF); Status: Linked
+Filename: OpenChain_Logo_Pantone_CMYK.ai
+Link Updated: Friday, December 13, 2019 10:47 AM
+File Last Modified:  
+Actual ppi:    Effective ppi: 
+Layer Overrides: No
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\OpenChain_Logo_Pantone_CMYK.ai
+Link Profile:   None
+On Page 1
+
+- Name: Wide cropped image of the outline of a businessman stopping the domino.jpeg; Type: JPEG RGB; Status: Linked
+Filename: Wide cropped image of the outline of a businessman stopping the domino.jpeg
+Link Updated: Friday, December 13, 2019 11:23 AM
+File Last Modified:  
+Actual ppi: 300x300   Effective ppi: 577x577
+Layer Overrides: N/A
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\en\Links\Wide cropped image of the outline of a businessman stopping the domino.jpeg
+Link Profile:   None
+On Page 6
+
+- Name: cc-zero.ai; Type: Adobe Portable Document Format (PDF); Status: Linked
+Filename: cc-zero.ai
+Link Updated: Friday, December 13, 2019 10:47 AM
+File Last Modified:  
+Actual ppi:    Effective ppi: 
+Layer Overrides: No
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\cc-zero.ai
+Link Profile:   None
+On Page 14
+
+- Name: long-logo_CMYK.ai; Type: Adobe Portable Document Format (PDF); Status: Linked
+Filename: long-logo_CMYK.ai
+Link Updated: Friday, December 13, 2019 10:47 AM
+File Last Modified:  
+Actual ppi:    Effective ppi: 
+Layer Overrides: No
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\long-logo_CMYK.ai
+Link Profile:   None
+On Page 14
+
+- Name: old paper.jpeg; Type: JPEG RGB; Status: Linked
+Filename: old paper.jpeg
+Link Updated: Thursday, December 12, 2019 3:00 PM
+File Last Modified:  
+Actual ppi: 300x300   Effective ppi: 1693x1693
+Layer Overrides: N/A
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\old paper.jpeg
+Link Profile:   None
+On Page 10
+
+- Name: van-de-ve-chuoi-cung-ung.ai; Type: Portable Network Graphics (PNG) RGB; Status: Linked
+Filename: van-de-ve-chuoi-cung-ung.ai
+Link Updated: Friday, December 13, 2019 1:46 PM
+File Last Modified:  
+Actual ppi: 96x96   Effective ppi: 108x108
+Layer Overrides: N/A
+Complete Name: C:\Users\hieupv\Desktop\curriculum\supplier-leaflet\vi\Links\van-de-ve-chuoi-cung-ung.ai
+Link Profile:   None
+On Page 8
+
+
+
+
+COLORS AND INKS
+
+
+
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+
+PRINT SETTINGS
+
+PPD: FX DocuPrint C3360 v3017.104 PS H2, (DocuPrint C3360)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: Yes
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: Crops, Bleeds, Registration
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 297.039 mm x 420.158 mm
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
