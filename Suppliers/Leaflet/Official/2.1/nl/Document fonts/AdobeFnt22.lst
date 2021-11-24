@@ -1,0 +1,324 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-Bold
+FamilyName:A-OTF Shin Go Pro
+StyleName:B
+FullName:A-OTF Shin Go Pro B
+MenuName:A-OTF Shin Go Pro B
+StyleBits:2
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:B
+FullNameNative:A-OTF 新ゴ Pro B
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProBold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3321632
+FileModTime:1615126345
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro B
+NameArray:1,Mac,4,A-OTF 新ゴ Pro B
+NameArray:0,Win,1,A-OTF Shin Go Pro B
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro B
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-DeBold
+FamilyName:A-OTF Shin Go Pro
+StyleName:DB
+FullName:A-OTF Shin Go Pro DB
+MenuName:A-OTF Shin Go Pro DB
+StyleBits:2
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:DB
+FullNameNative:A-OTF 新ゴ Pro DB
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProDeBold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3229128
+FileModTime:1615126345
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro DB
+NameArray:1,Mac,4,A-OTF 新ゴ Pro DB
+NameArray:0,Win,1,A-OTF Shin Go Pro DB
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro DB
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-ExLight
+FamilyName:A-OTF Shin Go Pro
+StyleName:EL
+FullName:A-OTF Shin Go Pro EL
+MenuName:A-OTF Shin Go Pro EL
+StyleBits:0
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:EL
+FullNameNative:A-OTF 新ゴ Pro EL
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProExLight.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3101804
+FileModTime:1615126345
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro EL
+NameArray:1,Mac,4,A-OTF 新ゴ Pro EL
+NameArray:0,Win,1,A-OTF Shin Go Pro EL
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro EL
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-Heavy
+FamilyName:A-OTF Shin Go Pro
+StyleName:H
+FullName:A-OTF Shin Go Pro H
+MenuName:A-OTF Shin Go Pro H
+StyleBits:2
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:H
+FullNameNative:A-OTF 新ゴ Pro H
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProHeavy.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3388548
+FileModTime:1615126345
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro H
+NameArray:1,Mac,4,A-OTF 新ゴ Pro H
+NameArray:0,Win,1,A-OTF Shin Go Pro H
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro H
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-Light
+FamilyName:A-OTF Shin Go Pro
+StyleName:L
+FullName:A-OTF Shin Go Pro L
+MenuName:A-OTF Shin Go Pro L
+StyleBits:0
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:L
+FullNameNative:A-OTF 新ゴ Pro L
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProLight.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3092508
+FileModTime:1615126345
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro L
+NameArray:1,Mac,4,A-OTF 新ゴ Pro L
+NameArray:0,Win,1,A-OTF Shin Go Pro L
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro L
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-Medium
+FamilyName:A-OTF Shin Go Pro
+StyleName:M
+FullName:A-OTF Shin Go Pro M
+MenuName:A-OTF Shin Go Pro M
+StyleBits:2
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:M
+FullNameNative:A-OTF 新ゴ Pro M
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProMedium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3113576
+FileModTime:1615126345
+WeightClass:505
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro M
+NameArray:1,Mac,4,A-OTF 新ゴ Pro M
+NameArray:0,Win,1,A-OTF Shin Go Pro M
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro M
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:ShinGoPro-Regular
+FamilyName:A-OTF Shin Go Pro
+StyleName:R
+FullName:A-OTF Shin Go Pro R
+MenuName:A-OTF Shin Go Pro R
+StyleBits:0
+FamilyNameNative:A-OTF 新ゴ Pro
+StyleNameNative:R
+FullNameNative:A-OTF 新ゴ Pro R
+WritingScript:Japanese
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AOTFShinGoProRegular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:3106280
+FileModTime:1615126345
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,A-OTF Shin Go Pro R
+NameArray:1,Mac,4,A-OTF 新ゴ Pro R
+NameArray:0,Win,1,A-OTF Shin Go Pro R
+NameArray:0,Win,16,A-OTF Shin Go Pro
+NameArray:1,Win,1,A-OTF 新ゴ Pro R
+NameArray:1,Win,16,A-OTF 新ゴ Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Light
+FamilyName:Avenir Next W1G
+StyleName:Light
+FullName:Avenir Next W1G Light
+MenuName:Avenir Next W1G Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AvenirNextW1G-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:104060
+FileModTime:1615015753
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir Next W1G Light
+NameArray:0,Win,1,Avenir Next W1G Light
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Medium
+FamilyName:Avenir Next W1G
+StyleName:Medium
+FullName:Avenir Next W1G Medium
+MenuName:Avenir Next W1G Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AvenirNextW1G-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115424
+FileModTime:1615015753
+WeightClass:450
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir Next W1G Medium
+NameArray:0,Win,1,Avenir Next W1G Medium
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Regular
+FamilyName:Avenir Next W1G
+StyleName:Regular
+FullName:Avenir Next W1G Regular
+MenuName:Avenir Next W1G
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AvenirNextW1G-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114588
+FileModTime:1615015753
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Avenir Next W1G
+NameArray:0,Mac,4,Avenir Next W1G Regular
+NameArray:0,Win,1,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Thin
+FamilyName:Avenir Next W1G
+StyleName:Thin
+FullName:Avenir Next W1G Thin
+MenuName:Avenir Next W1G Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\ziert\Documents\GitHub\Reference-Material\Suppliers\Leaflet\Official\2.1\nl\Document fonts\AvenirNextW1G-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:103180
+FileModTime:1615015753
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Avenir Next W1G Thin
+NameArray:0,Win,1,Avenir Next W1G Thin
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
