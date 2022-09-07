@@ -35,7 +35,7 @@ If you convert one of these documents to MarkDown, please open a Pull Request to
 Now you can help with updating the documentation! The process is the same. Update the MarkDown and submit a pull request.
 
 There is a small learning curve to take part in this new drive. However, it is quick, easy and free to get a graphical editor for MarkDown. Download it here:
-<https://panwriter.com>
+<https://panwriter.com>. Of course, this is only one of the tools that you can use, as MarkDown is supported by many editors.
 
 Then download background tools for MarkDown:
 <https://pandoc.org/installing.html>
