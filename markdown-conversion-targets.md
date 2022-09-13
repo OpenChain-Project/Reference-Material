@@ -4,7 +4,6 @@ Our Reference Library is here:
 
 Documents to convert:
 
-* Self-certification questionnaire: <https://github.com/OpenChain-Project/Reference-Material/blob/master/Self-Certification-Questionnaire/Official/2.1/en/OpenChain%20Self-Certification%20Questionnaire%202021-11-26.docx>
 * Conformance checklist:
 <https://github.com/OpenChain-Project/Reference-Material/blob/master/Checklists/Official/Conformance-Checklist/2.0/en/Conformance-Compliance-Checklist.docx>
 
