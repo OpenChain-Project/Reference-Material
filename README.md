@@ -16,9 +16,8 @@ There is an online tool to convert Word documents to MarkDown, which is the firs
 Our Reference Library is here:
 <https://github.com/OpenChain-Project/Reference-Material>
 
-It contains a lot of documents. If you are looking for suggestions on documents to convert first, please see markdown-conversion-targets.md
-<https://github.com/OpenChain-Project/Reference-Material/markdown-conversion-targets.md>
-
+It contains a lot of documents. If you are looking for suggestions on documents to convert first, please see:
+https://github.com/OpenChain-Project/Reference-Material/blob/master/markdown-conversion-targets.md
 
 If you convert one of these documents to MarkDown, please open a Pull Request to submit the updated document. If you need help with that, please ask our education work group at this mailing list:
 <https://lists.openchainproject.org/g/education/messages>
