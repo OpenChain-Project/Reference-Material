@@ -74,7 +74,7 @@ To define a core set of requirements a Open Source compliance program should sat
 You can find it on the OpenChain Specification page:
 https://www.openchainproject.org/get-started/conformance
 
-### Does a FOSS program need to satisfy all the requirements of the specification to be considered OpenChain Conforming?
+### Does an open source program need to satisfy all the requirements of the specification to be considered OpenChain Conforming?
 
 Yes. The specification was designed to provide a core set of requirements to ensure a certain level of program quality has been achieved. In order to ensure there are no significant gaps in an OpenChain conforming program that could lead to poor quality output, a program must satisfy all the requirements to be considered OpenChain conforming.
 
@@ -98,11 +98,11 @@ No. The main objective of the specification provides a set of requirements that 
 
 The Linux Foundation OpenChain Working Groups functions like an open source project by obtaining input from dozens of individuals, companies and organizations that have experiences preparing for and/or exchanging software in the software supply chain. There are no specific requirements for participating. The working group identified 6 main categories of a compliance program and then had contributors identify important tasks and deliverable for each category. The six categories were:
 
-* Know Your Free and Open Source (FOSS) Responsibilities [i.e., “Policy and Training”]
+* Know Your Open Source Responsibilities [i.e., “Policy and Training”]
 * Assign Responsibility for Achieving Compliance
-* Deliver FOSS Content Documentation and Artifacts
-* Review and approve FOSS content
-* Understand FOSS Community Engagement
+* Deliver Open Source Content Documentation and Artifacts
+* Review and approve Open Source content
+* Understand Open Source Community Engagement
 * Certify Adherence to OpenChain Requirements
 
 A number of reference documents were prepared and used as important sources of input into identifying core requirements of a quality compliance program. Several of those documents include:
@@ -111,7 +111,7 @@ https://etherpad.wikimedia.org/p/openchain-proposal1
 http://etherpad.wikimedia.org/p/openchain
 The Supplier License Compliance Audit (SLCA)
 
-### Does the specification describe how to comply with the most popular FOSS licenses?
+### Does the specification describe how to comply with the most popular open source licenses?
 
 No. The OpenChain Specification is simply structured to provide a list of requirements where each requirement maintains a set of acceptance criteria (Verification Artifacts). Each requirement is a description of an important quality a Open Source program must maintain. The Verification Artifacts for a requirement represent a list of tangible artifacts that must exist in order for one to determine the specific requirement has been met. Although artifacts must exist, one is not required to make them public. The key goal of the specification is to foster trust around Open Source compliance between two parties exchanging software. Although currently an audit by a third party is not a requirement of the OpenChain specification, a partner or customer may ask for evidence of the Verification Artifacts as a condition for doing business (e.g., under an Non-Disclosure agreement). That is, the obligation to provide evidence of the existence of the artifacts, and the willingness to do so, is determined by the relationship entered into by two parties. It has been discussed that a future version of the specification may provide more specific guidelines on how to obtain third party certification.
 
