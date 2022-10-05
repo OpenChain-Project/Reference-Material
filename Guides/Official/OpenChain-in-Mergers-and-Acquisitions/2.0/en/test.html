@@ -1,0 +1,1608 @@
+<!DOCTYPE html>
+<!--
+==============================================================================
+           "GitHub HTML5 Pandoc Template" v2.1 — by Tristano Ajmone           
+==============================================================================
+Copyright © Tristano Ajmone, 2017, MIT License (MIT). Project's home:
+
+- https://github.com/tajmone/pandoc-goodies
+
+The CSS in this template reuses source code taken from the following projects:
+
+- GitHub Markdown CSS: Copyright © Sindre Sorhus, MIT License (MIT):
+  https://github.com/sindresorhus/github-markdown-css
+
+- Primer CSS: Copyright © 2016-2017 GitHub Inc., MIT License (MIT):
+  http://primercss.io/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The MIT License 
+
+Copyright (c) Tristano Ajmone, 2017 (github.com/tajmone/pandoc-goodies)
+Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+Copyright (c) 2017 GitHub Inc.
+
+"GitHub Pandoc HTML5 Template" is Copyright (c) Tristano Ajmone, 2017, released
+under the MIT License (MIT); it contains readaptations of substantial portions
+of the following third party softwares:
+
+(1) "GitHub Markdown CSS", Copyright (c) Sindre Sorhus, MIT License (MIT).
+(2) "Primer CSS", Copyright (c) 2016 GitHub Inc., MIT License (MIT).
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+==============================================================================-->
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Ibrahim Haddad, Ph.D." />
+  <title>A Contribution to the OpenChain Project</title>
+  <style type="text/css">
+@charset "UTF-8";.markdown-body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#24292e;font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";font-size:16px;line-height:1.5;word-wrap:break-word;box-sizing:border-box;min-width:200px;max-width:980px;margin:0 auto;padding:45px}.markdown-body a{color:#0366d6;background-color:transparent;text-decoration:none;-webkit-text-decoration-skip:objects}.markdown-body a:active,.markdown-body a:hover{outline-width:0}.markdown-body a:hover{text-decoration:underline}.markdown-body a:not([href]){color:inherit;text-decoration:none}.markdown-body strong{font-weight:600}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{margin-top:24px;margin-bottom:16px;font-weight:600;line-height:1.25}.markdown-body h1{font-size:2em;margin:.67em 0;padding-bottom:.3em;border-bottom:1px solid #eaecef}.markdown-body h2{padding-bottom:.3em;font-size:1.5em;border-bottom:1px solid #eaecef}.markdown-body h3{font-size:1.25em}.markdown-body h4{font-size:1em}.markdown-body h5{font-size:.875em}.markdown-body h6{font-size:.85em;color:#6a737d}.markdown-body img{border-style:none}.markdown-body svg:not(:root){overflow:hidden}.markdown-body hr{box-sizing:content-box;height:.25em;margin:24px 0;padding:0;overflow:hidden;background-color:#e1e4e8;border:0}.markdown-body hr::before{display:table;content:""}.markdown-body hr::after{display:table;clear:both;content:""}.markdown-body input{margin:0;overflow:visible;font:inherit;font-family:inherit;font-size:inherit;line-height:inherit}.markdown-body [type=checkbox]{box-sizing:border-box;padding:0}.markdown-body *{box-sizing:border-box}.markdown-body blockquote{margin:0}.markdown-body ol,.markdown-body ul{padding-left:2em}.markdown-body ol ol,.markdown-body ul ol{list-style-type:lower-roman}.markdown-body ol ol,.markdown-body ol ul,.markdown-body ul ol,.markdown-body ul ul{margin-top:0;margin-bottom:0}.markdown-body ol ol ol,.markdown-body ol ul ol,.markdown-body ul ol ol,.markdown-body ul ul ol{list-style-type:lower-alpha}.markdown-body li>p{margin-top:16px}.markdown-body li+li{margin-top:.25em}.markdown-body dd{margin-left:0}.markdown-body dl{padding:0}.markdown-body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:600}.markdown-body dl dd{padding:0 16px;margin-bottom:16px}.markdown-body code{font-family:SFMono-Regular,Consolas,"Liberation Mono",Menlo,Courier,monospace}.markdown-body pre{font:12px SFMono-Regular,Consolas,"Liberation Mono",Menlo,Courier,monospace;word-wrap:normal}.markdown-body blockquote,.markdown-body dl,.markdown-body ol,.markdown-body p,.markdown-body pre,.markdown-body table,.markdown-body ul{margin-top:0;margin-bottom:16px}.markdown-body blockquote{padding:0 1em;color:#6a737d;border-left:.25em solid #dfe2e5}.markdown-body blockquote>:first-child{margin-top:0}.markdown-body blockquote>:last-child{margin-bottom:0}.markdown-body table{display:block;width:100%;overflow:auto;border-spacing:0;border-collapse:collapse}.markdown-body table th{font-weight:600}.markdown-body table td,.markdown-body table th{padding:6px 13px;border:1px solid #dfe2e5}.markdown-body table tr{background-color:#fff;border-top:1px solid #c6cbd1}.markdown-body table tr:nth-child(2n){background-color:#f6f8fa}.markdown-body img{max-width:100%;box-sizing:content-box;background-color:#fff}.markdown-body code{padding:.2em 0;margin:0;font-size:85%;background-color:rgba(27,31,35,.05);border-radius:3px}.markdown-body code::after,.markdown-body code::before{letter-spacing:-.2em;content:" "}.markdown-body pre>code{padding:0;margin:0;font-size:100%;word-break:normal;white-space:pre;background:0 0;border:0}.markdown-body .highlight{margin-bottom:16px}.markdown-body .highlight pre{margin-bottom:0;word-break:normal}.markdown-body .highlight pre,.markdown-body pre{padding:16px;overflow:auto;font-size:85%;line-height:1.45;background-color:#f6f8fa;border-radius:3px}.markdown-body pre code{display:inline;max-width:auto;padding:0;margin:0;overflow:visible;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}.markdown-body pre code::after,.markdown-body pre code::before{content:normal}.markdown-body .full-commit .btn-outline:not(:disabled):hover{color:#005cc5;border-color:#005cc5}.markdown-body kbd{box-shadow:inset 0 -1px 0 #959da5;display:inline-block;padding:3px 5px;font:11px/10px SFMono-Regular,Consolas,"Liberation Mono",Menlo,Courier,monospace;color:#444d56;vertical-align:middle;background-color:#fcfcfc;border:1px solid #c6cbd1;border-bottom-color:#959da5;border-radius:3px;box-shadow:inset 0 -1px 0 #959da5}.markdown-body :checked+.radio-label{position:relative;z-index:1;border-color:#0366d6}.markdown-body .task-list-item{list-style-type:none}.markdown-body .task-list-item+.task-list-item{margin-top:3px}.markdown-body .task-list-item input{margin:0 .2em .25em -1.6em;vertical-align:middle}.markdown-body::before{display:table;content:""}.markdown-body::after{display:table;clear:both;content:""}.markdown-body>:first-child{margin-top:0!important}.markdown-body>:last-child{margin-bottom:0!important}.Alert,.Error,.Note,.Success,.Warning{padding:11px;margin-bottom:24px;border-style:solid;border-width:1px;border-radius:4px}.Alert p,.Error p,.Note p,.Success p,.Warning p{margin-top:0}.Alert p:last-child,.Error p:last-child,.Note p:last-child,.Success p:last-child,.Warning p:last-child{margin-bottom:0}.Alert{color:#246;background-color:#e2eef9;border-color:#bac6d3}.Warning{color:#4c4a42;background-color:#fff9ea;border-color:#dfd8c2}.Error{color:#911;background-color:#fcdede;border-color:#d2b2b2}.Success{color:#22662c;background-color:#e2f9e5;border-color:#bad3be}.Note{color:#2f363d;background-color:#f6f8fa;border-color:#d5d8da}.Alert h1,.Alert h2,.Alert h3,.Alert h4,.Alert h5,.Alert h6{color:#246;margin-bottom:0}.Warning h1,.Warning h2,.Warning h3,.Warning h4,.Warning h5,.Warning h6{color:#4c4a42;margin-bottom:0}.Error h1,.Error h2,.Error h3,.Error h4,.Error h5,.Error h6{color:#911;margin-bottom:0}.Success h1,.Success h2,.Success h3,.Success h4,.Success h5,.Success h6{color:#22662c;margin-bottom:0}.Note h1,.Note h2,.Note h3,.Note h4,.Note h5,.Note h6{color:#2f363d;margin-bottom:0}.Alert h1:first-child,.Alert h2:first-child,.Alert h3:first-child,.Alert h4:first-child,.Alert h5:first-child,.Alert h6:first-child,.Error h1:first-child,.Error h2:first-child,.Error h3:first-child,.Error h4:first-child,.Error h5:first-child,.Error h6:first-child,.Note h1:first-child,.Note h2:first-child,.Note h3:first-child,.Note h4:first-child,.Note h5:first-child,.Note h6:first-child,.Success h1:first-child,.Success h2:first-child,.Success h3:first-child,.Success h4:first-child,.Success h5:first-child,.Success h6:first-child,.Warning h1:first-child,.Warning h2:first-child,.Warning h3:first-child,.Warning h4:first-child,.Warning h5:first-child,.Warning h6:first-child{margin-top:0}h1.title,p.subtitle{text-align:center}h1.title.followed-by-subtitle{margin-bottom:0}p.subtitle{font-size:1.5em;font-weight:600;line-height:1.25;margin-top:0;margin-bottom:16px;padding-bottom:.3em}div.line-block{white-space:pre-line}
+  </style>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<article class="markdown-body">
+<header>
+<h1 class="title">A Contribution to the OpenChain Project</h1>
+<p class="author">Ibrahim Haddad, Ph.D.</p>
+</header>
+<p><strong>A Contribution to the OpenChain Project</strong></p>
+<p>Ibrahim Haddad, Ph.D.</p>
+<h1 id="introduction">Introduction</h1>
+<p>We live in an era defined by software. Nearly everything we do on a daily basis is in some way planned, shaped, analyzed and managed by software. Under that large software umbrella, open source software is king. Companies across all industries are racing to use, participate in, and contribute to open source projects for the various advantages they offer, from the ability to leverage external engineering resources that accelerate time to market, to enabling faster innovation, and gaining additional capacity to focus on differentiating value.</p>
+<p>Marc Andreessen’s saying that “software is eating the world” also applies to corporate transactions, as almost any acquisition will involve software in some form regardless of whether the target company is a technology company. The software due diligence exercise, in which the acquirer performs a comprehensive review of the target company’s software and its compliance practices, is a standard part of any merger or acquisition transaction. This exercise often uncovers open source software, which presents different verification challenges than proprietary software.</p>
+<p>This open source merger and acquisition (M&amp;A) assessment checklist is intended as a tool to help evaluate the open source practices of an organization as part of the due diligence process. The use of the checklist calls for a frank appraisal of the open source program’s strengths and weaknesses. The checklist presents a set of recommended practices distilled from the experiences of organizations committed to encouraging the use of open source while fully complying with license obligations, in addition to contributing to open source projects while following company policies and processes.</p>
+<p>Not every organization will see a need to implement every practice and some will find alternative practices or implementation approaches to achieve the goals of a compliance program and more broadly an open source program office. Appropriately, an organization will adapt its compliance approach based upon the nature and amount of the open source it uses, the licenses that apply to open source it uses, the kinds of products it distributes, and the design of the product itself.</p>
+<h1 id="evaluation-categories">Evaluation Categories</h1>
+<p>The checklist explores 13 specific areas to evaluate:</p>
+<ol type="1">
+<li><p>Discovery of open source software in code bases</p></li>
+<li><p>Review and approval of open source use</p></li>
+<li><p>Satisfaction of open source license obligations</p></li>
+<li><p>Overseeing community contribution to open source projects</p></li>
+<li><p>Process adherence audits</p></li>
+<li><p>Open source policy</p></li>
+<li><p>Appropriate staffing for compliance execution</p></li>
+<li><p>Adaptation of business processes to accommodate open source specific &gt; requirements</p></li>
+<li><p>Training</p></li>
+<li><p>Verification practices</p></li>
+<li><p>Compliance process management</p></li>
+<li><p>Maintaining inventory of open source software</p></li>
+<li><p>Automation and tool support for large scale use, consumption, and &gt; compliance</p></li>
+</ol>
+<p>The remainder of this paper is dedicated to exploring these 13 different categories and various elements within each category.</p>
+<p><img src="./media/image13.png" style="width:6.5in;height:4.30556in" /></p>
+<h2 id="discovery-of-open-source-software">1. Discovery of Open Source Software</h2>
+<p><img src="./media/image1.png" style="width:1.00521in;height:1.00521in" /></p>
+<p><strong><em>“Discovery” concerns itself with identifying the third party software, including open source software in a code base readied for release as a product or a service.</em></strong></p>
+<ul>
+<li><p>Open source software discovery occurs at an early point in the &gt; product development cycle.</p></li>
+<li><p>The product team systematically identifies all the software and &gt; additional materials that must be subjected to compliance &gt; analysis.</p></li>
+<li><p>Third party suppliers disclose all open source software in their &gt; deliverables.</p>
+<ul>
+<li><p>The organization has a defined format for the disclosure.</p></li>
+<li><p>The open source compliance team reviews the disclosure for &gt; accuracy and completeness using whatever tools are available &gt; to it.</p></li>
+</ul></li>
+<li><p>The organization investigates the third party supplier’s use of open &gt; source software and its open source compliance practices as part &gt; of its supplier selection process.</p>
+<ul>
+<li><p>The organization investigates the third party supplier’s &gt; compliance and supply chain management practices to evaluate &gt; their adequacy.</p></li>
+<li><p>The organization uses defined guidelines to determine if &gt; automated scanning or other confirmation of the supplier’s &gt; disclosure is needed.</p></li>
+<li><p>Software license agreements include appropriate terms and &gt; conditions concerning open source software.</p></li>
+<li><p>Procurement (i.e., Supply Chain) staff and others who interface &gt; with suppliers have been trained in open source software &gt; matters and include open source software concerns in their &gt; discussions with third party suppliers.</p></li>
+</ul></li>
+<li><p>The organization periodically conducts audits of open source &gt; software use.</p>
+<ul>
+<li><p>At an agreed-upon frequency, the organization conducts an &gt; audit/inventory of open source software used internally and &gt; records its findings.</p></li>
+<li><p>The organization audits and inventories the open source software &gt; included in its products and services.</p></li>
+<li><p>The organization identifies the conditions or events that &gt; trigger a fresh audit of the product’s source code or of the &gt; incremental changes to a code base whose open source &gt; compliance had previously been verified.</p></li>
+</ul></li>
+<li><p>A bill of materials is prepared to reflect the open source content &gt; of a specific product or service release.</p>
+<ul>
+<li><p>Code scans are used to prepare the bill of materials wherever &gt; source code is available.</p></li>
+<li><p>Supplier disclosures are used in cases where source code is not &gt; available.</p></li>
+</ul></li>
+<li><p>The organization uses a systematic approach to identify changes in &gt; the code baseline and to perform incremental compliance on changes &gt; in an efficient manner.</p></li>
+<li><p>The organization systematically achieves closure on issues arising &gt; from discovery activity.</p>
+<ul>
+<li><p>The organization systematically tracks open issues.</p></li>
+<li><p>The organization assigns adequate resources to achieve closure &gt; in a reasonable timeframe.</p></li>
+</ul></li>
+<li><p>The organization periodically reviews commercial and open source &gt; tools to assess the costs and benefits of their use in discovering &gt; open source software in code baselines.</p></li>
+</ul>
+<h2 id="review-and-approval-of-the-use-of-open-source-software">2. Review and Approval of the Use of Open Source Software</h2>
+<p><img src="./media/image12.png" style="width:0.97396in;height:0.97396in" /></p>
+<p><strong><em>“Review and Approval” evaluates the planned use of open source software in products for distribution and, if mandated by company policy, in internal projects.</em></strong></p>
+<ul>
+<li><p>The organization subjects all open source software used in products &gt; to review and defines what contextual changes in open source &gt; software use trigger re-approval activity.</p></li>
+<li><p>The organization considers issues relevant to the use of a specific &gt; open source software package and version, such as bug fixes the &gt; community has made in subsequent versions, security &gt; vulnerabilities that have been identified in a specific package &gt; version, technology incorporated into the package that might be &gt; subject to export control regulations, etc.</p></li>
+<li><p>An open source review board (OSRB) is used to review and approve &gt; planned uses of open source software in products or services.</p>
+<ul>
+<li><p>The OSRB is staffed with appropriately skilled and knowledgeable &gt; individuals.</p></li>
+<li><p>Appropriate resources are available for the interpretation of &gt; open source licenses and definition of obligations to be &gt; satisfied.</p></li>
+<li><p>Sufficient staffing is provided to the OSRB to achieve &gt; turnaround time on submissions that supports product &gt; development cycles.</p></li>
+<li><p>OSRB procedures (inputs to a review, participants, review &gt; procedures, analysis procedures, decision outcomes, appeal and &gt; waiver procedures, etc.) are defined and documented.</p></li>
+<li><p>The OSRB considers and provides architectural guidelines and/or &gt; requirements for OSS inclusion in products to be distributed.</p></li>
+<li><p>The OSRB uses independent analysis methods to confirm the open &gt; source software content reported by teams when they submit an &gt; open source software use case for approval.</p></li>
+<li><p>Records of OSRB deliberations are maintained (cases, status, &gt; past decisions, requirements imposed on product teams, etc.) &gt; and used in future deliberations.</p></li>
+<li><p>The OSRB decides whether to approve the proposed open source &gt; software use and identifies obligations that must be &gt; satisfied, if any, and conditions that must be met, if any, &gt; before product distribution is approved.</p></li>
+</ul></li>
+<li><p>The organization provides a definition and examples of the &gt; information that must be submitted to the OSRB for approval of &gt; open source software use.</p>
+<ul>
+<li>Proposed use of open source software includes a description of &gt; the architectural interfaces and dependencies between any open &gt; source components and the rest of the system.</li>
+</ul></li>
+<li><p>The OSRB communicates perspectives across business units to achieve &gt; a consistency of interpretation of license obligations and review &gt; practices.</p></li>
+</ul>
+<h2 id="obligation-satisfaction">3. Obligation Satisfaction</h2>
+<p><img src="./media/image3.png" style="width:0.96354in;height:0.96354in" /></p>
+<p><strong><em>“Obligation Satisfaction” covers compliance practices needed to satisfy the obligations of open source licenses.</em></strong></p>
+<ul>
+<li><p>The organization verifies that its third party suppliers provide all information that is necessary to satisfy open source license obligations when the product is distributed or service made available, such as copyright notices and attributions, license text, corresponding source code that must be made available, etc.</p></li>
+<li><p>The organization defines what modes of external software conveyance trigger license obligations and assures that any software thus released meets compliance requirements.</p></li>
+<li><p>The organization satisfies obligations in a consistent and disciplined manner.</p>
+<ul>
+<li><p>The organization makes available a repository of license texts and obligation requirements to assure consistent interpretation and compliance activities.</p></li>
+<li><p>The organization provides explicit examples of ways to satisfy obligations.</p></li>
+<li><p>Skilled and knowledgeable individuals write the open source relevant sections of product documentation and satisfy the other license requirements.</p></li>
+</ul></li>
+<li><p>The organization places the complete source code into a software repository corresponding exactly to each open source software package used in a given product release.</p>
+<ul>
+<li><p>Teams provide, as required by specific licenses, the complete source code, which may include any associated interface definition files, plus the scripts used to control compilation and installation of the executable.</p></li>
+<li><p>Verification activities are used to assure that corresponding source code for the open source software can be built outside the organization’s build environment and that the resultant binaries for the open source packages match the product binaries.</p></li>
+<li><p>Verification activities assure that any inappropriate comments have been removed from source code destined for publication.</p></li>
+<li><p>Verification activities assure that all open source software packages to be distributed have been approved by the OSRB.</p></li>
+</ul></li>
+<li><p>Source code reviews are used during the development phase to assure that open source software packages contain necessary and appropriate documentation of copyright, attribution, licensing, and change log information.</p></li>
+<li><p>Activities to assess and satisfy open source license obligations are planned and integrated into project schedules to assure that obligations are met in time for product release.</p></li>
+<li><p>A defined code distribution mechanism is used to respond to routine requests for source code distribution.</p>
+<ul>
+<li><p>The organization defines a code distribution mechanism that satisfies the requirements of particular open source licenses.</p></li>
+<li><p>A web portal or other face to the community is created to provide online access to source code used in company products and services.</p></li>
+<li><p>Responsibility for operating the portal is assigned and staffed appropriately.</p></li>
+<li><p>Procedures are established to assure that correct and complete versions of open source software are posted.</p></li>
+<li><p>The portal is organized in a clear and meaningful way to provide users easy access to products’ licensing information and, if appropriate, source code.</p></li>
+</ul></li>
+<li><p>Individuals or teams responsible for documentation and localization activities perform necessary tasks to assure that obligations are met.</p>
+<ul>
+<li><p>Support teams (e.g., supply chain, documentation, IT) are trained in open source fundamentals.</p></li>
+<li><p>Involvement of support functions is planned, scheduled, and performed in a timely manner.</p></li>
+</ul></li>
+<li><p>The organization responds to all external compliance requests in a timely manner.</p>
+<ul>
+<li><p>A compliance fulfillment process exists for satisfying routine requests.</p></li>
+<li><p>Metrics are routinely collected and reported on response time.</p></li>
+<li><p>A compliance inquiry response process exists.</p>
+<ul>
+<li><p>Response actions are given high priority and issues are escalated to an appropriate level of management.</p></li>
+<li><p>Appropriate oversight, review, and approval of compliance actions is provided.</p></li>
+<li><p>Modifications to the organization’s defined compliance process are made as appropriate to prevent recurrence of compliance issues.</p></li>
+</ul></li>
+<li><p>Compliance requests are tracked to closure.</p></li>
+<li><p>If determined to be necessary, efforts to re-write copyrighted code as proprietary software under cleanroom conditions are carried out according to a defined procedure.</p></li>
+</ul></li>
+</ul>
+<h2 id="community-contributions">4. Community Contributions</h2>
+<p><img src="./media/image11.png" style="width:0.96354in;height:0.96354in" /></p>
+<p><strong><em>“Community Contributions” involve the review and approval of employee contributions to open source projects, as well as company contributions of code and other resources to community projects.</em></strong></p>
+<ul>
+<li><p>Community contributions are reviewed and approved according to a defined process.</p></li>
+<li><p>A determination is made whether an employee’s proposed contribution is work-related or non-work-related based upon an existing guideline.</p>
+<ul>
+<li>The consequent scope of review and approval authority is determined.</li>
+</ul></li>
+<li><p>A process is used to determine whether any of the organization’s departments or business units object to the proposed contribution.</p></li>
+<li><p>Copyright ownership of the planned contribution is clarified.</p></li>
+<li><p>A process is used to initiate and plan company contributions of financial support, labor, code, or other intellectual property to community projects.</p></li>
+<li><p>Company contributions to open source communities are tracked (e.g. both individual contributions such as bug fixes as well as company- sponsored projects).</p></li>
+<li><p>A process is used to review and decide on “Contributor License Agreements”.</p></li>
+</ul>
+<h2 id="policy">5. Policy</h2>
+<p><img src="./media/image16.png" style="width:0.98438in;height:0.98438in" /></p>
+<p><strong><em>The “Policy” category addresses corporate policy to encourage the use of open source software while also protecting the company’s business interests.</em></strong></p>
+<ul>
+<li><p>A policy is set in place to enable the company to incorporate and use open source software in their products and services.</p></li>
+<li><p>The policy is championed by a senior executive and is communicated to the entire company.</p></li>
+<li><p>The policy addresses roles and responsibilities for compliance actions, a review and approval process for use of open source software, guidelines for contributions to community projects and a review and approval process for contributions, and core processes that must be implemented to govern use of open source software in company products and services.</p></li>
+<li><p>The management team endorses the policy and assures that all employees involved with open source understand and follow the policy.</p></li>
+</ul>
+<h2 id="compliance-staffing">6. Compliance Staffing</h2>
+<p><img src="./media/image8.png" style="width:0.89063in;height:0.89063in" /></p>
+<p><strong><em>The “Compliance Staffing” category focuses on the skilled resources needed to implement the open source compliance program.</em></strong></p>
+<ul>
+<li><p>Skilled and knowledgeable individuals are made available to contribute to the compliance effort.</p></li>
+<li><p>Dedicated assignments to the compliance function provide continuity of involvement and accumulation of expertise.</p></li>
+<li><p>Job descriptions identify the skills and insights needed to perform compliance functions adequately.</p></li>
+<li><p>The organization identifies individuals with the skills, insights, and interest needed to contribute to the compliance function.</p></li>
+<li><p>Compliance contributors are drawn from cross-functional departments, as needed.</p></li>
+<li><p>Training and experiential learning opportunities are provided to build necessary skillsets.</p>
+<ul>
+<li>Individuals performing compliance functions in different business units are encouraged to communicate and share expertise and perspectives to achieve a consistent compliance approach.</li>
+</ul></li>
+<li><p>External consultants are hired, as needed, to augment the internal compliance effort.</p></li>
+<li><p>Estimates are prepared of total compliance effort and duration needed to fulfill the organization’s compliance requirements.</p></li>
+<li><p>Estimates of one-time and overhead activities are estimated and tracked.</p></li>
+<li><p>Estimates of product-related compliance activities are estimated and tracked from the perspective of both the organizational compliance team and the product team.</p></li>
+<li><p>A staffing plan is prepared and followed to provide a level of responsiveness and cycle time adequate for product release cycles.</p></li>
+<li><p>Progress is tracked against the organization’s and product team’s compliance plans and additional resources are added as needed to achieve compliance objectives.</p></li>
+</ul>
+<h4 id="section"></h4>
+<h2 id="adaptation-of-business-processes">7. Adaptation of Business Processes</h2>
+<p><img src="./media/image18.png" style="width:0.97917in;height:0.97917in" /></p>
+<p><strong><em>“Adaptation of Business Processes” focuses on fitting OSS compliance practices within the context of existing business processes.</em></strong></p>
+<ul>
+<li><p>Existing business processes are modified to incorporate open source compliance activities and considerations.</p>
+<ul>
+<li><p>Compliance activities are mapped against the organization’s product development process to identify leverage points.</p></li>
+<li><p>A process FMEA (failure mode effects analysis) is performed to identify ways that compliance failures could occur and the business processes that should be modified to prevent such failures.</p></li>
+</ul></li>
+<li><p>Supply chain’s supplier selection procedures are tailored to ensure that open source compliance requirements are considered when performing due diligence on suppliers.</p></li>
+<li><p>Process management ensures that open source compliance activities are included early enough in the product development cycle to enable the organization to meet its release timelines.</p></li>
+<li><p>Late-cycle verification steps are used to ensure that all compliance requirements have been met before external distribution occurs.</p></li>
+<li><p>Individuals charged with managing business processes have received training in open source compliance requirements and exhibit sufficient understanding and experience with open source compliance concerns.</p></li>
+</ul>
+<h2 id="training">8. Training</h2>
+<p><img src="./media/image4.png" style="width:0.97396in;height:0.97396in" /></p>
+<p><strong>“Training” addresses the communications needed to ensure that the entire company understands the actions that must be taken to achieve open source compliance.</strong></p>
+<ul>
+<li><p>Basic training on the organization’s open source policies, processes and guidelines is provided to all who come into contact with open source software or are involved in customer and supplier interactions and in product distribution activities.</p>
+<ul>
+<li><p>The organization defines who must take training.</p></li>
+<li><p>Training records are maintained.</p>
+<ul>
+<li><p>Training objectives are set.</p></li>
+<li><p>Follow-up actions are taken to assure planned training has been completed.</p></li>
+</ul></li>
+<li><p>Open source training is integrated into the organization’s training curriculum and is made part of organizational and personal objectives.</p></li>
+<li><p>Open source training is provided as part of new hire orientation.</p></li>
+</ul></li>
+<li><p>Additional training on open source related topics is provided to augment the basic curriculum for both managers and non-managers. Examples include organizational procedures, tools, open source licenses, software architectural guidelines, etc.</p></li>
+<li><p>Growth of an internal community of open source users and contributors is encouraged in order to provide organizational guidance and leadership with respect to the use of open source software in an ethical and compliant way.</p></li>
+<li><p>Refresher training on open source compliance is provided periodically.</p></li>
+</ul>
+<h2 id="compliance-process-management">9. Compliance Process Management</h2>
+<p><img src="./media/image10.png" style="width:1in;height:1in" /></p>
+<p><strong><em>“Compliance Process Management” focuses on establishing, maintaining, and improving the process of achieving open source compliance.</em></strong></p>
+<ul>
+<li><p>Responsibility for achieving organization-wide open source compliance is clearly designated.</p>
+<ul>
+<li><p>The designated compliance officer has access to the organization’s senior executives to escalate compliance issues whenever needed.</p></li>
+<li><p>The compliance support team has access to functional specialties to guide or perform compliance activities, such as OSRB, documentation production, IT, etc.</p></li>
+<li><p>An individual or team is designated as the organization’s point of contact to the external OSS community for compliance-related communications.</p></li>
+<li><p>An individual is established as a point of contact for employees to voice their concerns or questions.</p></li>
+</ul></li>
+<li><p>The team responsible for coordinating compliance activities has visibility into product development and product release plans and activities and is able to interface effectively with product teams.</p></li>
+<li><p>Project management fundamentals are applied to managing compliance projects and compliance team activities.</p>
+<ul>
+<li><p>Compliance goals and objectives are set.</p></li>
+<li><p>Compliance project priorities are set.</p></li>
+<li><p>Compliance effort is estimated.</p></li>
+<li><p>Compliance resources are assigned.</p></li>
+<li><p>Compliance projects are planned and scheduled, progress is tracked, and issues are escalated as needed.</p></li>
+</ul></li>
+<li><p>Metrics are defined and collected to assess the effectiveness of the organization’s open source use and its open source compliance activities.</p>
+<ul>
+<li><p>Corrective actions are taken to address process inadequacies.</p></li>
+<li><p>A process improvement plan is established for the compliance process.</p></li>
+</ul></li>
+<li><p>The organization engages in externally focused benchmarking activities to identify potential improvements to its compliance process.</p></li>
+<li><p>The organization maintains an awareness of community initiatives to address supply chain issues with respect to open source compliance.</p></li>
+</ul>
+<h2 id="open-source-software-inventory">10. Open Source Software Inventory</h2>
+<p><img src="./media/image14.png" style="width:0.95313in;height:0.95313in" /></p>
+<p><strong><em>“Open Source Software Inventory” addresses the organization’s need to maintain accurate records of open source software content and compliance activities to support responses to compliance inquiries and changes in the compliance environment.</em></strong></p>
+<ul>
+<li><p>The organization tracks progress of compliance activities for a product being readied for release.</p>
+<ul>
+<li><p>The organization tracks progress of the open source software discovery process and of scans and audits on the product’s code.</p></li>
+<li><p>The organization systematically tracks closure of open source issues identified during the discovery process.</p></li>
+<li><p>The organization tracks progress of the review and approval process for open source software cases.</p></li>
+<li><p>The organization tracks progress of obligation satisfaction for a product being readied for release.</p></li>
+</ul></li>
+<li><p>The organization maintains complete and accurate records about the open source content in its products and services, and the context in which it is used, according to a defined procedure.</p>
+<ul>
+<li><p>A defined format is used to record information about the open source software included.</p></li>
+<li><p>The OSRB maintains accurate records about its reviews and review outcomes, including any limitations or conditions on approval that might necessitate a different outcome in another context.</p></li>
+<li><p>The organization uses past records of open source software review and approval as an aid when reviewing new open source software cases for approval.</p></li>
+</ul></li>
+<li><p>The organization maintains complete and accurate records about open source software used internally for tools, operational systems, prototype development, etc.</p>
+<ul>
+<li>The organization reviews records of open source software internal use periodically to identify opportunities to save money, improve performance, and achieve operational synergies.</li>
+</ul></li>
+</ul>
+<h2 id="automation-and-tool-support">11. Automation and Tool Support</h2>
+<p><img src="./media/image15.png" style="width:0.95833in;height:0.95833in" /></p>
+<p><strong>“Automation and Tool Support” examines the organization’s use and consideration of tools to support its compliance activities.</strong></p>
+<ul>
+<li><p>The organization assesses its compliance process to identify and prioritize opportunities for automation and tool support.</p></li>
+<li><p>The organization regularly investigates commercial and open source tools that might provide assistance to compliance activities.</p>
+<ul>
+<li><p>A systematic approach to tool evaluation is taken.</p>
+<ul>
+<li><p>Tool requirements are documented.</p></li>
+<li><p>A tool evaluation plan is established and executed.</p></li>
+<li><p>Use cases and pilot projects are defined.</p></li>
+<li><p>Evaluation licenses are acquired or other mechanisms for experimenting with tools are used.</p></li>
+</ul></li>
+</ul></li>
+<li><p>Tool acquisition or tool development projects are planned and executed according to defined procedures for tool development and adoption.</p></li>
+<li><p>The organization engages in user group meetings and community forums related to compliance tools.</p></li>
+<li><p>Approved methods are used to determine the open source software content of a product/service release and the files that must be subjected to compliance analysis.</p></li>
+<li><p>Tools are used to track open source issues to closure.</p></li>
+<li><p>Approved methods are used to determine the differences in software content between individual releases of a product for distribution.</p></li>
+<li><p>An initial compliance baseline for a product is established with the aid of scanning tools, whenever it is advantageous to do so.</p></li>
+<li><p>A repository of open source software packages is maintained and made available to the organization.</p></li>
+</ul>
+<h2 id="verification">12. Verification</h2>
+<p><img src="./media/image5.png" style="width:0.97396in;height:0.97396in" /></p>
+<p><strong>“Verification” concerns the independent assurance steps taken by the OSS compliance team to confirm that OSS obligations have been properly met.</strong></p>
+<ul>
+<li><p>The compliance team performs verification activities according to a defined procedure.</p></li>
+<li><p>The compliance team verifies that source code license obligations have been met by the time a product is considered ready for release.</p>
+<ul>
+<li><p>The compliance team verifies that any offers of source code have been included as required.</p></li>
+<li><p>The compliance team verifies that source code is placed in a distribution staging area for each OSS package included in a product readied for release and that a satisfactory distribution mechanism exists for any source code that must be made available.</p></li>
+<li><p>The compliance team verifies that source code to be made available corresponds exactly to the binaries in the product.</p></li>
+<li><p>The compliance team verifies that source code can be built outside the organization’s build environment.</p></li>
+</ul></li>
+<li><p>The compliance team verifies that copyright notices, attribution notices, license text, and any modification logs have been included accurately.</p></li>
+<li><p>The compliance team verifies that OSRB approval has been obtained for all open source software packages in the release.</p></li>
+<li><p>The compliance team verifies that third party suppliers have made full and accurate disclosure of open source included in their deliverables and that these suppliers have satisfied their obligations under the open source licenses.</p></li>
+<li><p>The compliance team verifies that open source can be obtained via the defined distribution mechanism and that the source code thus obtained can be built in an independent environment.</p></li>
+</ul>
+<h2 id="process-adherence-audits">13. Process Adherence Audits</h2>
+<p><img src="./media/image17.png" style="width:0.95313in;height:0.95313in" /></p>
+<p><strong>“Process Adherence Audits” refer to the checks the organization performs to determine whether it is using its defined compliance process and obtaining expected results from its use.</strong></p>
+<ul>
+<li><p>Process adherence audits are used to determine whether the organization follows its defined compliance process.</p>
+<ul>
+<li>Audits identify the instances in which non-standard reviews were used.</li>
+</ul></li>
+<li><p>Audits assess the extent to which execution of the compliance process produces expected compliance results.</p></li>
+<li><p>Audits determine whether the organization maintains accurate records about the open source software content of its products and services, and of the compliance activities it performs.</p></li>
+</ul>
+<h1 id="preparing-for-an-audit---acquisition-target">Preparing for an Audit - Acquisition Target</h1>
+<p>Passing an open source compliance audit is not hard if you’re prepared. However, it is very unlikely to go well if you begin preparing only when an acquirer shows interest. These activities are meant to be integrated into your daily business and development activities. The objective of these activities is to ensure the company tracks all open source components and respects open source license obligations resulting from your use of these open source components. The same measures can be of great help if your company becomes a target for a corporate transaction, as it minimizes the risk of surprises.</p>
+<h2 id="know-whats-in-your-code">Know what’s in your code</h2>
+<p>Knowing what’s in your code is the golden rule of compliance. You must maintain a complete software inventory for all software components including their origin and license information. This covers software components created by your organization, open source components, and components originating from third parties. The most important point is having a process for identifying and tracking open source components. You don’t always need a complex compliance program; however, you should have five basic elements: policy, process, staff, training, and tools.</p>
+<h3 id="policy-and-process">Policy and process</h3>
+<p>The open source compliance policy is a set of rules that govern the management of open source software (both use of and contribution to). Processes are detailed specifications as to how a company will implement these rules on a daily basis. Compliance policies and processes govern various aspects of using, contributing, auditing, and distribution of open source software.</p>
+<p><img src="./media/image7.png" style="width:6.66812in;height:2.04104in" /></p>
+<p><strong>Figure 1: Detailed view of a sample open source compliance process</strong></p>
+<p>Figure 1 illustrates a sample compliance process, with the various steps each software component will go through as part of the due diligence as you build your product or software stack.</p>
+<ol type="1">
+<li><p>Identify all incoming source code.</p></li>
+<li><p>Audit source code.</p></li>
+<li><p>Resolve any issues uncovered by the audit.</p></li>
+<li><p>Complete appropriate reviews.</p></li>
+<li><p>Receive approval to use open source.</p></li>
+<li><p>Register open source in the software inventory.</p></li>
+<li><p>Update product documentation to reflect open source usage.</p></li>
+<li><p>Perform verification to all steps previous to distribution.</p></li>
+<li><p>Distribute source code and perform final verifications in relation &gt; to distribution.</p></li>
+</ol>
+<p>The output of the process is an open source bill of materials (BoM) that you can publish, along with a written offer and various copyright, license and attributions notices fulfilling the legal obligations of the components in your BoM. For a detailed discussion on the open source compliance process, please <a href="https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/">download</a> the free ebook <em>Open Source Compliance in the Enterprise (2nd edition)</em>, published by the Linux Foundation.</p>
+<h3 id="staff">Staff</h3>
+<p>In large enterprises, the open source compliance team is a cross-disciplinary group consisting of various individuals tasked with the mission of ensuring open source compliance. The core team, often called the Open Source Review Board (OSRB), consists of representatives from engineering and product teams, legal counsel, and a compliance officer. The extended team consists of various individuals across multiple departments that contribute on an ongoing basis to the compliance efforts: Documentation, Supply Chain, Corporate Development, IT, and Localization. However, in smaller companies or startups, this can be as simple as an engineering manager supported with a legal counsel. Every company is different.</p>
+<h3 id="training-1">Training</h3>
+<p>Education is an essential building block in a compliance program, to help ensure that employees possess a good understanding of policies governing the use of open source software. The goal of providing open source and compliance training is to raise awareness of open source policies and strategies and to build a common understanding of the issues and facts of open source licensing. It should also cover the business and legal risks of incorporating open source software in products and/or software portfolios. Both formal and informal training methods can be used. Formal methods include instructor-led training courses where employees have to pass a knowledge exam to pass the course. Informal methods include webinars, brown bag seminars, and presentations to new hires as part of the new employee orientation session.</p>
+<h3 id="tooling">Tooling</h3>
+<p>Open source compliance teams often use tools to automate source code audits, to discover of open source code, and to identify its licenses. Such tools include a compliance project management tool, software inventory tool, and source code and license identification tools.</p>
+<h2 id="be-in-compliance">Be in compliance</h2>
+<p>If you have shipped products containing open source software, intentionally or not, then you must comply with the various licenses governing those software components. Hence the importance of knowing what’s in your code, as a complete bill of materials makes compliance much easier.</p>
+<p>Being in compliance is not a simple task, and it varies from product to product based upon the licenses and the structure of the code. At a high level, being in compliance means that you:</p>
+<ol type="1">
+<li><p>Track all use of open source software.</p></li>
+<li><p>Compile a finalized open source BoM for all software in the shipping image of product.</p></li>
+<li><p>Fulfill the obligations of the open source licenses.</p></li>
+<li><p>Repeat the process every time you issue a software update.</p></li>
+<li><p>Respond quickly and seriously to compliance inquiries.</p></li>
+</ol>
+<h2 id="use-latest-releases-for-security-purposes">Use latest releases for security purposes</h2>
+<p>One of the benefits of a comprehensive compliance program is that it’s easier to find products with insecure versions of open source components and replace them. Most source code scanning tools now provide functionality to flag security vulnerabilities disclosed in older software components.</p>
+<p>An important consideration when upgrading an open source component is to always ensure that the component retains the same license as the previous version. Open source projects have occasionally changed licenses on major releases. To avoid a situation where you are using a version with security vulnerabilities, companies are encouraged to engage with open source project communities. It is not reasonable or feasible to be active in all of the open source projects you use, therefore a certain level of prioritization is needed to identify the most critical components. There are various levels of engagement, ranging from joining mailing lists and participating in the technical discussions, to contributing bug fixes and small features, to major contributions. At minimum, corporate developers working on a specific open source project should subscribe to and monitor relevant mailing lists for any reports related to security vulnerabilities and available fixes.</p>
+<h2 id="measure-up-your-compliance-efforts">Measure up your compliance efforts</h2>
+<p>The easiest and most effective first step for organizations of all sizes is to engage with the OpenChain Project and to obtain “<a href="https://www.openchainproject.org/conformance">OpenChain Conformant</a>” status. This is done by filling out a series of questions either <a href="https://certification.openchainproject.org/">online</a> or <a href="https://wiki.linuxfoundation.org/_media/openchain/openchain_conformance_conformance_check_1.1.pdf">manually</a>. The questions used for OpenChain Conformance help confirm that an organization has created processes or policies for open source software compliance. OpenChain is an industry standard, similar to ISO 9001. It is focused on the “big picture,” with precise processes and policy implementations up to each individual organization. OpenChain Conformance shows that open source compliance processes or policies exist, and that further details can be shared when requested by a supplier or customer. OpenChain is designed to build trust between organizations across the global supply chain.</p>
+<h1 id="preparing-for-an-audit---acquiring-company">Preparing for an Audit - Acquiring Company</h1>
+<p>For the acquiring company, certain actions and decisions must be made before the audit is commissioned, and other actions must be considered after you receive the results.</p>
+<h2 id="choose-the-right-audit-method">Choose the right audit method</h2>
+<p>As discussed in <a href="https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/"><em><span class="underline">Open Source Audits in Merger and Acquisitions Transactions</span></em></a>, three primary audit methods can be used. Acquiring organizations need to decide which audit method is most suited to their specific needs (and their target company), given the parameters they are working with. The three audit methods are: traditional, blind, and the Do-It-Yourself (DIY). We provide a brief description of each of them in the following subsections.</p>
+<h3 id="traditional-audit-model">Traditional Audit Model</h3>
+<p>I refer to this method as traditional, because it is the original method of source code scanning for open source compliance purposes. Traditional audits are those where a compliance auditor from a third-party auditing company gets access to the source remotely via a cloud system or physically while visiting on site and performs the source code scan.</p>
+<p><img src="./media/image2.png" style="width:6.14583in;height:5.1875in" /></p>
+<p><strong>Figure 2: Illustration of the traditional audit method in M&amp;A transactions</strong></p>
+<p>Figure 2 illustrates the traditional audit method. Please note that the process may vary slightly from one service provider to another. A typical traditional audit process follows these steps:</p>
+<ol type="1">
+<li><p>Auditor sends questions to the acquirer to have a better understanding of the job.</p></li>
+<li><p>Acquirer responds to the questions thereby allowing auditor company to have a better understanding of the scope and audit parameters.</p></li>
+<li><p>Auditor provides quote based upon the responses.</p></li>
+<li><p>Agreement is reached on the quote. Next is signing the service agreement, statement of work, non-disclosure agreement, etc.</p></li>
+<li><p>Auditor is granted access to the target’s code via secure cloud upload, or through a visit to the company for an on-site audit.</p></li>
+<li><p>Auditor scans the target’s source code, cleans up the false positives, and evaluates the results.</p></li>
+<li><p>Auditor generates the report and delivers it to the client.</p></li>
+<li><p>A call or a face-to-face meeting follows to review the results with the auditor and address any questions.</p></li>
+</ol>
+<p>This method is common across most audit service providers. It allows the opportunity to collect multiple bids for the same audit job and the ability to choose the best bid given your requirements. Following this model, the target company must be willing to transfer the code to the auditors or allow them to visit their offices to complete the job on-site.</p>
+<h3 id="blind-audit-model">Blind Audit Model</h3>
+<p>The blind audit method was pioneered by FOSSID AB, a Stockholm based company, to address the confidentiality requirements of M&amp;A transactions. (Here, FOSSID AB refers to the company and FOSSID refers to the tool itself.)</p>
+<p><img src="./media/image9.png" style="width:6.5in;height:4.41667in" /></p>
+<p><strong>Figure 3: Illustration of the blind audit method</strong></p>
+<p>Using their proprietary technology, FOSSID AB have the ability to perform audits and generate reports without looking at the source code. Figure 3 illustrates the blind audit process used by FOSSID AB and designed to provide confidentiality of source code in M&amp;A transactions. One major advantage of a blind audit includes the ability for the auditor to complete the review without having access to the source code. Additionally, with sufficient precautions by the acquirer, the auditor may also not gain awareness of the target’s identity offering a high level of confidentiality. As far as I am aware, such an audit method is not offered by any other</p>
+<p>company offering open source compliance services.</p>
+<h3 id="diy-audit">DIY Audit</h3>
+<p>The Do-It-Yourself audit provides the acquirer or the target company time-limited access to the open source compliance cloud tools, enabling them to run the scan themselves. They can then perform the audits internally with complete access to the knowledge base and all reporting facilities. This is an approach that is particularly interesting for companies that have in-house employees with sufficient experience to interpret scan results and suggest remediation procedures. It can quickly become more cost-effective for companies that go through the M&amp;A process several times per year. An independent certification can be performed to verify the findings, to further secure the integrity of the audit.</p>
+<p><img src="./media/image6.png" style="width:6.5in;height:4.56944in" /></p>
+<p><strong>Figure 4: Illustration of the DIY audit method</strong></p>
+<p>Figure 4 provides an illustration of the DIY audit method using the tools from FOSSID AB. This approach has several advantages such as the ability to start the audit as soon as needed because it uses internal resources and not dependent on the availability of third party auditors, potentially shortening the timelines and reducing an external source of cost. Any compliance problem can be addressed immediately, because it is being conducted by the people who have direct access to the code. Finally, the audit can be verified by the provider of the audit tool to ensure correctness and completeness.</p>
+<h2 id="know-what-you-care-about">Know what you care about</h2>
+<p>The report from the source code audit may provide a significant amount of information, depending on the complexity of the scanned code. It is important to identify which licenses and use-cases are critical and focus on those.</p>
+<h2 id="ask-the-right-questions-and-use-this-checklist">Ask the right questions (and use this checklist)</h2>
+<p>The open source audit report offers a lot of information about the target’s source code and the licenses involved. However, many other data points will require further investigation to get clarification or confirmation on compliance related concerns. In this section, we offer a collection of questions as a starting point to frame what is important to you, and help you determine what questions you should address with the target company.</p>
+<ul>
+<li><p>Has the target used code with licenses that could jeopardize the IP of the target or acquirer?</p></li>
+<li><p>Are there any code snippets with unknown origin and/or unknown license?</p></li>
+<li><p>Are the target’s open source compliance practices sufficiently mature and comprehensive?</p></li>
+<li><p>Does the target company track known vulnerabilities in their open source components?</p></li>
+<li><p>When distributing products, does the target provide all necessary materials to satisfy open source license obligations (written offer, various required notices, and source code when applicable)?</p></li>
+<li><p>Does the target company’s compliance process aligned with the speed of development to meet product release schedules?</p></li>
+<li><p>Does the target have a process in place to respond to all internal and external requests for source code in a timely manner?</p></li>
+</ul>
+<h2 id="identify-items-to-be-resolved-before-executing-the-transaction">Identify items to be resolved before executing the transaction</h2>
+<p>In some cases, an open source audit may reveal instances of licenses or compliance practices that are not acceptable to the acquirer. The acquirer can then request these instances to be mitigated as a condition for closing. For instance, the target company may use a code component that comes license under “License A”, but the acquiring company has a strict policy against using any source code licensed under “License A”. In such a situation, both parties will need to discuss and figure out a possible solution.</p>
+<h2 id="create-a-compliance-improvement-plan-for-post-acquisition">Create a compliance improvement plan for post-acquisition</h2>
+<p>This is especially important when the acquirer is a large company buying a smaller startup that will continue to operate as a subsidiary. In this scenario, the acquirer often helps the target company establish a formal compliance policy and process, as well as provide training on their own practices, and offer ongoing guidance and support.</p>
+<h1 id="recommended-compliance-related-development-practices">Recommended compliance-related development practices</h1>
+<p>Several papers have been written with detailed recommendations for establishing development practices that support open source license compliance activities. In this section, we will briefly highlight the most important practices that when followed, will eliminate the majority of common compliance issues encountered when working with open source software.</p>
+<h2 id="recommended-practices">Recommended practices</h2>
+<ul>
+<li><p>Request approval to use open source software before you commit the code into the product repository.</p></li>
+<li><p>Request approval before you link proprietary code to an open source library or vice versa, unless the license of the library code is already pre-approved by company policy.</p></li>
+<li><p>Update the changelog for every file you modify to reflect the date of change, the author, and a short one-line description of the change applied.</p></li>
+<li><p>Document the interfaces between any code you are writing and open source software, as it helps others understand the interactions and clarify compliance concerns.</p></li>
+<li><p>Save the web page describing a source code package’s license as a PDF, to document the state of the project when you downloaded it.</p></li>
+<li><p>Save an unaltered copy of the package in a backup location, along with the license information.</p></li>
+<li><p>When upgrading an open source software component, verify if the license is still the same. License changes can occur between versions.</p></li>
+<li><p>Verify that the license in the source code package matches what is described on the project web site. In the event of discrepancy, contact the project for clarification.</p></li>
+</ul>
+<h2 id="avoid-common-mistakes">Avoid common mistakes</h2>
+<ul>
+<li><p>Do not remove or disturb existing licensing or copyright information. All such information must remain intact.</p></li>
+<li><p>Do not rename open source components.</p></li>
+<li><p>Do not copy/paste open source code into proprietary or third party source code (or vice versa) without prior approval.</p></li>
+<li><p>Do not commit open source or third party source code into an internal product source tree without prior approval.</p></li>
+<li><p>Do not merge or mix source code incoming under different licenses without proper approval.</p></li>
+<li><p>Do not discuss compliance practices with individuals outside of your company.</p></li>
+</ul>
+<h1 id="conclusion">Conclusion</h1>
+<p>Open source due diligence is generally one task in a long list of tasks that need to be successfully completed in an M&amp;A transaction. However, it is still an important aspect of the general due diligence exercise given the central role of software and potential IP risks. While the open source due diligence may seem a lengthy process, it often can be completed quickly, especially if both parties are prepared, and working with a swift compliance service provider.</p>
+<p>How can you be prepared?</p>
+<p>If you are the target, you can maintain proper open source compliance practices by ensuring your development and business processes include:</p>
+<ul>
+<li><p>Identifying the origin and license of all internal and external &gt; software.</p></li>
+<li><p>Tracking open source software within the development process (components and snippets).</p></li>
+<li><p>Performing source code reviews for new or updated code entering the build.</p></li>
+<li><p>Fulfilling license obligations when a product ships or when software is updated.</p></li>
+<li><p>Offering open source compliance training to employees.</p></li>
+</ul>
+<p>If you are the acquirer, you should know what to look for and have the skills on-hand to address issues quickly:</p>
+<ul>
+<li><p>Decide with the target company on the appropriate audit method to use, and which third party to engage for the audit. Note that some companies don’t have ability to do blind testing, some do not support the DIY, and others do not have the ability to discover code snippets.</p></li>
+<li><p>If possible, get multiple bids for the audit and learn more about your audit service providers. It’s not just about the cost, but also about obtaining the precise output that will help you address any concerns you may have. Make sure you have the internal expertise to compare each bid equally, and that they include all audit parameters such as:</p>
+<ul>
+<li><p>Audit method, inputs and outputs</p></li>
+<li><p>Primary contact persons at target and acquirer for speedy discussions of issues that arise</p></li>
+<li><p>Timeline and logistics especially if it involves an on-site visit</p></li>
+<li><p>Confidentiality parameters</p></li>
+<li><p>Code vulnerabilities and version control analysis</p></li>
+<li><p>Cost, normal process and expedited</p></li>
+</ul></li>
+</ul>
+<p>Open source compliance is an ongoing process, not a destination. Maintaining good open source compliance practices enables companies to be prepared for any scenario where software changes hands, from a possible acquisition, a sale, or product or service release. For this reason, companies are highly encouraged to invest in building and improving upon their open source compliance programs.</p>
+<h1 id="appendix-a---evaluation-worksheets">Appendix A - Evaluation Worksheets</h1>
+<p><strong>Worksheet - Discovery of Open Source Software</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Discovery of open source software occurs early in the product development cycle.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A systematic approach is implemented to identify all the software subjected to the compliance analysis.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Third party suppliers disclose all open source software in their deliverables.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization periodically conducts audits of open source software use.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A bill of materials is prepared to reflect the open source content for all products/services.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A systematic approach is implemented to identify changes in the code and to perform incremental compliance in an efficient manner.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A systematic approach is implemented to resolve issues arising from discovery activity.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Period reviews are in place to evaluate tools used in discovering open source software in source code.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Review and Approval of the Usage of Open Source Software</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>The organization subjects all open source use in products to review and defines what contextual changes in open source software use trigger re-approval activity.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization considers issues relevant to the use of a specific open source software package and version.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>An open source review board is used to review and approve planned uses of open source software in products or services.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization provides a definition and examples of the information that must be submitted to the OSRB for approval of open source software use.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The OSRB communicates perspectives across business units to achieve a consistency of interpretation of license obligations and review practices.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Obligation Satisfaction</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>The organization verifies that its third party suppliers provide all necessary information to satisfy open source license obligations</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization defines what modes of external software conveyance trigger license obligations and assures that any software thus released meets compliance requirements.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The organization satisfies obligations in a consistent and disciplined manner.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization places into a software repository the complete source code corresponding exactly to each open source software package used in a given product release.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Source code reviews are used during the development phase to assure that open source software packages contain necessary and appropriate documentation of copyright, attribution, licensing, and change log information.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization places into a software repository the complete source code corresponding exactly to each open source software package used in a given product release</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Source code reviews are used during the development phase to assure that open source software packages contain necessary and appropriate documentation of copyright, attribution, licensing, and change log information.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Activities to assess and satisfy open source license obligations are planned and integrated into project schedules to assure that obligations are met in time for product release.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A defined code distribution mechanism is used to respond to routine requests for source code distribution.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Individuals or teams responsible for documentation and localization activities perform necessary tasks to assure that obligations are met</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The organization responds to all external compliance requests in a timely manner.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Community Contributions</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Community contributions are reviewed and approved according to a defined process.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A determination is made whether an employee’s proposed contribution is work-related or non-work-related based upon an existing guideline.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A mechanism is used to determine whether any of the organization’s departments or business units object to the proposed contribution.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Copyright ownership of the planned contribution is clarified.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A mechanism is used to initiate and plan company contributions of financial support, labor, code, or other intellectual property to community projects.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Company contributions to open source communities are tracked.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A mechanism is used to review and decide on “Contributor License Agreements”.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Policy</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>A policy is set in place to enable the company to incorporate and use open source software in their products and services.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The policy is championed by a senior executive and is communicated to the entire company.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The policy addresses roles and responsibilities for compliance actions, a review and approval process for use of open source software, guidelines for contributions to community projects and a review and approval process for contributions, and core processes that must be implemented to govern use of open source software in company products and services.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The management team endorses the policy and assures that all employees involved with open source understand and follow the policy.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Compliance Staffing</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Skilled and knowledgeable individuals are made available to contribute to the compliance effort.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Dedicated assignments to the compliance function provide continuity of involvement and accumulation of expertise.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Job descriptions identify the skills and insights needed to perform compliance functions adequately.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization identifies individuals with the skills, insights, and interest needed to contribute to the compliance function.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Compliance contributors are drawn from cross-functional departments, as needed.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Training and experiential learning opportunities are provided to build necessary skillsets.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>External consultants are hired, as needed, to augment the internal compliance effort.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Estimates of total compliance effort and duration are prepared to address the organization’s compliance requirements.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Estimates of product-related compliance activities are estimated and tracked from the perspective of both the organizational compliance team and the product team.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>A staffing plan is prepared and followed to provide a level of responsiveness and cycle time adequate for product release cycles.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Progress is tracked against the organization’s and product team’s compliance plans and additional resources are added as needed to achieve compliance objectives.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Adaptation of Business Processes</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Existing business processes are modified to incorporate open source compliance activities and considerations.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Supply Chain’s supplier selection procedures are tailored to assure that open source compliance requirements are considered when performing due diligence on suppliers.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Process management assures that open source compliance activities are included early enough in the product development cycle to enable the organization to meet its release timelines.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Late-cycle verification steps are used to assure that all compliance requirements have been met before external distribution occurs.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Individuals managing business processes have received training in open source compliance requirements and exhibit sensitivity to open source compliance concerns.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Training</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Training on the organization’s open source policies, processes and guidelines is provided to all who come into contact with open source software.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Growth of an internal community of open source users and contributors is encouraged in order to provide organizational guidance and leadership with respect to the use of open source software in an ethical and compliant way.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Refresher training on open source compliance is provided periodically.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Compliance Process Management</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Responsibility for achieving organization-wide open source compliance is clearly designated.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The team responsible for coordinating compliance activities has visibility into product development and product release plans and activities, and is able to interface effectively with product teams.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Project management fundamentals are applied to managing compliance projects and compliance team activities.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Metrics are defined and collected to assess the effectiveness of the organization’s open source use and its open source compliance activities.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The organization engages in externally-focused benchmarking activities to identify potential improvements to its compliance process.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization maintains an awareness of community initiatives to address supply chain issues with respect to open source compliance.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Open Source Software Inventory</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>The organization tracks progress of compliance activities for a product being readied for release.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization maintains complete and accurate records about the open source content in its products and services, and the context in which it is used, according to a defined procedure.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The organization maintains complete and accurate records about open source software used internally for tools, operational systems, prototype development, etc.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Automation and Tool Support</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>The organization assesses its compliance process to identify and prioritize opportunities for automation and tool support.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization regularly investigates commercial and open source tools that might provide assistance to compliance activities.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tool acquisition or tool development projects are planned and executed according to defined procedures for tool development and adoption.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The organization engages in user group meetings and community forums related to compliance tools.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mechanisms are used to determine the open source software content of a product/service release and the files that must be subjected to compliance analysis.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Tools are used to track open source issues to closure.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Mechanisms are used to determine the differences in software content between individual releases of a product for distribution.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>An initial compliance baseline for a product is established with the aid of scanning tools, whenever it is advantageous to do so.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>A repository of open source software packages is maintained and made available to the organization.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Verification</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>The compliance team performs verification activities according to a defined procedure.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The compliance team verifies that source code license obligations have been met by the time a product is considered ready for release.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The compliance team verifies that copyright notices, attribution notices, license text, and any modification logs have been included accurately.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The compliance team verifies that OSRB approval has been obtained for all open source software packages in the release.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>The compliance team verifies that third party suppliers have made full and accurate disclosure of open source included in their deliverables and that these suppliers have satisfied their obligations under the open source licenses.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>The compliance team verifies that open source can be obtained via the defined distribution mechanism and that the source code thus obtained can be built in an independent environment.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Worksheet - Process Adherence Audits</strong></p>
+<table style="width:96%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 29%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Practice</strong></th>
+<th><strong>Implementation</strong></th>
+<th><strong>Notes, Action Items</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Process adherence audits are used to determine whether the organization follows its defined compliance process.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Audit assess the extent to which execution of the compliance process produces expected compliance results.</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Audits determine whether the organization maintains accurate records about the open source software content of its products and services, and of the compliance activities it performs</td>
+<td><ul>
+<li><p>Complete</p></li>
+<li><p>Partial</p></li>
+<li><p>Not available</p></li>
+<li><p>Not applicable</p></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h1 id="resources">Resources</h1>
+<h3 id="open-source-compliance-in-the-enterprise-2nd-edition">Open Source Compliance in the Enterprise (2nd Edition)</h3>
+<p>Published by The Linux Foundation, <a href="https://www.linuxfoundation.org/compliance-and-security/2018/12/open-source-compliance-in-the-enterprise/">Open Source Compliance in the Enterprise</a> is a practical guide for enterprises on how to best use open source in products and services, and participate in open source communities in a legal and responsible way.</p>
+<h3 id="open-source-audits-in-merger-and-acquisition-transactions">Open Source Audits in Merger and Acquisition Transactions</h3>
+<p>Published by The Linux Foundation, this <a href="https://www.linuxfoundation.org/resources/open-source-audits-merger-acquisition-transactions/">ebook</a> provides an overview and practical guide to open source audits in merger and acquisition transactions, and offers basic guidelines to improve open source compliance preparedness.</p>
+<h3 id="practical-gpl-compliance">Practical GPL Compliance</h3>
+<p>Published by The Linux Foundation, <a href="https://www.linuxfoundation.org/news-media/research/practical-gpl-compliance">Practical GPL Compliance</a> is a compliance guide for startups, small businesses, and engineers, particularly focused on complying with the versions of the GNU General Public License (GPL). Its goal is to provide practical information to quickly address common issues.</p>
+<h3 id="openchain-curriculum">OpenChain Curriculum</h3>
+<p>The <a href="https://wiki.linuxfoundation.org/openchain/curriculum">OpenChain Curriculum</a> is designed to help organizations meet the training and process requirements of the OpenChain Specification. It can also be used for general open source training and – because of its public domain licensing – can be partially or fully re-used for internal or external purposes without limitation.</p>
+<h3 id="compliance-basics-for-developers">Compliance Basics for Developers</h3>
+<p>A <a href="https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers">free open source compliance course</a> from the Linux Foundation targeted for developers.</p>
+<h3 id="software-package-data-exchange-spdx">Software Package Data Exchange (SPDX)</h3>
+<p><a href="https://spdx.org/">SPDX</a> is a set of standard format for communicating the components, licenses and copyrights of software packages.</p>
+<h3 id="commercial-providers-of-software-composition-analysis-solutions">Commercial Providers* of Software Composition Analysis Solutions</h3>
+<ul>
+<li><p><a href="https://anchore.com/">Anchore</a></p></li>
+<li><p><a href="https://www.blackducksoftware.com/">Black Duck Software</a> (Synopsys)</p></li>
+<li><p><a href="https://www.castsoftware.com/">CAST Software</a></p></li>
+<li><p><a href="https://www.flexerasoftware.com/">Flexera Software</a></p></li>
+<li><p><span class="underline">FOSSA</span></p></li>
+<li><p><a href="http://www.fossid.com">FOSSID AB</a></p></li>
+<li><p><a href="https://www.insignary.com/">Insignary</a></p></li>
+<li><p><span class="underline">nexB</span></p></li>
+<li><p><a href="http://www.protecode.com/">Protecode</a> (Synopsys)</p></li>
+<li><p><a href="https://www.rapid7.com/">Rapid7</a></p></li>
+<li><p><a href="https://www.roguewave.com/">Rogue Wave Software</a></p></li>
+<li><p><a href="https://snyk.io/">Snyk</a></p></li>
+<li><p><a href="https://www.sonatype.com/">Sonatype</a></p></li>
+<li><p><a href="http://triplecheck.tech/">TripleCheck</a></p></li>
+<li><p><a href="https://www.veracode.com/">Veracode</a></p></li>
+<li><p>[<a href="https://www.whitesourcesoftware.com/">WhiteSource Software</a></p></li>
+</ul>
+<h3 id="open-source-compliance-tools">Open Source Compliance Tools*</h3>
+<ul>
+<li><p><a href="https://www.fossology.org/">FOSSology</a> is an open &gt; source license compliance software system and toolkit.</p></li>
+<li><p><a href="http://www.binaryanalysis.org/">Binary Analysis Tool</a> &gt; is an open source tool that assist in compliance activities. It &gt; examines binary code looking for compliance issues.</p></li>
+<li><p><a href="https://qmstr.org/">QMSTR</a> (pronounced quartermaster) &gt; creates an integrated open source toolchain that implements &gt; industry best practices of license compliance management.</p></li>
+<li><p><a href="https://github.com/vmware/tern">Tern</a> is an &gt; inspection tool to find the metadata of the packages installed in &gt; a container image.</p></li>
+<li><p><a href="https://spdx.org/tools">SPDX tools</a> provide &gt; translation, comparison, and verification functionality.</p></li>
+</ul>
+<p><strong>*</strong> The author apologizes in advance if these list are missing any provider or tool. If so, please <a href="http://www.ibrahimatlinux.com/contact.html">contact</a> the author with the desired updates.</p>
+<h3 id="open-source-in-ma-transactions">Open Source in M&amp;A Transactions</h3>
+<p>A <a href="http://events17.linuxfoundation.org/sites/events/files/slides/%28FINAL%29OSF_Mr.%20Ibrahim%20Haddad.pdf">presentation</a> by Oskar Swirtun and Ibrahim Haddad at the Linux Foundation’s Open Compliance Summit 2017.</p>
+<h1 id="feedback-and-future-revisions">Feedback and Future Revisions</h1>
+<p>Suggestions for improvement will be appreciated, in addition to feedback on the manner in which organizations are using the checklist. Please send comments to the <a href="mailto:ibrahim@linuxfoundation.org">author</a> directly.</p>
+<h1 id="acknowledgments">Acknowledgments</h1>
+<p>Icons used in this paper are made by <a href="https://www.freepik.com">Freepik</a> from <a href="https://www.flaticon.com">Flaticon</a> and licensed under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons BY 3.0</a>.</p>
+<h1 id="about-the-author">About the Author</h1>
+<p>Ibrahim Haddad (Ph.D.) is the Executive Director of the <a href="https://lfdl.io">Deep Learning Foundation</a> that supports and sustains open source innovation in artificial intelligence, machine learning, and deep learning. He previously served as Vice President of R&amp;D and Head of the Open Source Division at Samsung Electronics. At Samsung, he established the global open source division, set and executed Samsung's open source strategy, launched internal and external R&amp;D collaboration projects, supported M&amp;A and corporate VC activities, and represented Samsung in various foundations and consortia. Throughout his career, Haddad has held several technology and portfolio management roles at Ericsson Research, the Open Source Development Lab, Motorola, Palm, Hewlett-Packard and The Linux Foundation. Haddad graduated with Honors from Concordia University (Montréal, Canada) with a Ph.D. in Computer Science, where he was awarded the J. W. McConnell Memorial Graduate Fellowship and the Concordia University 25th Anniversary Fellowship.</p>
+<p><img src="./media/image19.jpg" style="width:40.0%" /></p>
+<p>Twitter: <a href="https://twitter.com/ibrahimatlinux/">@IbrahimAtLinux</a></p>
+<p>Web: <a href="http://www.ibrahimatlinux.com/">IbrahimAtLinux.com</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/ibrahimhaddad">linkedin.com/in/ibrahimhaddad</a></p>
+</article>
+</body>
+</html>
