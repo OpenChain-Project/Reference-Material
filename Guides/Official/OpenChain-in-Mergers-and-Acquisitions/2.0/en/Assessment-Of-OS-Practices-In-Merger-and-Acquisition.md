@@ -2,6 +2,7 @@
 title: A Contribution to the OpenChain Project
 author: Ibrahim Haddad, Ph.D.
 markdown_version: Carlo Piana
+license: "Creative Commons Zero v1.0 Universal"
 ---
 
 **A Contribution to the OpenChain Project**
