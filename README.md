@@ -12,22 +12,12 @@ Our first step is to convert some existing documents into MarkDown. This will al
 There is an online tool to convert Word documents to MarkDown, which is the first step of the process. You will find it here:
 <https://word2md.com>
 
+
 Our Reference Library is here:
 <https://github.com/OpenChain-Project/Reference-Material>
 
-It contains a lot of documents so we will narrow down the documents we want help with. Let’s start with some Word documents.
-
-Here is our self-certification questionnaire: <https://github.com/OpenChain-Project/Reference-Material/blob/master/Self-Certification-Questionnaire/Official/2.1/en/OpenChain%20Self-Certification%20Questionnaire%202021-11-26.docx>
-
-
-Here is a conformance checklist:
-<https://github.com/OpenChain-Project/Reference-Material/blob/master/Checklists/Official/Conformance-Checklist/2.0/en/Conformance-Compliance-Checklist.docx>
-
-Here is a document about using OpenChain in Mergers and Acquisitions:
-<https://github.com/OpenChain-Project/Reference-Material/blob/master/Guides/Official/OpenChain-in-Mergers-and-Acquisitions/2.0/en/Assessment-Of-OS-Practices-In-Merger-and-Acquisition.docx>
-
-Here is a document to help managers understand OpenChain:
-<https://github.com/OpenChain-Project/Reference-Material/blob/master/Guides/Official/OpenChain-For-Managers/2.0/en/OpenChain%20For%20Managers%20-%20Version%201.0.docx> 
+It contains a lot of documents. If you are looking for suggestions on documents to convert first, please see:
+https://github.com/OpenChain-Project/Reference-Material/blob/master/markdown-conversion-targets.md
 
 If you convert one of these documents to MarkDown, please open a Pull Request to submit the updated document. If you need help with that, please ask our education work group at this mailing list:
 <https://lists.openchainproject.org/g/education/messages>
