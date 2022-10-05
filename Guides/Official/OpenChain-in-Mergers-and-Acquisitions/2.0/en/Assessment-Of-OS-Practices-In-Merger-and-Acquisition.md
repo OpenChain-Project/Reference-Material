@@ -2155,7 +2155,7 @@ packages.
 
 -   [Veracode](https://www.veracode.com/)
 
--   [[WhiteSource Software](https://www.whitesourcesoftware.com/)
+-   [WhiteSource Software](https://www.whitesourcesoftware.com/)
 
 ### Open Source Compliance Tools\*
 
