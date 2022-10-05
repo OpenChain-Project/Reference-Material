@@ -8,4 +8,5 @@ If an organizationc an answer positively each question or statement, then it mee
 
 You can get help with self-certification from our global community. Get started here:
 https://www.openchainproject.org/community
+
 Our help is free and is provided by user companies like yourself. We are working togehter to save time and resource in apply open source for open innovation.
