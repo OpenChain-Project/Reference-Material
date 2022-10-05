@@ -1,6 +1,7 @@
 ---
 title: A Contribution to the OpenChain Project
 author: Ibrahim Haddad, Ph.D.
+markdown_version: Carlo Piana
 ---
 
 **A Contribution to the OpenChain Project**
@@ -65,7 +66,7 @@ The checklist explores 13 specific areas to evaluate:
 7.  Appropriate staffing for compliance execution
 
 8.  Adaptation of business processes to accommodate open source specific
-    > requirements
+    requirements
 
 9.  Training
 
@@ -76,7 +77,7 @@ The checklist explores 13 specific areas to evaluate:
 12. Maintaining inventory of open source software
 
 13. Automation and tool support for large scale use, consumption, and
-    > compliance
+    compliance
 
 The remainder of this paper is dedicated to exploring these 13 different
 categories and various elements within each category.
@@ -93,80 +94,80 @@ software, including open source software in a code base readied for
 release as a product or a service.***
 
 -   Open source software discovery occurs at an early point in the
-    > product development cycle.
+    product development cycle.
 
 -   The product team systematically identifies all the software and
-    > additional materials that must be subjected to compliance
-    > analysis.
+    additional materials that must be subjected to compliance
+    analysis.
 
 -   Third party suppliers disclose all open source software in their
-    > deliverables.
+    deliverables.
 
     -   The organization has a defined format for the disclosure.
 
     -   The open source compliance team reviews the disclosure for
-        > accuracy and completeness using whatever tools are available
-        > to it.
+        accuracy and completeness using whatever tools are available
+        to it.
 
 -   The organization investigates the third party supplier's use of open
-    > source software and its open source compliance practices as part
-    > of its supplier selection process.
+    source software and its open source compliance practices as part
+    of its supplier selection process.
 
     -   The organization investigates the third party supplier's
-        > compliance and supply chain management practices to evaluate
-        > their adequacy.
+        compliance and supply chain management practices to evaluate
+        their adequacy.
 
     -   The organization uses defined guidelines to determine if
-        > automated scanning or other confirmation of the supplier's
-        > disclosure is needed.
+        automated scanning or other confirmation of the supplier's
+        disclosure is needed.
 
     -   Software license agreements include appropriate terms and
-        > conditions concerning open source software.
+        conditions concerning open source software.
 
     -   Procurement (i.e., Supply Chain) staff and others who interface
-        > with suppliers have been trained in open source software
-        > matters and include open source software concerns in their
-        > discussions with third party suppliers.
+        with suppliers have been trained in open source software
+        matters and include open source software concerns in their
+        discussions with third party suppliers.
 
 -   The organization periodically conducts audits of open source
-    > software use.
+    software use.
 
     -   At an agreed-upon frequency, the organization conducts an
-        > audit/inventory of open source software used internally and
-        > records its findings.
+        audit/inventory of open source software used internally and
+        records its findings.
 
     -   The organization audits and inventories the open source software
-        > included in its products and services.
+        included in its products and services.
 
     -   The organization identifies the conditions or events that
-        > trigger a fresh audit of the product's source code or of the
-        > incremental changes to a code base whose open source
-        > compliance had previously been verified.
+        trigger a fresh audit of the product's source code or of the
+        incremental changes to a code base whose open source
+        compliance had previously been verified.
 
 -   A bill of materials is prepared to reflect the open source content
-    > of a specific product or service release.
+    of a specific product or service release.
 
     -   Code scans are used to prepare the bill of materials wherever
-        > source code is available.
+        source code is available.
 
     -   Supplier disclosures are used in cases where source code is not
-        > available.
+        available.
 
 -   The organization uses a systematic approach to identify changes in
-    > the code baseline and to perform incremental compliance on changes
-    > in an efficient manner.
+    the code baseline and to perform incremental compliance on changes
+    in an efficient manner.
 
 -   The organization systematically achieves closure on issues arising
-    > from discovery activity.
+    from discovery activity.
 
     -   The organization systematically tracks open issues.
 
     -   The organization assigns adequate resources to achieve closure
-        > in a reasonable timeframe.
+        in a reasonable timeframe.
 
 -   The organization periodically reviews commercial and open source
-    > tools to assess the costs and benefits of their use in discovering
-    > open source software in code baselines.
+    tools to assess the costs and benefits of their use in discovering
+    open source software in code baselines.
 
 ## 2. Review and Approval of the Use of Open Source Software
 
@@ -178,61 +179,61 @@ software in products for distribution and, if mandated by company
 policy, in internal projects.***
 
 -   The organization subjects all open source software used in products
-    > to review and defines what contextual changes in open source
-    > software use trigger re-approval activity.
+    to review and defines what contextual changes in open source
+    software use trigger re-approval activity.
 
 -   The organization considers issues relevant to the use of a specific
-    > open source software package and version, such as bug fixes the
-    > community has made in subsequent versions, security
-    > vulnerabilities that have been identified in a specific package
-    > version, technology incorporated into the package that might be
-    > subject to export control regulations, etc.
+    open source software package and version, such as bug fixes the
+    community has made in subsequent versions, security
+    vulnerabilities that have been identified in a specific package
+    version, technology incorporated into the package that might be
+    subject to export control regulations, etc.
 
 -   An open source review board (OSRB) is used to review and approve
-    > planned uses of open source software in products or services.
+    planned uses of open source software in products or services.
 
     -   The OSRB is staffed with appropriately skilled and knowledgeable
-        > individuals.
+        individuals.
 
     -   Appropriate resources are available for the interpretation of
-        > open source licenses and definition of obligations to be
-        > satisfied.
+        open source licenses and definition of obligations to be
+        satisfied.
 
     -   Sufficient staffing is provided to the OSRB to achieve
-        > turnaround time on submissions that supports product
-        > development cycles.
+        turnaround time on submissions that supports product
+        development cycles.
 
     -   OSRB procedures (inputs to a review, participants, review
-        > procedures, analysis procedures, decision outcomes, appeal and
-        > waiver procedures, etc.) are defined and documented.
+        procedures, analysis procedures, decision outcomes, appeal and
+        waiver procedures, etc.) are defined and documented.
 
     -   The OSRB considers and provides architectural guidelines and/or
-        > requirements for OSS inclusion in products to be distributed.
+        requirements for OSS inclusion in products to be distributed.
 
     -   The OSRB uses independent analysis methods to confirm the open
-        > source software content reported by teams when they submit an
-        > open source software use case for approval.
+        source software content reported by teams when they submit an
+        open source software use case for approval.
 
     -   Records of OSRB deliberations are maintained (cases, status,
-        > past decisions, requirements imposed on product teams, etc.)
-        > and used in future deliberations.
+        past decisions, requirements imposed on product teams, etc.)
+        and used in future deliberations.
 
     -   The OSRB decides whether to approve the proposed open source
-        > software use and identifies obligations that must be
-        > satisfied, if any, and conditions that must be met, if any,
-        > before product distribution is approved.
+        software use and identifies obligations that must be
+        satisfied, if any, and conditions that must be met, if any,
+        before product distribution is approved.
 
 -   The organization provides a definition and examples of the
-    > information that must be submitted to the OSRB for approval of
-    > open source software use.
+    information that must be submitted to the OSRB for approval of
+    open source software use.
 
     -   Proposed use of open source software includes a description of
-        > the architectural interfaces and dependencies between any open
-        > source components and the rest of the system.
+        the architectural interfaces and dependencies between any open
+        source components and the rest of the system.
 
 -   The OSRB communicates perspectives across business units to achieve
-    > a consistency of interpretation of license obligations and review
-    > practices.
+    a consistency of interpretation of license obligations and review
+    practices.
 
 ## 3. Obligation Satisfaction
 
@@ -821,7 +822,7 @@ you build your product or software stack.
 8.  Perform verification to all steps previous to distribution.
 
 9.  Distribute source code and perform final verifications in relation
-    > to distribution.
+    to distribution.
 
 The output of the process is an open source bill of materials (BoM) that
 you can publish, along with a written offer and various copyright,
@@ -1182,7 +1183,7 @@ If you are the target, you can maintain proper open source compliance
 practices by ensuring your development and business processes include:
 
 -   Identifying the origin and license of all internal and external
-    > software.
+    software.
 
 -   Tracking open source software within the development process
     (components and snippets).
@@ -2158,22 +2159,22 @@ packages.
 ### Open Source Compliance Tools\*
 
 -   [FOSSology](https://www.fossology.org/) is an open
-    > source license compliance software system and toolkit.
+    source license compliance software system and toolkit.
 
 -   [Binary Analysis Tool](http://www.binaryanalysis.org/)
-    > is an open source tool that assist in compliance activities. It
-    > examines binary code looking for compliance issues.
+    is an open source tool that assist in compliance activities. It
+    examines binary code looking for compliance issues.
 
 -   [QMSTR](https://qmstr.org/) (pronounced quartermaster)
-    > creates an integrated open source toolchain that implements
-    > industry best practices of license compliance management.
+    creates an integrated open source toolchain that implements
+    industry best practices of license compliance management.
 
 -   [Tern](https://github.com/vmware/tern) is an
-    > inspection tool to find the metadata of the packages installed in
-    > a container image.
+    inspection tool to find the metadata of the packages installed in
+    a container image.
 
 -   [SPDX tools](https://spdx.org/tools) provide
-    > translation, comparison, and verification functionality.
+    translation, comparison, and verification functionality.
 
 **\*** The author apologizes in advance if these list are missing any
 provider or tool. If so, please
