@@ -846,7 +846,7 @@ IT, and Localization. However, in smaller companies or startups, this
 can be as simple as an engineering manager supported with a legal
 counsel. Every company is different.
 
-### Training
+### Training {#training-1}
 
 Education is an essential building block in a compliance program, to
 help ensure that employees possess a good understanding of policies
@@ -1231,8 +1231,6 @@ be prepared for any scenario where software changes hands, from a
 possible acquisition, a sale, or product or service release. For this
 reason, companies are highly encouraged to invest in building and
 improving upon their open source compliance programs.
-
-#  
 
 # Appendix A - Evaluation Worksheets
 
@@ -2072,14 +2070,6 @@ improving upon their open source compliance programs.
 | compliance activities |                    |                       |
 | it performs           |                    |                       |
 +-----------------------+--------------------+-----------------------+
-
-#
-
-#
-
-#
-
-#  
 
 # Resources
 
