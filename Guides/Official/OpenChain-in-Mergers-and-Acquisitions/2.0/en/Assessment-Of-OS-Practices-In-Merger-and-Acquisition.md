@@ -1,3 +1,8 @@
+---
+title: A Contribution to the OpenChain Project
+author: Ibrahim Haddad, Ph.D.
+---
+
 **A Contribution to the OpenChain Project**
 
 Ibrahim Haddad, Ph.D.
