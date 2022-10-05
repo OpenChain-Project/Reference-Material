@@ -1238,840 +1238,840 @@ improving upon their open source compliance programs.
 
 **Worksheet - Discovery of Open Source Software**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Discovery of open     | -   Complete       |                       |
-| source software       |                    |                       |
-| occurs early in the   | -   Partial        |                       |
-| product development   |                    |                       |
-| cycle.                | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A systematic approach | -   Complete       |                       |
-| is implemented to     |                    |                       |
-| identify all the      | -   Partial        |                       |
-| software subjected to |                    |                       |
-| the compliance        | -   Not available  |                       |
-| analysis.             |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Third party suppliers | -   Complete       |                       |
-| disclose all open     |                    |                       |
-| source software in    | -   Partial        |                       |
-| their deliverables.   |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| periodically conducts |                    |                       |
-| audits of open source | -   Partial        |                       |
-| software use.         |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A bill of materials   | -   Complete       |                       |
-| is prepared to        |                    |                       |
-| reflect the open      | -   Partial        |                       |
-| source content for    |                    |                       |
-| all                   | -   Not available  |                       |
-| products/services.    |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A systematic approach | -   Complete       |                       |
-| is implemented to     |                    |                       |
-| identify changes in   | -   Partial        |                       |
-| the code and to       |                    |                       |
-| perform incremental   | -   Not available  |                       |
-| compliance in an      |                    |                       |
-| efficient manner.     | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A systematic approach | -   Complete       |                       |
-| is implemented to     |                    |                       |
-| resolve issues        | -   Partial        |                       |
-| arising from          |                    |                       |
-| discovery activity.   | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Period reviews are in | -   Complete       |                       |
-| place to evaluate     |                    |                       |
-| tools used in         | -   Partial        |                       |
-| discovering open      |                    |                       |
-| source software in    | -   Not available  |                       |
-| source code.          |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes,Action       |
+|                       |                       |  Items**             |
++=======================+=======================+======================+
+| Discovery of open     |- [ ] Complete         |                      |
+| source software       |                       |                      |
+| occurs early in the   |- [ ] Partial          |                      |
+| product development   |                       |                      |
+| cycle.                |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A systematic approach |- [ ] Complete         |                      |
+| is implemented to     |                       |                      |
+| identify all the      |- [ ] Partial          |                      |
+| software subjected to |                       |                      |
+| the compliance        |- [ ] Not available    |                      |
+| analysis.             |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Third party suppliers |- [ ] Complete         |                      |
+| disclose all open     |                       |                      |
+| source software in    |- [ ] Partial          |                      |
+| their deliverables.   |                       |                      |
+|                       |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| periodically conducts |                       |                      |
+| audits of open source |- [ ] Partial          |                      |
+| software use.         |                       |                      |
+|                       |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A bill of materials   |- [ ] Complete         |                      |
+| is prepared to        |                       |                      |
+| reflect the open      |- [ ] Partial          |                      |
+| source content for    |                       |                      |
+| all                   |- [ ] Not available    |                      |
+| products/services.    |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A systematic approach |- [ ] Complete         |                      |
+| is implemented to     |                       |                      |
+| identify changes in   |- [ ] Partial          |                      |
+| the code and to       |                       |                      |
+| perform incremental   |- [ ] Not available    |                      |
+| compliance in an      |                       |                      |
+| efficient manner.     |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A systematic approach |- [ ] Complete         |                      |
+| is implemented to     |                       |                      |
+| resolve issues        |- [ ] Partial          |                      |
+| arising from          |                       |                      |
+| discovery activity.   |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Period reviews are in |- [ ] Complete         |                      |
+| place to evaluate     |                       |                      |
+| tools used in         |- [ ] Partial          |                      |
+| discovering open      |                       |                      |
+| source software in    |- [ ] Not available    |                      |
+| source code.          |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Review and Approval of the Usage of Open Source Software**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| The organization      | -   Complete       |                       |
-| subjects all open     |                    |                       |
-| source use in         | -   Partial        |                       |
-| products to review    |                    |                       |
-| and defines what      | -   Not available  |                       |
-| contextual changes in |                    |                       |
-| open source software  | -   Not applicable |                       |
-| use trigger           |                    |                       |
-| re-approval activity. |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| considers issues      |                    |                       |
-| relevant to the use   | -   Partial        |                       |
-| of a specific open    |                    |                       |
-| source software       | -   Not available  |                       |
-| package and version.  |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| An open source review | -   Complete       |                       |
-| board is used to      |                    |                       |
-| review and approve    | -   Partial        |                       |
-| planned uses of open  |                    |                       |
-| source software in    | -   Not available  |                       |
-| products or services. |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| provides a definition |                    |                       |
-| and examples of the   | -   Partial        |                       |
-| information that must |                    |                       |
-| be submitted to the   | -   Not available  |                       |
-| OSRB for approval of  |                    |                       |
-| open source software  | -   Not applicable |                       |
-| use.                  |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The OSRB communicates | -   Complete       |                       |
-| perspectives across   |                    |                       |
-| business units to     | -   Partial        |                       |
-| achieve a consistency |                    |                       |
-| of interpretation of  | -   Not available  |                       |
-| license obligations   |                    |                       |
-| and review practices. | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+--------------------+
+| **Practice**          | **Implementation**    | **Notes, Action    |
+|                       |                       | Items**            |
++=======================+=======================+====================+
+| The organization      |- [ ] Complete         |                    |
+| subjects all open     |                       |                    |
+| source use in         |- [ ] Partial          |                    |
+| products to review    |                       |                    |
+| and defines what      |- [ ] Not available    |                    |
+| contextual changes in |                       |                    |
+| open source software  |- [ ] Not applicable   |                    |
+| use trigger           |                       |                    |
+| re-approval activity. |                       |                    |
++-----------------------+-----------------------+--------------------+
+| The organization      |- [ ] Complete         |                    |
+| considers issues      |                       |                    |
+| relevant to the use   |- [ ] Partial          |                    |
+| of a specific open    |                       |                    |
+| source software       |- [ ] Not available    |                    |
+| package and version.  |                       |                    |
+|                       |- [ ] Not applicable   |                    |
++-----------------------+-----------------------+--------------------+
+| An open source review |- [ ] Complete         |                    |
+| board is used to      |                       |                    |
+| review and approve    |- [ ] Partial          |                    |
+| planned uses of open  |                       |                    |
+| source software in    |- [ ] Not available    |                    |
+| products or services. |                       |                    |
+|                       |- [ ] Not applicable   |                    |
++-----------------------+-----------------------+--------------------+
+| The organization      |- [ ] Complete         |                    |
+| provides a definition |                       |                    |
+| and examples of the   |- [ ] Partial          |                    |
+| information that must |                       |                    |
+| be submitted to the   |- [ ] Not available    |                    |
+| OSRB for approval of  |                       |                    |
+| open source software  |- [ ] Not applicable   |                    |
+| use.                  |                       |                    |
++-----------------------+-----------------------+--------------------+
+| The OSRB communicates |- [ ] Complete         |                    |
+| perspectives across   |                       |                    |
+| business units to     |- [ ] Partial          |                    |
+| achieve a consistency |                       |                    |
+| of interpretation of  |- [ ] Not available    |                    |
+| license obligations   |                       |                    |
+| and review practices. |- [ ] Not applicable   |                    |
++-----------------------+-----------------------+--------------------+
 
 **Worksheet - Obligation Satisfaction**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| The organization      | -   Complete       |                       |
-| verifies that its     |                    |                       |
-| third party suppliers | -   Partial        |                       |
-| provide all necessary |                    |                       |
-| information to        | -   Not available  |                       |
-| satisfy open source   |                    |                       |
-| license obligations   | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| defines what modes of |                    |                       |
-| external software     | -   Partial        |                       |
-| conveyance trigger    |                    |                       |
-| license obligations   | -   Not available  |                       |
-| and assures that any  |                    |                       |
-| software thus         | -   Not applicable |                       |
-| released meets        |                    |                       |
-| compliance            |                    |                       |
-| requirements.         |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| satisfies obligations |                    |                       |
-| in a consistent and   | -   Partial        |                       |
-| disciplined manner.   |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| places into a         |                    |                       |
-| software repository   | -   Partial        |                       |
-| the complete source   |                    |                       |
-| code corresponding    | -   Not available  |                       |
-| exactly to each open  |                    |                       |
-| source software       | -   Not applicable |                       |
-| package used in a     |                    |                       |
-| given product         |                    |                       |
-| release.              |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Source code reviews   | -   Complete       |                       |
-| are used during the   |                    |                       |
-| development phase to  | -   Partial        |                       |
-| assure that open      |                    |                       |
-| source software       | -   Not available  |                       |
-| packages contain      |                    |                       |
-| necessary and         | -   Not applicable |                       |
-| appropriate           |                    |                       |
-| documentation of      |                    |                       |
-| copyright,            |                    |                       |
-| attribution,          |                    |                       |
-| licensing, and change |                    |                       |
-| log information.      |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| places into a         |                    |                       |
-| software repository   | -   Partial        |                       |
-| the complete source   |                    |                       |
-| code corresponding    | -   Not available  |                       |
-| exactly to each open  |                    |                       |
-| source software       | -   Not applicable |                       |
-| package used in a     |                    |                       |
-| given product release |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Source code reviews   | -   Complete       |                       |
-| are used during the   |                    |                       |
-| development phase to  | -   Partial        |                       |
-| assure that open      |                    |                       |
-| source software       | -   Not available  |                       |
-| packages contain      |                    |                       |
-| necessary and         | -   Not applicable |                       |
-| appropriate           |                    |                       |
-| documentation of      |                    |                       |
-| copyright,            |                    |                       |
-| attribution,          |                    |                       |
-| licensing, and change |                    |                       |
-| log information.      |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Activities to assess  | -   Complete       |                       |
-| and satisfy open      |                    |                       |
-| source license        | -   Partial        |                       |
-| obligations are       |                    |                       |
-| planned and           | -   Not available  |                       |
-| integrated into       |                    |                       |
-| project schedules to  | -   Not applicable |                       |
-| assure that           |                    |                       |
-| obligations are met   |                    |                       |
-| in time for product   |                    |                       |
-| release.              |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| A defined code        | -   Complete       |                       |
-| distribution          |                    |                       |
-| mechanism is used to  | -   Partial        |                       |
-| respond to routine    |                    |                       |
-| requests for source   | -   Not available  |                       |
-| code distribution.    |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Individuals or teams  | -   Complete       |                       |
-| responsible for       |                    |                       |
-| documentation and     | -   Partial        |                       |
-| localization          |                    |                       |
-| activities perform    | -   Not available  |                       |
-| necessary tasks to    |                    |                       |
-| assure that           | -   Not applicable |                       |
-| obligations are met   |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| responds to all       |                    |                       |
-| external compliance   | -   Partial        |                       |
-| requests in a timely  |                    |                       |
-| manner.               | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action       |
+|                       |                       | Items**               |
++=======================+=======================+=======================+
+| The organization      |- [ ] Complete         |                       |
+| verifies that its     |                       |                       |
+| third party suppliers |- [ ] Partial          |                       |
+| provide all necessary |                       |                       |
+| information to        |- [ ] Not available    |                       |
+| satisfy open source   |                       |                       |
+| license obligations   |- [ ] Not applicable   |                       |
++-----------------------+-----------------------+-----------------------+
+| The organization      |- [ ] Complete         |                       |
+| defines what modes of |                       |                       |
+| external software     |- [ ] Partial          |                       |
+| conveyance trigger    |                       |                       |
+| license obligations   |- [ ] Not available    |                       |
+| and assures that any  |                       |                       |
+| software thus         |- [ ] Not applicable   |                       |
+| released meets        |                       |                       |
+| compliance            |                       |                       |
+| requirements.         |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| The organization      |- [ ] Complete         |                       |
+| satisfies obligations |                       |                       |
+| in a consistent and   |- [ ] Partial          |                       |
+| disciplined manner.   |                       |                       |
+|                       |- [ ] Not available    |                       |
+|                       |                       |                       |
+|                       |- [ ] Not applicable   |                       |
++-----------------------+-----------------------+-----------------------+
+| The organization      |- [ ] Complete         |                       |
+| places into a         |                       |                       |
+| software repository   |- [ ] Partial          |                       |
+| the complete source   |                       |                       |
+| code corresponding    |- [ ] Not available    |                       |
+| exactly to each open  |                       |                       |
+| source software       |- [ ] Not applicable   |                       |
+| package used in a     |                       |                       |
+| given product         |                       |                       |
+| release.              |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Source code reviews   |- [ ] Complete         |                       |
+| are used during the   |                       |                       |
+| development phase to  |- [ ] Partial          |                       |
+| assure that open      |                       |                       |
+| source software       |- [ ] Not available    |                       |
+| packages contain      |                       |                       |
+| necessary and         |- [ ] Not applicable   |                       |
+| appropriate           |                       |                       |
+| documentation of      |                       |                       |
+| copyright,            |                       |                       |
+| attribution,          |                       |                       |
+| licensing, and change |                       |                       |
+| log information.      |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| The organization      |- [ ] Complete         |                       |
+| places into a         |                       |                       |
+| software repository   |- [ ] Partial          |                       |
+| the complete source   |                       |                       |
+| code corresponding    |- [ ] Not available    |                       |
+| exactly to each open  |                       |                       |
+| source software       |- [ ] Not applicable   |                       |
+| package used in a     |                       |                       |
+| given product release |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Source code reviews   |- [ ] Complete         |                       |
+| are used during the   |                       |                       |
+| development phase to  |- [ ] Partial          |                       |
+| assure that open      |                       |                       |
+| source software       |- [ ] Not available    |                       |
+| packages contain      |                       |                       |
+| necessary and         |- [ ] Not applicable   |                       |
+| appropriate           |                       |                       |
+| documentation of      |                       |                       |
+| copyright,            |                       |                       |
+| attribution,          |                       |                       |
+| licensing, and change |                       |                       |
+| log information.      |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Activities to assess  |- [ ] Complete         |                       |
+| and satisfy open      |                       |                       |
+| source license        |- [ ] Partial          |                       |
+| obligations are       |                       |                       |
+| planned and           |- [ ] Not available    |                       |
+| integrated into       |                       |                       |
+| project schedules to  |- [ ] Not applicable   |                       |
+| assure that           |                       |                       |
+| obligations are met   |                       |                       |
+| in time for product   |                       |                       |
+| release.              |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| A defined code        |- [ ] Complete         |                       |
+| distribution          |                       |                       |
+| mechanism is used to  |- [ ] Partial          |                       |
+| respond to routine    |                       |                       |
+| requests for source   |- [ ] Not available    |                       |
+| code distribution.    |                       |                       |
+|                       |- [ ] Not applicable   |                       |
++-----------------------+-----------------------+-----------------------+
+| Individuals or teams  |- [ ] Complete         |                       |
+| responsible for       |                       |                       |
+| documentation and     |- [ ] Partial          |                       |
+| localization          |                       |                       |
+| activities perform    |- [ ] Not available    |                       |
+| necessary tasks to    |                       |                       |
+| assure that           |- [ ] Not applicable   |                       |
+| obligations are met   |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| The organization      |- [ ] Complete         |                       |
+| responds to all       |                       |                       |
+| external compliance   |- [ ] Partial          |                       |
+| requests in a timely  |                       |                       |
+| manner.               |- [ ] Not available    |                       |
+|                       |                       |                       |
+|                       |- [ ] Not applicable   |                       |
++-----------------------+-----------------------+-----------------------+
 
 **Worksheet - Community Contributions**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Community             | -   Complete       |                       |
-| contributions are     |                    |                       |
-| reviewed and approved | -   Partial        |                       |
-| according to a        |                    |                       |
-| defined process.      | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A determination is    | -   Complete       |                       |
-| made whether an       |                    |                       |
-| employee's proposed   | -   Partial        |                       |
-| contribution is       |                    |                       |
-| work-related or       | -   Not available  |                       |
-| non-work-related      |                    |                       |
-| based upon an         | -   Not applicable |                       |
-| existing guideline.   |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| A mechanism is used   | -   Complete       |                       |
-| to determine whether  |                    |                       |
-| any of the            | -   Partial        |                       |
-| organization's        |                    |                       |
-| departments or        | -   Not available  |                       |
-| business units object |                    |                       |
-| to the proposed       | -   Not applicable |                       |
-| contribution.         |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Copyright ownership   | -   Complete       |                       |
-| of the planned        |                    |                       |
-| contribution is       | -   Partial        |                       |
-| clarified.            |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A mechanism is used   | -   Complete       |                       |
-| to initiate and plan  |                    |                       |
-| company contributions | -   Partial        |                       |
-| of financial support, |                    |                       |
-| labor, code, or other | -   Not available  |                       |
-| intellectual property |                    |                       |
-| to community          | -   Not applicable |                       |
-| projects.             |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Company contributions | -   Complete       |                       |
-| to open source        |                    |                       |
-| communities are       | -   Partial        |                       |
-| tracked.              |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| A mechanism is used   | -   Complete       |                       |
-| to review and decide  |                    |                       |
-| on "Contributor       | -   Partial        |                       |
-| License Agreements".  |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| Community             |- [ ] Complete         |                      |
+| contributions are     |                       |                      |
+| reviewed and approved |- [ ] Partial          |                      |
+| according to a        |                       |                      |
+| defined process.      |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A determination is    |- [ ] Complete         |                      |
+| made whether an       |                       |                      |
+| employee's proposed   |- [ ] Partial          |                      |
+| contribution is       |                       |                      |
+| work-related or       |- [ ] Not available    |                      |
+| non-work-related      |                       |                      |
+| based upon an         |- [ ] Not applicable   |                      |
+| existing guideline.   |                       |                      |
++-----------------------+-----------------------+----------------------+
+| A mechanism is used   |- [ ] Complete         |                      |
+| to determine whether  |                       |                      |
+| any of the            |- [ ] Partial          |                      |
+| organization's        |                       |                      |
+| departments or        |- [ ] Not available    |                      |
+| business units object |                       |                      |
+| to the proposed       |- [ ] Not applicable   |                      |
+| contribution.         |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Copyright ownership   |- [ ] Complete         |                      |
+| of the planned        |                       |                      |
+| contribution is       |- [ ] Partial          |                      |
+| clarified.            |                       |                      |
+|                       |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A mechanism is used   |- [ ] Complete         |                      |
+| to initiate and plan  |                       |                      |
+| company contributions |- [ ] Partial          |                      |
+| of financial support, |                       |                      |
+| labor, code, or other |- [ ] Not available    |                      |
+| intellectual property |                       |                      |
+| to community          |- [ ] Not applicable   |                      |
+| projects.             |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Company contributions |- [ ] Complete         |                      |
+| to open source        |                       |                      |
+| communities are       |- [ ] Partial          |                      |
+| tracked.              |                       |                      |
+|                       |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| A mechanism is used   |- [ ] Complete         |                      |
+| to review and decide  |                       |                      |
+| on "Contributor       |- [ ] Partial          |                      |
+| License Agreements".  |                       |                      |
+|                       |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Policy**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| A policy is set in    | -   Complete       |                       |
-| place to enable the   |                    |                       |
-| company to            | -   Partial        |                       |
-| incorporate and use   |                    |                       |
-| open source software  | -   Not available  |                       |
-| in their products and |                    |                       |
-| services.             | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The policy is         | -   Complete       |                       |
-| championed by a       |                    |                       |
-| senior executive and  | -   Partial        |                       |
-| is communicated to    |                    |                       |
-| the entire company.   | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The policy addresses  | -   Complete       |                       |
-| roles and             |                    |                       |
-| responsibilities for  | -   Partial        |                       |
-| compliance actions, a |                    |                       |
-| review and approval   | -   Not available  |                       |
-| process for use of    |                    |                       |
-| open source software, | -   Not applicable |                       |
-| guidelines for        |                    |                       |
-| contributions to      |                    |                       |
-| community projects    |                    |                       |
-| and a review and      |                    |                       |
-| approval process for  |                    |                       |
-| contributions, and    |                    |                       |
-| core processes that   |                    |                       |
-| must be implemented   |                    |                       |
-| to govern use of open |                    |                       |
-| source software in    |                    |                       |
-| company products and  |                    |                       |
-| services.             |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The management team   | -   Complete       |                       |
-| endorses the policy   |                    |                       |
-| and assures that all  | -   Partial        |                       |
-| employees involved    |                    |                       |
-| with open source      | -   Not available  |                       |
-| understand and follow |                    |                       |
-| the policy.           | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| A policy is set in    |- [ ] Complete         |                      |
+| place to enable the   |                       |                      |
+| company to            |- [ ] Partial          |                      |
+| incorporate and use   |                       |                      |
+| open source software  |- [ ] Not available    |                      |
+| in their products and |                       |                      |
+| services.             |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The policy is         |- [ ] Complete         |                      |
+| championed by a       |                       |                      |
+| senior executive and  |- [ ] Partial          |                      |
+| is communicated to    |                       |                      |
+| the entire company.   |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The policy addresses  |- [ ] Complete         |                      |
+| roles and             |                       |                      |
+| responsibilities for  |- [ ] Partial          |                      |
+| compliance actions, a |                       |                      |
+| review and approval   |- [ ] Not available    |                      |
+| process for use of    |                       |                      |
+| open source software, |- [ ] Not applicable   |                      |
+| guidelines for        |                       |                      |
+| contributions to      |                       |                      |
+| community projects    |                       |                      |
+| and a review and      |                       |                      |
+| contributions, and    |                       |                      |
+| approval process for  |                       |                      |
+| core processes that   |                       |                      |
+| must be implemented   |                       |                      |
+| to govern use of open |                       |                      |
+| source software in    |                       |                      |
+| company products and  |                       |                      |
+| services.             |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The management team   |- [ ] Complete         |                       |
+| endorses the policy   |                       |                      |
+| and assures that all  |- [ ] Partial          |                       |
+| employees involved    |                       |                      |
+| with open source      |- [ ] Not available    |                       |
+| understand and follow |                       |                      |
+| the policy.           |- [ ] Not applicable   |                       |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Compliance Staffing**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Skilled and           | -   Complete       |                       |
-| knowledgeable         |                    |                       |
-| individuals are made  | -   Partial        |                       |
-| available to          |                    |                       |
-| contribute to the     | -   Not available  |                       |
-| compliance effort.    |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Dedicated assignments | -   Complete       |                       |
-| to the compliance     |                    |                       |
-| function provide      | -   Partial        |                       |
-| continuity of         |                    |                       |
-| involvement and       | -   Not available  |                       |
-| accumulation of       |                    |                       |
-| expertise.            | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Job descriptions      | -   Complete       |                       |
-| identify the skills   |                    |                       |
-| and insights needed   | -   Partial        |                       |
-| to perform compliance |                    |                       |
-| functions adequately. | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| identifies            |                    |                       |
-| individuals with the  | -   Partial        |                       |
-| skills, insights, and |                    |                       |
-| interest needed to    | -   Not available  |                       |
-| contribute to the     |                    |                       |
-| compliance function.  | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Compliance            | -   Complete       |                       |
-| contributors are      |                    |                       |
-| drawn from            | -   Partial        |                       |
-| cross-functional      |                    |                       |
-| departments, as       | -   Not available  |                       |
-| needed.               |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Training and          | -   Complete       |                       |
-| experiential learning |                    |                       |
-| opportunities are     | -   Partial        |                       |
-| provided to build     |                    |                       |
-| necessary skillsets.  | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| External consultants  | -   Complete       |                       |
-| are hired, as needed, |                    |                       |
-| to augment the        | -   Partial        |                       |
-| internal compliance   |                    |                       |
-| effort.               | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Estimates of total    | -   Complete       |                       |
-| compliance effort and |                    |                       |
-| duration are prepared | -   Partial        |                       |
-| to address the        |                    |                       |
-| organization's        | -   Not available  |                       |
-| compliance            |                    |                       |
-| requirements.         | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Estimates of          | -   Complete       |                       |
-| product-related       |                    |                       |
-| compliance activities | -   Partial        |                       |
-| are estimated and     |                    |                       |
-| tracked from the      | -   Not available  |                       |
-| perspective of both   |                    |                       |
-| the organizational    | -   Not applicable |                       |
-| compliance team and   |                    |                       |
-| the product team.     |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| A staffing plan is    | -   Complete       |                       |
-| prepared and followed |                    |                       |
-| to provide a level of | -   Partial        |                       |
-| responsiveness and    |                    |                       |
-| cycle time adequate   | -   Not available  |                       |
-| for product release   |                    |                       |
-| cycles.               | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Progress is tracked   | -   Complete       |                       |
-| against the           |                    |                       |
-| organization's and    | -   Partial        |                       |
-| product team's        |                    |                       |
-| compliance plans and  | -   Not available  |                       |
-| additional resources  |                    |                       |
-| are added as needed   | -   Not applicable |                       |
-| to achieve compliance |                    |                       |
-| objectives.           |                    |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| Skilled and           |- [ ] Complete         |                      |
+| knowledgeable         |                       |                      |
+| individuals are made  |- [ ] Partial          |                      |
+| available to          |                       |                      |
+| contribute to the     |- [ ] Not available    |                      |
+| compliance effort.    |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Dedicated assignments |- [ ] Complete         |                      |
+| to the compliance     |                       |                      |
+| function provide      |- [ ] Partial          |                      |
+| continuity of         |                       |                      |
+| involvement and       |- [ ] Not available    |                      |
+| accumulation of       |                       |                      |
+| expertise.            |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Job descriptions      |- [ ] Complete         |                      |
+| identify the skills   |                       |                      |
+| and insights needed   |- [ ] Partial          |                      |
+| to perform compliance |                       |                      |
+| functions adequately. |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| identifies            |                       |                      |
+| individuals with the  |- [ ] Partial          |                      |
+| skills, insights, and |                       |                      |
+| interest needed to    |- [ ] Not available    |                      |
+| contribute to the     |                       |                      |
+| compliance function.  |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Compliance            |- [ ] Complete         |                      |
+| contributors are      |                       |                      |
+| drawn from            |- [ ] Partial          |                      |
+| cross-functional      |                       |                      |
+| departments, as       |- [ ] Not available    |                      |
+| needed.               |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Training and          |- [ ] Complete         |                      |
+| experiential learning |                       |                      |
+| opportunities are     |- [ ] Partial          |                      |
+| provided to build     |                       |                      |
+| necessary skillsets.  |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| External consultants  |- [ ] Complete         |                      |
+| are hired, as needed, |                       |                      |
+| to augment the        |- [ ] Partial          |                      |
+| internal compliance   |                       |                      |
+| effort.               |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Estimates of total    |- [ ] Complete         |                      |
+| compliance effort and |                       |                      |
+| duration are prepared |- [ ] Partial          |                      |
+| to address the        |                       |                      |
+| organization's        |- [ ] Not available    |                      |
+| compliance            |                       |                      |
+| requirements.         |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Estimates of          |- [ ] Complete         |                      |
+| product-related       |                       |                      |
+| compliance activities |- [ ] Partial          |                      |
+| are estimated and     |                       |                      |
+| tracked from the      |- [ ] Not available    |                      |
+| perspective of both   |                       |                      |
+| the organizational    |- [ ] Not applicable   |                      |
+| compliance team and   |                       |                      |
+| the product team.     |                       |                      |
++-----------------------+-----------------------+----------------------+
+| A staffing plan is    |- [ ] Complete         |                      |
+| prepared and followed |                       |                      |
+| to provide a level of |- [ ] Partial          |                      |
+| responsiveness and    |                       |                      |
+| cycle time adequate   |- [ ] Not available    |                      |
+| for product release   |                       |                      |
+| cycles.               |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Progress is tracked   |- [ ] Complete         |                      |
+| against the           |                       |                      |
+| organization's and    |- [ ] Partial          |                      |
+| product team's        |                       |                      |
+| compliance plans and  |- [ ] Not available    |                      |
+| additional resources  |                       |                      |
+| are added as needed   |- [ ] Not applicable   |                      |
+| to achieve compliance |                       |                      |
+| objectives.           |                       |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Adaptation of Business Processes**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Existing business     | -   Complete       |                       |
-| processes are         |                    |                       |
-| modified to           | -   Partial        |                       |
-| incorporate open      |                    |                       |
-| source compliance     | -   Not available  |                       |
-| activities and        |                    |                       |
-| considerations.       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Supply Chain's        | -   Complete       |                       |
-| supplier selection    |                    |                       |
-| procedures are        | -   Partial        |                       |
-| tailored to assure    |                    |                       |
-| that open source      | -   Not available  |                       |
-| compliance            |                    |                       |
-| requirements are      | -   Not applicable |                       |
-| considered when       |                    |                       |
-| performing due        |                    |                       |
-| diligence on          |                    |                       |
-| suppliers.            |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Process management    | -   Complete       |                       |
-| assures that open     |                    |                       |
-| source compliance     | -   Partial        |                       |
-| activities are        |                    |                       |
-| included early enough | -   Not available  |                       |
-| in the product        |                    |                       |
-| development cycle to  | -   Not applicable |                       |
-| enable the            |                    |                       |
-| organization to meet  |                    |                       |
-| its release           |                    |                       |
-| timelines.            |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Late-cycle            | -   Complete       |                       |
-| verification steps    |                    |                       |
-| are used to assure    | -   Partial        |                       |
-| that all compliance   |                    |                       |
-| requirements have     | -   Not available  |                       |
-| been met before       |                    |                       |
-| external distribution | -   Not applicable |                       |
-| occurs.               |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Individuals managing  | -   Complete       |                       |
-| business processes    |                    |                       |
-| have received         | -   Partial        |                       |
-| training in open      |                    |                       |
-| source compliance     | -   Not available  |                       |
-| requirements and      |                    |                       |
-| exhibit sensitivity   | -   Not applicable |                       |
-| to open source        |                    |                       |
-| compliance concerns.  |                    |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| Existing business     |- [ ] Complete         |                      |
+| processes are         |                       |                      |
+| modified to           |- [ ] Partial          |                      |
+| incorporate open      |                       |                      |
+| source compliance     |- [ ] Not available    |                      |
+| activities and        |                       |                      |
+| considerations.       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Supply Chain's        |- [ ] Complete         |                      |
+| supplier selection    |                       |                      |
+| procedures are        |- [ ] Partial          |                      |
+| tailored to assure    |                       |                      |
+| that open source      |- [ ] Not available    |                      |
+| compliance            |                       |                      |
+| requirements are      |- [ ] Not applicable   |                      |
+| considered when       |                       |                      |
+| performing due        |                       |                      |
+| diligence on          |                       |                      |
+| suppliers.            |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Process management    |- [ ] Complete         |                      |
+| assures that open     |                       |                      |
+| source compliance     |- [ ] Partial          |                      |
+| activities are        |                       |                      |
+| included early enough |- [ ] Not available    |                      |
+| in the product        |                       |                      |
+| development cycle to  |- [ ] Not applicable   |                      |
+| enable the            |                       |                      |
+| organization to meet  |                       |                      |
+| its release           |                       |                      |
+| timelines.            |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Late-cycle            |- [ ] Complete         |                      |
+| verification steps    |                       |                      |
+| are used to assure    |- [ ] Partial          |                      |
+| that all compliance   |                       |                      |
+| requirements have     |- [ ] Not available    |                      |
+| been met before       |                       |                      |
+| external distribution |- [ ] Not applicable   |                      |
+| occurs.               |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Individuals managing  |- [ ] Complete         |                      |
+| business processes    |                       |                      |
+| have received         |- [ ] Partial          |                      |
+| training in open      |                       |                      |
+| source compliance     |- [ ] Not available    |                      |
+| requirements and      |                       |                      |
+| exhibit sensitivity   |- [ ] Not applicable   |                      |
+| to open source        |                       |                      |
+| compliance concerns.  |                       |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Training**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Training on the       | -   Complete       |                       |
-| organization's open   |                    |                       |
-| source policies,      | -   Partial        |                       |
-| processes and         |                    |                       |
-| guidelines is         | -   Not available  |                       |
-| provided to all who   |                    |                       |
-| come into contact     | -   Not applicable |                       |
-| with open source      |                    |                       |
-| software.             |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Growth of an internal | -   Complete       |                       |
-| community of open     |                    |                       |
-| source users and      | -   Partial        |                       |
-| contributors is       |                    |                       |
-| encouraged in order   | -   Not available  |                       |
-| to provide            |                    |                       |
-| organizational        | -   Not applicable |                       |
-| guidance and          |                    |                       |
-| leadership with       |                    |                       |
-| respect to the use of |                    |                       |
-| open source software  |                    |                       |
-| in an ethical and     |                    |                       |
-| compliant way.        |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Refresher training on | -   Complete       |                       |
-| open source           |                    |                       |
-| compliance is         | -   Partial        |                       |
-| provided              |                    |                       |
-| periodically.         | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| Training on the       |- [ ] Complete         |                      |
+| organization's open   |                       |                      |
+| source policies,      |- [ ] Partial          |                      |
+| processes and         |                       |                      |
+| guidelines is         |- [ ] Not available    |                      |
+| provided to all who   |                       |                      |
+| come into contact     |- [ ] Not applicable   |                      |
+| with open source      |                       |                      |
+| software.             |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Growth of an internal |- [ ] Complete         |                      |
+| community of open     |                       |                      |
+| source users and      |- [ ] Partial          |                      |
+| contributors is       |                       |                      |
+| encouraged in order   |- [ ] Not available    |                      |
+| to provide            |                       |                      |
+| organizational        |- [ ] Not applicable   |                      |
+| guidance and          |                       |                      |
+| leadership with       |                       |                      |
+| respect to the use of |                       |                      |
+| open source software  |                       |                      |
+| in an ethical and     |                       |                      |
+| compliant way.        |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Refresher training on |- [ ] Complete         |                      |
+| open source           |                       |                      |
+| compliance is         |- [ ] Partial          |                      |
+| provided              |                       |                      |
+| periodically.         |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Compliance Process Management**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Responsibility for    | -   Complete       |                       |
-| achieving             |                    |                       |
-| organization-wide     | -   Partial        |                       |
-| open source           |                    |                       |
-| compliance is clearly | -   Not available  |                       |
-| designated.           |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The team responsible  | -   Complete       |                       |
-| for coordinating      |                    |                       |
-| compliance activities | -   Partial        |                       |
-| has visibility into   |                    |                       |
-| product development   | -   Not available  |                       |
-| and product release   |                    |                       |
-| plans and activities, | -   Not applicable |                       |
-| and is able to        |                    |                       |
-| interface effectively |                    |                       |
-| with product teams.   |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Project management    | -   Complete       |                       |
-| fundamentals are      |                    |                       |
-| applied to managing   | -   Partial        |                       |
-| compliance projects   |                    |                       |
-| and compliance team   | -   Not available  |                       |
-| activities.           |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Metrics are defined   | -   Complete       |                       |
-| and collected to      |                    |                       |
-| assess the            | -   Partial        |                       |
-| effectiveness of the  |                    |                       |
-| organization's open   | -   Not available  |                       |
-| source use and its    |                    |                       |
-| open source           | -   Not applicable |                       |
-| compliance            |                    |                       |
-| activities.           |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| engages in            |                    |                       |
-| externally-focused    | -   Partial        |                       |
-| benchmarking          |                    |                       |
-| activities to         | -   Not available  |                       |
-| identify potential    |                    |                       |
-| improvements to its   | -   Not applicable |                       |
-| compliance process.   |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| maintains an          |                    |                       |
-| awareness of          | -   Partial        |                       |
-| community initiatives |                    |                       |
-| to address supply     | -   Not available  |                       |
-| chain issues with     |                    |                       |
-| respect to open       | -   Not applicable |                       |
-| source compliance.    |                    |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| Responsibility for    |- [ ] Complete         |                      |
+| achieving             |                       |                      |
+| organization-wide     |- [ ] Partial          |                      |
+| open source           |                       |                      |
+| compliance is clearly |- [ ] Not available    |                      |
+| designated.           |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The team responsible  |- [ ] Complete         |                      |
+| for coordinating      |                       |                      |
+| compliance activities |- [ ] Partial          |                      |
+| has visibility into   |                       |                      |
+| product development   |- [ ] Not available    |                      |
+| and product release   |                       |                      |
+| plans and activities, |- [ ] Not applicable   |                      |
+| and is able to        |                       |                      |
+| interface effectively |                       |                      |
+| with product teams.   |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Project management    |- [ ] Complete         |                      |
+| fundamentals are      |                       |                      |
+| applied to managing   |- [ ] Partial          |                      |
+| compliance projects   |                       |                      |
+| and compliance team   |- [ ] Not available    |                      |
+| activities.           |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Metrics are defined   |- [ ] Complete         |                      |
+| and collected to      |                       |                      |
+| assess the            |- [ ] Partial          |                      |
+| effectiveness of the  |                       |                      |
+| organization's open   |- [ ] Not available    |                      |
+| source use and its    |                       |                      |
+| open source           |- [ ] Not applicable   |                      |
+| compliance            |                       |                      |
+| activities.           |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| engages in            |                       |                      |
+| externally-focused    |- [ ] Partial          |                      |
+| benchmarking          |                       |                      |
+| activities to         |- [ ] Not available    |                      |
+| identify potential    |                       |                      |
+| improvements to its   |- [ ] Not applicable   |                      |
+| compliance process.   |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| maintains an          |                       |                      |
+| awareness of          |- [ ] Partial          |                      |
+| community initiatives |                       |                      |
+| to address supply     |- [ ] Not available    |                      |
+| chain issues with     |                       |                      |
+| respect to open       |- [ ] Not applicable   |                      |
+| source compliance.    |                       |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Open Source Software Inventory**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| The organization      | -   Complete       |                       |
-| tracks progress of    |                    |                       |
-| compliance activities | -   Partial        |                       |
-| for a product being   |                    |                       |
-| readied for release.  | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| maintains complete    |                    |                       |
-| and accurate records  | -   Partial        |                       |
-| about the open source |                    |                       |
-| content in its        | -   Not available  |                       |
-| products and          |                    |                       |
-| services, and the     | -   Not applicable |                       |
-| context in which it   |                    |                       |
-| is used, according to |                    |                       |
-| a defined procedure.  |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| maintains complete    |                    |                       |
-| and accurate records  | -   Partial        |                       |
-| about open source     |                    |                       |
-| software used         | -   Not available  |                       |
-| internally for tools, |                    |                       |
-| operational systems,  | -   Not applicable |                       |
-| prototype             |                    |                       |
-| development, etc.     |                    |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| The organization      |- [ ] Complete         |                      |
+| tracks progress of    |                       |                      |
+| compliance activities |- [ ] Partial          |                      |
+| for a product being   |                       |                      |
+| readied for release.  |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| maintains complete    |                       |                      |
+| and accurate records  |- [ ] Partial          |                      |
+| about the open source |                       |                      |
+| content in its        |- [ ] Not available    |                      |
+| products and          |                       |                      |
+| services, and the     |- [ ] Not applicable   |                      |
+| context in which it   |                       |                      |
+| is used, according to |                       |                      |
+| a defined procedure.  |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| maintains complete    |                       |                      |
+| and accurate records  |- [ ] Partial          |                      |
+| about open source     |                       |                      |
+| software used         |- [ ] Not available    |                      |
+| internally for tools, |                       |                      |
+| operational systems,  |- [ ] Not applicable   |                      |
+| prototype             |                       |                      |
+| development, etc.     |                       |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Automation and Tool Support**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| The organization      | -   Complete       |                       |
-| assesses its          |                    |                       |
-| compliance process to | -   Partial        |                       |
-| identify and          |                    |                       |
-| prioritize            | -   Not available  |                       |
-| opportunities for     |                    |                       |
-| automation and tool   | -   Not applicable |                       |
-| support.              |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| regularly             |                    |                       |
-| investigates          | -   Partial        |                       |
-| commercial and open   |                    |                       |
-| source tools that     | -   Not available  |                       |
-| might provide         |                    |                       |
-| assistance to         | -   Not applicable |                       |
-| compliance            |                    |                       |
-| activities.           |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Tool acquisition or   | -   Complete       |                       |
-| tool development      |                    |                       |
-| projects are planned  | -   Partial        |                       |
-| and executed          |                    |                       |
-| according to defined  | -   Not available  |                       |
-| procedures for tool   |                    |                       |
-| development and       | -   Not applicable |                       |
-| adoption.             |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The organization      | -   Complete       |                       |
-| engages in user group |                    |                       |
-| meetings and          | -   Partial        |                       |
-| community forums      |                    |                       |
-| related to compliance | -   Not available  |                       |
-| tools.                |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Mechanisms are used   | -   Complete       |                       |
-| to determine the open |                    |                       |
-| source software       | -   Partial        |                       |
-| content of a          |                    |                       |
-| product/service       | -   Not available  |                       |
-| release and the files |                    |                       |
-| that must be          | -   Not applicable |                       |
-| subjected to          |                    |                       |
-| compliance analysis.  |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| Tools are used to     | -   Complete       |                       |
-| track open source     |                    |                       |
-| issues to closure.    | -   Partial        |                       |
-|                       |                    |                       |
-|                       | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Mechanisms are used   | -   Complete       |                       |
-| to determine the      |                    |                       |
-| differences in        | -   Partial        |                       |
-| software content      |                    |                       |
-| between individual    | -   Not available  |                       |
-| releases of a product |                    |                       |
-| for distribution.     | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| An initial compliance | -   Complete       |                       |
-| baseline for a        |                    |                       |
-| product is            | -   Partial        |                       |
-| established with the  |                    |                       |
-| aid of scanning       | -   Not available  |                       |
-| tools, whenever it is |                    |                       |
-| advantageous to do    | -   Not applicable |                       |
-| so.                   |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| A repository of open  | -   Complete       |                       |
-| source software       |                    |                       |
-| packages is           | -   Partial        |                       |
-| maintained and made   |                    |                       |
-| available to the      | -   Not available  |                       |
-| organization.         |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| The organization      |- [ ] Complete         |                      |
+| assesses its          |                       |                      |
+| compliance process to |- [ ] Partial          |                      |
+| identify and          |                       |                      |
+| prioritize            |- [ ] Not available    |                      |
+| opportunities for     |                       |                      |
+| automation and tool   |- [ ] Not applicable   |                      |
+| support.              |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| regularly             |                       |                      |
+| investigates          |- [ ] Partial          |                      |
+| commercial and open   |                       |                      |
+| source tools that     |- [ ] Not available    |                      |
+| might provide         |                       |                      |
+| assistance to         |- [ ] Not applicable   |                      |
+| compliance            |                       |                      |
+| activities.           |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Tool acquisition or   |- [ ] Complete         |                      |
+| tool development      |                       |                      |
+| projects are planned  |- [ ] Partial          |                      |
+| and executed          |                       |                      |
+| according to defined  |- [ ] Not available    |                      |
+| procedures for tool   |                       |                      |
+| development and       |- [ ] Not applicable   |                      |
+| adoption.             |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The organization      |- [ ] Complete         |                      |
+| engages in user group |                       |                      |
+| meetings and          |- [ ] Partial          |                      |
+| community forums      |                       |                      |
+| related to compliance |- [ ] Not available    |                      |
+| tools.                |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Mechanisms are used   |- [ ] Complete         |                      |
+| to determine the open |                       |                      |
+| source software       |- [ ] Partial          |                      |
+| content of a          |                       |                      |
+| product/service       |- [ ] Not available    |                      |
+| release and the files |                       |                      |
+| that must be          |- [ ] Not applicable   |                      |
+| subjected to          |                       |                      |
+| compliance analysis.  |                       |                      |
++-----------------------+-----------------------+----------------------+
+| Tools are used to     |- [ ] Complete         |                      |
+| track open source     |                       |                      |
+| issues to closure.    |- [ ] Partial          |                      |
+|                       |                       |                      |
+|                       |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Mechanisms are used   |- [ ] Complete         |                      |
+| to determine the      |                       |                      |
+| differences in        |- [ ] Partial          |                      |
+| software content      |                       |                      |
+| between individual    |- [ ] Not available    |                      |
+| releases of a product |                       |                      |
+| for distribution.     |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| An initial compliance |- [ ] Complete         |                      |
+| baseline for a        |                       |                      |
+| product is            |- [ ] Partial          |                      |
+| established with the  |                       |                      |
+| aid of scanning       |- [ ] Not available    |                      |
+| tools, whenever it is |                       |                      |
+| advantageous to do    |- [ ] Not applicable   |                      |
+| so.                   |                       |                      |
++-----------------------+-----------------------+----------------------+
+| A repository of open  |- [ ] Complete         |                      |
+| source software       |                       |                      |
+| packages is           |- [ ] Partial          |                      |
+| maintained and made   |                       |                      |
+| available to the      |- [ ] Not available    |                      |
+| organization.         |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Verification**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| The compliance team   | -   Complete       |                       |
-| performs verification |                    |                       |
-| activities according  | -   Partial        |                       |
-| to a defined          |                    |                       |
-| procedure.            | -   Not available  |                       |
-|                       |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The compliance team   | -   Complete       |                       |
-| verifies that source  |                    |                       |
-| code license          | -   Partial        |                       |
-| obligations have been |                    |                       |
-| met by the time a     | -   Not available  |                       |
-| product is considered |                    |                       |
-| ready for release.    | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The compliance team   | -   Complete       |                       |
-| verifies that         |                    |                       |
-| copyright notices,    | -   Partial        |                       |
-| attribution notices,  |                    |                       |
-| license text, and any | -   Not available  |                       |
-| modification logs     |                    |                       |
-| have been included    | -   Not applicable |                       |
-| accurately.           |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The compliance team   | -   Complete       |                       |
-| verifies that OSRB    |                    |                       |
-| approval has been     | -   Partial        |                       |
-| obtained for all open |                    |                       |
-| source software       | -   Not available  |                       |
-| packages in the       |                    |                       |
-| release.              | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| The compliance team   | -   Complete       |                       |
-| verifies that third   |                    |                       |
-| party suppliers have  | -   Partial        |                       |
-| made full and         |                    |                       |
-| accurate disclosure   | -   Not available  |                       |
-| of open source        |                    |                       |
-| included in their     | -   Not applicable |                       |
-| deliverables and that |                    |                       |
-| these suppliers have  |                    |                       |
-| satisfied their       |                    |                       |
-| obligations under the |                    |                       |
-| open source licenses. |                    |                       |
-+-----------------------+--------------------+-----------------------+
-| The compliance team   | -   Complete       |                       |
-| verifies that open    |                    |                       |
-| source can be         | -   Partial        |                       |
-| obtained via the      |                    |                       |
-| defined distribution  | -   Not available  |                       |
-| mechanism and that    |                    |                       |
-| the source code thus  | -   Not applicable |                       |
-| obtained can be built |                    |                       |
-| in an independent     |                    |                       |
-| environment.          |                    |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| The compliance team   |- [ ] Complete         |                      |
+| performs verification |                       |                      |
+| activities according  |- [ ] Partial          |                      |
+| to a defined          |                       |                      |
+| procedure.            |- [ ] Not available    |                      |
+|                       |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The compliance team   |- [ ] Complete         |                      |
+| verifies that source  |                       |                      |
+| code license          |- [ ] Partial          |                      |
+| obligations have been |                       |                      |
+| met by the time a     |- [ ] Not available    |                      |
+| product is considered |                       |                      |
+| ready for release.    |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The compliance team   |- [ ] Complete         |                      |
+| verifies that         |                       |                      |
+| copyright notices,    |- [ ] Partial          |                      |
+| attribution notices,  |                       |                      |
+| license text, and any |- [ ] Not available    |                      |
+| modification logs     |                       |                      |
+| have been included    |- [ ] Not applicable   |                      |
+| accurately.           |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The compliance team   |- [ ] Complete         |                      |
+| verifies that OSRB    |                       |                      |
+| approval has been     |- [ ] Partial          |                      |
+| obtained for all open |                       |                      |
+| source software       |- [ ] Not available    |                      |
+| packages in the       |                       |                      |
+| release.              |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| The compliance team   |- [ ] Complete         |                      |
+| verifies that third   |                       |                      |
+| party suppliers have  |- [ ] Partial          |                      |
+| made full and         |                       |                      |
+| accurate disclosure   |- [ ] Not available    |                      |
+| of open source        |                       |                      |
+| included in their     |- [ ] Not applicable   |                      |
+| deliverables and that |                       |                      |
+| these suppliers have  |                       |                      |
+| satisfied their       |                       |                      |
+| obligations under the |                       |                      |
+| open source licenses. |                       |                      |
++-----------------------+-----------------------+----------------------+
+| The compliance team   |- [ ] Complete         |                      |
+| verifies that open    |                       |                      |
+| source can be         |- [ ] Partial          |                      |
+| obtained via the      |                       |                      |
+| defined distribution  |- [ ] Not available    |                      |
+| mechanism and that    |                       |                      |
+| the source code thus  |- [ ] Not applicable   |                      |
+| obtained can be built |                       |                      |
+| in an independent     |                       |                      |
+| environment.          |                       |                      |
++-----------------------+-----------------------+----------------------+
 
 **Worksheet - Process Adherence Audits**
 
-+-----------------------+--------------------+-----------------------+
-| **Practice**          | **Implementation** | **Notes, Action       |
-|                       |                    | Items**               |
-+=======================+====================+=======================+
-| Process adherence     | -   Complete       |                       |
-| audits are used to    |                    |                       |
-| determine whether the | -   Partial        |                       |
-| organization follows  |                    |                       |
-| its defined           | -   Not available  |                       |
-| compliance process.   |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Audit assess the      | -   Complete       |                       |
-| extent to which       |                    |                       |
-| execution of the      | -   Partial        |                       |
-| compliance process    |                    |                       |
-| produces expected     | -   Not available  |                       |
-| compliance results.   |                    |                       |
-|                       | -   Not applicable |                       |
-+-----------------------+--------------------+-----------------------+
-| Audits determine      | -   Complete       |                       |
-| whether the           |                    |                       |
-| organization          | -   Partial        |                       |
-| maintains accurate    |                    |                       |
-| records about the     | -   Not available  |                       |
-| open source software  |                    |                       |
-| content of its        | -   Not applicable |                       |
-| products and          |                    |                       |
-| services, and of the  |                    |                       |
-| compliance activities |                    |                       |
-| it performs           |                    |                       |
-+-----------------------+--------------------+-----------------------+
++-----------------------+-----------------------+----------------------+
+| **Practice**          | **Implementation**    | **Notes, Action      |
+|                       |                       | Items**              |
++=======================+=======================+======================+
+| Process adherence     |- [ ] Complete         |                      |
+| audits are used to    |                       |                      |
+| determine whether the |- [ ] Partial          |                      |
+| organization follows  |                       |                      |
+| its defined           |- [ ] Not available    |                      |
+| compliance process.   |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Audit assess the      |- [ ] Complete         |                      |
+| extent to which       |                       |                      |
+| execution of the      |- [ ] Partial          |                      |
+| compliance process    |                       |                      |
+| produces expected     |- [ ] Not available    |                      |
+| compliance results.   |                       |                      |
+|                       |- [ ] Not applicable   |                      |
++-----------------------+-----------------------+----------------------+
+| Audits determine      |- [ ] Complete         |                      |
+| whether the           |                       |                      |
+| organization          |- [ ] Partial          |                      |
+| maintains accurate    |                       |                      |
+| records about the     |- [ ] Not available    |                      |
+| open source software  |                       |                      |
+| content of its        |- [ ] Not applicable   |                      |
+| products and          |                       |                      |
+| services, and of the  |                       |                      |
+| compliance activities |                       |                      |
+| it performs           |                       |                      |
++-----------------------+-----------------------+----------------------+
 
 # Resources
 
