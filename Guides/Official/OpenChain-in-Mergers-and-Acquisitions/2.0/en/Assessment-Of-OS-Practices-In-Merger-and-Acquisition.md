@@ -2221,7 +2221,7 @@ Science, where he was awarded the J. W. McConnell Memorial Graduate
 Fellowship and the Concordia University 25th Anniversary
 Fellowship.
 
-![](./media/image19.jpg)
+![](./media/image19.jpg){width=40%}
 
 Twitter:
 [\@IbrahimAtLinux](https://twitter.com/ibrahimatlinux/)
