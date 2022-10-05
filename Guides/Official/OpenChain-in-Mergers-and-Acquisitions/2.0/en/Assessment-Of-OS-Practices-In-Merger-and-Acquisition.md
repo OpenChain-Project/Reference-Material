@@ -472,32 +472,32 @@ height="0.9791666666666666in"}
 ***"Adaptation of Business Processes" focuses on fitting OSS compliance
 practices within the context of existing business processes.***
 
-> -   Existing business processes are modified to incorporate open source
->     compliance activities and considerations.
->
->     -   Compliance activities are mapped against the organization's
->         product development process to identify leverage points.
->
->     -   A process FMEA (failure mode effects analysis) is performed to
->         identify ways that compliance failures could occur and the
->         business processes that should be modified to prevent such
->         failures.
->
-> -   Supply chain's supplier selection procedures are tailored to ensure
->     that open source compliance requirements are considered when
->     performing due diligence on suppliers.
->
-> -   Process management ensures that open source compliance activities
->     are included early enough in the product development cycle to
->     enable the organization to meet its release timelines.
->
-> -   Late-cycle verification steps are used to ensure that all compliance
->     requirements have been met before external distribution occurs.
->
-> -   Individuals charged with managing business processes have received
->     training in open source compliance requirements and exhibit
->     sufficient understanding and experience with open source
->     compliance concerns.
+-   Existing business processes are modified to incorporate open source
+    compliance activities and considerations.
+
+    -   Compliance activities are mapped against the organization's
+        product development process to identify leverage points.
+
+    -   A process FMEA (failure mode effects analysis) is performed to
+        identify ways that compliance failures could occur and the
+        business processes that should be modified to prevent such
+        failures.
+
+-   Supply chain's supplier selection procedures are tailored to ensure
+    that open source compliance requirements are considered when
+    performing due diligence on suppliers.
+
+-   Process management ensures that open source compliance activities
+    are included early enough in the product development cycle to
+    enable the organization to meet its release timelines.
+
+-   Late-cycle verification steps are used to ensure that all compliance
+    requirements have been met before external distribution occurs.
+
+-   Individuals charged with managing business processes have received
+    training in open source compliance requirements and exhibit
+    sufficient understanding and experience with open source
+    compliance concerns.
 
 ## 8. Training
 
