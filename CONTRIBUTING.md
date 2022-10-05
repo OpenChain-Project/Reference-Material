@@ -1,5 +1,11 @@
 # Contributing to OpenChain's Reference-Material Repository
 
+## Licenses for Contributions
+
+To align with our project charter:
+* Case studies should be licensed under CC-BY-SA, or a more permissive license;
+* Other contributions should be licensed under CC-0.
+
 ## Types of Contribution
 
 This repository contains documentation. Typical contributions are:
@@ -13,6 +19,7 @@ This repository contains documentation. Typical contributions are:
 
 Other contributions are welcomed too, such as:
 * Guides and playbooks for adoption of the OpenChain ISO/IEC standard;
+* Case studies, indicating how an organization has achieved conformance, and the benefits gained thereby.
 
 Contributions are also welcomed through discussions:
 * Online discussions via Slack and mailing lists.
