@@ -97,7 +97,7 @@ It is designed to identify the key requirements of a quality open source license
 
 ### Where can I find the current version of OpenChain ISO/IEC 5230:2020?
 
-You can find it on the OpenChain Project Specification page:
+You can find it on the OpenChain Project conformance page:
 
 https://www.openchainproject.org/get-started/conformance
 
@@ -184,6 +184,7 @@ https://certification.openchainproject.org/
 ### If I use the web app, can I change my submission?
 
 You will see an unsubmit button at the bottom of the page after signing in to the Online Self-Certification site. Clicking this button will cancel your previous OpenChain Self-Certification submission. You can then re-submit the conformance check. The site is here:
+
 https://certification.openchainproject.org/
 
 ### If I use the web app, what response time should I expect to a submittal request?
