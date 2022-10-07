@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+Version 1
+
 ## General FAQ
 
 The OpenChain Project has an extensive global community that involves thousands of companies collaborating to make the supply chain quicker, more effective and more efficient. We work together to create trust between entities around open source.
