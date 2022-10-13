@@ -2,8 +2,8 @@
 name: Ref Material submissions
 about: Suggested Reference Material submission
 title: "[Ref Material]"
-labels: ''
-assignees: seanmcilroy29
+labels: Ref Material
+assignees: ''
 
 ---
 
