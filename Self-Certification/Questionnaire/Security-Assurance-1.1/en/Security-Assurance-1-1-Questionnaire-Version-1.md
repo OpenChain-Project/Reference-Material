@@ -24,7 +24,7 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 
 ## Section 3.1.1
 
-Do you have a policy governing the open source security assurance of Supplied Software?
+Do you have a documented policy governing the open source security assurance of Supplied Software?
 - [ ] Yes
 - [ ] No
 
