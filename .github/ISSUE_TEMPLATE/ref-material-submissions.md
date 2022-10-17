@@ -1,14 +1,13 @@
 ---
-name: Ref Material submissions
-about: Suggested Reference Material submission
-title: "[Ref Material]"
-labels: Ref Material
+name: New material submission
+about: Suggested new material submission
+title: "[New Material]"
+labels: New Material
 assignees: ''
 
 ---
 
-## Reference Material
-{Outline Reference Material updates}
+## Suggested new material
+{Outline new material}
 
-
-## Additional comments/material
+## Additional comments
