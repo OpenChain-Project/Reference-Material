@@ -12,20 +12,19 @@ OpenChain ISO/IEC 5230:2020 is the International Standard for open source licens
 
 You can adopt OpenChain ISO/IEC 5230:2020 by self-certification in your own time or working with a service provider for independent assessment or third-party certification. Our recommended path is self-certification and we provide this questionnaire to support this with a series of "yes" or "no" questions.
 
-We have a lot of resources to support you if you need assistance. You can join our mailing lists, our webinars, our group calls and our regional work groups to discuss challenges with your peers and in your native language. You can get started here:
+We have a lot of resources to support you if you need assistance. You can join our mailing lists, our webinars, our group calls and our regional work groups to discuss challenges with your peers and in your native language. You can get started here:<br>
+https://www.openchainproject.org/community
 
-[[https://www.openchainproject.org/community]{.underline}](https://www.openchainproject.org/community)
+As part of our online support you can also self-certify using our web app for free here:<br>
+https://certification.openchainproject.org
 
-As part of our online support you can also self-certify using our web app for free here:\
-[[https://certification.openchainproject.org/]{.underline}](https://certification.openchainproject.org/)
-
-We have a video discussing online self-certification here:\
-[[https://www.youtube.com/watch?v=lVM4RH8RRl0]{.underline}](https://www.youtube.com/watch?v=lVM4RH8RRl0)
+We have a video discussing online self-certification here:<br>
+https://www.youtube.com/watch?v=lVM4RH8RRl0
 
 Online self-certification is the same as this questionnaire. It is just another option.
 
 Finally, if you want direct support from the project you can email
-[[info@openchainproject.org]{.underline}](mailto:info@openchainproject.org)
+[mailto:info@openchainproject.org](info@openchainproject.org)
 with questions. We provide support for free. The OpenChain Project is funded by our Platinum Members and is designed to help support the global supply chain transition to more effective and efficient open source license compliance.
 
 **Our Platinum Members**
