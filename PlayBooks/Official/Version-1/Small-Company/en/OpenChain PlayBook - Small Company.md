@@ -1,3 +1,7 @@
+# OpenChain Small Company Playbook
+
+## Version 1
+
 ## Introduction
 
 The OpenChain PlayBooks are intended to help you understand the types of decisions made by managers in companies adopting OpenChain ISO/IEC 5230:2020. We cover examples of the decision-process in small, medium and large companies. Our examples are based on companies (a) in the technology industry, (b) in the middle of the supply chain and (c) shipping physical products containing software.
