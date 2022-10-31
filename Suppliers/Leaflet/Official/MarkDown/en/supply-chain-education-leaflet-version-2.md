@@ -184,7 +184,7 @@ There are many ways to contribute to open source communities: proposing bugfixes
 
 As software becomes larger and more complex, the supply chain for software also tends to become larger and more complex. A modern software supply chain may include an open source community, a software supplier, a semiconductor vendor that provides an SDK, and a final product vendor. If any member of a large and complex software supply chain fails to comply with license obligations or fails to provide the appropriate license information, it will cause a large impact to a vendor who is obligated to comply with the license (Figure 1). Compliance failure could result in product shipment being suspended. If the vendor does not know about the failure before shipping, the vendor may receive an inquiry regarding the failure from a copyright holder or a third party, which it cannot respond to.
 
-![Figure 1](/images/supply-chain-education-leaflet-figure-1.png)
+![Figure 1](https://github.com/OpenChain-Project/Reference-Material/blob/master/Suppliers/Leaflet/Official/MarkDown/en/images/supply-chain-education-leaflet-figure-1.png)
 
 However, if software compliance is managed appropriately in the upstream supply chain, these problems can be avoided. To facilitate compliance with open source licenses, all participants in the supply chain must do their duty, build trust throughout the supply chain, and communicate appropriate information regarding included software.
 
