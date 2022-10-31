@@ -8,6 +8,7 @@
 
 ##### 1st Commit 2nd edition 2022-10-31
 ##### 2nd Commit 2nd edition 2022-10-31 - Adjusted OSS to open source as per normal project practice, other small fixes
+##### 3rd Commit 2nd edition 2022-10-31 - Adjusted intro to mention security.
 
 # Introduction
 
@@ -15,9 +16,11 @@ Open Source Software (open source) has become essential to modern software devel
 
 Much open source is developed through the collaboration of expert developers from different organizations throughout the world. open source is often a vehicle for advanced innovation in various fields. Software engineers who participate in open source development have opportunities to improve their skills and to experience this innovation firsthand.
 
-Open source can be freely used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed, the distributor is require to comply with the terms and conditions of the license at the point in time when distribution occurs. There have been cases where distributors were sued and lost because they failed to satisfy their legal obligations. Thus, to reduce risks caused by using open source, all relevant personnel must have an understanding of the basic principles of open source.
+Open source can be freely used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed, the distributor is require to comply with the terms and conditions of the license at the point in time when distribution occurs. There have been cases where distributors were sued and lost because they failed to satisfy their legal obligations. There are best practices to help prevent this happening.
 
-This pamphlet has been written by the Japanese Work Group of the OpenChain Project from The Linux Foundation, to tell as many people as possible about the basic principles of open source.
+By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel must have an understanding of the basic principles of open source.
+
+This leaflet was created by the Japanese Work Group of the OpenChain Project from The Linux Foundation to provide basic open source education. It is licensed under CC-0 (effectively public domain) and is maintained by the global OpenChain Project community.
 
 # Learning Open Source
 
