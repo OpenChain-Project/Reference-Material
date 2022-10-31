@@ -6,7 +6,8 @@
 
 #### Draft Second Edition - October 2022
 
-##### First commit 2nd edition 2022-10-31
+##### 1st Commit 2nd edition 2022-10-31
+##### 2nd Commit 2nd edition 2022-10-31 - Adjusted OSS to open source as per normal project practice, other small fixes
 
 # Introduction
 
