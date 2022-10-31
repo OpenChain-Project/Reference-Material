@@ -109,3 +109,7 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 - [ ] We have documentation confirming that your Program meets all the requirements of this specification.
 
 - [ ] We have documentation confirming that your Program conformance was reviewed within the last 18 months.
+
+## Next Steps
+
+Have you self-certified to this specification? Please let us know by emailing [operations@openchainproject.org](mailto:operations@openchainproject.org). We would like to add your organization logo to the OpenChain website. This is optional, but very useful for our work.

@@ -94,4 +94,4 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 
 ## Next Steps
 
-Have you self-certified to this specification? Please email us at [operations@openchainproject.org](mailto:operations@openchainproject.org) to let us know. We would like to add your organization logo to the OpenChain website. This is optional, but very useful for our work.
+Have you self-certified to this specification? Please let us know by emailing [operations@openchainproject.org](mailto:operations@openchainproject.org). We would like to add your organization logo to the OpenChain website. This is optional, but very useful for our work.

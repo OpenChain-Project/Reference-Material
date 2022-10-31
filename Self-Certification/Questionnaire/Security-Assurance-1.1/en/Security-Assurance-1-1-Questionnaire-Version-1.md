@@ -183,3 +183,7 @@ Do you have documentation confirming that the Program meets all the requirements
 Do you have documentation confirming that Program conformance was reviewed within the last 18 months?
 - [ ] Yes
 - [ ] No
+
+## Next Steps
+
+Have you self-certified to this specification? Please let us know by emailing [operations@openchainproject.org](mailto:operations@openchainproject.org). We would like to add your organization logo to the OpenChain website. This is optional, but very useful for our work.
