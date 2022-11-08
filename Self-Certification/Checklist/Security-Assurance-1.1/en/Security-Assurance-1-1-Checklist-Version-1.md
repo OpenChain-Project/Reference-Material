@@ -34,7 +34,7 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 - [ ] We have identified and documented a list of Program Participants and how they fill their respective roles.
 - [ ] We have documented the assessed competence for each Program Participant.
 - [ ] We have a way to document periodic reviews and changes made to our processes.
-- [ ] We have a way to vertify that our processes align with current company best practices and staff assignments.
+- [ ] We have a way to verify that our processes align with current company best practices and staff assignments.
 
 ## Section 3.1.3
 
@@ -65,7 +65,7 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 ## Section 3.2.1
 
 - [ ] We have a method to allow third parties to make Known Vulnerability or Newly Discovered Vulnerability enquires (e.g., via an email address or web portal that is monitored by Program Participants);
-- [ ] We have a an internal documented procedure for responding to third party Known Vulnerability or Newly Discovered Vulnerability inquiries.
+- [ ] We have an internal documented procedure for responding to third party Known Vulnerability or Newly Discovered Vulnerability inquiries.
 
 ## Section 3.2.2
 

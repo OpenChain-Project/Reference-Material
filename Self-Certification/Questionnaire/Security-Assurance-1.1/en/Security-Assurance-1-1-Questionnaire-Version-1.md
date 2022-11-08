@@ -54,7 +54,7 @@ Do you have a way to document periodic reviews and changes made to the processes
 - [ ] Yes
 - [ ] No
 
-Do you have a way to vertify that the processes align with current company best practices and staff assignments?
+Do you have a way to verify that the processes align with current company best practices and staff assignments?
 - [ ] Yes
 - [ ] No
 
