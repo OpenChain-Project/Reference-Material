@@ -83,16 +83,17 @@ The checklist explores 13 specific areas to evaluate:
 The remainder of this paper is dedicated to exploring these 13 different
 categories and various elements within each category.
 
-![](./media/image13.png){width="6.5in" height="4.305555555555555in"}
+<img src="./media/image13.png" alt="Categories Icon" height="413" width="624" >
 
 ## 1. Discovery of Open Source Software
 
-![](./media/image1.png){width="1.0052088801399826in"
-height="1.0052088801399826in"}
+<img src="./media/image1.png" alt="Discovery Icon" height="96" width="96" >
 
 ***"Discovery" concerns itself with identifying the third party
 software, including open source software in a code base readied for
 release as a product or a service.***
+
+
 
 -   Open source software discovery occurs at an early point in the
     product development cycle.
@@ -172,12 +173,12 @@ release as a product or a service.***
 
 ## 2. Review and Approval of the Use of Open Source Software
 
-![](./media/image12.png){width="0.9739588801399826in"
-height="0.9739588801399826in"}
+<img src="./media/image12.png" alt="Review Icon" height="96" width="96" >
 
 ***"Review and Approval" evaluates the planned use of open source
 software in products for distribution and, if mandated by company
 policy, in internal projects.***
+
 
 -   The organization subjects all open source software used in products
     to review and defines what contextual changes in open source
@@ -238,11 +239,11 @@ policy, in internal projects.***
 
 ## 3. Obligation Satisfaction
 
-![](./media/image3.png){width="0.9635422134733158in"
-height="0.9635422134733158in"}
+<img src="./media/image3.png" alt="Obligation Icon" height="96" width="96" >
 
 ***"Obligation Satisfaction" covers compliance practices needed to
 satisfy the obligations of open source licenses.***
+
 
 -   The organization verifies that its third party suppliers provide all
     information that is necessary to satisfy open source license
@@ -356,11 +357,13 @@ satisfy the obligations of open source licenses.***
 
 ## 4. Community Contributions
 
-![](./media/image11.png){width="0.9635422134733158in" height="0.9635422134733158in"}
+<img src="./media/image11.png" alt="Community Icon" height="96" width="96" >
 
 ***"Community Contributions" involve the review and approval of employee
 contributions to open source projects, as well as company contributions
 of code and other resources to community projects.***
+
+
 
 -   Community contributions are reviewed and approved according to a
     defined process.
@@ -390,12 +393,12 @@ of code and other resources to community projects.***
 
 ## 5. Policy
 
-![](./media/image16.png){width="0.9843755468066492in"
-height="0.9843755468066492in"}
+<img src="./media/image16.png" alt="Policy Icon" height="96" width="96" >
 
 ***The "Policy" category addresses corporate policy to encourage the use
 of open source software while also protecting the company's business
 interests.***
+
 
 -   A policy is set in place to enable the company to incorporate and
     use open source software in their products and services.
@@ -416,10 +419,11 @@ interests.***
 
 ## 6. Compliance Staffing
 
-![](./media/image8.png){width="0.8906255468066492in" height="0.8906255468066492in"}
+<img src="./media/image8.png" alt="Compliance Icon" height="96" width="96" >
 
 ***The "Compliance Staffing" category focuses on the skilled resources
 needed to implement the open source compliance program.***
+
 
 -   Skilled and knowledgeable individuals are made available to
     contribute to the compliance effort.
@@ -468,11 +472,11 @@ needed to implement the open source compliance program.***
 
 ## 7. Adaptation of Business Processes
 
-![](./media/image18.png){width="0.9791666666666666in"
-height="0.9791666666666666in"}
+<img src="./media/image18.png" alt="Business Process Icon" height="96" width="96" >
 
 ***"Adaptation of Business Processes" focuses on fitting OSS compliance
 practices within the context of existing business processes.***
+
 
 -   Existing business processes are modified to incorporate open source
     compliance activities and considerations.
@@ -503,11 +507,12 @@ practices within the context of existing business processes.***
 
 ## 8. Training
 
-![](./media/image4.png){width="0.9739588801399826in" height="0.9739588801399826in"}
+<img src="./media/image4.png" alt="Training Icon" height="96" width="96" >
 
 **"Training" addresses the communications needed to ensure that the
 entire company understands the actions that must be taken to achieve
 open source compliance.**
+
 
 -   Basic training on the organization's open source policies, processes
     and guidelines is provided to all who come into contact with open
@@ -545,10 +550,11 @@ open source compliance.**
 
 ## 9. Compliance Process Management
 
-![](./media/image10.png){width="1.0in" height="1.0in"}
+<img src="./media/image10.png" alt="Compliance Process Icon" height="96" width="96" >
 
 ***"Compliance Process Management" focuses on establishing, maintaining,
 and improving the process of achieving open source compliance.***
+
 
 -   Responsibility for achieving organization-wide open source
     compliance is clearly designated.
@@ -606,12 +612,13 @@ and improving the process of achieving open source compliance.***
 
 ## 10. Open Source Software Inventory
 
-![](./media/image14.png){width="0.9531255468066492in" height="0.9531255468066492in"}
+<img src="./media/image14.png" alt="Software Inventory Icon" height="96" width="96" >
 
 ***"Open Source Software Inventory" addresses the organization's need to
 maintain accurate records of open source software content and compliance
 activities to support responses to compliance inquiries and changes in
 the compliance environment.***
+
 
 -   The organization tracks progress of compliance activities for a
     product being readied for release.
@@ -654,10 +661,11 @@ the compliance environment.***
 
 ## 11. Automation and Tool Support
 
-![](./media/image15.png){width="0.9583333333333334in" height="0.9583333333333334in"}
+<img src="./media/image15.png" alt="Automation Icon" height="96" width="96" >
 
 **"Automation and Tool Support" examines the organization's use and
 consideration of tools to support its compliance activities.**
+
 
 -   The organization assesses its compliance process to identify and
     prioritize opportunities for automation and tool support.
@@ -700,11 +708,12 @@ consideration of tools to support its compliance activities.**
 
 ## 12. Verification
 
-![](./media/image5.png){width="0.9739588801399826in" height="0.9739588801399826in"}
+<img src="./media/image5.png" alt="Verification Icon" height="96" width="96" >
 
 **"Verification" concerns the independent assurance steps taken by the
 OSS compliance team to confirm that OSS obligations have been properly
 met.**
+
 
 -   The compliance team performs verification activities according to a
     defined procedure.
@@ -746,11 +755,12 @@ met.**
 
 ## 13. Process Adherence Audits
 
-![](./media/image17.png){width="0.9531255468066492in" height="0.9531255468066492in"}
+<img src="./media/image17.png" alt="Process Adherence Audits Icon" height="96" width="96" >
 
 **"Process Adherence Audits" refer to the checks the organization
 performs to determine whether it is using its defined compliance process
 and obtaining expected results from its use.**
+
 
 -   Process adherence audits are used to determine whether the
     organization follows its defined compliance process.
@@ -797,8 +807,7 @@ these rules on a daily basis. Compliance policies and processes govern
 various aspects of using, contributing, auditing, and distribution of
 open source software.
 
-![](./media/image7.png){width="6.668115704286964in"
-height="2.041042213473316in"}
+![Policy and Process Icon](./media/image7.png)
 
 **Figure 1: Detailed view of a sample open source compliance process**
 
@@ -961,7 +970,7 @@ audits are those where a compliance auditor from a third-party auditing
 company gets access to the source remotely via a cloud system or
 physically while visiting on site and performs the source code scan.
 
-![](./media/image2.png){width="6.145833333333333in" height="5.1875in"}
+![Audit Model Icon](./media/image2.png) 
 
 **Figure 2: Illustration of the traditional audit method in M&A
 transactions**
@@ -1006,7 +1015,7 @@ company, to address the confidentiality requirements of M&A
 transactions. (Here, FOSSID AB refers to the company and FOSSID refers
 to the tool itself.)
 
-![](./media/image9.png){width="6.5in" height="4.416666666666667in"}
+![Blind Audit Icon](./media/image9.png)
 
 **Figure 3: Illustration of the blind audit method**
 
@@ -1037,7 +1046,7 @@ process several times per year. An independent certification can be
 performed to verify the findings, to further secure the integrity of the
 audit.
 
-![](./media/image6.png){width="6.5in" height="4.569444444444445in"}
+![DIY Audit Icon](./media/image6.png)
 
 **Figure 4: Illustration of the DIY audit method**
 
