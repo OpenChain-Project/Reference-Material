@@ -2147,6 +2147,8 @@ packages.
 
 -   [Rogue Wave Software](https://www.roguewave.com/)
 
+-   [SCANOSS](https://www.scanoss.com/)
+
 -   [Snyk](https://snyk.io/)
 
 -   [Sonatype](https://www.sonatype.com/)
@@ -2176,6 +2178,8 @@ packages.
 
 -   [SPDX tools](https://spdx.org/tools) provide
     translation, comparison, and verification functionality.
+ 
+-   [SCANOSS](https://www.scanoss.com/product)
 
 **\*** The author apologizes in advance if these list are missing any
 provider or tool. If so, please
