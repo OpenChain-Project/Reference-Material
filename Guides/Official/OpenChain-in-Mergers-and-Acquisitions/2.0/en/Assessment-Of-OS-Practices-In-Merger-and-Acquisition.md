@@ -2179,7 +2179,7 @@ packages.
 -   [SPDX tools](https://spdx.org/tools) provide
     translation, comparison, and verification functionality.
  
--   [SCANOSS](https://www.scanoss.com/product)
+-   [SCANOSS](https://www.scanoss.com/product) is the first Open Source SCA platform with a snippet level database of known Open Source.
 
 **\*** The author apologizes in advance if these list are missing any
 provider or tool. If so, please
