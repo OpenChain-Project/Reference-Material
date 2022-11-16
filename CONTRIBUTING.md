@@ -13,22 +13,27 @@ This repository contains documentation. Typical contributions are:
   * This includes *re*-translation of documents when updates happen to the original document.
 * Corrections and improvements to existing documents: fixing typos, spelling, grammar, phrasing.
 * Conversion of documents from other formats to Markdown.
-* Reviewing existing Pull Requests.
-* Submitting issues identifying problems with current content, or suggesting new content.
-* Working on existing issues.
+* Reviewing [existing Pull Requests](https://github.com/OpenChain-Project/Reference-Material/pulls).
+* [Submitting issues](https://github.com/OpenChain-Project/Reference-Material/issues/new) identifying problems with current content, or suggesting new content.
+* Working on [existing issues](https://github.com/OpenChain-Project/Reference-Material/issues).
 
 Other contributions are welcomed too, such as:
 * Guides and playbooks for adoption of the OpenChain ISO/IEC standard;
 * Case studies, indicating how an organization has achieved conformance, and the benefits gained thereby.
 
-Contributions are also welcomed through discussions:
+Contributions are also welcomed through [discussions](https://www.openchainproject.org/get-started/participate):
 * Online discussions via Slack and mailing lists.
 * Zoom calls - the OpenChain project runs regular calls, plus other calls as necessary.
 
 ## Submitting Bug Reports
 
-Issues with the documentation in this repository can be logged as issues in GitHub, 
-at https://github.com/OpenChain-Project/Reference-Material/issues.
+Issues with the documentation in this repository can be [logged as issues in GitHub](https://github.com/OpenChain-Project/Reference-Material/issues).
+
+## Submitting Corrections and Contributions
+
+Please create a pull request (PR). If you are new to contributions through GitHub, these resources may help:
+* OpenChain has a guide to [Getting Started with GittHub and GitHub Pages](https://openchain-project.github.io/github-training/).
+* GitHub has a very good [introductory resource](https://github.com/firstcontributions/first-contributions), which includes lessons on how to get started using common IDEs / Git clients.
 
 TODO: Advice/Practice for use of the labels for issues: bug, documentation, duplicate, enhancement, good first issue, help wanted, invalid, question, wontfix.
 
