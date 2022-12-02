@@ -1,3 +1,10 @@
+---
+title: OpenChain For Managers - Version 1.0
+author: Shane Coughlan
+markdown_version: Jacob Wilson
+license: "Creative Commons Zero v1.0 Universal"
+---
+
 # The OpenChain Project
 
 ## For Managers
