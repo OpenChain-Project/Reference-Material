@@ -12,7 +12,7 @@ Most importantly, our community acts as a support network where knowledge is sha
 
 ### Where Can I Find A Formal Description Of The OpenChain Project?
 
-The formal description and structure of the OpenChain Project is contained in the Project Charter. You can find this on GitHub.
+The formal description and structure of the OpenChain Project is contained in the Project Charter. You can find this on GitHub:
 
 https://github.com/OpenChain-Project/Project-Charter-And-Agreements/tree/master/Project-Charter
 
@@ -24,7 +24,7 @@ Our global community also works on topics like open source training, open source
 
 ### Who Conforms To The OpenChain Standards?
 
-We maintain a list of organizations decide to publicly announce OpenChain Conformant Programs through our website. 
+We maintain a list of organizations decide to publicly announce OpenChain Conformant Programs through our website:
 
 https://www.openchainproject.org/community-of-conformance
 
