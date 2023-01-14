@@ -40,8 +40,7 @@ Specification Work Group, which identifies and publishes a set of core requireme
 
 Education Work Group, which provides reference material to help organization meet our specification requirements.
 
-You can find a full list of our work groups and other activities on our community page.
-
+You can find a full list of our work groups and other activities on our community page:
 https://www.openchainproject.org/community
 
 There are three committees for member companies:
@@ -238,11 +237,13 @@ You can access the checklist at the following link:
 
 https://github.com/OpenChain-Project/Reference-Material/blob/master/Self-Certification/Checklist/ISO5230-2020/en/
 
-Once you complete the process, please let me know so that we can add you to our Community of Conformance on the OpenChain Project website. This is not mandatory but it provides an advantage to you (more of your peers know that you have the key requirements of a quality open source compliance program in place), and it provides an advantage to us because we have more insight into market adoption. You can let us know about your conformance by contacting us here:
+### Please let us know when you are conformant
 
-https://www.openchainproject.org/about
+Once you complete the process, please let us know so that we can add you to our Community of Conformance on the OpenChain Project website. This is not mandatory but it provides an advantage to you (more of your peers know that you have the key requirements of a quality open source compliance program in place), and it provides an advantage to us because we have more insight into market adoption. You can let us know about your conformance by contacting our [helpdesk](mailto:helpdesk@lists.openchainproject.org?subject=Add me to the list of conformant organizations&body=I want to let you know that my organization is conformant to one or both of your standards. This email will tell you more about my organization (name, market area). Please add us to your list of conformant organizations. Attached you will also find our logo.).
 
-By the way, we also have a legacy self-certification web app. This has been used as the primary way to record conformance progress online since 2017. However, it is depreciated as we transition to document formats more easily ingested into organizations for self-certification. It can be here: 
+### We also have legacy support
+
+We have a legacy self-certification web app. This has been used as the primary way to record conformance progress online since 2017. However, it is depreciated as we transition to document formats more easily ingested into organizations for self-certification. It can be here:
 
 https://certification.openchainproject.org/
 
