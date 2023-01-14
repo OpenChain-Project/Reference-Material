@@ -255,9 +255,3 @@ https://certification.openchainproject.org/
 ### If I use the web app, what response time should I expect to a submittal request?
 
 If all information is correct, the submittal will automatically be approved by the system. Any omissions or incorrect answers will be reported by the user.
-
-### How do I report issues with the web app?
-
-Contact us here:
-
-https://www.openchainproject.org/about
