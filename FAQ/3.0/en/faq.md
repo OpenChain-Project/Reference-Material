@@ -239,7 +239,7 @@ https://github.com/OpenChain-Project/Reference-Material/blob/master/Self-Certifi
 
 ### Please let us know when you are conformant
 
-Once you complete the process, please let us know so that we can add you to our Community of Conformance on the OpenChain Project website. This is not mandatory but it provides an advantage to you (more of your peers know that you have the key requirements of a quality open source compliance program in place), and it provides an advantage to us because we have more insight into market adoption. You can let us know about your conformance by contacting our [helpdesk](mailto:helpdesk@lists.openchainproject.org?subject=Add me to the list of conformant organizations&body=I want to let you know that my organization is conformant to one or both of your standards. This email will tell you more about my organization (name, market area). Please add us to your list of conformant organizations. Attached you will also find our logo.).
+Once you complete the process, please let us know so that we can add you to our Community of Conformance on the OpenChain Project website. This is not mandatory but it provides an advantage to you (more of your peers know that you have the key requirements of a quality open source compliance program in place), and it provides an advantage to us because we have more insight into market adoption. You can let us know about your conformance by contacting our [helpdesk](mailto:helpdesk@lists.openchainproject.org).
 
 ### We also have legacy support
 
