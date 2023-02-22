@@ -21,7 +21,7 @@ Other contributions are welcomed too, such as:
 * Guides and playbooks for adoption of the OpenChain ISO/IEC standard;
 * Case studies, indicating how an organization has achieved conformance, and the benefits gained thereby.
 
-Contributions are also welcomed through [discussions](https://www.openchainproject.org/get-started/participate):
+Contributions are also welcomed through [discussions](https://www.openchainproject.org/participate):
 * Online discussions via Slack and mailing lists.
 * Zoom calls - the OpenChain project runs regular calls, plus other calls as necessary.
 
