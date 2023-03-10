@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/AdobeFnt19.lst
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/AdobeFnt19.lst
 FileLength:1937
 FileModTime:687881721
 %EndFont
@@ -12,15 +12,15 @@ FileModTime:687881721
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/AdobeFnt23.lst
-FileLength:2858
-FileModTime:700116903
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/AdobeFnt23.lst
+FileLength:3105
+FileModTime:700118761
 %EndFont
 
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/Icon_
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/Icon_
 FileModTime:687881721
 %EndFont
 
@@ -37,7 +37,7 @@ WidthClass:5
 AngleClass:0
 FullName:Josefin Sans Bold
 WritingScript:Roman
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/JosefinSans-Bold.ttf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/JosefinSans-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -60,7 +60,7 @@ WidthClass:5
 AngleClass:0
 FullName:Open Sans Bold
 WritingScript:Roman
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/OpenSans-Bold.ttf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/OpenSans-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -83,7 +83,7 @@ WidthClass:5
 AngleClass:0
 FullName:Open Sans Extrabold
 WritingScript:Roman
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/OpenSans-ExtraBold.ttf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/OpenSans-ExtraBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
@@ -107,7 +107,7 @@ WidthClass:5
 AngleClass:0
 FullName:Open Sans Light
 WritingScript:Roman
-OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/en/2.0/Document fonts/OpenSans-Light.ttf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Getting-Started/One-Page-Overview/ISO-IEC-5230/2.0/Document fonts/OpenSans-Light.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
