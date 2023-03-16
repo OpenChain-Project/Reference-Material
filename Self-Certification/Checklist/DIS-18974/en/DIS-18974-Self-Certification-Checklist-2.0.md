@@ -1,6 +1,6 @@
 ![](./media/image1.png "OpenChain logo")
 
-# DIS 18974, OpenChain security assurance specification Self-Certification Checklist
+# DIS 18974, OpenChain Security Assurance Specification Self-Certification Checklist
 ## The Simple Way To Check Conformance
 
 Revision 2\

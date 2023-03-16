@@ -1,6 +1,6 @@
 ![](./media/image1.png "OpenChain logo")
 
-# OpenChain Security Assurance Specification 1.1 Self-Certification Questionnaire
+# DIS 18974, OpenChain Security Assurance Specification Self-Certification Questionnaire
 ## The Simple Way To Check Conformance
 
 Revision 1\

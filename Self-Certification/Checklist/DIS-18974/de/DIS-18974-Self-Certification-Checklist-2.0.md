@@ -1,4 +1,4 @@
-# OpenChain Security Assurance Specification 1.1 Checkliste zur Selbstzertifizierung
+# DIS 18974, OpenChain Security Assurance Specification Checkliste zur Selbstzertifizierung
 ## Der einfache Weg zur Überprüfung der Konformität
 
 Revision 2\
