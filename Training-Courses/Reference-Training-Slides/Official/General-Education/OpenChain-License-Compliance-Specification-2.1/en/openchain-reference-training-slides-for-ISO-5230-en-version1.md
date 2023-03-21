@@ -32,13 +32,13 @@ Learn more at: https://www.openchainproject.org
 1. What is Intellectual Property?
 2. Introduction to Open Source Licenses
 3. Introduction to Open Source Compliance
-4. Key Software Conceptsfor Open Source Review
+4. Key Software Concepts for Open Source Review
 5. Running a Open Source Review
-6. End to End Compliance Management(Example Process)
+6. End to End Compliance Management (Example Process)
 7. Avoiding Compliance Pitfalls
 8. Developer Guidelines
 
-This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work. 
+This slide is relevant to providing either a single three hour training session or explaining how a series of shorter sessions focused on “per chapter” training will work.
 
 ##### Slide 4
 
@@ -56,10 +56,10 @@ This chapter is focused on the “big picture” of Intellectual Property. This 
 - Patents: useful inventions that are novel and non-obvious 
 	- Limited monopoly to incentivize innovation
 - Trade secrets: protects valuable confidential information
-- Trademarks: protects marks (word, logos, slogans, color, etc.) that identifythe source of the product	
+- Trademarks: protects marks (word, logos, slogans, color, etc.) that identify the source of the product	
 	- Consumer and brand protection; avoid consumer confusion and brand dilution
 
-This chapter will focus on copyright and patents,the areas most relevant to Open Source compliance.
+This chapter will focus on copyright and patents, the areas most relevant to Open Source compliance.
 
 This overview is not intended to cover all aspects of Intellectual Property. It is intended to provide context for the “big picture” and to establish that today we are only discussing copyright and patents, the areas most relevant to Open Source compliance.
 
@@ -93,7 +93,7 @@ Note: The interpretation of what constitutes a “derivative work” or a “dis
 
 ## Patent Concepts in Software
 
-- Patents protect functionality – this can include a method of operation,such as a computer program
+- Patents protect functionality – this can include a method of operation, such as a computer program
 	- Does not protect abstract ideas, laws of nature
 - A patent application must be made in a specific jurisdiction in order to obtain a patent in that country. If a patent is awarded, the owner has the right to stop anybody from exercising its functionality, regardless of independent creation 
 - Other parties who want to use the technology may seek a patent license (which may grant rights to use, make, have made, sell, offer for sale, and import the technology)
@@ -109,7 +109,7 @@ Note: The interpretation of what constitutes a “derivative work” or a “dis
 	- Exclusive or non-exclusive terms
 	- Geographical scope
 	- Perpetual or time limited duration
-- The license can have conditions on the grants, meaning you only getthe license if you comply with certain obligations
+- The license can have conditions on the grants, meaning you only get the license if you comply with certain obligations
 	- E.g, provide attribution, or give a reciprocal license
 - May also include contractual terms regarding warranties, indemnification, support, upgrade, maintenance
 
@@ -121,7 +121,7 @@ Note: The interpretation of what constitutes a “derivative work” or a “dis
 - What copyright rights are most important for software?
 - Can software be subject to a patent? 
 - What rights does a patent give to the patent owner?
-- If you independently develop your own software, is it possible thatyou might need a copyright license from a third party for that software?A patent license?
+- If you independently develop your own software, is it possible that you might need a copyright license from a third party for that software? A patent license?
 
 Copyright protects original works of authorship. It's different than patent in that copyright protects the expression of an idea, whereas patent protects the underlying idea itself. Examples of works of authorship include photographs, songs, and computer code. 
 
@@ -153,7 +153,7 @@ This chapter is useful for lawyers, managers or developers who may not be famili
 
 - Permissive Open Source license: a term used often to describe minimally restrictive Open Source licenses
 - Example: BSD-3-Clause
-	- The BSD license is an example of a permissive license that allows 			unlimited redistribution for any purpose in source or object code form as long as its copyright notices and the license's disclaimers of warranty are maintained
+	- The BSD license is an example of a permissive license that allows unlimited redistribution for any purpose in source or object code form as long as its copyright notices and the license's disclaimers of warranty are maintained
 	- The license contains a clause restricting use of the names of contributors for endorsement of a derived work without specific permission
 - Other examples: MIT, Apache-2.0
 
@@ -183,11 +183,11 @@ This slide explains reciprocity and Copyleft, a more complex type of Open Source
 
 ## Other Non-Open Source Licensing Situations
 
-- Freeware – software distributed under a proprietary license at noor very low cost
+- Freeware – software distributed under a proprietary license at no or very low cost
 	- The source code may or may not be available, and creation of derivative works is usually restricted
 	- Freeware software is usually fully functional (no locked features) and available for unlimited use (no locking on days of usage) 
 	- Freeware software licenses usually impose restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.)
-- Shareware – proprietary software provided to users on a trial basis,for a limited time, free of charge and with limited functionalities or features
+- Shareware – proprietary software provided to users on a trial basis, for a limited time, free of charge and with limited functionalities or features
 	- The goal of shareware is to give potential buyers the opportunity to use the program and judge its usefulness before purchasing a license for the full version of the software 
 	- Most companies are very leery of Shareware, because Shareware vendors often approach companies for large license payments after the software has freely propagated within their organizations.
 
@@ -253,14 +253,14 @@ Notices, such as text in comments in file headers, often provide authorship and 
 	- E.g., when software is “dual licensed,” the copyright owner gives each recipient the choice of two licenses
 - Note: This should not be confused for situations in which a licensor imposes more than one license, and you must comply with all of them
 
-This slides explains multi-licensing. This is the situation where more than set of license terms can apply to a piece of software.Conjunctive = Multiple licenses apply
+This slides explains multi-licensing. This is the situation where more than set of license terms can apply to a piece of software. Conjunctive = Multiple licenses apply
 GPL-2.0 project also includes code under BSD-3-Clause 
 In this situation you have to comply with both sets of license terms
 Disjunctive = Choice of one open source license or another
 Mozilla tri-license
 Jetty
 Ruby
-Disjunctive licensing may be something important to explore more deeply when creating a Open Source policy.
+Disjunctive licensing may be something important to explore more deeply when creating a Open Source policy.
 
 Under disjunctive licensing you have a choice of licensing, i.e. GPL and a more permissive license option, you may choose which license you are going to distribute under depending on license compatibility, license requirements. 
 
@@ -344,7 +344,7 @@ The scope of source code availability is determined by the Open Source license. 
 - Dissemination of material to an outside entity 
 	- Applications downloaded to a user’s machine or mobile device
 	- JavaScript, web client, or other code that is downloaded to the user’s machine 
-- For some Open Source licenses, access via a computer network can bea “trigger” event
+- For some Open Source licenses, access via a computer network can be a “trigger” event
 	- Some licenses define the trigger event to include permitting access to software running on a server (e.g., all versions of the Affero GPL if the software is modified) or in the case of “users interacting with it remotely through a computer network”
 
 ##### Slide 27
@@ -404,7 +404,7 @@ Benefits of a robust Open Source Compliance program include:
 
 Open Source compliance means following the licensing terms of Open Source licenses. It involves understanding the licenses, having processes to support the license terms, and having processes to address any oversights or errors.
 
-The two main goals of a Open Source compliance program are know your obligations and to satisfy your obligations.The important business practices of a Open Source compliance program include:
+The two main goals of a Open Source compliance program are know your obligations and to satisfy your obligations. The important business practices of a Open Source compliance program include:
 
 - Identification of the origin and license of Open Source software
 - Tracking Open Source software within the development process
@@ -417,7 +417,7 @@ A Open Source compliance program provides various benefits such as an increased 
 
 ##### Slide 32
 
-## CHAPTER 4: Key Software Conceptsfor Open Source Review
+## CHAPTER 4: Key Software Concepts for Open Source Review
 
 This chapter describes some fundamental concepts in understanding Open Source usage
 
@@ -641,7 +641,7 @@ Once the proposed Open Source usage has been fully assessed, the legal team will
 - All of the solutions address specific needs and - for that reason - none will solve all possible challenges
 - Companies pick the solution most suited to their specific market area and product
 - Many companies use both an automated tool and manual review
-- A good example of freely available source code scanning tool is FOSSology,a project hosted by the Linux Foundation: https://www.FOSSology.org 
+- A good example of freely available source code scanning tool is FOSSology, a project hosted by the Linux Foundation: https://www.FOSSology.org 
 
 ##### Slide 48
 
@@ -1275,7 +1275,7 @@ The benefits of maintaining a good community relationship are that you can bette
 - How can a new version of a previously-reviewed Open Source component create new compliance issues?
 - What risks should you address with in-bound software?
 
-Learn more through the free Compliance Basics for Developers hosted by the Linux Foundation at: https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/ compliance-basics-for-developers
+Learn more through the free Compliance Basics for Developers hosted by the Linux Foundation at: https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/ compliance-basics-for-developers
 
 General guidelines developers can practices when working with Open Source: 
 
