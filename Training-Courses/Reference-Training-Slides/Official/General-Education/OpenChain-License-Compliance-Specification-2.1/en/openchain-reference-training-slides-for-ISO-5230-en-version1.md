@@ -728,6 +728,20 @@ You can get detailed checklists for these items here: https://www.linuxfoundati
 
 ## Example Enterprise Process
 
+```mermaid
+ sequenceDiagram
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Identification
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Audit
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Resolve Issues
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Reviews
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Approvals
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Registration
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Notices
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Verifications
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Distribution
+     Incoming Open Source->>+ Outgoing Open Source and Mods: Verifications
+ ```
+
 ##### Slide 55
 
 ## Identify and Track Open Source Usage
