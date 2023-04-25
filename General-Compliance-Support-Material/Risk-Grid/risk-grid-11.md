@@ -306,6 +306,9 @@ Supplier is contracting to supply IPR, and should bear all the risk. How Supplie
 
 ### Comments
 
+None listed.
+
+# DOCUMENT INCOMPLETE AND AWAITING FURTHER POPULATION.
 
 
 ## Issue	
