@@ -45,7 +45,7 @@ Supplier is in control of code creation, and should therefore be liable for thir
 
 ### Comments
 
-Note that supplier-created code may in practice amount to  amendments to existing publicly available code (and create a derivative work of that code). In that case, the row below (publicly available code infringes copyright) would be more appropriately apply)
+Note that supplier-created code may in practice amount to  amendments to existing publicly available code (and create a derivative work of that code). In that case, the row below (publicly available code infringes copyright) would be more appropriately apply).
 
 ## Issue #2
 
@@ -124,7 +124,7 @@ It is possible to explicitly address the risk of publicly available code not bei
 
 ### Who is best placed to bear risk?	
 
-This is similar to the provenance issue, in that the Customer's use/modification/distribution of the Software may infringe third party rights, but in this case, infringement may depend on the Customer's intended out-license or intended use of the Software. This wording contains an option which limits the Supplier's obligations to checking that the components' attached licences are on an approved list, but not that they are compatible with any intended use.
+This is similar to the provenance issue, in that the Customer's use/modification/distribution of the Software may infringe third party rights, but in this case, infringement may depend on the Customer's intended out-license or intended use of the Software. This wording contains an option which limits the Supplier's obligations to checking that the components' attached licenses are on an approved list, but not that they are compatible with any intended use.
 
 ### Best mechanism to tackle risk	
 
@@ -169,7 +169,7 @@ Warranty that skill and care has been taken in component selection, so far as th
 
 ### Supplier's Arguments	
 
-This warranty is too vague, at least without qualification as to whether the licences which are attached to the components are compatible with the Customer's Specified Use or (preferably) the Customer's Specified Out-License.
+This warranty is too vague, at least without qualification as to whether the licenses which are attached to the components are compatible with the Customer's Specified Use or (preferably) the Customer's Specified Out-License.
 
 ### Customer's arguments	
 
@@ -308,128 +308,482 @@ Supplier is contracting to supply IPR, and should bear all the risk. How Supplie
 
 None listed.
 
-# DOCUMENT INCOMPLETE AND AWAITING FURTHER POPULATION.
+## Issue #10	
 
-
-## Issue	
-
-
+Infringement of patent in publicly available code
 
 ### Commentary	
 
-
+None listed.
 
 ### Who is best placed to bear risk?	
 
-
+Where Supplier has choice of implementation: Supplier. Where implementation is dictated by Customer's requirements: Customer.
 
 ### Best mechanism to tackle risk	
 
-
+Where implementation is dictated by Customer: Customer to bear risk. Otherwise, negotiated on a case by case basis.
 
 ### Sample Wording	
 
-
+<none>
 
 ### Supplier's Arguments	
 
-
+It is not economically feasible to undertake a patent clearance prior to implementation. If the implementation is dictated by the Customer's requirements, this should not affect liability. If supplier has to accept some liability for patent infringement, Again there is the potential to insure against this in the UK at a high price and the additional costs of this would be passed through to the Customer.
 
 ### Customer's arguments	
 
+Supplier is contracting to supply IPR, and should bear all the risk. How Supplier intends to source IPR should not be Customer's issue.
 
 ### Comments
 
+None listed.
 
+## Issue #11	
 
-## Issue	
-
-
+Infringement of patent in bought-in proprietary code
 
 ### Commentary	
 
-
+None listed.
 
 ### Who is best placed to bear risk?	
 
-
+Where Supplier has choice of implementation: Supplier. Where implementation is dictated by Customer's requirements: Customer.
 
 ### Best mechanism to tackle risk	
 
-
+Where implementation is dictated by Customer: Customer to bear risk. Otherwise, negotiated on a case by case basis. Can Supplier obtain a back to back indemnity from the proprietary Supplier?
 
 ### Sample Wording	
 
-
+<none>
 
 ### Supplier's Arguments	
 
-
+Supplier to use reasonable skill and care in selecting code, but should not be liable for third party infringement. Similar to the supply of third party hardware. May offer to pass on any third party warranties available, or to assist and again this may be subject to a pass through of third party restrictions.
 
 ### Customer's arguments	
 
+Supplier is contracting to supply IPR, and should bear all the risk. How Supplier intends to source IPR should not be Customer's issue.
 
 ### Comments
 
+None listed.
 
+## Issue #12	
 
-## Issue	
-
-
+Trade secrets
 
 ### Commentary	
 
-
+None listed.
 
 ### Who is best placed to bear risk?	
 
-
+Supplier
 
 ### Best mechanism to tackle risk	
 
-
+None listed.
 
 ### Sample Wording	
 
-
+The Supplier warrants  that, to the best of the Supplier's knowledge [but not having made any specific enquiry], its delivery [assignment/license] to the Customer and use in accordance with this Agreement does not breach any obligations of confidentiality to a third party.
 
 ### Supplier's Arguments	
 
-
+None listed.
 
 ### Customer's arguments	
 
+None listed.
 
 ### Comments
 
+None listed.
 
+## Issue #13	
 
-## Issue	
-
-
+Trademarks
 
 ### Commentary	
 
-
+None listed.
 
 ### Who is best placed to bear risk?	
 
-
+Customer
 
 ### Best mechanism to tackle risk	
 
-
+None listed.
 
 ### Sample Wording	
 
-
+For the avoidance of doubt nothing in this Agreement [except for clause []] is intended to grant any license over any trade mark of the Supplier or its licensors. The Customer shall comply with the terms of the licenses governing all third-party components comprised in the Software, which may include terms relating to trade marks.
 
 ### Supplier's Arguments	
 
-
+The Customer may wish to use the Supplier's trade mark if the code is distributed (or accessed remotely). The parties may rely on trade mark law to tackle this, or incorporate an explicit license permitting the use of the trade mark in relation to the Supplier's code only if it is not modified in any way.
 
 ### Customer's arguments	
 
+None listed.
 
 ### Comments
 
+None listed.
+
+## Issue #14	
+
+General Indemnity Wording
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Supplier will indemnify and hold the Customer harmless on demand against any claim or loss arising as a consequence of a breach of any of the [above warranties – warranties set out in this clause].
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #15	
+
+Implied terms, pre-contractual representations
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+Except as expressly set out in this Agreement, the Supplier makes no representations or warranties in respect of or in connection with the Software or its use. All other representations, warranties, conditions or other terms which might have effect between the parties or be implied or incorporated into this Agreement or any collateral contract, whether by virtue of statute, common law or otherwise, are hereby excluded to the maximum extent permitted by law, including, without limitation, implied conditions, warranties or other terms as to satisfactory quality, merchantability, fitness for purpose or the use of reasonable skill and care.
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #16	
+
+Conduct of Claim
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Customer shall notify the Supplier promptly (“a Claim Notice”) should it receive any claim that any portion of the code delivered under this Agreement infringes the rights of any third party, or where it otherwise has reason to believe that it does so. The Supplier's obligation to indemnify the Customer under [clause [ ]] in connection with a claim against the Customer by a third party is subject to: (a) the Customer promptly serving a Claim Notice; (b) the Customer not making any admission as to liability or compromising or agreeing to any settlement of any such claim without the prior written consent of the Supplier[, which consent shall not be unreasonably withheld or delayed]; (c) at the Supplier's written request and at its own expense, the Supplier having the conduct of and the right to settle all negotiations and litigation arising from such claim; and (d) at the Supplier’s request and expense, the Customer giving the Supplier all reasonable assistance in connection with such negotiations and litigation. [The Customer shall take all reasonable steps to mitigate its loss arising from any default of the Supplier].
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #17	
+
+Access to VCS repository
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Supplier undertakes that it will [during the Term] allow the Customer [read-only] access to the [VCS Repository].
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #18	
+
+Replace or Re-write
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Supplier may at any time replace any part of the code (“the Original Portion”) delivered under this Agreement where it reasonably believes that such code infringes the rights of any third party or where a claim of such infringement has been made, provided that such replacement code materially complies with the Specification. The Supplier shall cease to be liable to the Customer for any claim relating to the Original Portion to the extent that it arises after delivery of the Replacement Code, except where such claims apply to items already created or manufactured and currently being deployed to market.
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #19	
+
+License of Collective Work
+
+### Commentary	
+
+The Software is likely to consist of a number of components, and the list of components itself will amount to a collective work. Although in many jurisdictions, the collective work will be implied, in some jurisdictions, e.g. Spain, it may need to be explicitly granted. Note also that the GPL may not be an appropriate licence for a collective work – FDL, or creative commons may be more appropriate as they do not introduce source code complications.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Supplier acknowledges that the combination of the components within the Software constitutes a collective work. The Supplier hereby grants a non-exclusive license to such collective work to the Licensee [consistent with the rest of this Agreement][consistent with the Specified Use].
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #20	
+
+Limitations and exclusions of liability
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Supplier's liability under or in connection with this Agreement (whether in contract, tort (including negligence) or otherwise) is limited as follows: (a) the Supplier will have no liability for any loss of profits, loss of business, loss of goodwill, loss of anticipated savings, loss of or corruption to data or for any indirect or consequential loss or damage; and (b) the maximum aggregate amount of any such liability which is not excluded by (a) shall be [ ]. Nothing in this Agreement shall limit the Supplier's liability for death or personal injury or arising as a result of fraud.
+
+### Supplier's Arguments	
+
+On a risk and reward basis the Supplier will wish to limit to the fees for the specific project.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #21	
+
+Status of Supplier
+
+### Commentary	
+
+This needs to be considered carefully in the context of each license. Generally, the Supplier will want to be providing services to the Customer, rather than deliverables. This has issues for distribution, acquired rights directive, liability.
+
+### Who is best placed to bear risk?	
+
+None listed.
+
+### Best mechanism to tackle risk	
+
+None listed.
+
+### Sample Wording	
+
+The Supplier is [an independent contractor][acts as Agent for the Customer in developing the Software].
+
+### Supplier's Arguments	
+
+None listed.
+
+### Customer's arguments	
+
+None listed.
+
+### Comments
+
+None listed.
+
+## Issue #22	
+
+Failure of software to meet specification: Supplier created
+
+### Commentary	
+
+Note that the source is automatically available. No need for escrow. More natural to have documentation available.
+
+### Who is best placed to bear risk?	
+
+Supplier
+
+### Best mechanism to tackle risk	
+
+Warranty from Supplier + ability to re-write non-performing code.
+
+### Sample Wording	
+
+To the extent that any Supplier-Created Code fails to meet the Specification, the Supplier shall during the Warranty Period [replace such Supplier Created Code with code that is compliant][insert SLA].
+
+### Supplier's Arguments	
+
+Offer SLA? Maintenance agreement. Warranty period. Source is automatically available.
+
+### Customer's arguments	
+
+Warranty that Software will perform to specification.
+
+### Comments
+
+None listed.
+
+## Issue #23	
+
+Failure of software to meet specification: publicly available
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+Supplier, generally
+
+### Best mechanism to tackle risk	
+
+Warranty (negotiated) from Supplier + ability to re-write non-performing code.
+
+### Sample Wording	
+
+To the extent that any Publicly-Available Code fails to meet the Specification, the Supplier shall during the Warranty Period [replace such Publicly Available Code with code that is compliant][insert SLA].
+
+### Supplier's Arguments	
+
+The Supplier should not be responsible for the performance of third party code.
+
+### Customer's arguments	
+
+The Customer should not be concerned about how the Supplier opts to select code. Further, for Publicly-Available Code, the Supplier has access to the source, and can therefore treat that code as simply a more-rapidly-developed version of its own code. There is therefore no reason why it cannot give a warranty.
+
+### Comments
+
+None listed.
+
+## Issue #24	
+
+Failure of software to meet specification: proprietary
+
+### Commentary	
+
+None listed.
+
+### Who is best placed to bear risk?	
+
+Original supplier - can supplier pass on warranties etc?
+
+### Best mechanism to tackle risk	
+
+Back to back warranty from supplier, or mechanism to enable customer to benefit from original suppliers' warranties (agency, third party beneficiary, collateral warranty).
+
+### Sample Wording	
+
+The Supplier shall take reasonable steps to assist the Customer with the enforcement of any warranties applicable to proprietary code, but shall [except to the extent that no reasonable supplier could have specified the use of such code] not otherwise be liable for any failure of any third party code to reach Specification.
+
+### Supplier's Arguments	
+
+Industry standard to use third party code. Depends on type of code (OS/database engine/library/Embedded component).
+
+### Customer's arguments	
+
+Software should perform to specification.
+
+### Comments
+
+None listed.
