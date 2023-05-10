@@ -2,7 +2,7 @@
 
 DRAFT - Intended for Review and NOT USE until flagged as non-draft.
 
-Version 0.1
+Version 0.2
 
 # Title
 
@@ -38,11 +38,11 @@ The process documentation system includes the following elements:
 
 6. Records: A description of the records that are maintained to demonstrate compliance with the OpenChain standard. 
 
-ABC Company's team collaborates to create the documentation system and review it for accuracy and completeness. They then submit their self-certification application to the OpenChain governing board. 
+ABC Company's team collaborates to create the documentation system and review it for accuracy and completeness. They then informed the OpenChain Project that they had completed self-certification. 
 
 Results:
 
-ABC Company's self-certification application is approved by the OpenChain governing board, and they are awarded OpenChain certification. This certification demonstrates to their clients and stakeholders that the company is committed to best practices for open source software compliance, and that their development processes are in line with industry standards. 
+ABC Company's self-certification demonstrated to their clients and stakeholders that the company is committed to best practices for open source software compliance, and that their development processes are in line with industry standards. 
 
 The process of creating the process documentation system also helps ABC Company streamline their development processes, reduce the risk of copyright infringement, and deliver higher quality products to their clients. 
 
