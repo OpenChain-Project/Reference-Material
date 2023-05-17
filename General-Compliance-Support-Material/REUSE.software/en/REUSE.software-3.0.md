@@ -1,6 +1,6 @@
 # REUSE.software
 
-This document is based on reuse.software, a project launched by FSFE, and redistributed under CC-0 with their kind permission.
+This document is based on REUSE.software, a project launched by FSFE, and redistributed under CC-0 with their kind permission.
 
 ---
 # SPDX-FileCopyrightText: 2019 Free Software Foundation Europe e.V.
