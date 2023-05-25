@@ -37,11 +37,11 @@ None listed.
 
 ### Sample Wording	
 
-The Supplier warrants that the [Software] [defined componants of the Software] originate[s] from an OpenChain ISO/IEC 5230:2000 Conformant Program [or Programs] [, with the OpenChain ISO/IEC 5230:2000 Conformant Program being specified in the Supplier Information Pack]. 
+The Supplier warrants that the [Software] [defined components of the Software] originate[s] from an OpenChain ISO/IEC 5230:2000 Conformant Program [or Programs] [, with the OpenChain ISO/IEC 5230:2000 Conformant Program being specified in the Supplier Information Pack]. 
 
 or
 
-The Supplier warrants that the [Software] [defined componants of the Software] originate[s] from a Program [or Programs] adhering to aspects of an OpenChain ISO/IEC 5230:2000 Conformant Program as specified in the Supplier Information Pack].
+The Supplier warrants that the [Software] [defined components of the Software] originate[s] from a Program [or Programs] adhering to aspects of an OpenChain ISO/IEC 5230:2000 Conformant Program as specified in the Supplier Information Pack].
 
 and
 
@@ -69,13 +69,17 @@ Supplier.
 
 None listed.
 
-### Sample Wording	
+### Sample Wording
 
-The Supplier warrants that the Software originates from an OpenChain ISO/IEC DIS 18974 Conformant Program [under the control of the Supplier / under the control of a provider to the Supplier]. 
+The Supplier warrants that the [Software] [defined components of the Software] originate[s] from an OpenChain ISO/IEC DIS 18974 Conformant Program [or Programs] [, with the OpenChain ISO/IEC DIS 18974 Conformant Program being specified in the Supplier Information Pack]. 
 
-The Supplier [further] warrants that[, so far as it is aware,] the Software complies the Program Guidelines provided by OpenChain ISO/IEC DIS 18974 at the time of delivery. 
+or
 
-[The Supplier does not warrant that use, modification or further distribution by the Customer of the Software constitutes a continuation of adherence to OpenChain ISO/IEC DIS 18974 Program Guidelines].
+The Supplier warrants that the [Software] [defined components of the Software] originate[s] from a Program [or Programs] adhering to aspects of an OpenChain ISO/IEC DIS 18974 Conformant Program as specified in the Supplier Information Pack].
+
+and
+
+[The Supplier does not warrant that use, modification or further distribution by the Customer of the Software constitutes a continuation of adherence to an OpenChain ISO/IEC DIS 18974 Conformant Program].	
 
 ### Supplier's Arguments	
 
