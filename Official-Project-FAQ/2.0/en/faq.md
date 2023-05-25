@@ -68,7 +68,7 @@ https://www.openchainproject.org/partners
 
 ### How Is The OpenChain Project Related To Other Linux Foundation Process Projects?
 
-The OpenChain Project has various sister standards covering adjacent topics in the area of open source process management. For example, the SDPX Project maintains SPDX ISO/IEC 5962, the International Standard for Software Bill of Materials (SBOM). The Open Source Security Foundation (OpenSSF) has extensive investment in security-related practices and management. The TODO Group has a focus on Open Source Program Offices (OSPOs). The Automated Compliance Tooling Project (ACT Project) supports open source tooling for automation related to management and compliance topics.
+The OpenChain Project has various sister standards covering adjacent topics in the area of open source process management. For example, the SPDX Project maintains SPDX ISO/IEC 5962, the International Standard for Software Bill of Materials (SBOM). The Open Source Security Foundation (OpenSSF) has extensive investment in security-related practices and management. The TODO Group has a focus on Open Source Program Offices (OSPOs). The Automated Compliance Tooling Project (ACT Project) supports open source tooling for automation related to management and compliance topics.
 
 We work with all of these projects to help companies find the best solution for their market requirements. The OpenChain Project has perhaps the highest level optic - how to get started with key processes for open source management - and then you can use our sister projects to build out your processes and continually improve your approach.
 
