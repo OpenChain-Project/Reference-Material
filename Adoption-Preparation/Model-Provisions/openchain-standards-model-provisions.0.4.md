@@ -89,7 +89,7 @@ The goal of this document is to ensure people can understand options. We will no
 
 #### 1.8.5.　[usual indemnity wording]
 
-# Optional Issue Structure:
+# Below is a Series of Optional Model Language Issues in Original Risk Grid Format:
 
 Each issue is formatted as follows:
 
@@ -101,23 +101,23 @@ Each issue is formatted as follows:
 - Supplier's Arguments　
 - Customer's Arguments　
 
-# Overarching Topics
+## Overarching Topics
 
-## Issue - Inclusion of OpenChain ISO/IEC 5230
+### Issue - Inclusion of OpenChain ISO/IEC 5230
 
-### Commentary　
+#### Commentary　
 
 None listed.
 
-### Who is best placed to bear risk?　
+#### Who is best placed to bear risk?　
 
 Supplier.
 
-### Best mechanism to tackle risk　
+#### Best mechanism to tackle risk　
 
 None listed.
 
-### Sample Wording　
+#### Sample Wording　
 
 The Supplier warrants that the [Software] [defined components of the Software] originate[s] from an OpenChain ISO/IEC 5230:2000 Conformant Program [or Programs] [, with the OpenChain ISO/IEC 5230:2000 Conformant Program being specified in the Supplier Information Pack]. 
 
@@ -129,29 +129,29 @@ and
 
 [The Supplier does not warrant that use, modification or further distribution by the Customer of the Software constitutes a continuation of adherence to an OpenChain ISO/IEC 5230:2000 Conformant Program].
 
-### Supplier's Arguments　
+#### Supplier's Arguments　
 
 The Supplier may argue that the inclusion of these requirements or the extent of the requirements included introduce a cost-burden that need to be offset.
 
-### Customer's Arguments　
+#### Customer's Arguments　
 
 The Customer is receiving a potential liability regarding third-party intellectual property along with the Software deliverable from the Supplier. As such, it is reasonable to request that the Supplier adheres to international standards related to the licensing of this third-party intellectual property.
 
-## Issue - Inclusion of OpenChain ISO/IEC DIS 18974
+### Issue - Inclusion of OpenChain ISO/IEC DIS 18974
 
-### Commentary　
+#### Commentary　
 
 None listed.
 
-### Who is best placed to bear risk?　
+#### Who is best placed to bear risk?　
 
 Supplier.
 
-### Best mechanism to tackle risk　
+#### Best mechanism to tackle risk　
 
 None listed.
 
-### Sample Wording
+#### Sample Wording
 
 The Supplier warrants that the [Software] [defined components of the Software] originate[s] from an OpenChain ISO/IEC DIS 18974 Conformant Program [or Programs] [, with the OpenChain ISO/IEC DIS 18974 Conformant Program being specified in the Supplier Information Pack]. 
 
@@ -163,29 +163,29 @@ and
 
 [The Supplier does not warrant that use, modification or further distribution by the Customer of the Software constitutes a continuation of adherence to an OpenChain ISO/IEC DIS 18974 Conformant Program].　
 
-### Supplier's Arguments　
+#### Supplier's Arguments　
 
 The Supplier may argue that the inclusion of these requirements or the extent of the requirements included introduce a cost-burden that need to be offset.
 
-### Customer's Arguments　
+#### Customer's Arguments　
 
 The Customer is receiving a potential liability regarding security along with the Software deliverable from the Supplier. As such, it is reasonable to request that the Supplier adheres to international standards related to the managing of security assurance related to the Software.
 
-## Issue - Determining if the OpenChain Conformant Program is self-certified or third-party certified
+### Issue - Determining if the OpenChain Conformant Program is self-certified or third-party certified
 
-### Commentary　
+#### Commentary　
 
 None listed.
 
-### Who is best placed to bear risk?　
+#### Who is best placed to bear risk?　
 
 Supplier
 
-### Best mechanism to tackle risk　
+#### Best mechanism to tackle risk　
 
 None listed.
 
-### Sample Wording　
+#### Sample Wording　
 
 The Supplier warrants that the OpenChain [ISO/IEC 5230:2000][ISO/IEC DIS 18974] Conformant Program [or Programs] referenced in the relevant [purchasing agreement[s]] [contract[s]] is self-certified as per the checklists or questionnaires provided by the OpenChain Project.
 
@@ -197,11 +197,11 @@ and
 
 [The Supplier will produce documentation to verify that the OpenChain [ISO/IEC 5230:2000][ISO/IEC DIS 18974] Conformant Program [or Programs] has undergone the disclosed certification process.]
 
-### Supplier's Arguments　
+#### Supplier's Arguments　
 
 None.
 
-### Customer's Arguments　
+#### Customer's Arguments　
 
 The Customer requires clarity regarding the type of certification that the Supplier has undergone to contextualize their risk. A Customer may regard third-party certification as preferable due to the inherent audit involved. Alternatively, a Customer may be satisfied that self-certification is sufficient given that OpenChain ISO/IEC 5230:2000 or ISO/IEC DIS 18974 both require the party with a conformant program to maintain documentation on how they accomplished their conformance.  
 
