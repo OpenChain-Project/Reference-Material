@@ -123,7 +123,7 @@ None.
 
 The Customer requires clarity regarding the type of certification that the Supplier has undergone to contextualize their risk. A Customer may regard third-party certification as preferable due to the inherent audit involved. Alternatively, a Customer may be satisfied that self-certification is sufficient given that OpenChain ISO/IEC 5230:2000 or ISO/IEC DIS 18974 both require the party with a conformant program to maintain documentation on how they accomplished their conformance.  
 
-# Supplier Information Pack
+# Series of Questions to Result in a Supplier Information Pack
 
 ## 1. This is a sequence of questions designed to determine what parts (if any) of the OpenChain ISO/IEC 5230:2020 standard a Supplier has implemented.
 
