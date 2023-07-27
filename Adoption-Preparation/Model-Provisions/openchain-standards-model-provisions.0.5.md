@@ -242,3 +242,43 @@ None.
 
 The Customer requires clarity regarding the type of certification that the Supplier has undergone to contextualize their risk. A Customer may regard third-party certification as preferable due to the inherent audit involved. Alternatively, a Customer may be satisfied that self-certification is sufficient given that OpenChain ISO/IEC 5230:2000 or ISO/IEC DIS 18974 both require the party with a conformant program to maintain documentation on how they accomplished their conformance.  
 
+### Issue - Risk that the Declaration is just pro-forma, how to verify?
+
+#### Commentary　
+
+None listed.
+
+#### Who is best placed to bear risk?　
+
+Supplier
+
+#### Best mechanism to tackle risk　
+
+Audit rights
+
+#### Sample Wording　
+
+Customer may request that an audit be carried out to verify compliance to ISO/IEC 5230:2000 by a Third party auditor (**"Audit"**) that shall be approved by Supplier and such approval shall not be unreasonably withheld.
+
+The Audit is subject to the following conditions:
+
+a. it must only concern Supplier's OpenChain-related material, processes, policies and other relevant Artefact as provided for by ISO/IEC 5230:2000 that are used to demonstrate compliance.
+a. the auditor shall undertake a formal non disclosure agreement if it was not bound to professional secrecy by operation of the law;
+a. it must be carried out no more than once a year;
+a. it must come with an adequate advance notice, in no case less than 5 business days, and may be carried out during normal working hours, without interrupting the continuity of Supplier's activities or causing Supplier excessive burden and inconvenience, and in compliance with Supplier's safety policies;
+a. Customer shall bear all expenses arising out of or in connection with Audits at Supplier's premises, unless such Audits reveal that Supplier is not acting in compliance ISO/IEC 5230:2000, in which case all expenses shall be borne by Supplier.  Customer may prepare an audit report summarizing the results and observations of the Audits (**"Audit Report"**);
+a. If at all possible, the Audit shall be documental, but the auditor may interview personnel of the Supplier to verify the level of compliance.
+
+Audit Reports are confidential information of Supplier and Customer undertakes not to disclose them to third parties, with the exception of its own consultants, including legal consultants and its own employees.
+
+Supplier can respond to a request to carry out an audit by handing over a recent Audit Report performed by a reputable third part; such handing over may carry reasonably confidentiality conditions. A recent Audit Report is a report that was formed no more than 10 months prior to the request to carry over the audit. Customer shall not unreasonably refuse to accept such Audit Report *in lieu* of a full audit, but can demand to carry over an audit on areas which have not been accurately described or which have not been covered by the Audit Report.
+
+[in case Supplier is self-certified] Supplier may retain the auditor for becoming third-party certified or to renew third-party certification, but any such request may not be made earlier than one calendar month after the Audit Report has been delivered.
+
+#### Supplier's Arguments　
+
+Cost and complication of an audit process, confidentiality.
+
+#### Customer's Arguments　
+
+Costs are borne mainly by Customer, confidentiality is tackled by NDA and the process is run by a third party, frequency is limited and the audit can be done by showing a reliable audit done by a reputable third party.
