@@ -14,10 +14,10 @@ You can adopt the OpenChain Security Assurance Specification by self-certificati
 
 We have a lot of resources to support you if you need assistance. You can join our mailing lists, our webinars, our group calls and our regional work groups to discuss challenges with your peers and in your native language. You can get started here:
 
-[[https://www.openchainproject.org/community]{.underline}](https://www.openchainproject.org/community)
+[https://www.openchainproject.org/community](https://www.openchainproject.org/community)
 
 Finally, if you want direct support from the project you can email
-[[info@openchainproject.org]{.underline}](mailto:info@openchainproject.org)
+[info@openchainproject.org]](mailto:info@openchainproject.org)
 with questions. We provide support for free. The OpenChain Project is funded by our Platinum Members and is designed to help support the global supply chain transition to more effective and efficient open source license compliance.
 
 # The Self-Certification Questionnaire
