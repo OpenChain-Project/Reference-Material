@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-Version 2
+Version 3
 
 ## General FAQ
 
@@ -12,7 +12,7 @@ Most importantly, our community acts as a support network where knowledge is sha
 
 ### Where Can I Find A Formal Description Of The OpenChain Project?
 
-The formal description and structure of the OpenChain Project is contained in the Project Charter. You can find this on GitHub.
+The formal description and structure of the OpenChain Project is contained in the Project Charter. You can find this on GitHub:
 
 https://github.com/OpenChain-Project/Project-Charter-And-Agreements/tree/master/Project-Charter
 
@@ -24,13 +24,13 @@ Our global community also works on topics like open source training, open source
 
 ### Who Conforms To The OpenChain Standards?
 
-We maintain a list of organizations decide to publicly announce OpenChain Conformant Programs through our website. 
+We maintain a list of organizations decide to publicly announce OpenChain Conformant Programs through our website:
 
 https://www.openchainproject.org/community-of-conformance
 
-However, because our specifications are supply chain standards, they focus on the relationship between customers and suppliers, so most organizations adopt our work without public announcement.
+However, because our specifications are supply chain standards, they focus on the relationship between customers and suppliers, so most organizations adopt our work without public announcement. For example, a Bitkom survey sponsored by PwC in 2021 indicated that 20% of German companies with more than 2,000 employees are currently using OpenChain ISO/IEC 5230, the international standard for open source license compliance.
 
-The primary way you find out if an organization is OpenChain ISO 5230 or OpenChain Security Assurance conformant is by discussing their conformance in procurement negotiations or through their sales material. You can also ask their OSPO (if present) about their conformance status.
+The primary way you find out if an organization is OpenChain ISO/IEC 5230 or OpenChain Security Assurance conformant is by discussing this in sales communications or procurement negotiations. You can also ask their OSPO (if present) about their conformance status.
 
 ### How Is The OpenChain Project Organized?
 
@@ -40,8 +40,7 @@ Specification Work Group, which identifies and publishes a set of core requireme
 
 Education Work Group, which provides reference material to help organization meet our specification requirements.
 
-You can find a full list of our work groups and other activities on our community page.
-
+You can find a full list of our work groups and other activities on our community page:
 https://www.openchainproject.org/community
 
 There are three committees for member companies:
@@ -101,11 +100,11 @@ You can find it on the OpenChain Project conformance page:
 
 https://www.openchainproject.org/get-started/conformance
 
-### Does an open source program need to satisfy all the requirements of the specification to be considered OpenChain Conforming?
+### Does an open source program need to satisfy all the requirements of OpenChain ISO/IEC 5230:2020 to be considered conformant?
 
-Yes. OpenChain ISO/IEC 5230:2020 the key requirements of a quality open source license compliance program. To make sure there are no gaps that would lead to poor quality output, a program must satisfy all the OpenChain ISO/IEC 5230:2020 requirements to be considered conforming.
+Yes. OpenChain ISO/IEC 5230:2020 defines the key requirements of a quality open source license compliance program. To make sure there are no gaps that would lead to poor quality output, a program must satisfy all the OpenChain ISO/IEC 5230:2020 requirements to be considered conforming.
 
-### Can software package be OpenChain ISO/IEC 5230:2020 conformant?
+### Can software packages be OpenChain ISO/IEC 5230:2020 conformant?
 
 No. OpenChain ISO/IEC 5230:2020 defines a quality open source license compliance program. The program is conformant. The software packages go *through* the program and therefore benefit from it. The question to ask suppliers is whether the software they supply was prepared under an OpenChain conforming program.
 
@@ -145,9 +144,74 @@ The version we host on our website (currently called OpenChain 2.1) is licensed 
 
 https://creativecommons.org/licenses/by/4.0/legalcode
 
-### What is the difference between Conformance vs Compliance
+## OpenChain Security Assurance Specification FAQ
 
-OpenChain ISO/IEC 5230:2020 does not use the term “compliance” when referring to meeting the requirements of the specification itself. This was a conscious decision to avoid confusion between “license compliance” and meeting the specification requirements. That is why we use the term “conformance” when talking about meeting the specification requirements.
+This is the FAQ for the OpenChain Security Assurance Specification specification. We recommend that all contributors to our specification development process take a while to review this section of our FAQ. 
+
+### We work based on four principles:
+
+- Build trust around the open source supply chain.
+- Remember that less is more:
+-- Define the key requirements of a quality compliance program
+-- Do this by solving real pain points in the supply chain
+- Keep our specifications limited to what and why (avoid the how and when)
+-- Embrace different implementations to solve challenges
+-- Avoid mandating specific process content
+- Be open to all to participate and contribute
+
+### What is the objective of the OpenChain Security Assurance Specification?
+
+It is designed to identify the key requirements of a quality open source security assurance program. This means it provides a level of trust about what organizations are doing as they ingest, internally develop and distribute open source software. 
+
+### Where can I find the current version of OpenChain Security Assurance Specification?
+
+You can find it on the OpenChain Project conformance page:
+
+https://www.openchainproject.org/get-started/conformance
+
+### Does an open source program need to satisfy all the requirements of the OpenChain Security Assurance Specification to be conformant?
+
+Yes. OpenChain Security Assurance Specification defines the key requirements of a quality open source security assurance program. To make sure there are no gaps that would lead to poor quality output, a program must satisfy all the OpenChain Security Assurance Specification requirements to be considered conforming.
+
+### Can software packages be OpenChain Security Assurance Specification conformant?
+
+No. OpenChain Security Assurance Specification defines a quality open source license compliance program. The program is conformant. The software packages go *through* the program and therefore benefit from it. The question to ask suppliers is whether the software they supply was prepared under an OpenChain conforming program.
+
+### Does all the software in an organization need to be covered by an OpenChain Security Assurance Specification conformant program?
+
+No. Organizations are often made from different groups or departments with different programs and release procedures. One example is that engineering may be very different from professional services). An organization decides how much of the total entity to cover with its OpenChain Security Assurance Specification conformant program. Many companies start with one part of one group covering one product, and build out from there.
+
+### Does the OpenChain Security Assurance Specification serve as a best practice guide?
+
+No. OpenChain Security Assurance Specification defines a quality open source security assurance program. It focuses on the “what and why” aspects of a program and not the how or when. A best practices guide must explain how and when to ensure it supports implementation activities. We publish reference material like Playbooks covering these topics, but they are separate to OpenChain Security Assurance Specification itself.
+
+### How was the OpenChain Security Assurance Specification developed?
+
+The OpenChain Project developed OpenChain Security Assurance Specification via our specification mailing list and calls. The process was (and is) open to everyone. The initial draft of the OpenChain Security Assurance Specification (then called the OpenChain Security Assurance Reference Guide) was created in the 2021 period. It was restructured as the OpenChain Security Assurance Reference Specification in Q1 2022 and released as the OpenChain Security Assurance Specification in Q4 2022. Since then the OpenChain Project has continually reviewed and maintained the standard in an open, collaborative manner that mirrors how open source software is created.
+
+### Does the OpenChain Security Assurance Specification describe how to comply with specific security requirements?
+
+No. OpenChain Security Assurance Specification defines a quality open source security assurance program. It is not designed to identify, breakdown and interpret individual security requirements. The specifics of each requirement and obligation must be determined by each company for their respective market space and legal jurisdiction.
+
+### Does the OpenChain OpenChain Security Assurance Specification provide legal guidance?
+
+No. The specification does not provide legal guidance because that can only come from a legal expert assigned to advise an organization.
+
+### Does the OpenChain Security Assurance Specification conformance guarantee security assurance?
+
+No, but it significantly increases the probability that security assurance issues will arise for software prepared under an OpenChain Security Assurance Specification conformant program.
+
+### Do resources exist to assist my organization in achieving OpenChain Security Assurance Specification conformance?
+
+Yes. You will find a substantial amount of resources, including self-certification checklists, on the OpenChain website:
+
+https://www.openchainproject.org
+
+### What license is OpenChain Security Assurance Specification released under?
+
+The version we host on our website (currently called OpenChain 2.1) is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0). A copy of the license can be obtained here: 
+
+https://creativecommons.org/licenses/by/4.0/legalcode
 
 ## OpenChain Self-Certification FAQ
 
@@ -173,11 +237,13 @@ You can access the checklist at the following link:
 
 https://github.com/OpenChain-Project/Reference-Material/blob/master/Self-Certification/Checklist/ISO5230-2020/en/
 
-Once you complete the process, please let me know so that we can add you to our Community of Conformance on the OpenChain Project website. This is not mandatory but it provides an advantage to you (more of your peers know that you have the key requirements of a quality open source compliance program in place), and it provides an advantage to us because we have more insight into market adoption. You can let us know about your conformance by contacting us here:
+### Please let us know when you are conformant
 
-https://www.openchainproject.org/about
+Once you complete the process, please let us know so that we can add you to our Community of Conformance on the OpenChain Project website. This is not mandatory but it provides an advantage to you (more of your peers know that you have the key requirements of a quality open source compliance program in place), and it provides an advantage to us because we have more insight into market adoption. You can let us know about your conformance by contacting our [helpdesk](mailto:helpdesk@lists.openchainproject.org).
 
-By the way, we also have a legacy self-certification web app. This has been used as the primary way to record conformance progress online since 2017. However, it is depreciated as we transition to document formats more easily ingested into organizations for self-certification. It can be here: 
+### We also have legacy support
+
+We have a legacy self-certification web app. This has been used as the primary way to record conformance progress online since 2017. However, it is depreciated as we transition to document formats more easily ingested into organizations for self-certification. It can be here:
 
 https://certification.openchainproject.org/
 
@@ -190,9 +256,3 @@ https://certification.openchainproject.org/
 ### If I use the web app, what response time should I expect to a submittal request?
 
 If all information is correct, the submittal will automatically be approved by the system. Any omissions or incorrect answers will be reported by the user.
-
-### How do I report issues with the web app?
-
-Contact us here:
-
-https://www.openchainproject.org/about
