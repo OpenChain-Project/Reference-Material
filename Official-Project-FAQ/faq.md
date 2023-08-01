@@ -270,22 +270,14 @@ Making a new specification is a process with a lot of moving pieces. We scope de
 5. Open a  **Public Comments Period**  six weeks before our target completion date. This runs for 30 days and only accepts minor updates such as typos or grammar corrections that do not change the requirements of the content. We do not accept any material changes during this period. All other feedback and recommendations are queue for consideration during the next version release cycle.
 6. Open a  **Freeze Period**  two weeks before our target completion date to allow a 14 day review of any changes made during the Public Comments Period.
 7. If a consensus expresses concerns over any changes made during the Public Comments period we would
-
-- i) make changes to accommodate those concerns followed by
-
-- ii) an additional 14 day Public Comments period; followed by
-
-- iii) another 14 day Freeze period. Anyone with significant reservations on the final draft should state their position/concerns via the spec mailing list. The changes will be accepted once we achieve consensus for the final draft.
-
-1. In the event we do not have consensus on the final version – we would repeat the following cycle until we have consensus:
-
-- i) accommodate changes to address majority concerns;
-
-- ii) 14 day Public Comments period; followed by
-
-- iii) a 14 day Freeze period cycle.
-
-1. Send the completed draft specification to the OpenChain Steering Committee for formal review and a vote on whether to accept the community recommendations for an updated or new specification.
+-- i) make changes to accommodate those concerns followed by
+-- ii) an additional 14 day Public Comments period; followed by
+-- iii) another 14 day Freeze period. Anyone with significant reservations on the final draft should state their position/concerns via the spec mailing list. The changes will be accepted once we achieve consensus for the final draft.
+8. In the event we do not have consensus on the final version – we would repeat the following cycle until we have consensus:
+-- i) accommodate changes to address majority concerns;
+-- ii) 14 day Public Comments period; followed by
+-- iii) a 14 day Freeze period cycle.
+9. Send the completed draft specification to the OpenChain Steering Committee for formal review and a vote on whether to accept the community recommendations for an updated or new specification.
 
 **Please Note:**  the final decision on content and release of OpenChain Project specifications lies with the OpenChain Steering Committee.
 
@@ -306,16 +298,11 @@ We encourage translations of our specifications. However, we want these translat
 
 1. Propose a translation on the monthly calls, [specification mailing list](https://lists.openchainproject.org/g/specification) or other official channel like our WeChat group.
 2. Get a copy of the English version of our specification to facilitate the translation:
-
-- [OpenChain ISO/IEC 5230:2020 in MarkDown](https://github.com/OpenChain-Project/License-Compliance-Specification/tree/master/Official/en)
-
-- [OpenChain Security Assurance Specification in MarkDown](https://github.com/OpenChain-Project/Security-Assurance-Specification/tree/main/Security-Assurance-Specification)
-
-1. Add the proposed translations as an Issue to the [License Compliance GitHub Repository](https://github.com/OpenChain-Project/License-Compliance-Specification/pulls) or [Security Assurance GitHub Repository](https://github.com/OpenChain-Project/Security-Assurance-Specification/pulls).
-2. The translation license should be the same as the English original
-3. The translation should also include the following disclaimer:
-
-- "This is a translation from the original specification in English. In the event there is confusion between this translation and the English version, The English text shall take precedence."
-
-1. The translation will be accepted (or flagged for further review) via GitHub.
-2. It will then be announced on the main mailing list and the specification mailing list.
+-- [OpenChain ISO/IEC 5230:2020 in MarkDown](https://github.com/OpenChain-Project/License-Compliance-Specification/tree/master/Official/en)
+-- [OpenChain Security Assurance Specification in MarkDown](https://github.com/OpenChain-Project/Security-Assurance-Specification/tree/main/Security-Assurance-Specification)
+3. Add the proposed translations as an Issue to the [License Compliance GitHub Repository](https://github.com/OpenChain-Project/License-Compliance-Specification/pulls) or [Security Assurance GitHub Repository](https://github.com/OpenChain-Project/Security-Assurance-Specification/pulls).
+4. The translation license should be the same as the English original
+5. The translation should also include the following disclaimer:
+-- "This is a translation from the original specification in English. In the event there is confusion between this translation and the English version, The English text shall take precedence."
+6. The translation will be accepted (or flagged for further review) via GitHub.
+7. It will then be announced on the main mailing list and the specification mailing list.
