@@ -36,7 +36,7 @@ This document contains a series of Due Diligence Questions that may be useful pr
 
 This document is intended to be interpreted consistently with the OpenChain Specification 2.1 (ISO5230:2020) ("OpenChain"). For a copy of the OpenChain specification, please see here [insert link]. 
 - The example language it contains below is not intended for "copy and paste" inclusion in contracts.
-- 
+- It is a "thinking tool" for legal staff or other parties involved in procurement to consider some matters that may be relevant to implementing or optimizing procurement approaches related to OpenChain ISO/IEC 5230 / open source license compliance.
 
 ## A Potential Series of Due Diligence Questions to be used prior to preparation of contract in the context of OpenChain ISO/IEC 5230 adoption and use
 
