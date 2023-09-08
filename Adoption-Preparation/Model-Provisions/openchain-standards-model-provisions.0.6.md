@@ -15,17 +15,44 @@ The goal of this document is to ensure people can understand options. We will no
 
 # Rationale / Motivation For Development Of The Proposal
 
+The strategic approach taken here and elsewhere in OpenChain reference material is to encourage alignment and a Path to Conformance with the process management outlined in the OpenChain Specification(s). The thinking behind this is that companies beginning their journey may be in a position to align with one or more process points, and increase alignment over time. The method of encouraging alignment is two-fold:
+- demand pull from customer companies asking for OpenChain Specification(s) conformance.
+- the ready availability of material to assist with these efforts.
 
+Two examples of this strategy in action from our early days are:
+- the concept of socializing OpenChain conformance as “preferred” before “required” in supplier relationships, something individual companies in our ecosystem have mentioned as their own strategic choice since our early days.
+ - The early production of our Reference Training Slides as the first work product of the OpenChain Education Work Group in 2016 as a “get started here” process item, providing a first step in the alignment process that addressed one of the largest known pain points, and setting the stage for companies to proceed to implement other steps in their Path to Conformance.
+
+Our historical Path to Conformance sequence was moved into MarkDown format by the Education Work Group partially refreshed on 2022-10-18 here:
+https://github.com/OpenChain-Project/Reference-Material/blob/master/Adoption-Preparation/Path-to-Conformance/Official/en/path-to-conformance-version-1.md
+
+## 
 
 ## Version 0.6
 
-# Series of Due Diligence Questions to be used prior to preparation of contract
+# How to read the model provisions presented below
 
-Note: this document is to be interpreted consistently with the OpenChain Specification 2.1 (ISO5230:2020) ("OpenChain"). For a copy of the OpenChain specification, please see here [insert link]. In each case, if the answer to a question below is *yes*, please provide details.
+This document contains a series of Due Diligence Questions that may be useful prior to preparation of a contract related to procurement that expresses (a) a preference for OpenChain ISO/IEC 5230 conformance or  alternatively (b) a path to conformance demonstrated by alignment with individual process points compatible with the OpenChain ISO/IEC 5230 specification.
 
-### Q0.1: Do you have any formal certifications or conformance assessments relating to your open source compliance activities (e.g. OpenChain, ISO/IEC 5230:2020). These can be self certifications or external certifications.
+This document is intended to be interpreted consistently with the OpenChain Specification 2.1 (ISO5230:2020) ("OpenChain"). For a copy of the OpenChain specification, please see here [insert link]. 
+- The example language it contains below is not intended for "copy and paste" inclusion in contracts.
+- 
 
-### Q0.2 If yes, is the software to be delivered to us developed under a program which conforms to these certifications or assessments?
+## A Potential Series of Due Diligence Questions to be used prior to preparation of contract in the context of OpenChain ISO/IEC 5230 adoption and use
+
+The ideal situation is to ask a supplier or similar organization "do you use OpenChain ISO/IEC 5230" and receive the reply "yes." This is the maturity situation the project would like to see in the context of efficient, effective risk reduction, resource usage reduction and procurement complexity around open source software license compliance.
+
+More formally, that could be expressed in procurement as two questions:
+
+### Q1: Do you have any formal certifications or conformance assessments relating to your open source compliance activities (e.g. OpenChain, ISO/IEC 5230:2020). These can be self certifications or external certifications.
+
+### Q2 If yes, is the software to be delivered to us developed under a program which conforms to these certifications or assessments?
+
+In the market situation of imperfect readiness by suppliers, companies beginning their journey may be in a position to align with one or more process points compatible with ISO/IEC 5230, and increase alignment over time. From the perspective of the OpenChain Project, ideally the method of encouraging alignment is two-fold:
+- demand pull from customer companies asking for OpenChain Specification(s) conformance.
+- the ready availability of material to assist with these efforts.
+
+The material below is intended to provide food for thought on both points, particularly the latter. However, please note that some questions may be broader than the requirements of ISO/IEC 5230, and should be read in the context of procurement negotiations potentially "over-asking" to provoke a response that illustrates the rationale and implantation of process choices by a supplier. It also reflects the reality of practical procurement being a case of ultimately being a compromise between two parties as a result of the procurement negotiation itself.
 
 ### Q1:	Do you have a policy for selecting, using and deploying free and open source software (FOSS) components?
 
