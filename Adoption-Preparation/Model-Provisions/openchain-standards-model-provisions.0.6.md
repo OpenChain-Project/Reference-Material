@@ -1,9 +1,21 @@
-# Overview
+## OpenChain Model Procurement Language - A Reference Guide
 
-This is a document to explore model provisions for OpenChain ISO/IEC 5230 or ISO/IEC DIS 18974 in procurement contracts and similar material. It is based on the public domain Risk Grid version 12 hosted in the OpenChain Reference Library on GitHub:
+## Version 1.0 DRAFT (currently version 0.6, a release candidate)
+
+# Production Status
+
+This document is NOT intended for use at this time. It is currently being drafted as a PROPOSAL by the OpenChain Project community. Please track our open issues on GitHub to help develop the document. Submit ideas as comments to issues or open new issues.
+
+# Introduction and Intent
+
+This is a document to explore model provisions for OpenChain ISO/IEC 5230 or ISO/IEC DIS 18974 in procurement contracts and similar material. It was created with reference to the public domain Risk Grid version 12 hosted in the OpenChain Reference Library on GitHub:
 https://github.com/OpenChain-Project/Reference-Material/blob/master/General-Compliance-Support-Material/Risk-Grid/risk-grid-12.md
 
 The goal of this document is to ensure people can understand options. We will not be prescriptive and these model provisions will remain part of the OpenChain reference material. They will not be included in the OpenChain standards themselves.
+
+# Rationale / Motivation For Development Of The Proposal
+
+
 
 ## Version 0.6
 
@@ -122,8 +134,20 @@ Note: this document is to be interpreted consistently with the OpenChain Specifi
 
 ##### 1.8.1.2.3　Delivered to any End User [either as an installer package, a binary, a packaged delivered and installed through an app store, or delivered pre-installed into any device] as anticipated by the Use Case.
 
+The Supplier warrants that any Open Source components contained within the Software are fully and accurately listed on each Software Bill of Materials made available to the Customer from time to time;
+
+1.8.2.　Are accompanied by all Compliance Artifacts necessary to fully comply with the terms of the Open Source licenses applicable to all components contained within the Software when the Software is
+
+1.8.2.1.　Delivered to the Customer; and*, in case the following acts of delivery are incumbent upon the Supplier _or are delivered with the intention that they shall be re-delivered unmodified by the Customer or a downstream distributor of the Customer_*
+
+1.8.2.2.　Delivered to any downstream distributor of the Customer; and
+
+1.8.2.3.　Delivered to any End User [either as an installer package, a binary, a packaged delivered and installed through an app store, or delivered pre-installed into any device] as anticipated by the Use Case
+
+
 #### 1.8.3.　[usual warranties as to general IP compliance, right to supply to customer, conformance with specification etc.]
 
 #### 1.8.4.　[usual ongoing obligations as to awareness of breaches etc.]
 
 #### 1.8.5.　[usual indemnity wording]
+
