@@ -4,7 +4,17 @@
 
 # Production Status
 
-This document is NOT intended for use at this time. It is currently being drafted as a PROPOSAL by the OpenChain Project community. Please track our open issues on GitHub to help develop the document. Submit ideas as comments to issues or open new issues.
+## On-Hold - No further work to be taken here
+
+Concerns have been raised regarding some of the approaches taken here and we will pause this activity until they have been addressed. 
+
+## Historical Overview
+
+This document is a draft thinking tool for discussions around the use of OpenChain ISO/IEC 5230 or OpenChain ISO/IEC DIS 18974 or more generically open source in procurement discussions.
+
+This document is NOT intended for use. It is a PROPOSAL for reference material by the OpenChain Project community.
+
+Please track our open issues on GitHub if you want to contribute to this discussion. Submit ideas as comments to issues or open new issues.
 
 # Introduction and Intent
 
@@ -25,8 +35,6 @@ Two examples of this strategy in action from our early days are:
 
 Our historical Path to Conformance sequence was moved into MarkDown format by the Education Work Group partially refreshed on 2022-10-18 here:
 https://github.com/OpenChain-Project/Reference-Material/blob/master/Adoption-Preparation/Path-to-Conformance/Official/en/path-to-conformance-version-1.md
-
-## 
 
 ## Version 0.6
 

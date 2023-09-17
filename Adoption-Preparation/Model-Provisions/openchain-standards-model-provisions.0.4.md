@@ -1,4 +1,10 @@
-# Overview
+# Production Status
+
+## On-Hold - No further work to be taken here
+
+Concerns have been raised regarding some of the approaches taken here and we will pause this activity until they have been addressed. 
+
+## Historical Overview
 
 This is a document to explore model provisions for OpenChain ISO/IEC 5230 or ISO/IEC DIS 18974 in procurement contracts and similar material. It is based on the public domain Risk Grid version 12 hosted in the OpenChain Reference Library on GitHub:
 https://github.com/OpenChain-Project/Reference-Material/blob/master/General-Compliance-Support-Material/Risk-Grid/risk-grid-12.md
