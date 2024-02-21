@@ -87,8 +87,8 @@ With some open source licenses, the copyright holder of open source grants other
 
 The Open Source Initiative (OSI) is an organization that promotes open source. It defines the criteria for what constitutes open source and approves dozens of different licenses as valid open source licenses.
 
-https://opensource.org/licenses
-https://opensource.org/osd
+[https://opensource.org/licenses](https://opensource.org/licenses)
+[https://opensource.org/osd](https://opensource.org/osd)
 
 Most open source is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved license may be treated as open source as well. Whether such software should be treated as open source (or handled some other way) should be determined by agreement between the software supplier and the recipient.
 
