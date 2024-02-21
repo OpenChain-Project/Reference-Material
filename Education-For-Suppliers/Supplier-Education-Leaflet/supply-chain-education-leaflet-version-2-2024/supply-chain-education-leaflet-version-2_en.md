@@ -197,7 +197,7 @@ However, if software compliance is managed appropriately in the upstream supply 
 
 It is recommended that each company in the supply chain establish a team to ensure open source compliance in the chain. The Linux Foundation’s OpenChain project provides a Self Certification program that companies can use for this purpose. The Self Certification helps a company check its compliance process. The certification test is available in several languages and anyone can use it for free.
 
-[https://certification.openchainproject.org/](https://certification.openchainproject.org/)
+[Get Certified](https://www.openchainproject.org/get-started)
 
 ## Requirements for participants in the supply chain
 
