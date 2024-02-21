@@ -16,7 +16,7 @@ Open source has become essential to modern software development and is incorpora
 
 Much open source is developed through the collaboration of expert developers from different organizations throughout the world. open source is often a vehicle for advanced innovation in various fields. Software engineers who participate in open source development have opportunities to improve their skills and to experience this innovation firsthand.
 
-Open source can be freely used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed, the distributor is require to comply with the terms and conditions of the license at the point in time when distribution occurs. There have been cases where distributors were sued and lost because they failed to satisfy their legal obligations. There are best practices to help prevent this happening.
+Open source can be used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed, the distributor is required to comply with the terms and conditions of the license at the point in time when distribution occurs. There have been cases where distributors were sued and lost because they failed to satisfy their legal obligations. There are best practices to help prevent this happening.
 
 By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel must have an understanding of the basic principles of open source.
 
