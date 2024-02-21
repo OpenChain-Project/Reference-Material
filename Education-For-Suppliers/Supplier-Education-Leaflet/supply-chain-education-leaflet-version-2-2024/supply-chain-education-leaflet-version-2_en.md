@@ -8,8 +8,8 @@
 
 ##### 1st Edit 2nd edition 2022-10-31
 ##### 2nd Edit 2nd edition 2022-10-31 - Adjusted OSS to open source as per normal project practice, other small fixes
-##### 3rd Edit 2nd edition 2022-10-31 - Adjusted intro to mention security.
-##### 4th Edit 2nd edition 2024-02-21 - Improved introduction.
+##### 3rd Edit 2nd edition 2022-10-31 - Adjusted intro to mention security
+##### 4th Edit 2nd edition 2024-02-21 - Improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation
 
 # Introduction
 
@@ -292,11 +292,9 @@ In some cases, where an open source component itself includes a secondary piece 
 
 The preceding information is fairly general. One customer may require certain pieces of information, while a different customer may require other information instead. It is important to communicate with your customers regarding the pieces of information they require and the format of them.
 
-## SPDX project
+## SPDX Project
 
-SPDX（® Software Package Data Exchange®) project, hosted by the Linux Foundation, has a standardized format for exchanging license information.
-
-Anyone can use this format, and it is highly recommended for use throughout the supply chain. Please find information about this format at:
+SPDX (Software Package Data Exchange) is a project hosted by the Linux Foundation that has developed a standardized format for exchanging license information. The SPDX format was published as ISO/IEC 5962:2021 after many years as a de-facto industry standard. Anyone can use SPDX and it is highly recommended for use throughout the supply chain. Please find information about it at:
 
 [https://spdx.org/](https://spdx.org/)
 
