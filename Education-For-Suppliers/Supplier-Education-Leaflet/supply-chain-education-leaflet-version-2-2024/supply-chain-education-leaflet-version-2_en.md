@@ -310,7 +310,7 @@ Some scanning tools have the ability to generate reports based on the SPDX speci
 
 ## About OpenChain Project
 
-The OpenChain Project builds trust in open source by making open source license compliance simpler and more consistent. The OpenChain Specification defines a core set of requirements every quality compliance program must satisfy. OpenChain Conformance allows organizations to display their adherence to these requirements. The OpenChain Curriculum supports this process by providing extensive reference material for effective open source training and management. The result is that open source license compliance becomes more predictable, understandable and efficient for all participants in the software supply chain.
+The OpenChain Project builds trust in open source by building business process standards, supporting reference material, services and a partner ecosystem. The result is that open source license compliance becomes more predictable, understandable and efficient for all participants in the software supply chain. The OpenChain Project is run by users of open source for the benefit of users of open source. It invites all parties to engage and participate in its activities.
 
 [https://www.linuxfoundation.org/](https://www.linuxfoundation.org/)
 
