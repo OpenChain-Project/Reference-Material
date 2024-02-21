@@ -4,15 +4,18 @@
 
 #### First Edition - May 2019 (as 'Open Source Software License Compliance General Public Guide')
 
-#### Draft Second Edition - October 2022
+#### Draft Second Edition
 
-##### 1st Commit 2nd edition 2022-10-31
-##### 2nd Commit 2nd edition 2022-10-31 - Adjusted OSS to open source as per normal project practice, other small fixes
-##### 3rd Commit 2nd edition 2022-10-31 - Adjusted intro to mention security.
+##### 1st Edit 2nd edition 2022-10-31
+##### 2nd Edit 2nd edition 2022-10-31 - Adjusted OSS to open source as per normal project practice, other small fixes
+##### 3rd Edit 2nd edition 2022-10-31 - Adjusted intro to mention security.
+##### 4th Edit 2nd edition 2024-02-21 - Improved introduction.
 
 # Introduction
 
-Open Source Software (open source) has become essential to modern software development. Open source is incorporated into almost every electronic product, including super computers, cloud servers, personal computers, consumer electronics, automobiles, industrial equipment and IoT equipment. Companies are required to develop products or services with high quality and faster time–to–market even under intense competition. They also have to keep up with the latest technology trends. Open source is indispensable in this pursuit.
+This leaflet is designed to help companies in the supply chain manage Open Source Software (open source). It was created by the OpenChain Japan Work Group and is maintained by the OpenChain Project global community. The OpenChain Project maintains OpenChain ISO/IEC 5230:2020 for open source license compliance and OpenChain ISO/IEC 18974:2023 for open source security assurance. These standards can help companies manage open source. You can learn more about the OpenChain Project and its standards at [www.openchainproject.org](https://www.openchainproject.org).
+
+Open source has become essential to modern software development and is incorporated into almost every electronic product, including super computers, cloud servers, personal computers, consumer electronics, automobiles, industrial equipment and IoT equipment. Open source is an indispensable part of helping companies to bring high quality products or services to market quickly under intense competition.
 
 Much open source is developed through the collaboration of expert developers from different organizations throughout the world. open source is often a vehicle for advanced innovation in various fields. Software engineers who participate in open source development have opportunities to improve their skills and to experience this innovation firsthand.
 
@@ -20,7 +23,7 @@ Open source can be freely used, modified, and distributed by anyone who complies
 
 By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel must have an understanding of the basic principles of open source.
 
-This leaflet was created by the Japanese Work Group of the OpenChain Project from The Linux Foundation to provide basic open source education. It is licensed under CC-0 (effectively public domain) and is maintained by the global OpenChain Project community.
+This leaflet is licensed under CC-0 (effectively public domain). You can use, share, study and alter it without restriction.
 
 # Learning Open Source
 
