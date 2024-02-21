@@ -23,7 +23,7 @@ Open source can be freely used, modified, and distributed by anyone who complies
 
 By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel must have an understanding of the basic principles of open source.
 
-This leaflet is licensed under CC-0 (effectively public domain). You can use, share, study and alter it without restriction.
+This leaflet is licensed under [CC-0](https://creativecommons.org/public-domain/cc0/) (effectively public domain). You can use, share, study and alter it without restriction.
 
 # Learning Open Source
 
