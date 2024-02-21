@@ -195,7 +195,7 @@ As software becomes larger and more complex, the supply chain for software also 
 
 However, if software compliance is managed appropriately in the upstream supply chain, these problems can be avoided. To facilitate compliance with open source licenses, all participants in the supply chain must do their duty, build trust throughout the supply chain, and communicate appropriate information regarding included software.
 
-It is recommended that each company in the supply chain establish a team to ensure open source compliance in the chain. The Linux Foundation’s OpenChain project provides a Self Certification program that companies can use for this purpose. The Self Certification helps a company check its compliance process. The certification test is available in several languages and anyone can use it for free.
+It is recommended that each company in the supply chain establish a program to ensure open source compliance. The OpenChain Project created ISO/IEC 5230:2020 to explain the key requirements of this type of program, and to make it clear that even small teams can address open source compliance cheaply and effectively. At its most basic level, ISO/IEC 5230:2020 helps a company check its compliance process and improve it where necessary based on 30 years of industry knowledge. Free self-certification is available on the OpenChain Project website and there are also options for third-party certification if a company or its customers require it.
 
 [Get Certified](https://www.openchainproject.org/get-started)
 
