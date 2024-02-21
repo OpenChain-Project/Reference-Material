@@ -90,7 +90,7 @@ The Open Source Initiative (OSI) is an organization that promotes open source. I
 https://opensource.org/licenses
 https://opensource.org/osd
 
-Most open source is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved license may be treated as open sourece as well. Whether such software should be treated as open source (or handled some other way) should be determined by agreement between the software supplier and the recipient.
+Most open source is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved license may be treated as open source as well. Whether such software should be treated as open source (or handled some other way) should be determined by agreement between the software supplier and the recipient.
 
 # What you need to do to receive the benefits of open source
 
