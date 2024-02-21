@@ -312,7 +312,7 @@ Some scanning tools have the ability to generate reports based on the SPDX speci
 
 The OpenChain Project builds trust in open source by building business process standards, supporting reference material, services and a partner ecosystem. The result is that open source license compliance becomes more predictable, understandable and efficient for all participants in the software supply chain. The OpenChain Project is run by users of open source for the benefit of users of open source. It invites all parties to engage and participate in its activities.
 
-[https://www.linuxfoundation.org/](https://www.linuxfoundation.org/)
+[https://www.openchainproject.org](https://www.openchainproject.org)
 
 ## About The Linux Foundation
 
