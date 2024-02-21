@@ -4,12 +4,9 @@
 
 #### First Edition - May 2019 (as 'Open Source Software License Compliance General Public Guide')
 
-#### Draft Second Edition
+#### (Draft) Second Edition - February 2022
 
-##### 1st Edit 2nd edition 2022-10-31
-##### 2nd Edit 2nd edition 2022-10-31 - Adjusted OSS to open source as per normal project practice, other small fixes
-##### 3rd Edit 2nd edition 2022-10-31 - Adjusted intro to mention security
-##### 4th Edit 2nd edition 2024-02-21 - Improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation
+##### Adjusted OSS to open source as per normal project practice, adjusted intro to mention security, improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation.
 
 # Introduction
 
