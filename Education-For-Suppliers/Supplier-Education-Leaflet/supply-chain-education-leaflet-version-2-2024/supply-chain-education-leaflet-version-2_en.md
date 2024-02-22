@@ -4,7 +4,7 @@
 
 #### First Edition - May 2019 (as 'Open Source Software License Compliance General Public Guide')
 
-#### (Draft) Second Edition - February 2022
+#### (Draft) Second Edition - February 2024
 
 ##### Adjusted OSS to open source as per normal project practice, adjusted intro to mention security, improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation.
 
@@ -12,29 +12,32 @@
 
 This leaflet is designed to help companies in the supply chain manage Open Source Software (open source). It was created by the OpenChain Japan Work Group and is maintained by the OpenChain Project global community. The OpenChain Project maintains OpenChain ISO/IEC 5230:2020 for open source license compliance and OpenChain ISO/IEC 18974:2023 for open source security assurance. These standards can help companies manage open source. You can learn more about the OpenChain Project and its standards at [www.openchainproject.org](https://www.openchainproject.org).
 
-Open source has become essential to modern software development and is incorporated into almost every electronic product, including super computers, cloud servers, personal computers, consumer electronics, automobiles, industrial equipment and IoT equipment. Open source is an indispensable part of helping companies to bring high quality products or services to market quickly under intense competition.
+Open source has become essential to modern software development and is incorporated into almost every electronic product, including supercomputers, cloud servers, personal computers, consumer electronics, automobiles, industrial equipment and IoT equipment. Open source is an indispensable part of helping companies to bring high quality products or services to market quickly under intense competition.
 
-Much open source is developed through the collaboration of expert developers from different organizations throughout the world. open source is often a vehicle for advanced innovation in various fields. Software engineers who participate in open source development have opportunities to improve their skills and to experience this innovation firsthand.
+Much open source is developed through the collaboration of expert developers from different organizations throughout the world. Open source is often a vehicle for advanced innovation in various fields. Software engineers who participate in open source development have opportunities to improve their skills and to experience this innovation firsthand.
 
 Open source can be used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed, the distributor is required to comply with the terms and conditions of the license at the point in time when distribution occurs. There have been cases where distributors were sued and lost because they failed to satisfy their legal obligations. There are best practices to help prevent this happening.
 
-By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel must have an understanding of the basic principles of open source.
+By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel to have an understanding of the basic principles of open source.
 
-This leaflet is licensed under [CC-0](https://creativecommons.org/public-domain/cc0/) (effectively public domain). You can use, share, study and alter it without restriction.
+This leaflet is licensed under [CC0-1.0](https://creativecommons.org/public-domain/cc0/) (effectively public domain). You can use, share, study and alter it without restriction.
 
 # Learning Open Source
 
-### Let’s learn the basics of open source.
+### Let’s learn the basics of open source
 
 This pamphlet explains the following:
 
 1． What is Open Source?
+
 2． What you need to do to receive the benefits of open source
+
 3． Risks associated with failure to comply with open source responsibilities
 
 Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder.
 
 4． Supply chain issues
+
 5. What you need to do to ensure that everyone benefits from open source
 
 Points 3 and 4 may be intertwined. If open source is acquired through a supply chain then all links in the supply chain must comply with the conditions of the license. If any link fails to satisfy the conditions of the license, then entities later in the supply chain will not be able to remedy the missing conditions. An employee or company acting alone cannot meet all the responsibilities and requirements by themselves.
@@ -58,7 +61,7 @@ Open source is software for which the source code is provided. And the copyright
 
 ## Examples of open source
 
-Linux is probably the most widely known example of open source. An Operating System (OS) is software that is designed to provide a platform for other software. Linux is one such operating system. Linux is everywhere. It is incorporated into almost every major computing system, including super computers, stock exchange servers, Internet servers, smartphones using the Android software stack, consumer electronics products, automobiles, and industrial equipment. Linux supports a large portion of the world’s core technological infrastructure.
+Linux is probably the most widely known example of open source. An Operating System (OS) is software that is designed to provide a platform for other software. Linux is one such operating system. Linux is everywhere. It is incorporated into almost every major computing system, including supercomputers, stock exchange servers, Internet servers, smartphones using the Android software stack, consumer electronics products, automobiles, and industrial equipment. Linux supports a large portion of the world’s core technological infrastructure.
 
 Linux has been developed through the collaboration of tens of thousands of developers from around the world. Linux development continues actively every day. Anyone can freely use, modify and distribute Linux, provided they abide by the conditions of the license that the Linux developers have chosen. It is very important that companies that use Linux understand and comply with the license terms for Linux.
 
@@ -80,20 +83,20 @@ With some open source licenses, the copyright holder grants others the right to 
 
 With some open source licenses, the copyright holder of open source grants others the right to freely use the patents that are practiced by the software and owned by the copyright holder. Not every open source license grants such a patent license. Examples of licenses that include such patent grants are the Apache license, and the GNU General Public License (GPL) version 3. 
 
-## Typical open source license
+## Typical open source licenses
 
 The Open Source Initiative (OSI) is an organization that promotes open source. It defines the criteria for what constitutes open source and approves dozens of different licenses as valid open source licenses.
 
 [https://opensource.org/licenses](https://opensource.org/licenses)
 [https://opensource.org/osd](https://opensource.org/osd)
 
-Most open source is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved license may be treated as open source as well. Whether such software should be treated as open source (or handled some other way) should be determined by agreement between the software supplier and the recipient.
+Most open source is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved licenses may be treated as open source as well. Whether such software should be treated as open source (or handled some other way) should be determined by agreement between the software supplier and the recipient.
 
 # What you need to do to receive the benefits of open source
 
 ### When you use open source, the most important thing to know is your obligations related to distribution of the software.
 
-Almost all open source licenses define the followings:
+Almost all open source licenses define the following:
 
 - The open source developer disclaims liability for the effects of using the software
 - Some obligations must be fulfilled when the software is distributed by an
@@ -115,17 +118,17 @@ There are several different ways open source may be distributed. In every case, 
 
 2. Another way that open source might be distributed is when an ODM or OEM is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate open source into the product, which the product distributor needs to know about.
 
-Even though an OEM or ODM made the product, the brand owner of the product distributes the open source incorporated into the product. The brand owner is required to comply with the open source license. If the ODM or OEM manufacturer does not provide appropriate information about open source, the brand owner of the product cannot comply with the open source license.
+   Even though an OEM or ODM made the product, the brand owner of the product distributes the open source incorporated into the product. The brand owner is required to comply with the open source license. If the ODM or OEM manufacturer does not provide appropriate information about open source, the brand owner of the product cannot comply with the open source license.
 
 3. Other ways of distributing open source include shipping a product, releasing mobile application software, or providing an update of software for a previously shipped device.
 
-If open source is included in a product, mobile application, or software update, this constitutes distribution of open source. The entity who ships the product or releases the software is required to comply with the open source license.
+   If open source is included in a product, mobile application, or software update, this constitutes distribution of open source. The entity who ships the product or releases the software is required to comply with the open source license.
 
 4. JavaScript used in web pages constitutes distribution:
 
-An interesting case of open source distribution may occur when a web page is transferred to a user’s machine.
+   An interesting case of open source distribution may occur when a web page is transferred to a user’s machine.
 
-JavaScript that is included in web pages is transferred from the web server to the browser on the user’s machine, as part of the page data, when the user accesses the page. If the JavaScript program is open source, then this constitutes distribution and the license terms will apply.
+   JavaScript that is included in web pages is transferred from the web server to the browser on the user’s machine, as part of the page data, when the user accesses the page. If the JavaScript program is open source, then this constitutes distribution and the license terms will apply.
 
 ## Obligations to be fulfilled when open source is distributed
 
@@ -184,7 +187,7 @@ There are many ways to contribute to open source communities: proposing bugfixes
 
 # Supply chain issues
 
-### open source compliance cannot be achieved by one person acting alone
+### Open source compliance cannot be achieved by one person acting alone
 
 As software becomes larger and more complex, the supply chain for software also tends to become larger and more complex. A modern software supply chain may include an open source community, a software supplier, a semiconductor vendor that provides an SDK, and a final product vendor. If any member of a large and complex software supply chain fails to comply with license obligations or fails to provide the appropriate license information, it will cause a large impact to a vendor who is obligated to comply with the license (Figure 1). Compliance failure could result in product shipment being suspended. If the vendor does not know about the failure before shipping, the vendor may receive an inquiry regarding the failure from a copyright holder or a third party, which it cannot respond to.
 
@@ -220,7 +223,7 @@ These items must be identified and listed. Any time the software configuration c
 
 ### Software procurement personnel
 
-Software procurement personnel must receive information about any open source in the incoming software, for software engineers to record. open source may be included in software like the SDK provided by a semiconductor vendor.
+Software procurement personnel must receive information about any open source in the incoming software, for software engineers to record. Open source may be included in software like the SDK provided by a semiconductor vendor.
 
 Procurement personnel are required to pay attention to the software in all the different kinds of deliverables that the company receives.
 
@@ -228,7 +231,7 @@ Procurement personnel are required to pay attention to the software in all the d
 
 Sales personnel are required to communicate with customers regarding open source. A customer may have special requirements related to the use of open source. For example, a company may have an open source policy that precludes it from using open source with specific licenses.
 
-It is important for sales personnel learn of customers’ requirements regarding open source, and communicate this information to internal software developers.
+It is important for sales personnel to learn of customers’ requirements regarding open source, and communicate this information to internal software developers.
 
 ### Legal / Intellectual property personnel
 
@@ -243,12 +246,12 @@ software is used by downstream recipients?
 
 ### Executives and Managers
 
-To use open source effectively and appropriately requires the cooperation of different staff inside a company.
+Using open source effectively and appropriately requires the cooperation of different staff inside a company.
 
 Executives and managers may need to facilitate coordination between internal organizations and may decide to establish a dedicated team to manage open source-related issues. This includes investments in human resources, training,
 and development environments. 
 
-# open source information required to be delivered with software
+# Open source information required to be delivered with software
 
 ### To ensure that everyone benefits from open source, people must know what information regarding open source must be provided with software deliverables.
 
@@ -297,8 +300,8 @@ SPDX (Software Package Data Exchange) is a project hosted by the Linux Foundatio
 
 ## Source code scanning tools
 
-There are scanning tools that can detect open source in software packages and automatically generate some information. For example, the Fopen sourceology project hosted by the Linux
-Foundation has developed such a scanning tool. The Fopen sourceology tool is available under an open source license and can be freely used by anyone. There are also other scanning tools
+There are scanning tools that can detect open source in software packages and automatically generate some information. For example, the Fossology project hosted by the Linux
+Foundation has developed such a scanning tool. The Fossology tool is available under an open source license and can be freely used by anyone. There are also other scanning tools
 available, with commercial licenses. It is recommended to use tools such as these to verify open source licenses in software packages during development and before shipping.
 
 Some scanning tools have the ability to generate reports based on the SPDX specification. These scanning tools are useful for generating information that can be directly included in the deliverables to a customer.
