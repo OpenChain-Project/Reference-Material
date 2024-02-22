@@ -18,7 +18,7 @@ Much open source is developed through the collaboration of expert developers fro
 
 Open source can be used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed, the distributor is required to comply with the terms and conditions of the license at the point in time when distribution occurs. There have been cases where distributors were sued and lost because they failed to satisfy their legal obligations. There are best practices to help prevent this happening.
 
-By the same token, similar to all other software, security issues sometimes occur around open source. By understanding open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel to have an understanding of the basic principles of open source.
+By the same token, similar to all other software, security issues sometimes occur around open source. By managing open source it is possible to prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel to have an understanding of the basic principles of open source.
 
 This leaflet is licensed under [CC0-1.0](https://creativecommons.org/public-domain/cc0/) (effectively public domain). You can use, share, study and alter it without restriction.
 
@@ -32,9 +32,9 @@ This pamphlet explains the following:
 
 2． What you need to do to receive the benefits of open source
 
-3． Risks associated with failure to comply with open source responsibilities
+3． Risks associated with failure to comply with open source obligations
 
-Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder.
+Unfortunately, there have been cases where a company’s failure to comply with their open source license obligations resulted in successful litigation by the copyright holder.
 
 4． Supply chain issues
 
@@ -45,11 +45,12 @@ Points 3 and 4 may be intertwined. If open source is acquired through a supply c
 When an item with open source software is delivered to another party, information related to all included open source must be provided. The following staff are required to know the proper procedures to follow when acquiring and distributing open source:
 
 - Developers and engineers: In addition to software developers, hardware engineers are deeply involved in developing device driver software, board support packages (BSP) and software development kits (SDKs) for their hardware.
-- Procurement personnel: open source may be included in deliverables from the supply chain, such as software, hardware modules, SoCs, semiconductor products, and products designed and developed by ODM/OEM manufacturers.
+- Procurement personnel: Open source may be included in deliverables from the supply chain, such as software, hardware modules, SoCs, semiconductor products, and products designed and developed by ODM/OEM manufacturers.
 - Sales personnel: Sales personnel are required to understand the reasons that customers need the open source-related information, including copyright and license information.
-- Quality assurance personnel: open source that is included in a product may affect its quality or introduce bugs. QA personnel need to be aware of such issues.
+- Quality assurance personnel: Open source that is included in a product may affect its quality or introduce bugs. QA personnel need to be aware of such issues.
 - Legal/Intellectual Property personnel: Legal and intellectual property personnel are required to know the laws, legal precedents, and legal remedies that relate to open source license interpretation and adherence.
 - Executives and managers: Executives and managers develop strategy around using, contributing to, and distributing Open Source; build teams to promote open source usage; and oversee open source processes, and investment in required software tools.
+- Security Personnel: Open source that is included in a product may be referenced in published security disclosures. Security personnel need to know the included open source that they can track exposure to any existing or newly-discovered vulnerabilies.
 
 *ODM: Original Design Manufacturer OEM: Original Equipment Manufacturer
 
@@ -107,8 +108,6 @@ In the following sections, a distributor can mean either an individual or a lega
 Anyone who complies with the conditions of the license may freely use and distribute the software.
 
 However, the conditions differ from license to license. Some licenses require only that a license notice and a copyright notice be included in the source publication. Other licenses require the disclosure of the source code and a written offer to obtain it. Some licenses have terms that affect what other open source the first software may be used in combination with. A distributor is required to comply with all of the obligations defined in the license.
-
-There are several ways to distribute software. One way is to sell a product that incorporates the open source. Another way is by providing a site from which the software may be downloaded. When an item that contains open source is distributed, the entity that is distributing it is required to comply with the license for that open source.
 
 ## Examples of open source distribution
 
