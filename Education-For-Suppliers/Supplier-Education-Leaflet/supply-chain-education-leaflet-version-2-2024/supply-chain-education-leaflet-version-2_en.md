@@ -8,6 +8,14 @@
 
 ##### Adjusted OSS to open source as per normal project practice, adjusted intro to mention security, improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation.
 
+## Contents
+- [Introduction](#introduction)
+- [Learning open source](#learning-open-source)
+- [Receiving the benefits of open source](#receiving-the-benefits-of-open-source)
+- [Risks caused by failure to comply](#risks-caused-by-failure-to-comply)
+- [Supply chain issues](#supply-chain-issues)
+- [Delivery of open source software](#delivery-of-open-source-software)
+
 # Introduction
 
 This leaflet is designed to help companies in the supply chain manage Open Source Software (open source). It was created by the OpenChain Japan Work Group and is maintained by the OpenChain Project global community. The OpenChain Project maintains OpenChain ISO/IEC 5230:2020 for open source license compliance and OpenChain ISO/IEC 18974:2023 for open source security assurance. These standards can help companies manage open source. You can learn more about the OpenChain Project and its standards at [www.openchainproject.org](https://www.openchainproject.org).
@@ -93,7 +101,7 @@ The Open Source Initiative (OSI) is an organization that promotes open source. I
 
 Most open source is licensed under an OSI-approved license. In addition, some software that is licensed under non-OSI-approved licenses may be treated as open source as well. Whether such software should be treated as open source (or handled some other way) should be determined by agreement between the software supplier and the recipient.
 
-# What you need to do to receive the benefits of open source
+# Receiving the benefits of open source
 
 ### When you use open source, the most important thing to know is your obligations related to distribution of the software.
 
@@ -250,7 +258,7 @@ Using open source effectively and appropriately requires the cooperation of diff
 Executives and managers may need to facilitate coordination between internal organizations and may decide to establish a dedicated team to manage open source-related issues. This includes investments in human resources, training,
 and development environments. 
 
-# Open source information required to be delivered with software
+# Delivery of open source software
 
 ### To ensure that everyone benefits from open source, people must know what information regarding open source must be provided with software deliverables.
 
