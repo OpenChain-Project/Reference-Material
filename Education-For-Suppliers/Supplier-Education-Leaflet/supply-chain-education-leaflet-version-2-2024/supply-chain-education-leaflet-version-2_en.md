@@ -6,7 +6,7 @@
 
 #### (Draft) Second Edition - February 2024
 
-##### Adjusted OSS to open source as per normal project practice, adjusted intro to mention security, improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation.
+##### Adjusted OSS to open source as per normal project practice, adjusted intro to mention security, improved introduction, OpenChain certification description, OpenChain Project explanation, SPDX Project explanation, added table of contents, updated Reciprocal licenses section.
 
 ## Contents
 - [Introduction](#introduction)
@@ -149,9 +149,9 @@ The MIT license, the BSD license and the Apache license require few obligations.
 
 ## Reciprocal licenses
 
-The GPL license, the LGPL license, the AGPL license, and the Mozilla Public License require disclosure of the source code for the associated software. The license and the copyright in the source code must not be removed. If the distributor has modified the source code, then all source code modifications must also be disclosed. Reciprocal licenses aim to foster an environment where people can share modifications and improvements among all users and developers of the software.
+Reciprocal licenses like the GPL, the LGPL, the AGPL and the Mozilla Public License require disclosing the source code of software covered by their terms. They also require the distributor to disclose all source code modifications. This type of license is designed to create a situation where modifications and improvements can be shared by all users and developers of the software.
 
-In addition to the disclosure of the source code, these licenses generally require other obligations to be met as well. To distribute software under a reciprocal license you must understand these obligations. If needed, you should consult with your legal and intellectual property staff.
+In addition to disclosure requirements, these licenses have other requirements to be met as well. For example, they also require that license and copyright information must not be removed from the source code. You must understand and follow the requirements of these licenses to distribute software covered by their terms. If needed, you should consult with your legal and intellectual property staff.
 
 ## Patents that you cannot grant
 
