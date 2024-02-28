@@ -326,3 +326,15 @@ The Linux Foundation is dedicated to building sustainable ecosystems around open
 Founded in 2000, The Linux Foundation provides unparalleled support for open source communities through financial and intellectual resources, infrastructure, services, events, and training. Working together, The Linux Foundation and its projects form the most ambitious and successful investment in the creation of shared technology.
 
 [https://www.linuxfoundation.org/](https://www.linuxfoundation.org/)
+
+# Additional considerations
+
+Suppliers should be aware of and potentially include processes to address regulation from government such as the United State's White House Executive Order [1], the NTIA Minimum Requirements [2], the European Union's Cyber Resilience Act (CRA) [3] and the EU Product Liability Directive [4].
+
+[1] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+
+[2] https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom
+
+[3] https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
+
+[4] https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en (2022 draft revision)
