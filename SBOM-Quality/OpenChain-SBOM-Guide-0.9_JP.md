@@ -1,8 +1,16 @@
-# Draft Proposal for OpenChain Telco SBOM Guide
+# Draft OpenChain SBOM Quality Guide
 
-## THIS DOCUMENT IS CURRENTLY BEING PROPOSED TO THE OPENCHAIN STEERING COMMITTEE FOR RELEASE AS “OpenChain Telco SBOM Guide” RATHER THAN RELEASE AS AN OFFICIAL OPENCHAIN SPECIFICATION AT THIS TIME. THE INTENT WOULD BE TO PROVIDE THE MATERIAL AS AN OFFICIAL GUIDE AND REFERENCE MATERIAL, AND FROM THERE TO GAUGE MARKET REACTION.
+## 1. Scope
 
-本書は英文仕様書の原文を翻訳したものである。この翻訳と英文との間に何らかの相違がある場合は英文が優先されるものとする。
+This document outlines certain requirements related to how an entity creates, delivers, and consumes Software Bill of Materials (SBOM), so that entities that produce and/or consume SBOMs that conform to this guide can ensure repeatability and streamlining of tools and processes for generating and consuming SBOMs. This guide does not require a conforming entity to adopt the OpenChain ISO or other industry standards but doing so is encouraged.
+
+This guide is designed to work on a per SBOM level: an entity can use it as its sole way of delivering SBOMs but it is the individual SBOM that the guide refers to, not the entity that provides the SBOM. An SBOM using this guide can be called an “OpenChain SBOM Quality Guide compatible.”
+
+Releasing SBOMs that match the requirements outlined in this guide does not preclude an entity from also delivering SBOMs for the same software in alternate ways or formats.
+
+This guide is licensed under [Creative Commons Attribution License 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+PLEASE NOTE: This version of the draft guide is AWAITING sync with the English version, and currently should not be used for any purpose or regarded as the correct document source for any further editing. This text will be updated when it is synced.
 
 ## 1. スコープ
 
