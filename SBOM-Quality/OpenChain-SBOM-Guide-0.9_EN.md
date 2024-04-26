@@ -2,9 +2,9 @@
 
 ## 1. Scope
 
-This document outlines certain requirements related to how an entity creates, delivers, and consumes Software Bill of Materials (SBOM), so that entities that produce and/or consume SBOMs that conform to this guide can ensure repeatability and streamlining of tools and processes for generating and consuming SBOMs. *Please Note* that this guide does not require a conforming entity to adopt OpenChain (in any version) but doing so is encouraged.
+This document outlines certain requirements related to how an entity creates, delivers, and consumes Software Bill of Materials (SBOM), so that entities that produce and/or consume SBOMs that conform to this guide can ensure repeatability and streamlining of tools and processes for generating and consuming SBOMs. This guide does not require a conforming entity to adopt the OpenChain ISO or other industry standards but doing so is encouraged.
 
-This guide is designed to work on a per SBOM level: an entity can use it as its sole way of delivering SBOMs but it is the individual SBOM that the guide refers to, not the entity that provides the SBOM. An SBOM using this guide can be called an “SBOM matching the requirements from the OpenChain SBOM Quality Guide”.
+This guide is designed to work on a per SBOM level: an entity can use it as its sole way of delivering SBOMs but it is the individual SBOM that the guide refers to, not the entity that provides the SBOM. An SBOM using this guide can be called an “OpenChain SBOM Quality Guide compatible.”
 
 Releasing SBOMs that match the requirements outlined in this guide does not preclude an entity from also delivering SBOMs for the same software in alternate ways or formats.
 
@@ -40,10 +40,10 @@ The definition of these types can be found in the
 [CISA document](https://www.cisa.gov/sites/default/files/2023-04/sbom-types-document-508c.pdf).
 
 ### SPDX
-SPDX (Software Package Data Exchange) is the [ISO standard](https://www.iso.org/standard/81870.html) (ISO/IEC 5962:2021) for exchanging SBOM for a given software package, including associated license and copyright information. The standard was created by the [Linux Foundation's SPDX project](https://spdx.dev/).
+SPDX (Software Package Data Exchange) is the [ISO standard](https://www.iso.org/standard/81870.html) (SPDX ISO/IEC 5962:2021) for exchanging SBOM for a given software package, including associated license and copyright information. The standard was created by the [Linux Foundation's SPDX project](https://spdx.dev/).
 
 ### OpenChain
-OpenChain means [OpenChain ISO/IEC 5230:2020](https://www.iso.org/standard/81039.html), the international standard that specifies the key requirements of a quality open source license compliance program in order to provide a benchmark that builds trust between organizations exchanging software solutions that incorporate open source software. The OpenChain standard is produced by the [OpenChain project](https://www.openchainproject.org) of the Linux Foundation.
+In this version of the guide, OpenChain means [OpenChain ISO/IEC 5230:2020](https://www.iso.org/standard/81039.html), the international standard that specifies the key requirements of a quality open source license compliance program in order to provide a benchmark that builds trust between organizations exchanging software solutions that incorporate open source software. OpenChain ISO/IEC 5230:2020 is produced by the [OpenChain project](https://www.openchainproject.org) of the Linux Foundation.
 
 ### Transitive dependencies
 Transitive dependencies are all components that are necessary for the software to run. They include any dependency of the package that is not a direct dependency.
@@ -54,16 +54,16 @@ Package URL (PURL) is a _de facto_ standard to uniquely identify software packag
 ## 3. Requirements
 
 ### 3.1 Data Format
-A Telco SBOM SHALL adhere to the version 2.2 of the SPDX Data Format as standardized in ISO/IEC 5962:2021, or to the version 2.3 of the standard, and as further described below with respect to the included elements.
+Am SBOM SHALL adhere to the version 2.2 of the SPDX Data Format as standardized in SPDX ISO/IEC 5962:2021, or to the version 2.3 of the standard, and as further described below with respect to the included elements.
 
 #### 3.1.1 Verification and reference material
 * ISO/IEC 5962:2021 Information technology — SPDX® Specification V2.2.1
 * [SPDX Specification V2.3](https://spdx.github.io/spdx-spec/v2.3/)
 
 #### 3.1.2 Rationale
-To ensure simplified handling and streamlining of tooling and competences in the telecommunications supply chain, both for suppliers and consumers of software, a Telco SBOM shall adhere to the SPDX Data Format as standardized in ISO/IEC 5962:2021. By harmonizing on the use of this standard SBOM Data Format in an organization's external interfaces, the complexities for organizations supplying and consuming software are simplified, as only one set of unified requirements will be applicable.
+To ensure simplified handling and streamlining of tooling and competences in the supply chain, both for suppliers and consumers of software, an SBOM shall adhere to the SPDX Data Format as standardized in ISO/IEC 5962:2021. By harmonizing on the use of this standard SBOM Data Format in an organization's external interfaces, the complexities for organizations supplying and consuming software are simplified, as only one set of unified requirements will be applicable.
 
-As clarification, an entity is free to use alternative Data Formats for internal use, or deliver SBOMs in alternative Data Formats to organizations that so request or on its own initiative. The OpenChain Telco SBOM Guide is a SBOM-level specification to adhere to, and not an organizational specification to adhere to. There are no conforming entities, only conforming SBOMs, delivered by entities that have implemented the OpenChain SBOM Quality Guide.
+As clarification, an entity is free to use alternative Data Formats for internal use, or deliver SBOMs in alternative Data Formats to organizations that so request or on its own initiative. The OpenChain SBOM Quality Guide is an SBOM-level specification to adhere to, and not an organizational specification to adhere to. There are no conforming entities, only conforming SBOMs, delivered by entities that have implemented the OpenChain SBOM Quality Guide.
 
 ### 3.2 SPDX Elements to be included in a SBOM meeting the Quality Guide structure
 
@@ -127,7 +127,7 @@ Tag:Value and JSON formats are described here:
 There are 3 majors formats for SBOMs: SPDX, CycloneDX, and SWID.
 These 3 formats are the ones recommended by NTIA document "The Minimum Elements For a Software Bill of Materials (SBOM)" (see References section).
 
-The reasons for selecting SPDX as the example data format of the OpenChain SBOM Quality Guide are the following:
+The reasons for selecting SPDX as the data format of the OpenChain SBOM Quality Guide are the following:
 * SPDX is an ISO standard,
 * SPDX has more features than CycloneDX for license compliance,
 * SPDX has a human-readable format (CycloneDX has only JSON and XML),
@@ -260,12 +260,12 @@ SBOMs MAY be subject to confidentiality agreements. A conformant SBOM MUST NOT, 
 Some open source software licenses enable any recipient to redistribute the software. In these situations, the recipients should be also able to redistribute the relevant parts of the SBOMs.
 
 ## 4. Conformant notice
-To indicate that the software has a conformant SBOM available, you MAY use the following statement: “This software is supplied with an SBOM conformant to the OpenChain SBOM Quality Guide v1.0, the Guide is available at https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain%20Telco%20SBOM%20Guide_EN.md”
+To indicate that the software has a conformant SBOM available, you MAY use the following statement: “This software is supplied with an SBOM conformant to the OpenChain SBOM Quality Guide v1.0, the Guide is available at https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality”
 
-You MAY at your choosing use the following statement in your Telco Guide conformant SBOM “This SBOM conforms to the OpenChain Telco SBOM Guide v1.0 https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain%20Telco%20SBOM%20Guide_EN.md, it is provided to the recipient free of charge, and the recipient is free to redistribute this SBOM to any third party that they distribute the corresponding software to, provided that they have all the necessary right to distribute the software to such third party”
+You MAY at your choosing use the following statement in your OpenChain SBOM Quality Guide compatible SBOM “This SBOM conforms to the OpenChain SBOM Quality Guide v1.0 https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality, it is provided to the recipient free of charge, and the recipient is free to redistribute this SBOM to any third party that they distribute the corresponding software to, provided that they have all the necessary right to distribute the software to such third party”
 
 The following statement MAY be used as statement in the RFP document, order document, or contract document when requesting an RFP, purchasing orders, or outsourced development orders from a software vendor or telco system suppliers.
-“When releasing software, it is REQUIRED to provide an SBOM compliant with the OpenChain Telco SBOM Guide v1.0 for all software released.  This Guide is available at [https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain%20Telco%20SBOM%20Guide_EN.md](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain%20Telco%20SBOM%20Guide_EN.md)”
+“When releasing software, it is REQUIRED to provide an SBOM compliant with the OpenChain SBOM Quality Guide v1.0 for all software released.  This Guide is available at [https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality](https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality)”
 
 ## 5. References
 
