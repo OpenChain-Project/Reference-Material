@@ -18,6 +18,10 @@ https://github.com/OpenChain-Project/Telco-WG
 The 1.0 release version is from:
 https://github.com/OpenChain-Project/Telco-WG/releases/tag/v1.0
 
+Development of future versions of this guide will take place in the Telco Repo:
+https://github.com/OpenChain-Project/Telco-WG
+(You can leave comments in this repo as well)
+
 The OpenChain Telco Work Group mailing list is here:
 https://lists.openchainproject.org/g/telco
 
