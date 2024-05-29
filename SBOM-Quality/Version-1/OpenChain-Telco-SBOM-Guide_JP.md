@@ -56,7 +56,7 @@ OpenChainとは、 [OpenChain Specification ISO/IEC 5230:2020](https://www.iso.o
 ## 3. 要求要件
 
 ### 3.1 データ形式
-OpenChain Telco SBOM Guideと互換性のある文書は、ISO/IEC 5962:2021 で標準化されている SPDX データフォーマットのバージョン 2.2、またはバージョン2.3 に準拠し、含まれる要素に関しては3.2節に記載する。
+本OpenChain Telco SBOM Guideと互換性のあるSBOMは、ISO/IEC 5962:2021 で標準化されている SPDX データフォーマットのバージョン 2.2、またはバージョン2.3 に準拠する。含まれる要素に関しては3.2節に記載する。
 
 #### 3.1.1 検証と参考資料
 * ISO/IEC 5962:2021 情報技術 - SPDX® 仕様 V2.2.1
@@ -67,7 +67,7 @@ OpenChain Telco SBOM Guideと互換性のある文書は、ISO/IEC 5962:2021 で
 
 事業体は、内部使用のために代替データ形式を自由に使用することができ、また、SBOMを要求する組織に対して、あるいはソフトウェアの供給者が自発的に、代替データ形式でSBOMを提供することができる。 本OpenChain 通信業界SBOMガイドは準拠すべきSBOMガイドであり、準拠すべき組織のガイドではない。本ガイドに適合する事業体は存在せず、本ガイドを実装した事業体によって提供された、本ガイに適合するSBOMのみが存在する。
 
-### 3.2 OpenChain Telco SBOM互換ドキュメントに含まれるSPDX要素
+### 3.2 OpenChain Telco SBOM Guideに互換性のあるSBOMに含まれるSPDX要素
 
 以下の要素が必須である。
 
@@ -111,7 +111,7 @@ SPDX では PackageChecksum に対応する。パッケージを一意に識別�
 パッケージURL（PURL）は、ソフトウェアパッケージを一意に識別するためのデファクトスタンダードである。
 
 ### 3.3 機械が読み取り可能なデータ形式
-OpenChain Telco SBOM 互換ドキュメントは、最低限、「Tag:Value形式」または「JSON形式」の機械が読み取り可能なデータ形式のどちらかの形式とする。
+OpenChain Telco SBOM Giideに互換性のあるSBOMは、最低限、「Tag:Value形式」または「JSON形式」の機械が読み取り可能なデータ形式のどちらかの形式とする。
 
 #### 3.3.1 検証と参考資料
 「Tag:Value形式」と「JSON形式」は以下を参照のこと。
@@ -124,7 +124,7 @@ SBOMには3つの主要フォーマットがある： SPDX、CycloneDX、SWID
 
 これら3つのフォーマットは、NTIAの文書「The Minimum Elements For a Software Bill of Materials (SBOM)」（参考文献のセクションを参照）で推奨されている。
 
-OpenChain Telco SBOM Guideのデータ形式としてSPDXを選択した理由は以下の通り:
+OpenChain Telco SBOM Giideに互換性のあるSBOMのデータ形式としてSPDXを選択した理由は以下の通り:
 * SPDXは、ISO規格であるため
 * SPDXは、CycloneDXと比較してライセンスコンプライアンスのための機能が充実しているため
 * SPDXは、人間が読めるフォーマットであるため（CycloneDXはJSONとXMLしかない）
@@ -136,7 +136,7 @@ OpenChain Telco SBOM Guideのデータ形式としてSPDXを選択した理由�
 また、「JSON形式」はいくつかのツールによって提供される。
 
 ### 3.4 人間が読み取り可能なデータ形式
-OpenChain Telco SBOM 互換ドキュメントは、最低限、「Tag:Value形式」または「JSON形式」の人間が読み取り可能なデータ形式のどちらかの形式とする。
+OpenChain Telco SBOM Giideに互換性のあるSBOMは、最低限、「Tag:Value形式」または「JSON形式」の人間が読み取り可能なデータ形式のどちらかの形式とする。
 
 #### 3.4.1 検証と参考資料
 「Tag:Value形式」と「JSON形式」は SPDX 2.2 を参照のこと。
@@ -147,7 +147,7 @@ OpenChain Telco SBOM 互換ドキュメントは、最低限、「Tag:Value形�
 「Tag:Value形式」は人間が読むこともできるため、標準化された "機械が読み取り可能なデータ形式" と "人間が読み取り可能なデータ形式" の両方の要件を1つのファイルで満たすことができる。事業体は、人間が読み取り可能なデータ形式をリリースすることができるが、本ガイドに準拠する必要はない。
 
 ### 3.5 SBOM ビルド情報
-本OpenChain Telco SBOM Guideに準拠する SBOM は、いつ作成されたか（SPDX の `Created` フィールドを使用）という情報と、どのバージョンのソフトウェアで作成されたか（SPDX の `CreatorComment` フィールドを使用）という情報を含めなければならない。
+本OpenChain Telco SBOM Giideに互換性のあるSBOM は、いつ作成されたか（SPDX の `Created` フィールドを使用）という情報と、どのバージョンのソフトウェアで作成されたか（SPDX の `CreatorComment` フィールドを使用）という情報を含めなければならない。
 
 SPDX の `Created` フィールド とは:
 * `Organization`キーワードを示す行を含まなければならない
@@ -155,7 +155,7 @@ SPDX の `Created` フィールド とは:
 
 また、ツール名とツールバージョンはハイフン("-")で区切るべきである。
 
-本OpenChain Telco SBOM Guideに準拠するSBOMは、CreatorCommentフィールドに[CISA](https://www.cisa.gov/sites/default/files/2023-04/sbom-types-document-508c.pdf)が定義するSBOM Typeを提供しなければならない。
+OpenChain Telco SBOM Giideに互換性のあるSBOMは、CreatorCommentフィールドに[CISA](https://www.cisa.gov/sites/default/files/2023-04/sbom-types-document-508c.pdf)が定義するSBOM Typeを提供しなければならない。
 
 #### 3.5.1 検証と参考資料
 SPDX規格
@@ -211,7 +211,8 @@ NTIA SBOM最小要素 の “Known Unknowns” セクション
 SBOM に市販のコンポーネント情報を持たせることは、可能、望ましい、実行可能でない、かもしれない。しかしながら、SBOMは可能な限り完全であることが望ましい。
 
 ### 3.9 SaaSで提供されるサービスのSBOM
-本OpenChain Telco SBOM Guide は SBOM レベルでのみ適用されるため、ソフトウェア配信の一部またはすべてに対して OpenChain Telco SBOM 互換ドキュメントを提供することを選択した企業が、OpenChain Telco SBOM 互換ドキュメントを SaaS 製品にも提供する必要はありません。ただし、企業は、OpenChain Telco SBOM Guideを自社の SaaS 製品にも適用することを選択し、その結果、SaaS 製品で使用されるオープンソース ソフトウェアを、推移的な依存関係とともに SBOM として提供することもできます。
+本OpenChain Telco SBOMガイドはSBOMレベルでのみ適用されるため、ソフトウェア提供の一部またはすべてにOpenChain Telco SBOMに互換性のあるSBOMを提供することを選択したエンティティには、SaaS提供する際にOpenChain Telco SBOMに互換性のあるSBOMを提供する義務はありません。
+ただし、企業は、OpenChain Telco SBOM Guideを自社の SaaS 製品にも適用することを選択し、その結果、SaaS 製品で使用されるオープンソース ソフトウェアを、推移的な依存関係とともに SBOM として提供することもできます。
 
 #### 3.9.1 検証と参考資料
 
