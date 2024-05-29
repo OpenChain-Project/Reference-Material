@@ -302,11 +302,11 @@ SBOM可能（MAY）受到保密协议的约束。然而，符合要求的SBOM必
 
 ## 4. 合规声明
 
-为了表明该软件有符合标准的SBOM可用，您可以（MAY）使用如下声明。“该软件附带符合OpenChain Telco SBOM Guide v1.0的SBOM，该指南可在[https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md)获取”
+为了表明该软件有符合标准的SBOM可用，您可以（MAY）使用如下声明。“该软件附带符合OpenChain Telco SBOM Guide v1.0的SBOM，该指南可在[https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality/Version-1](https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality/Version-1)获取”
 
-您可以（MAY）选择在您的电信指南中使用符合SBOM的以下声明“此SBOM符合OpenChain Telco SBOM Guide v1.0 [https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md)，它是免费提供给接收者，并且接收者可以自由的将此SBOM重新分发给他们分发相应软件的任何第三方，前提是他们拥有将软件分发给此类第三方的所有必要权利”
+您可以（MAY）选择在您的电信指南中使用符合SBOM的以下声明“此SBOM符合OpenChain Telco SBOM Guide v1.0 [https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality/Version-1](https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality/Version-1)，它是免费提供给接收者，并且接收者可以自由的将此SBOM重新分发给他们分发相应软件的任何第三方，前提是他们拥有将软件分发给此类第三方的所有必要权利”
 
-当向软件供应商或电信系统供应商请求RFP、采购订单或者外包开发订单时，以下声明可用作RFP文档、订单文档或者合同文档中的声明。“发布软件时，必须（REQUIRED）为所有发布的软件提供符合OpenChain Telco SBOM Guide v1.0的SBOM。指南可在 [https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md)获取”
+当向软件供应商或电信系统供应商请求RFP、采购订单或者外包开发订单时，以下声明可用作RFP文档、订单文档或者合同文档中的声明。“发布软件时，必须（REQUIRED）为所有发布的软件提供符合OpenChain Telco SBOM Guide v1.0的SBOM。指南可在 [https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality/Version-1](https://github.com/OpenChain-Project/Reference-Material/tree/master/SBOM-Quality/Version-1)获取”
 
 ## 5. 参考资料
 
