@@ -309,3 +309,9 @@ Suppliers should be aware of and potentially include processes to address regula
 [3] https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
 
 [4] https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en (2022 draft revision)
+
+# Final Notes
+
+This document was originally created by the OpenChain Japan Work Group and is maintained by the OpenChain Project global community.   
+
+This document is licensed under CC-0 (effectively public domain). You can use, share, study and alter it without restriction. 
