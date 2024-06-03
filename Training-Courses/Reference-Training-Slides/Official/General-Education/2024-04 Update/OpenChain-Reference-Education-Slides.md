@@ -22,7 +22,7 @@ You can deliver these slides as one half-day training session or you can deliver
 
 \- These reference training slides help companies meet the requirements of the International Standard.
 
-\- These slides help companies satisfy the requirements of the Specification Section 2.0. They can also be used for general compliance training.
+\- These slides help companies satisfy the requirements of the Specification Section 3.1.2 (Competence). They can also be used for general compliance training.
 
 Learn more at: <https://www.openchainproject.org>
 
@@ -38,7 +38,7 @@ Learn more at: <https://www.openchainproject.org>
 
 4\. Key Software Concepts for Open Source Review
 
-5\. Running a Open Source Review
+5\. Running an Open Source Review
 
 6\. End to End Compliance Management (Example Process)
 
@@ -288,7 +288,7 @@ This slide explains public domain, a type of release that means the work is rele
 
 \- License compatibility is the process of ensuring that license terms do not conflict.
 
-\- If one license requires you to do something and another prohibits doing that, the licenses conflict - you may not be able to use them together. ~~and are not compatible if the combination of the two software modules trigger the obligations under a license.~~
+\- If one license requires you to do something and another prohibits doing that, the licenses conflict - you may not be able to use them together.
 
 \- GPL-2.0 and EPL-1.0 each extend their obligations to “derivative works” which are distributed.
 
@@ -332,13 +332,13 @@ Notices, such as text in comments in file headers, often provide authorship and 
 
 This slides explains multi-licensing. This is the situation where more than one set of license terms can apply to a piece of software.
 
-~~Conjunctive =~~ Multiple licenses apply (may be called Conjunctive or “AND” situation)
+Multiple licenses apply (may be called Conjunctive or “AND” situation)
 
 GPL-2.0 project also includes code under BSD-3-Clause
 
 In this situation you have to comply with both sets of license terms
 
-~~Disjunctive =~~ Choice of one open source license or another (may be called Disjunctive or “OR” situation)
+Choice of one open source license or another (may be called Disjunctive or “OR” situation)
 
 Mozilla tri-license
 
@@ -927,7 +927,7 @@ Support Requirements:
 
 4\. Track progress of all Open Source compliance activities
 
-You can get detailed checklists for these items here: <https://www.linuxfoundation.org/projects/opencompliance/self-assessment-compliance-checklist>
+You can get detailed checklists for these items here: <https://go.linuxfoundation.org/self-assessment-checklist>
 
 \##### Slide 54
 
@@ -1609,7 +1609,7 @@ The benefits of maintaining a good community relationship are that you can bette
 
 \- What risks should you address with in-bound software?
 
-Learn more through the free Compliance Basics for Developers hosted by the Linux Foundation at: <https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/> compliance-basics-for-developers
+Learn more through the free Compliance Basics for Developers hosted by the Linux Foundation at: <https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/>
 
 General guidelines developers can practices when working with Open Source:
 
