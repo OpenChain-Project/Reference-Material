@@ -30,11 +30,11 @@ Like all other software, security issues sometimes occur with open source. By un
 
 Let's first explain the following:
 
-1． What is Open Source? 
-2． What you need to do to receive the benefits of open source 
-3． Risks associated with failure to comply with open source responsibilities
-4． Supply chain issues 
-5.  What you need to do to ensure that everyone benefits from open source
+1. What is Open Source?
+2. What you need to do to receive the benefits of open source
+3. Risks associated with failure to comply with open source responsibilities
+4. Supply chain issues
+5. What you need to do to ensure that everyone benefits from open source
 
 Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder. Points 3 and 4 may be intertwined. If open source is acquired through a supply chain then all links in the supply chain must comply with the conditions of the license(s). If any link fails to satisfy the conditions, then entities later in the supply chain will also not be able to, nor be able to remedy the missing conditions. An employee or company acting alone cannot meet all the responsibilities and requirements by themselves.
 
