@@ -30,11 +30,11 @@ Like all other software, security issues sometimes occur with open source. By un
 
 Let's first explain the following:
 
-1． What is Open Source? 
-2． What you need to do to receive the benefits of open source 
-3． Risks associated with failure to comply with open source responsibilities
-4． Supply chain issues 
-5.  What you need to do to ensure that everyone benefits from open source
+1. What is Open Source?
+2. What you need to do to receive the benefits of open source
+3. Risks associated with failure to comply with open source responsibilities
+4. Supply chain issues
+5. What you need to do to ensure that everyone benefits from open source
 
 Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder. Points 3 and 4 may be intertwined. If open source is acquired through a supply chain then all links in the supply chain must comply with the conditions of the license(s). If any link fails to satisfy the conditions, then entities later in the supply chain will also not be able to, nor be able to remedy the missing conditions. An employee or company acting alone cannot meet all the responsibilities and requirements by themselves.
 
@@ -54,15 +54,15 @@ When an item with open source software is delivered to another party, informatio
 
 ## Definition of open source
 
-It is not easy to answer precisely “What is open source?”. Different people have different answers. However, most people agree with the following:
-
 Open source is software for which the source code is provided, and the copyright holder allows others to use, inspect, modify, and share the software.
 
 The Open Source Initiative (OSI) is an organization that promotes open source. It defines criteria for what constitutes open source and approves different licenses as valid open source licenses.
 
-https://opensource.org/licenses https://opensource.org/osd
+https://opensource.org/licenses https://opensource.org/osd (Open Source Definition)
 
-Most open source is licensed under an OSI-approved license. Some software that is licensed under a non-OSI-approved license may still be treated as open source as well. 
+Most open source software is licensed under an OSI-approved license. Some software that is licensed under a non-OSI-approved license may still be treated as open source provided that it complies with the Open Source Definition.
+
+The OpenChain Specifications define "open source" more broadly, to ensure that they cover software components for which the source code is available under licences which do not meet the open source definition (called "source available" licences).
 
 ## Examples of open source
 
@@ -83,23 +83,23 @@ Open source licenses are a grant by the copyright holder giving other people the
 
 ## What is granted by licenses (patents)
 
-With some open source licenses, the copyright holder of open source grants others the right to freely use any patents that are practiced by the software and owned by the copyright holder. Not every open source license grants such a patent license. Examples of licenses that include such patent grants are the Apache license, and the GNU General Public License (GPL) version 3.
+With some open source licenses, the copyright holder of open source explicitly grants others the right to freely use any patents that are practiced by the software and owned by the copyright holder. Not every open source license explicitly grants such a patent license. Examples of licenses that include such explicit patent grants are the Apache license, and the GNU General Public License (GPL) version 3.
 
 # What you need to do to receive the benefits of open source
 
-### When you use open source, the most important thing to know is your obligations related to distribution of the software.
+### When you use open source, the most important thing to know is the license conditions related to distribution of the software.
 
 Almost all open source licenses define the following:
 
 - The open source developer disclaims liability for the effects of using the software
 
-- Some obligations must be fulfilled when the software is distributed by an individual or legal entity (distributor).  
+- Some conditions must be fulfilled when the software is distributed by an individual or legal entity (distributor).  
 
 In the following sections, a distributor can mean either an individual or a legal entity such as a company.
 
 Anyone who complies with the conditions of the license may freely use and distribute the software.
 
-However, the conditions differ from license to license. Some licenses require only that a license notice and a copyright notice be included in the source publication. Other licenses require the disclosure of the source code and a written offer to obtain it. Some licenses have terms that affect what other open source the software may be used in combination with. A distributor is required to comply with all of the obligations defined in the license.
+However, the conditions differ from license to license. Some licenses require only that a license notice and a copyright notice be included in the source publication. Other licenses require the disclosure of the source code and a written offer to obtain it. Some licenses have terms that affect what other open source the software may be used in combination with. A distributor is required to comply with all of the conditions defined in the license.
 
 There are several ways to distribute software. One way is to sell a product that incorporates the open source. Another way is by providing a site from which the software may be downloaded. When an item that contains open source is distributed, the entity that is distributing it is required to comply with the license for that open source.
 
@@ -111,22 +111,23 @@ There are several different ways open source may be distributed. In every case, 
 2. Another way that open source might be distributed is when an Original Device Manufacturer (ODM) or Original Equipment Manufacturer (OEM) is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate open source into the product, which the product distributor needs to know about. Even though an OEM or ODM made the product, the companies responsible for the distribution of the product to market must pay attention to open source incorporated into the product. These companies are required to comply with the open source license. If the ODM or OEM manufacturer does not provide appropriate information about open source, the distributing company cannot comply with the open source license.
 3. Other ways of distributing open source include shipping a product, releasing mobile application software, or providing an update of software for a previously shipped device. If open source is included in a product, mobile application, or software update, this constitutes distribution of open source. The entity who ships the product or releases the software is required to comply with the open source license.
 4. JavaScript used in web pages constitutes distribution: An interesting case of open source distribution may occur when a web page is transferred to a user’s machine. JavaScript that is included in web pages is transferred from the web server to the browser on the user’s machine, as part of the page data, when the user accesses the page. If the JavaScript program is open source, then this constitutes distribution and the license terms will apply.
+5. Some licenses (such as AGPL or the Open Software License) impose conditions on use of the software where the functionality of that software is made available to third parties (e.g. a user accessing a SaaS service provided by the software). These so-called "deemed distribution" licenses require that (in certain circumstances) the end-user is entitled to the source code of the software under the relevant open source license, even if the executable software code is not distributed to them in providing the service.
 
-## Obligations to be fulfilled when open source is distributed
+## Conditions to be fulfilled when open source is distributed
 
-The obligations that need to be fulfilled when open source is distributed vary from license to license. It is important to identify all of the open source and associated licenses in a product or program that is distributed.
+The conditions that need to be fulfilled when open source is distributed vary from license to license. It is important to identify all of the open source and associated licenses in a product or program that is distributed.
 
 This is required to clearly understand all the different license terms that must be satisfied.
 
 ## Permissive licenses
 
-The MIT license, the BSD license and the Apache license require few obligations. These licenses require the distribution of the software’s copyright notice and the license text. The notice should be clearly displayed in a place where the person receiving the open source can read it.
+The MIT license, the BSD license and the Apache license have few conditions. These licenses require the distribution of the software’s copyright notice and the license text. The notice should be clearly displayed in a place where the person receiving the open source can read it.
 
 ## Reciprocal licenses
 
-The GPL license, the LGPL license, the AGPL license, and the Mozilla Public License require disclosure of the source code for the associated software. The license and the copyright in the source code must not be removed. If the distributor has modified the source code, then all source code modifications must also be disclosed. Reciprocal licenses aim to foster an environment where people can share modifications and improvements among all users and developers of the software.
+The GPL license, the LGPL license, the AGPL license, and the Common Development and Distribution License require disclosure of the source code for the associated software. The license and the copyright in the source code must not be removed. If the distributor has modified the source code, then all source code modifications must also be disclosed. Reciprocal licenses aim to foster an environment where people can share modifications and improvements among all users and developers of the software.
 
-In addition to the disclosure of the source code, these licenses generally require other obligations to be met as well. To distribute software under a reciprocal license you must understand these obligations. If needed, you should consult with your legal and intellectual property staff.
+In addition to the disclosure of the source code, these licenses generally require other conditions to be met as well. To distribute software under a reciprocal license you must understand these conditions. If needed, you should consult with your legal and intellectual property staff.
 
 ## Considerations around patents
 
@@ -144,7 +145,7 @@ In every case, it was the distributor’s failure to comply with the open source
 
 - Identify every piece of open source in the software to be distributed
 
-- Understand the obligations defined by the open source license, and comply with them.
+- Understand the conditions defined by the open source license, and comply with them.
 
 
 ## What is lost in litigation
@@ -157,7 +158,7 @@ A settlement or a legal judgement may require payment of money or a fine. In the
 
 ## Building a good relationship with the open source community
 
-To reduce the risk of litigation, it is essential to understand open source principles and to comply with the obligations of the open source licenses. In addition, it is highly recommended to contribute to the open source community and to build good relationships with the developers of the open source that you use.
+To reduce the risk of litigation, it is essential to understand open source principles and to comply with the conditions of the open source licenses. In addition, it is highly recommended to contribute to the open source community and to build good relationships with the developers of the open source that you use.
 
 If you understand why the authors selected a specific open source license for their software, and the intent of the open source community that supports an open source project, it will help you move beyond just fulfilling the letter of the open source license. Understanding the intent of the developers is one of the most important benefits of having a good relationship with the open source community.
 
@@ -173,7 +174,7 @@ There are many ways to contribute to open source projects and communities: propo
 
 ### Open source compliance cannot be achieved by one person acting alone
 
-As software becomes larger and more complex, the supply chain for software also tends to become larger and more complex. A modern software supply chain may include an open source community, a software supplier, a semiconductor vendor that provides an SDK, and a final product vendor. If any member of a large and complex software supply chain fails to comply with license obligations or fails to provide the appropriate license information, it will cause a large impact to a vendor who is obligated to comply with the license. Compliance failure could result in product shipment being suspended. If the vendor does not know about the failure before shipping, the vendor may receive an inquiry regarding the failure from a copyright holder or a third party, which it cannot respond to.
+As software becomes larger and more complex, the supply chain for software also tends to become larger and more complex. A modern software supply chain may include an open source community, a software supplier, a semiconductor vendor that provides an SDK, and a final product vendor. If any member of a large and complex software supply chain fails to comply with license conditions or fails to provide the appropriate license information, it will cause a large impact to a vendor who is obligated to comply with the license. Compliance failure could result in product shipment being suspended. If the vendor does not know about the failure before shipping, the vendor may receive an inquiry regarding the failure from a copyright holder or a third party, which it cannot respond to.
 
 However, if software compliance is managed appropriately in the upstream supply chain, these problems can be avoided. To facilitate compliance with open source licenses, all participants in the supply chain must do their duty, build trust throughout the supply chain, and communicate appropriate information regarding included software.
 
@@ -313,4 +314,4 @@ Suppliers should be aware of and potentially include processes to address regula
 
 This document was originally created by the OpenChain Japan Work Group and is maintained by the OpenChain Project global community.   
 
-This document is licensed under CC-0 (effectively public domain). You can use, share, study and alter it without restriction.  
+This document is licensed under CC-0 (effectively public domain). You can use, share, study and alter it without restriction. 
