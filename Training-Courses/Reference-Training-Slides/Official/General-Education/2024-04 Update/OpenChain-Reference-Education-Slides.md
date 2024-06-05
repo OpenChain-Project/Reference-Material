@@ -927,7 +927,7 @@ Support Requirements:
 
 4\. Track progress of all Open Source compliance activities
 
-You can get detailed checklists for these items here: <https://github.com/OpenChain-Project/Reference-Material/tree/master/Self-Certification> and an online tool here: <https://openchainproject.org/checklist-iso-5230-2020> 
+You can get detailed checklists for these items here: <https://github.com/OpenChain-Project/Reference-Material/tree/master/Self-Certification> and an online checklist here: <https://openchainproject.org/checklist-iso-5230-2020> 
 
 \##### Slide 54
 
