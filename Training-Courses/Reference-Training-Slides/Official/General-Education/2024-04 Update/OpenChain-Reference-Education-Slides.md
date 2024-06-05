@@ -186,7 +186,7 @@ This chapter is useful for lawyers, managers or developers who may not be famili
 
 \## Open Source Licenses
 
-\- Open Source licenses by definition make source code available under terms that allow for modification and redistribution
+\- Open Source licenses by definition make source code available under terms that allow for use, studying, modification and redistribution
 
 \- Open Source licenses may have conditions related to providing attributions, copyright statement preservation, or a written offer to make the source code available
 
@@ -348,7 +348,7 @@ Ruby
 
 Disjunctive licensing may be something important to explore more deeply when creating an Open Source policy.
 
-Under disjunctive licensing you have a choice of licensing, i.e. GPL and a more permissive license option, you may choose which license you are going to distribute under depending on license compatibility, license requirements.
+Under disjunctive licensing you have a choice of licensing, e.g. GPL and a more permissive license option. You may choose which license you are going to distribute under depending on license compatibility, license requirements.
 
 Sometimes a project has a disjunctive licensing situation, but only one license is included in your code – so perhaps the person you got the code from already made this choice. If they choose the license you weren’t going to use, now you might have to consider if you should figure out who the original © holder is and get the code directly from them
 
@@ -372,7 +372,7 @@ For more on dual-licensing as a business model: <http://oss-watch.ac.uk/resource
 
 \- What is an Open Source license?
 
-Open Source licenses are Free and Open Source Software licenses that generally make source code available under terms that allow for modification and redistribution.
+Open Source licenses are Free and Open Source Software licenses that generally make source code available under terms that allow for use, study, modification and redistribution.
 
 \- What are typical obligations of a permissive Open Source license?
 
@@ -396,7 +396,7 @@ Copyleft-style licenses often have source code availability obligations, which r
 
 \- Are Freeware and Shareware software considered Open Source?
 
-Freeware and Shareware are not Open Source.Even though freeware and shareware are available without cost, they don't allow the users to make modifications to the software. In fact, many of the freeware and shareware contain license restrictions common in proprietary software licenses.
+Freeware and Shareware are not Open Source. Even though freeware and shareware are available without cost, they don't allow the users to make modifications to the software. In fact, many of the freeware and shareware contain license restrictions common in proprietary software licenses.
 
 \- What is a multi-license?
 
@@ -448,7 +448,7 @@ The scope of source code availability is determined by the Open Source license. 
 
 \- For some Open Source licenses, access via a computer network can be a “trigger” event
 
-\- Some licenses define the trigger event to include permitting access to the software running on a server (e.g., all versions of the Affero GPL if the software is modified) or in the case of “users interacting with it remotely through a computer network”
+\- Some licenses define the trigger event to include permitting access to the software running on a server (e.g., Affero GPL v3 if the software is modified) or in the case of “users interacting with it remotely through a computer network”
 
 \##### Slide 27
 
@@ -927,7 +927,7 @@ Support Requirements:
 
 4\. Track progress of all Open Source compliance activities
 
-You can get detailed checklists for these items here: <https://go.linuxfoundation.org/self-assessment-checklist>
+You can get detailed checklists for these items here: <https://github.com/OpenChain-Project/Reference-Material/tree/master/Self-Certification> and an online tool here: <https://openchainproject.org/checklist-iso-5230-2020> 
 
 \##### Slide 54
 
