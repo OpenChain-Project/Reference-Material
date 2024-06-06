@@ -1,0 +1,106 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Semibold
+FamilyName:Open Sans
+StyleName:Semibold
+MenuName:Open Sans Semibold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Semibold
+WritingScript:Roman
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/OpenChain Case Study/OpenChain_CaseStudy_Toyota/Document fonts/OpenSans-Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:221328
+FileModTime:-665521200
+NameArray:0,Mac,4,Open Sans Semibold
+NameArray:0,Win,1,Open Sans Semibold
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/OpenChain Case Study/OpenChain_CaseStudy_Toyota/Document fonts/AdobeFnt21.lst
+FileLength:2572
+FileModTime:582823908
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Light
+FamilyName:Open Sans
+StyleName:Light
+MenuName:Open Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Light
+WritingScript:Roman
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/OpenChain Case Study/OpenChain_CaseStudy_Toyota/Document fonts/OpenSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:222412
+FileModTime:326830606
+NameArray:0,Mac,4,Open Sans Light
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSansLight-Italic
+FamilyName:Open Sans
+StyleName:Light Italic
+MenuName:Open Sans Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Open Sans Light Italic
+WritingScript:Roman
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/OpenChain Case Study/OpenChain_CaseStudy_Toyota/Document fonts/OpenSans-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:213128
+FileModTime:-665521200
+NameArray:0,Mac,4,Open Sans Light Italic
+NameArray:0,Win,1,Open Sans Light
+NameArray:0,Win,16,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+MenuName:Open Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Open Sans Bold
+WritingScript:Roman
+OutlineFileName:/Users/alirowan 1/The Linux Foundation/Source Files (CS Only)/Working/Ali/OpenChain/OpenChain Case Study/OpenChain_CaseStudy_Toyota/Document fonts/OpenSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:224592
+FileModTime:-665521200
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
