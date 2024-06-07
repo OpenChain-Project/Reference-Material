@@ -441,7 +441,7 @@
                 <para PARENT="Bullet list \: 区切り" LINESPMode="0" LINESP="11.5" ParagraphEffectOffset="8.50393700787402" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
                 <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="9.5" FEATURES="inherit" CH="Vertrieb"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9.5" FEATURES="inherit" CH=": "/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9.5" CH="Der Vertrieb muss die Gründe verstehen, augrgrund derer Kunden die OSS-bezogenen Informationen - einschließlich Urheberrechts- und Lizenzinformationen - benötigen."/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9.5" CH="Der Vertrieb muss die Gründe verstehen, aufgrund derer Kunden die OSS-bezogenen Informationen - einschließlich Urheberrechts- und Lizenzinformationen - benötigen."/>
                 <para PARENT="Bullet list \: 区切り" LINESPMode="0" LINESP="11.5" ParagraphEffectOffset="8.50393700787402" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
                 <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="9.5" FEATURES="inherit" CH="Qualitätssicherung"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9.5" FEATURES="inherit" CH=": "/>
@@ -517,7 +517,7 @@
                 <para PARENT="Body" LINESP="13"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Die Bedingungen sind jedoch von Lizenz zu Lizenz unterschiedlich. Bei einigen Lizenzen müssen in der weiterverbreiteten Software lediglich ein Lizenzhinweis und ein Urheberrechtsvermerk enthalten sein. Andere Lizenzen erfordern die Offenlegung des Quellcodes und ein schriftliches Angebot, diesen erhalten zu können. Einige Lizenzen haben Bedingungen, die sich darauf auswirken, mit welcher anderen OSS diese in Kombination verwendet werden kann. Ein Distributor ist verpflichtet, alle in der Lizenz festgelegten Verpflichtungen einzuhalten."/>
                 <para PARENT="Body" LINESP="13"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Es gibt verschiedene Möglichkeiten, Software zu verbreiten. Eine Möglichkeit besteht darin, ein Produkt zu verkaufen, welches die OSS-Software enthält. Eine andere Möglichkeit besteht darin, eine Website bereitzustellen, von der die Software heruntergeladen werden kann. Wenn ein Objekt, welches OSS enthält, verbreitet wird, muss jeweilige Distributor die Lizenz für diese OSS einhalten. "/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Es gibt verschiedene Möglichkeiten, Software zu verbreiten. Eine Möglichkeit besteht darin, ein Produkt zu verkaufen, welches die OSS-Software enthält. Eine andere Möglichkeit besteht darin, eine Website bereitzustellen, von der die Software heruntergeladen werden kann. Wenn ein Objekt, welches OSS enthält, verbreitet wird, muss der jeweilige Distributor die Lizenz für diese OSS einhalten. "/>
                 <para PARENT="Body" LINESP="13"/>
                 <ITEXT FONT="Avenir Next W1G Medium" FONTSIZE="11" FEATURES="inherit" CH="Beispiele für die Distribution von OSS"/>
                 <para PARENT="Head 2 Black" LINESPMode="1" LINESP="12"/>
@@ -574,7 +574,7 @@
                 <para PARENT="Body" LINESPMode="1"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Risiken bei Mißachtung der OSS-Lizenz"/>
                 <para PARENT="Head 1 Color | Teal 7466" LINESPMode="1"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Falls durch einen OSS-Urheberrechtsinhaber gegen ein Unternehmen wegen Nichteinhaltung der Lizenz ein Rechtsstreit eingeleitet wurde."/>
+                <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="falls durch einen OSS-Urheberrechtsinhaber gegen ein Unternehmen wegen Nichteinhaltung der Lizenz ein Rechtsstreit eingeleitet wird."/>
                 <para PARENT="Head 1 Color | sub" ALIGN="0" LINESPMode="1"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Leider kommt es vor, dass die Nichteinhaltung der OSS-Lizenz zu Rechtsstreitigkeiten der OSS-Urheberrechtsinhaber gegen den Benutzer (und den Distributor) führt. In mindestens einem Fall verlangte ein Urteil vom Beklagten, die Verbreitung ihrer OSS-beinhaltenden Produkte auszusetzen."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
@@ -603,7 +603,7 @@
                 <para PARENT="Head 2 Black" LINESPMode="1"/>
                 <ITEXT FONT="Avenir Next W1G Medium" CH="Was durch einen Rechtsstreit verloren geht"/>
                 <para PARENT="Head 2 Black" LINESPMode="1"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn ein Unternehmen in einem Rechtsstreit verwickelt ist, besteht einer der größten Schäden für das Unter-nehmen in Reputationsverlust (Reputationsrisiko). Ein schlechter Ruf hinsichtlich einer Nichteinhaltung von Softwarelizenzbedingungen kann dazu führen, dass ein Unternehmen das Vertrauen anderer Unternehmen verliert. Je mehr ein Unternehmen die Bedeutung seiner Vertrauensbeziehungen versteht und sich bemüht, Vertrauen in seiner gesamten Branche aufzubauen, desto ernsthafter agiert es dahingehend, Risiken für seine Reputation zu vermeiden."/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn ein Unternehmen in einem Rechtsstreit verwickelt ist, besteht einer der größten Schäden für das Unter-nehmen im Reputationsverlust (Reputationsrisiko). Ein schlechter Ruf hinsichtlich einer Nichteinhaltung von Softwarelizenzbedingungen kann dazu führen, dass ein Unternehmen das Vertrauen anderer Unternehmen verliert. Je mehr ein Unternehmen die Bedeutung seiner Vertrauensbeziehungen versteht und sich bemüht, Vertrauen in seiner gesamten Branche aufzubauen, desto ernsthafter agiert es dahingehend, Risiken für seine Reputation zu vermeiden."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="11.5"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Die Reaktion auf Rechtsstreitigkeiten erfordert viel Arbeit und Aufwand. Ohne Rechtsstreitigkeiten könnten die in den Bereichen Recht, Einkauf, Anwendungsentwicklung und Compliance tätigen Mitarbeiter für konstruktivere Aufgaben eingesetzt werden. Dies bedeutet, dass ein Unternehmen, welches sich die Zeit nehmen muss, um auf Rechtsstreitigkeiten zu reagieren, möglicherweise andere Geschäftschancen verpasst, an deren Realisierung diese Mitarbeiter arbeiten könnten. Insbesondere die Anstellung eines kompetenten Anwalts für OSS-Rechts-streitigkeiten ist sehr teuer."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="11.5"/>
@@ -615,7 +615,7 @@
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Um das Risiko von Rechtsstreitigkeiten zu verringern, ist es wichtig, die OSS-Prinzipien zu verstehen und die Verpflichtungen aus den OSS-Lizenzen einzuhalten. Darüber hinaus wird dringend empfohlen, einen Beitrag zur OSS-Community zu leisten und gute Beziehungen zu den Entwicklern der von Ihnen verwendeten OSS aufzubauen"/>
                 <ITEXT CH="."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="11.5" KeepLinesStart="2" KeepLinesEnd="2" KeepTogether="1"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn Sie die Gründe, warum die Autoren eine bestimmte Open Source-Lizenz für ihre Software ausgewählt haben, und die Absichten der OSS-Community, die ein OSS-Projekt unterstützen, verstehen, werden Sie in der Lage versetzt, über ein schlichtes wort-getreues Einhalten einer OSS-Lizenz hinauszuwachsen. Die Absichten der Entwickler zu verstehen, ist einer der wichtigsten Vorteile einer guten Beziehung zur OSS-Community."/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn Sie die Gründe, warum die Autoren eine bestimmte Open Source-Lizenz für ihre Software ausgewählt haben und die Absichten der OSS-Community, die ein OSS-Projekt unterstützen, verstehen, werden Sie in die Lage versetzt, über ein schlichtes wort-getreues Einhalten einer OSS-Lizenz hinauszuwachsen. Die Absichten der Entwickler zu verstehen, ist einer der wichtigsten Voraussetzungen einer guten Beziehung zur OSS-Community."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="11.5"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Eine gute Beziehung zur OSS-Community kann es einem Unternehmen ermöglichen, dass eigene neue Ideen in die OSS aufgenommen werden. Die OSS-Community kann die Software, basierend auf Ihren Ideen und Anforderungen, verbessern. Außerdem haben Entwickler in Ihrem Unternehmen möglicherweise die Möglichkeit, mit hochqualifizierten OSS-Entwicklern zusammen-zuarbeiten. Dies kann die Zufriedenheit und Kompetenz Ihrer Entwickler fördern."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="11.5"/>
@@ -634,7 +634,7 @@
                 <para PARENT="Head 1 Color | sub" ALIGN="0" LINESPMode="1"/>
                 <para PARENT="Body" LINESPMode="1"/>
                 <para PARENT="Body" LINESPMode="1"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Je größer und komplexer Software wird, desto größer und komplexer wird auch die Software-Lieferkette. Zu einer modernen Software-Lieferkette können eine OSS-Community, ein Softwarelieferant, ein Halbleiterhersteller, der ein SDK bereitstellt, und ein Hersteller eines Endproduktes gehören. Wenn ein Mitglied einer großen und komplexen Software-Lieferkette die Lizenzverpflichtungen nicht einhält oder die entsprechenden Lizenzinformationen nicht bereitstellt, hat dies erhebliche Auswirkungen auf den Distributor, der zur Einhaltung der Lizenz verpflichtet ist (Abbildung 1). Konformitätsfehler können dazu führen, dass die Bereitstellung eines Produktes ausgesetzt wird. Wenn der Distributor den Fehler vor Bereitstellung nicht kennt, kann er bezüglich des Fehlers Anfragen von einem Urheberrechtsinhaber oder einem Dritten erhalten, die er nicht beantworten kann"/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Je größer und komplexer Software wird, desto größer und komplexer wird auch die Software-Lieferkette. Zu einer modernen Software-Lieferkette können eine OSS-Community, ein Softwarelieferant, ein Halbleiterhersteller, der ein SDK bereitstellt, und ein Hersteller eines Endproduktes gehören. Wenn nur irgendein Mitglied einer großen und komplexen Software-Lieferkette die Lizenzverpflichtungen nicht einhält oder die entsprechenden Lizenzinformationen nicht bereitstellt, hat dies erhebliche Auswirkungen auf den Distributor, der zur Einhaltung der Lizenz verpflichtet ist (Abbildung 1). Konformitätsfehler können dazu führen, dass die Bereitstellung eines Produktes ausgesetzt wird. Wenn der Distributor den Fehler vor Bereitstellung nicht kennt, kann er bezüglich des Fehlers Anfragen von einem Urheberrechtsinhaber oder einem Dritten erhalten, die er nicht beantworten kann"/>
                 <ITEXT FONTSIZE="9" CH="."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn Software-Compliance jedoch in der vorgelagerten Lieferkette ordnungsgemäß gehandhabt wird, können diese Probleme vermieden werden. Um die Einhaltung von OSS-Lizenzen zu erleichtern, müssen alle Teilnehmer der Lieferkette ihre Verpflichtungen erfüllen, Vertrauen in der gesamten Lieferkette aufbauen und entsprechende Informationen zu enthaltener Software kommunizieren."/>
@@ -646,7 +646,7 @@
                 <para PARENT="Head 2 Black" LINESPMode="1"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn ein Distributor Software vertreibt, muss dieser jedem Empfänger diejenigen Informationen zur Verfügung stellen, die zur Einhaltung der OSS-Lizenz erforderlich sind. Ein Empfänger sollte die Daten und Dateien sorgfältig prüfen und sicherstellen, dass diese korrekt sind."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Ein Software-Distributor kann Software von mehreren Anbietern in ein einzelnes Produkt integrieren. In diesem Fall muss der Distributor zusammen mit der Software Informationen zu jeder enthaltenen OSS-Komponente erhalten."/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Ein Software-Distributor kann Software von mehreren Anbietern in ein einzelnes Produkt integrieren. In diesem Fall muss der Distributor Informationen zu jeder in der Software enthaltenen OSS-Komponente erhalten."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Wenn zu einer OSS-Komponente keine Informationen erhalten werden, sollte diese OSS nicht in ein Produkt integriert werden."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
@@ -668,7 +668,7 @@
                 <para PARENT="Head 3 Slate" LINESPMode="1"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Softwareeinkäufer müssen mit eingehender Software OSS-Informationen erhalten, damit Softwareentwickler diese aufzeichnen können. OSS kann in jeglicher Software - wie dem von einem Halbleiterhersteller bereitgestellten SDK - enthalten sein."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Einkäufer müssen bei allen Arten von Liefergegenständen achten, die das Unternehmen erhält, auf Software achten. "/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Einkäufer müssen bei allen Arten von Liefergegenständen, die das Unternehmen erhält, auf Software achten. "/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
                 <ITEXT FONT="Avenir Next W1G Medium" FEATURES="inherit" CH="Vertriebsmitarbeiter"/>
                 <para PARENT="Head 3 Slate" LINESPMode="1"/>
@@ -723,7 +723,7 @@
                 <para PARENT="Head 2 Black" LINESPMode="1"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FEATURES="inherit" CH="Information, die mit einer OSS verbreitet werden muss"/>
                 <para PARENT="Head 2 Black" LINESPMode="1"/>
-                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Die folgenden Informationen müssen mit Ihren Liefergegenständen verteilt werden, die OSS enthalten."/>
+                <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Die folgenden Informationen müssen mit den Liefergegenständen, die OSS enthalten, verteilt werden."/>
                 <para PARENT="Body" LINESPMode="0" LINESP="12"/>
                 <ITEXT FONT="Avenir Next W1G Regular" FONTSIZE="9" FEATURES="inherit" CH="Liste der OSS-Komponenten"/>
                 <para PARENT="Bullet list" LINESPMode="0" LINESP="12" NACH="8.50393700787402" ParagraphEffectCharStyle="Body bullet" ParagraphEffectOffset="8.50393700787402" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
@@ -855,7 +855,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONTSIZE="8" FEATURES="inherit" CH="Abbildung 1　"/>
-                <ITEXT CH="Probleme in der Software-Lieferkette"/>
+                <ITEXT CH="Probleme in der Software-Lieferkette bei unzulässiger OSS-Nutzung"/>
                 <para PARENT="Figure Caption" LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
