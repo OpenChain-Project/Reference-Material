@@ -36,7 +36,7 @@ Let's first explain the following:
 4. Supply chain issues
 5. What you need to do to ensure that everyone benefits from open source
 
-Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder. Points 3 and 4 may be intertwined. If open source is acquired through a supply chain then all links in the supply chain must comply with the conditions of the license(s). If any link fails to satisfy the conditions, then entities later in the supply chain will also not be able to, nor be able to remedy the missing conditions. An employee or company acting alone cannot meet all the responsibilities and requirements by themselves.
+Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder. Points 3 and 4 may be intertwined. If open source is acquired through a supply chain then all links in the supply chain must comply with the conditions of the license(s). If any link fails to satisfy the conditions, then entities later in the supply chain will also not be able to, nor be able to remedy the missing conditions.
 
 When an item with open source software is delivered to another party, information related to all the included open source must be provided. The following staff are required to know the proper procedures to follow when acquiring and distributing open source:
 
