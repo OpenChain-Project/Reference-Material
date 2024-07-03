@@ -1,8 +1,8 @@
 # Managing Your Open Source Software Supply Chain
 
-## From The OpenChain Project
+## A Guide From The OpenChain Project
 
-#### (Draft) Second Edition - May 2024
+Second Edition
 
 ## Contents
 - [Introduction](#introduction)
@@ -259,7 +259,7 @@ For each open source component:
 
 - List of applicable licenses, and (if a choice of more than one) the license your company is distributing the open source under
 
-- Iformation of modifications you made to the software
+- Information of modifications you made to the software
 
 For open source where the license requires the distributor to provide license and copyright notices:
 
@@ -275,7 +275,7 @@ The preceding information is general. One customer may require certain pieces of
 
 ## SPDX Project
 
-SPDX (Software Package Data Exchange) is a project hosted by the Linux Foundation that has developed a standardized format for exchanging license information. The SPDX format was published as ISO/IEC 5962:2021 after many years as a de-facto industry standard. Anyone can use SPDX and it is highly recommended for use throughout the supply chain. Please find information about it at:
+SPDX (Software Package Data Exchange) is a project hosted by the Linux Foundation that has developed a standardized format for exchanging license information. The SPDX format was published as ISO/IEC 5962:2021 after many years as a de-facto industry standard. Anyone can use SPDX and it is recommended for use throughout the supply chain. Please find information about it at:
 
 [https://spdx.org/](https://spdx.org/)
 
