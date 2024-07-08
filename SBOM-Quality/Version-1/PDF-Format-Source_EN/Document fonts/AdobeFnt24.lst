@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/shane/Desktop/InDesign-Format/Document fonts/AdobeFnt19.lst
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/SBOM-Quality/Version-1/InDesign-Format_EN/Document fonts/AdobeFnt19.lst
 FileLength:2291
 FileModTime:687881723
 %EndFont
@@ -12,9 +12,9 @@ FileModTime:687881723
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/shane/Desktop/InDesign-Format/Document fonts/AdobeFnt24.lst
-FileLength:2977
-FileModTime:741761568
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/SBOM-Quality/Version-1/InDesign-Format_EN/Document fonts/AdobeFnt24.lst
+FileLength:2947
+FileModTime:741763547
 %EndFont
 
 %BeginFont
@@ -30,7 +30,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Next W1G Light
 WritingScript:Roman
-OutlineFileName:/Users/shane/Desktop/InDesign-Format/Document fonts/AvenirNextW1G-Light.otf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/SBOM-Quality/Version-1/InDesign-Format_EN/Document fonts/AvenirNextW1G-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -58,7 +58,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Next W1G Medium
 WritingScript:Roman
-OutlineFileName:/Users/shane/Desktop/InDesign-Format/Document fonts/AvenirNextW1G-Medium.otf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/SBOM-Quality/Version-1/InDesign-Format_EN/Document fonts/AvenirNextW1G-Medium.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -86,7 +86,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Next W1G Regular
 WritingScript:Roman
-OutlineFileName:/Users/shane/Desktop/InDesign-Format/Document fonts/AvenirNextW1G-Regular.otf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/SBOM-Quality/Version-1/InDesign-Format_EN/Document fonts/AvenirNextW1G-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -114,7 +114,7 @@ WidthClass:5
 AngleClass:0
 FullName:Avenir Next W1G Thin
 WritingScript:Roman
-OutlineFileName:/Users/shane/Desktop/InDesign-Format/Document fonts/AvenirNextW1G-Thin.otf
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/SBOM-Quality/Version-1/InDesign-Format_EN/Document fonts/AvenirNextW1G-Thin.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
