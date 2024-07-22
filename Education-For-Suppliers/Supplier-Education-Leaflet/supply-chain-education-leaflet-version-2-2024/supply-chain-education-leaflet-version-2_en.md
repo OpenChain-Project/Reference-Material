@@ -198,7 +198,7 @@ These items must be identified and listed. Any time the software configuration c
 
 ### Software procurement personnel
 
-Software procurement personnel must receive information about any open source in the incoming software, for software engineers to record. open source may be included in software like the SDK provided by a semiconductor vendor.
+Software procurement personnel must receive information about any open source contained in incoming software so that the company can record details for license compliance or other purposes. For example, they should check if open source is included in an SDK provided by a semiconductor vendor.
 
 Procurement personnel are required to pay attention to the software in all the different kinds of deliverables that the company receives.
 
