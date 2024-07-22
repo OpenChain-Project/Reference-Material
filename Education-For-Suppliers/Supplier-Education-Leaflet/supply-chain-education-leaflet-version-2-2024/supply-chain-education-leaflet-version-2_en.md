@@ -35,7 +35,7 @@ Let's first explain the following:
 
 Unfortunately, there have been cases where a company’s failure to comply with their open source license responsibilities resulted in litigation by the copyright holder. Points 3 and 4 may be intertwined. If open source is acquired through a supply chain then all links in the supply chain must comply with the conditions of the license(s). If any link fails to satisfy the conditions, then entities later in the supply chain will also not be able to, nor be able to remedy the missing conditions.
 
-When an item with open source software is delivered to another party, information related to all the included open source must be provided. The following staff are required to know the proper procedures to follow when acquiring and distributing open source:
+In general, when an item that includes open source software is delivered to another company or legal entity, information related to all the included open source should be provided. It is good practice to deliver this type of information even when distributing internally to ensure accurate record-keeping. The following staff are required to know the proper procedures to follow when acquiring and distributing open source:
 
 - Developers and engineers: In addition to software developers, hardware engineers are deeply involved in developing device driver software, board support packages (BSP) and software development kits (SDKs) for their hardware.
 
