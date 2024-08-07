@@ -1,14 +1,16 @@
-\##### Slide 1
+\##### Slide Cover
 
 \# Reference Training Slides
 
-Open Source Training for OpenChain 2.1 (ISO/IEC 5230:2020)
+Open Source Training for OpenChain ISO/IEC 5230:2020
 
-MarkDown Edition - Version 1 - DRAFT
+\##### Slide 1
+
+MarkDown Edition - Version 1
 
 Released under CC0-1.0. You may use, modify, and share these slides without restriction. They also come with no warranty.
 
-These slides follow US law. Different legal jurisdictions may have different legal requirements.
+These slides follow US law. Different legal jurisdictions may have different legal requirements. These slides are not legal advice.
 
 Welcome to the OpenChain Curriculum Slides. These slides can be used to help train internal teams about Open Source compliance issues and to conform with the OpenChain Specification.
 
@@ -18,7 +20,7 @@ You can deliver these slides as one half-day training session or you can deliver
 
 \## What are the OpenChain Reference Slides?
 
-\- The OpenChain Project defines the key requirements of a quality open source compliance program described in the International Standard for open source compliance: ISO/IEC 5230
+\- The OpenChain Project defines the key requirements of a quality open source compliance program described in the International Standard for open source compliance: OpenChain ISO/IEC 5230
 
 \- These reference training slides help companies meet the requirements of the International Standard.
 
