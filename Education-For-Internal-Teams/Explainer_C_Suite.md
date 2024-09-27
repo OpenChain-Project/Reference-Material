@@ -53,7 +53,7 @@
 - Eases adoption of adjacent standards with a similar structure (e.g. ISO/IEC 18974:2023 :the OpenChain standard for security assurance)
 - Members actively participate in further complementary standards development (e.g.Software Bills of Materials)
 
-\* Source: PwC, 2022 [insert link)]
+\* Source: PwC, 2023 [https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html](https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html)
 
 ### Final Notes
 
