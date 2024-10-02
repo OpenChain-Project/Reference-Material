@@ -4,8 +4,8 @@
 
 ## Background
 
-- Open source software is publicly available for anyone to use and incorporate into their products and services
-- Open source software is still subject to licences, containing legal conditions; but
+- Open source software is publicly available for anyone to use, modify and incorporate into their products and services
+- Open source software remains subject to licences, containing legal conditions; but
 - Using open source software increases productivity; reduces time to market, increases code quality. It’s universal in the industry
 - Licence non-compliance is a risk
 - A product can contain many thousands of open source components under a variety of licences, each of which can present a potential compliance risk
@@ -23,7 +23,6 @@
 ## The Solution
 
 - OpenChain ISO/IEC 5230:2020 is a freely available **international standard** for managing **open source license compliance risk**
-- OpenChain ISO/IEC 18974:2023 is freely available **international standard** for managing **open source security assurance risk**
 - A **framework** requiring, for example that:
   - …developers and other participants are appropriately skilled, trained, empowered and managed;
   - …we know the components we have in our code, and the licences each of them are under;
@@ -51,11 +50,10 @@
 - Supported by _\[insert list of OpenChain member/sponsors relevant to industry: see <https://openchainproject.org/community)\>]_
 - Access to a community of other supporters
 - High rate of adoption (e.g. over 20% of companies in Germany with over 2,000 employees, 31% of large German companies already use or plan to adopt OpenChain ISO/IEC 5230)\*
-- Eases access to adjacent standards and regulatory requirements
-  - OpenChain Software Export Control Management
-  - Openchain Artificial Intelligence Management
+- Eases adoption of adjacent standards with a similar structure (e.g. ISO/IEC 18974:2023 :the OpenChain standard for security assurance)
+- Members actively participate in further complementary standards development (e.g.Software Bills of Materials)
 
-\* Source: PwC
+\* Source: PwC, 2023 [https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html](https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html)
 
 ### Final Notes
 
