@@ -5,16 +5,16 @@
 ## Background
 
 - Using open source software increases productivity; reduces time to market, increases code quality. It’s universal in the industry
-- Open source software is still subject to licences and can have significant implications for e.g. the technical architecture depending upon how it has been incorporated.
-- A product can contain many thousands of open source components under a variety of licences, each of which can present a potential compliance risk
+- Open source software is still subject to licenses and can have significant implications for e.g. the technical architecture depending upon how it has been incorporated.
+- A product can contain many thousands of open source components under a variety of licenses, each of which can present a potential compliance risk
 
 
 ## Implications
 
 - **Uncertainty** about which code can be used, and how, is **frustrating** and creates **friction**
-- Open source software is subject to licences and can have significant **implications** for the **technical architecture** depending upon how it is incorporated and used.
-- A product can contain thousands of open source components under many licences, each of which can require specific documentation and generation of artifacts. Want to minimise this work.
-- Licence **non-compliance** is potentially **costly**, time consuming and **frustrating** to correct.
+- Open source software is subject to licenses and can have significant **implications** for the **technical architecture** depending upon how it is incorporated and used.
+- A product can contain thousands of open source components under many licenses, each of which can require specific documentation and generation of artifacts. Want to minimise this work.
+- License **non-compliance** is potentially **costly**, time consuming and **frustrating** to correct.
 
 
 ## The Solution
@@ -23,8 +23,8 @@
 - OpenChain ISO/IEC 18974:2023 is freely available **international standard** for managing **open source security assurance risk**
 - A **framework** requiring, for example that:
   - …developers and other participants are appropriately skilled, trained, empowered and managed;
-  - …we know the components we have in our code, and the licences each of them are under;
-  - …we have a documented and managed procedure for understanding, handling and complying with each of the licences;
+  - …we know the components we have in our code, and the licenses each of them are under;
+  - …we have a documented and managed procedure for understanding, handling and complying with each of the licenses;
   - … we have an effective mechanism for dealing with queries and issues.
 - Founded on **quality and process management standards** based on existing ISO industry standards _\[insert other standards already adopted by company for supply chain management\]_
 
