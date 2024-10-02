@@ -42,7 +42,7 @@
   - OpenChain Software Export Control Management
   - Openchain Artificial Intelligence Management
 
-\* Source: PwC
+\* Source: PwC, 2023 [https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html](https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html)
 
 ### Final Notes
 
