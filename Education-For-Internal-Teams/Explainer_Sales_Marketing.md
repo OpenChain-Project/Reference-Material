@@ -4,11 +4,11 @@
 
 ## Background
 
-- Open source software is publicly available for anyone to use and incorporate into their products and services
-- Open source software is still subject to licences, containing legal conditions; but
+- Open source software is publicly available for anyone to use. modify and incorporate into their products and services
+- Open source software remains subject to licenses, containing legal conditions; but
 - Using open source software increases productivity; reduces time to market, increases code quality. It’s universal in the industry
-- Licence non-compliance is a risk
-- A product can contain many thousands of open source components under a variety of licences, each of which can present a potential compliance risk
+- License non-compliance is a risk
+- A product can contain many thousands of open source components under a variety of licenses, each of which can present a potential compliance risk
 - **Almost all** software developed, **including ours**, contains open source software
 
 
@@ -30,9 +30,9 @@
 - OpenChain ISO/IEC 18974:2023 is freely available **international standard** for managing **open source security assurance risk**
 - A **framework** requiring, for example that:
   - …developers and other participants are appropriately skilled, trained, empowered and managed;
-  - …we know the components we have in our code, and the licences each of them are under;
-  - …we have a documented and managed procedure for understanding, handling and complying with each of the licences;
-  - … we have an effective mechanism for dealing with queries and issues.
+  - …we know the components we have in our code, and the licenses each of them are under;
+  - …we have a documented and managed procedure for understanding, handling and complying with each of the licenses;
+  - …we have an effective mechanism for dealing with queries and issues.
 - Founded on **quality and process management standards** based on existing ISO industry standards _\[insert other standards already adopted by company for supply chain management\]_
 
 
@@ -56,7 +56,7 @@
   - OpenChain Software Export Control Management
   - Openchain Artificial Intelligence Management
 
-\* Source: PwC
+\* Source: PwC, 2023 [https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html](https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html)
 
 ### Final Notes
 
