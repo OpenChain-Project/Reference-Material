@@ -4,17 +4,19 @@
 
 ## Background
 
-- Open source software is publicly available for anyone to use and incorporate into their products and services
-- Open source software is still subject to licences, containing legal conditions; but
+- Open source software is publicly available for anyone to use, modify and incorporate into their products and services
+- Open source software remains subject to licenses, containing legal conditions; but
 - Using open source software increases productivity; reduces time to market, increases code quality. It’s universal in the industry
-- Licence non-compliance is a risk
-- A product can contain many thousands of open source components under a variety of licences, each of which can present a potential compliance risk
+- License non-compliance is a risk
+- A product can contain many thousands of open source components under a variety of licenses, each of which can present a potential compliance risk
 - **Almost all** software developed, **including ours**, contains open source software
 
 
 ## Implications
 
-- TBD
+- Anyone involved in the development, deployment, marketing and support of our products and services needs to be aware of the implications of use of open source software
+- There are misconceptions, common in the industry, which can increase risk (but also hinder the use of open source when beneficial to do so)
+
 
 ## The Solution
 
@@ -27,10 +29,10 @@
   - … we have an effective mechanism for dealing with queries and issues.
 - Founded on **quality and process management standards** based on existing ISO industry standards _\[insert other standards already adopted by company for supply chain management\]_
 
-
 ## Benefits
 
-- TBD
+- Understanding of open source use and deployment, reduces risk and increases efficiency and code quality
+- Training and education around open source is a transferrable skill
 
 ## OpenChain Benefits
 
@@ -42,7 +44,7 @@
   - OpenChain Software Export Control Management
   - Openchain Artificial Intelligence Management
 
-\* Source: PwC
+\* Source: PwC, 2023 [https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html](https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html)
 
 ### Final Notes
 
