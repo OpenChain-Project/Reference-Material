@@ -49,11 +49,9 @@
 - Backed by the **Linux Foundation** ($250m industry body)
 - Supported by _\[insert list of OpenChain member/sponsors relevant to industry: see <https://openchainproject.org/community)\>]_
 - Access to a community of other supporters
-- High rate of adoption (e.g. over 20% of companies in Germany with over 2,000 employees, 31% of large German companies already use or plan to adopt OpenChain ISO/IEC 5230)\*
+- High rate of adoption
 - Eases adoption of adjacent standards with a similar structure (e.g. ISO/IEC 18974:2023 :the OpenChain standard for security assurance)
 - Members actively participate in further complementary standards development (e.g.Software Bills of Materials)
-
-\* Source: PwC, 2023 [https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html](https://www.pwc.de/en/digitale-transformation/open-source-software-management-and-compliance/open-source-software-current-trends-and-developments.html)
 
 ### Final Notes
 
