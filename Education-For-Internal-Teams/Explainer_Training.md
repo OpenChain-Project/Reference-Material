@@ -16,6 +16,7 @@
 
 - Anyone involved in the development, deployment, marketing and support of our products and services needs to be aware of the implications of use of open source software
 - There are misconceptions, common in the industry, which can increase risk (but also hinder the use of open source when beneficial to do so)
+- Open source software and **our policy** specific training materials are required, which may **vary by role**, and needs to be tracked/recorded in some way
 
 
 ## The Solution
@@ -27,7 +28,7 @@
   - …we know the components we have in our code, and the licences each of them are under;
   - …we have a documented and managed procedure for understanding, handling and complying with each of the licences;
   - … we have an effective mechanism for dealing with queries and issues.
-- Founded on **quality and process management standards** based on existing ISO industry standards _\[insert other standards already adopted by company for supply chain management\]_
+- The Linux Foundation provides relevant free training courses, the OpenChain Education Work Group provides a wealth of useful training materials.
 
 ## Benefits
 
