@@ -14,12 +14,9 @@
 
 ## Implications
 
-- To be updated!!
-- Different **risks** compared to e.g. our own in-house developed code
-- Our customer(s) may require **us** to provide detailed information about open source and your management of it
-- Our customer(s) may require **us** to follow specific policies such as “no open source under a GPLv3 license”
-- Our customer may ask **us** for the source code and/or SDKs that they are entitled to from the used open source license
-- When the next high-profile security bug alarm comes along (e.g. like heartbleed in 2014), you need to be able to efficiently investigate, communicate with customers, reassure and mitigate
+- Procurement of products which include open source software has additional/different considerations and risks 
+- Need to clearly communicate **our** expectations and requirements to suppliers to reduce **our** risk
+- Unclear how to compare different suppliers
 
 
 ## The Solution
@@ -36,14 +33,13 @@
 
 ## Benefits
 
-- To be updated!!
-- **Reduction** in compliance **risk** _\[note: include regulatory if relevant to industry: e.g. DORA\]_
-- **Increased trust** in the supply chain with both suppliers and customers
-- **Decreased transaction costs** and friction and increased transaction speed
-- **Increased productivity** because e.g.:
-  - Certainty in selection and use of components
-  - Decreased interaction between departments
-- **Simplification** of M&A transactions, (fundraising, IPOs, exits) through simpler Due Diligence (DD)
+- **Increased trust** due to pragmatic certification 
+- **Decreased transaction costs** and friction because e.g.:
+  - mutually understood requirements and terminology
+  - Decreased interaction with suppliers
+- **Increased productivity and efficiency** because e.g.:
+  - less variations in information supplied
+  - The needs of Procurement should dove-tail with the needs of the end-user/engineering department
 
 ## OpenChain Benefits
 
