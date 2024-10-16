@@ -14,7 +14,8 @@
 
 ## Implications
 
-- TBD
+- Job recruitment specifications and candidate CVs may have some open source jargon thats needs to be understood
+- Staff and potential hires may ask about being allowed to contribute to, or run their own, open source projects; which may have implications for employment contracts
 
 ## The Solution
 
@@ -30,7 +31,8 @@
 
 ## Benefits
 
-- TBD
+- Open source knowledge, experience and engagement is an in-demand transferable skill
+- A potential differentiator of Companies and candidates alike
 
 ## OpenChain Benefits
 
