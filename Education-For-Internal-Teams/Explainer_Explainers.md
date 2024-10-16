@@ -5,10 +5,11 @@
 - Short decks consisting of 4 or 5 slides, intended for different audiences within an organisation
 - They are NOT legal advice and are intended to be adapted for each organisation
 - They are intended to be very concise and straightforward. The OpenChain Project also has more in-depth material which can complement them
-- We currently have 7 explainers in draft and ready for publication (excluding this one)
-## Which ones do we have (as at 2024-09-30)? 
+- We currently have 8 explainers in draft and ready for publication (excluding this one)
+## Which ones do we have (as at 2024-10-16)? 
 - C-Suite
 - Legal Compliance Risk
+- Procurement
 - Developer Team Leader
 - Developers
 - HR Department
