@@ -12,7 +12,7 @@ PUBLIC_ADMINISTRATION's goals in releasing this policy are:
 
 * Foster economic growth
 
-The objective of this policy is to allow PUBLIC_ADMINISTRATION to embrace open source software development without compromising its core interests and information security, following the communities’ best practices and in the respect of all stakeholders.
+The objective of this policy is to allow PUBLIC_ADMINISTRATION to embrace open source software development without compromising its core interests and information security, following the communities' best practices and in the respect of all stakeholders.
 
 Globally this policy proposes to:
 
@@ -124,25 +124,25 @@ ENTITY_NAME will provide a centralized support for cases not covered by this pol
 
 ## Contributing to Existing Open Source Projects
 
-ENTITY_NAME’s civil servants and subcontractors are authorized to contribute code and documentation related to FOSS projects that they are using as part of their mission for ENTITY_NAME under the licenses used by these projects, provided that the following conditions are met.
+ENTITY_NAME's civil servants and subcontractors are authorized to contribute code and documentation related to FOSS projects that they are using as part of their mission for ENTITY_NAME under the licenses used by these projects, provided that the following conditions are met.
 
 ### Evaluate the Project License
 
-ENTITY_NAME’s civil servants and subcontractors can only contribute to projects that have a clearly defined license that is approved by ENTITY_NAME and available at ACCEPTED_LICENSES_URL. 
+ENTITY_NAME's civil servants and subcontractors can only contribute to projects that have a clearly defined license that is approved by ENTITY_NAME and available at ACCEPTED_LICENSES_URL. 
 
 This consideration should also apply to the dependencies used by the projects:
 
-Shouldn’t one or more of a project’s dependencies fit these criteria, participation in the project may still be appropriate, but further scrutiny and evaluation is needed. Projects falling under this situation should be treated on a case by case basis. Additional support can be obtained through ENTITY_SUPPORT_EMAIL
+Shouldn't one or more of a project's dependencies fit these criteria, participation in the project may still be appropriate, but further scrutiny and evaluation is needed. Projects falling under this situation should be treated on a case by case basis. Additional support can be obtained through ENTITY_SUPPORT_EMAIL
 
 ### Verifying the integrity of the contribution
 
-ENTITY_NAME’s civil servants and subcontractors must be the original authors of the contribution that they submit. If the proposed contribution is in part or entirely derived from a third party work, they must ensure that this party’s work has been licenced in a way that makes it allowed for inclusion in the target project. They must also ensure to follow the required modalities attached to the third party work. 
+ENTITY_NAME's civil servants and subcontractors must be the original authors of the contribution that they submit. If the proposed contribution is in part or entirely derived from a third party work, they must ensure that this party's work has been licenced in a way that makes it allowed for inclusion in the target project. They must also ensure to follow the required modalities attached to the third party work. 
 
-### Signing Contributor’s License Agreements
+### Signing Contributor's License Agreements
 
-ENTITY_NAME’s civil servants and subcontractors may only contribute to projects that require a Contributor’s License Agreement (CLA) that have been agreed upon by ENTITY_NAME and are available at ENTITY_CLA_URL.
+ENTITY_NAME's civil servants and subcontractors may only contribute to projects that require a Contributor's License Agreement (CLA) that have been agreed upon by ENTITY_NAME and are available at ENTITY_CLA_URL.
 
-Similarly, Individual Contributor’s License Agreements need to be approved by ENTITY_SUPPORT_EMAIL.
+Similarly, Individual Contributor's License Agreements need to be approved by ENTITY_SUPPORT_EMAIL.
 
 ## Releasing and Managing Open Source Projects 
 
@@ -160,7 +160,7 @@ At least two maintainers having full commit rights on a project (preferably from
 
 Whenever possible, the new project shall use an outbound license ensuring compatibility with corresponding FOSS projects ecosystem.
 
-Any new FOSS project dependency shall be duly checked against its compatibility between the licenses of the various components of the project, including the target licence of the project’s code base.
+Any new FOSS project dependency shall be duly checked against its compatibility between the licenses of the various components of the project, including the target licence of the project's code base.
 
 If the ecosystem is completely new, following licenses are recommended depending on the use cases:
 
@@ -170,7 +170,7 @@ If the ecosystem is completely new, following licenses are recommended depending
 
 Creating a new license is very strongly discouraged and explicit approval is required from ENTITY_SUPPORT_EMAIL.
 
-Contributions should be accepted under the same license as the project outbound license. A CLA should not be required for the project. Instead, a process like the [Developer’s Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project’s license, if so desired.
+Contributions should be accepted under the same license as the project outbound license. A CLA should not be required for the project. Instead, a process like the [Developer's Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project's license, if so desired.
 
 ### Version control system
 
@@ -178,7 +178,7 @@ Releasing the source code can be made on any public distributed version control 
 
 ### Security
 
-ENTITY_NAME’s standard security process should be applied.
+ENTITY_NAME's standard security process should be applied.
 
 ### Deprecation Policy
 
