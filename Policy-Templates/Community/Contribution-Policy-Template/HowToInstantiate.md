@@ -28,11 +28,11 @@ Subcontractors contracted to develop parts or the entirety of the contribution o
 
 ### Licenses
 
-ENTITY_NAME should maintain and publish a list of accepted FOSS licenses among the FSF / OSI approved ones at the ACCEPTED_LICENSES_URL. 
+ENTITY_NAME should maintain and publish a list of accepted FOSS licenses among the FSF / OSI approved ones at the ACCEPTED_LICENSES_URL.
 
 Another option would be to rely on those institutions and accept all FSF / OSI approved licenses.
 
-Guidance should be provided on ENTITY_NAME use cases and corresponding software developped.
+Guidance should be provided on ENTITY_NAME use cases and corresponding software developed.
 
 ### Signing Contributor’s License Agreements
 
@@ -60,7 +60,7 @@ There are a number of version control systems available that may be appropriate 
 
 * Entities should use a distributed version control system wherever possible
 
-* Entities should use a version control system which itself is Free/Open Source software. 
+* Entities should use a version control system which itself is Free/Open Source software.
 
 * Entities should err on the side of adopting a standard platform with the communities they work most closely with as well as their peers.
 
@@ -72,7 +72,7 @@ In order to facilitate contribution from a wide range of developers, repositorie
 
 [In addition, some public administrations provide their own platforms, most notably Joinup (https://joinup.ec.europa.eu) by the European Commission and Code.gov (https://code.gov) by the US government.](https://bitbucket.org/)
 
-To engage the open source community your entity may want to consider the social features of the system beyond version control, such as a ticketing system, a wiki or an automated build system. 
+To engage the open source community your entity may want to consider the social features of the system beyond version control, such as a ticketing system, a wiki or an automated build system.
 
 ### Applicability of Legal Principles Reflected in the Policy
 
