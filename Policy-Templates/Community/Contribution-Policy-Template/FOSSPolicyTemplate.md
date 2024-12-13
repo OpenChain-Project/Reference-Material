@@ -40,7 +40,7 @@ Note that FOSS projects may include technical and functional documentation, user
 
 "OSI approved license:" [https://opensource.org/licenses](https://opensource.org/licenses)
 
-"Free Software Foundation approved license": [https://www.gnu.org/licenses/licenses.en.](https://www.gnu.org/licenses/licenses.en.html)[html](https://www.gnu.org/licenses/licenses.en.html)
+"Free Software Foundation approved license": [https://www.gnu.org/licenses/licenses.en.](https://www.gnu.org/licenses/licenses.en.html)
 
 "Version control system": software product or service designed to store and retrieve several versions of source code and related assets in a consistent way, can be centralised,  decentralised or distributed.
 
@@ -168,7 +168,7 @@ If the ecosystem is completely new, following licenses are recommended depending
 
 Creating a new license is very strongly discouraged and explicit approval is required from ENTITY_SUPPORT_EMAIL.
 
-Contributions should be accepted under the same license as the project outbound license. A CLA should not be required for the project. Instead, a process like the [Developer's Certificate of Origin](http://developercertificate.org/) (DCO), can be used to verify that developers agree with the project's license, if so desired.
+Contributions should be accepted under the same license as the project outbound license. A CLA should not be required for the project. Instead, a process like the [Developer's Certificate of Origin](https://developercertificate.org/) (DCO), can be used to verify that developers agree with the project's license, if so desired.
 
 ### Version control system
 
