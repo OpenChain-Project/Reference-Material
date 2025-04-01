@@ -23,5 +23,5 @@
 ## Who and Where
 - The explainers were developed through the OpenChain Project's Education Work Group
 - You can find them (together with the other OpenChain resources) at https://github.com/OpenChain-Project/Reference-Material
-- The Explainers themselves are at: https://github.com/OpenChain-Project/Reference-Material/tree/master/Education-For-Internal-Teams
+- The Explainers themselves are at https://github.com/OpenChain-Project/Reference-Material/tree/master/Education-For-Internal-Teams
 - They are free to use/amend/remix/redistribute under a "do whatever you like" license (CC0)
