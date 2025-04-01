@@ -4,7 +4,7 @@
 
 This section of our reference material is focused on providing you with our self-certification questionnaire (legacy) and our self-certification checklists. These materials are designed to allow you to quickly, easily and effectively begin using our specifications inside your organization and supply chain. 
 
-If an organizationc an answer positively each question or statement, then it meets all the requirements of the relevant specification. If an organization needs to do additional tasks to answer a question or statement positively, then it knows where to focus resources.
+If an organization can answer positively each question or statement, then it meets all the requirements of the relevant specification. If an organization needs to do additional tasks to answer a question or statement positively, then it knows where to focus resources.
 
 You can get help with self-certification from our global community. Get started here:
 https://www.openchainproject.org/community
