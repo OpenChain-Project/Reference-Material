@@ -1,0 +1,284 @@
+** CHAPTER 6
+
+End to End Compliance Management (Example Processes)
+
+# --------------------
+
+** Introduction
+
+- Compliance management is a set of actions that manages FOSS components
+  used in products. Companies may have similar processes in place for
+  proprietary components. FOSS components are called "Supplied Software" in
+  the OpenChain specification.
+
+- Such actions often include: 
+  - Identifying all the FOSS components used in Supplied Software 
+  - Identifying and tracking all obligations created by those components 
+  - Confirming that all obligations have been or will be met
+
+- Small companies may use a simple checklist and enterprises a detailed process.
+
+# --------------------
+
+** Example Small to Medium Company Checklist
+
+- Ongoing Compliance Tasks:
+  - Discover all FOSS early in the procurement/development cycle
+  - Review and Approve all FOSS components used 
+  - Verify the information necessary to satisfy FOSS obligations
+  - Review and approve any outbound contributions to FOSS projects
+
+- Support Requirements:
+  - Ensure adequate compliance staffing and designate clear lines of responsibility 
+  - Adapt existing Business Processes to support the FOSS compliance program
+  - Have training on the organization’s FOSS policy available to everyone
+  - Track progress of all FOSS compliance activities
+
+# --------------------
+
+** Example Enterprise Process
+
+- Queued for Process
+  - Own Proprietary Software
+  - 3rd Party Software
+  - FOSS
+
+- Identification
+  Identify FOSS components for review
+- Audit
+  Scan or audit source code and confirm origin and license of source code
+- Resolve Issues
+  Resolve any audit issues in line with company FOSS policies
+- Reviews
+- Approvals
+  Review and approve compliance record of FOSS software components
+- Registration
+  Record approved software/version in inventory per product and per release
+- Notices
+  Compile notices for publication
+- Verifications
+  Verify source code packages for distribution and verify appropriate notices are provided
+- Distribution
+- Verifications
+  Post publication verifications
+
+- Publish source code, notices and provide written offer
+  - Outgoing Software
+  - Notices & Attributions
+  - Written Offer
+
+# --------------------
+
+** Identify and Track FOSS Usage
+
+Identify FOSS components
+
+- Steps: 
+  - Incoming requests from engineering
+  - Scans of the software
+  - Due diligence of 3rd-party software
+  - Manual recognition of new components added to the repository
+
+- Outcome: 
+  - A compliance record is created (or updated) for the FOSS 
+  - An audit is requested to review the source code with a
+    scope a defined as exhaustive or limited according to
+    FOSS policy requirements.
+
+# --------------------
+
+** Auditing Source Code
+
+Identify and audit FOSS licenses
+
+- Steps: 
+  - Source code for the audit is identified
+  - Source may be scanned by a software tool
+  - “Hits” from the audit or scan are reviewed and
+    verified as to the proper origin of the code
+  - Audits or scans are performed iteratively based
+    on the software development and release lifecycles
+
+- Outcome: 
+  - An audit report identifying:
+    - The origins and licenses of the source code 
+    - Issues that need resolving
+
+# --------------------
+
+** Resolving Issues
+
+Resolve all issues identified in the audit
+
+- Steps: 
+  - Provide feedback to the appropriate engineers to
+    resolve issues in the audit report that conflict
+    with your FOSS policy 
+  - The appropriate engineers then conduct FOSS
+    Reviews on the relevant source code (see next slide
+    for template)
+
+- Outcome: 
+    A resolution for each of the flagged files in the
+    report and a resolution for any flagged license
+    conflict 
+
+# --------------------
+
+** Architecture Review (Example Template)
+ 
+- Legend
+  - Proprietary
+  - 3rd party Commercial
+  - GPL
+  - LGPL
+  - FOSS Permissive
+
+-
+  - Function call
+  - Socket interface
+  - System call
+  - Shared headers
+
+- User Space
+- Kernel Space
+- Hardware
+
+# --------------------
+
+** Performing Reviews
+
+Review the resolved issues to confirm it matches your FOSS policy
+
+- Steps: 
+  - Include appropriate authority levels in review staff
+  - Conduct review with reference to your FOSS policy
+
+- Outcome: 
+  - Ensure the software in the audit report conforms with
+    FOSS policies 
+  - Preserve audit report findings and mark resolved issues
+    as ready for the next step (i.e. Approval)
+
+# --------------------
+
+** Approvals
+
+- Based on the results of the software audit and review in previous
+  steps, software may or may not be approved for use
+
+- The approval should specify versions of approved FOSS components,
+  the approved usage model for the component, and any other
+  applicable obligations under the FOSS license
+
+- Approvals should be made at appropriate authority levels
+
+# --------------------
+
+** Registration / Approval Tracking
+
+- Once a FOSS component has been approved for usage in a
+  product, it should be added to the software inventory
+  for that product 
+
+- The approval and its conditions should be registered
+  in a tracking system 
+
+- The tracking system should make it clear that a new approval
+  is needed for a new version of a FOSS component or if
+  a new usage model is proposed 
+
+# --------------------
+
+** Notices
+
+- Prepare appropriate notices for any FOSS used in a product release:
+  - Acknowledge the use of FOSS by providing full copyright and attribution notices 
+  - Inform the end user of the product on how to obtain a copy of the FOSS source code
+    (when applicable, for example in the case of GPL and LGPL)
+  - Reproduce the entire text of the license agreements for the FOSS code included
+    in the product as needed 
+
+# --------------------
+
+** Pre-Distribution Verifications
+
+Verify that distributed software has been reviewed and approved
+
+- Steps: 
+  - Verify FOSS packages destined for distribution have
+    been identified and approved
+  - Verify the reviewed source code matches the binary
+    equivalents shipping in the product
+  - Verify all appropriate notices have been included to
+    inform end-users of their right to request source code
+    for identified FOSS
+  - Verify compliance with other identified obligations 
+
+- Outcome: 
+  - The distribution package contains only software
+    that has been reviewed and approved
+  - "Distributed Compliance Artifacts" (as defined in
+    the OpenChain specification), including appropriate
+    notice files are included in the distribution package
+    or other delivery method
+
+# --------------------
+
+** Accompanying Source Code Distribution
+
+Provide accompanying source code as required 
+
+- Steps: 
+- Provide accompanying source code along
+  with any associated build tools and
+  documentation (e.g., by uploading to a
+  distribution website or including in the
+  distribution package) 
+- Accompanying source code is identified with
+  labels as to which product and version to
+  which it corresponds
+
+- Outcome: 
+  - Obligations to provide accompanying source code are met
+
+# --------------------
+
+** Final Verifications
+
+Validate compliance with license obligations
+
+- Steps: 
+  - Verify accompanying source code (if any)
+    has been uploaded or distributed correctly 
+  - Verify uploaded or distributed source code
+    corresponds to the same version that was
+    approved 
+  - Verify notices have been properly published
+    and made available
+  - Verify other identified obligations are met
+
+- Outcome: 
+  - Verified Distributed Compliance Artifacts are appropriately provided
+
+# --------------------
+
+** Check Your Understanding
+
+- What is involved in compliance due diligence (for our example process,
+  describe the steps at a high level)?
+  - Identification
+  - Audit source code
+  - Resolving issues
+  - Performing reviews
+  - Approvals
+  - Registration/approval tracking
+  - Notices
+  - Pre-distribution verifications
+  - Accompanying source code distribution
+  - Verification
+
+ - What does an architecture review look for?
+
+# --------------------
+

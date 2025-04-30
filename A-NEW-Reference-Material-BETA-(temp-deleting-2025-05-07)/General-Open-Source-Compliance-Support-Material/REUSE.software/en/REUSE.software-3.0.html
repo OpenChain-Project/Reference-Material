@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+<html>
+
+  <h1>REUSE Specification – Version 3.0</h1>
+
+<p>This document is based on REUSE.software, a project launched by FSFE, and redistributed under CC-0 with their kind permission.</p>
+   
+
+  <p>This specification defines a standardized method for declaring copyright and
+licensing for software projects. The goal of the specification is to have
+unambiguous, human- and machine-readable copyright and licensing information for
+each individual file in a project. Ideally this information is embedded into
+every file, so that the information is preserved when the file is copied and
+reused by third parties.</p>
+<p>This specification implements <a href="https://tools.ietf.org/html/rfc2119">IETF RFC 2119: Key words for use in RFCs to
+Indicate Requirement Levels</a>.</p>
+<p>For the revision history of this specification, please see <a href="https://git.fsfe.org/reuse/docs/src/branch/main/CHANGELOG.md">the change
+log</a>.</p>
+<h2 id="definitions">Definitions</h2>
+<p>These are the definitions for some of the terms used in this specification:</p>
+<ul>
+<li>
+<p>REUSE Tool &mdash; helper tool for compliance with this Specification; available
+at <a href="https://github.com/fsfe/reuse-tool">https://github.com/fsfe/reuse-tool</a>.</p>
+</li>
+<li>
+<p>Project &mdash; any unit of content that can be associated with a distribution of
+software. Typically, a Project is composed of one or more files. Also
+sometimes called a package.</p>
+</li>
+<li>
+<p>License File &mdash; a file containing the text of a license.</p>
+</li>
+<li>
+<p>Copyright and Licensing Information &mdash; the information that lists the
+copyright holders of a file or work, and describes under which licenses the
+file or work is made available.</p>
+</li>
+<li>
+<p>Covered File &mdash; any file in a Project, except for</p>
+<ul>
+<li>The License Files.</li>
+<li>The files belonging to the Project&rsquo;s version control system (example:
+<code>.git/</code>).</li>
+<li>The files ignored by the version control system (example: Files listed in
+<code>.gitignore</code>).</li>
+<li>The files in the <code>.reuse/</code> directory in the root of the Project. This
+directory MUST contain only files relevant for the operation of the REUSE
+Tool.</li>
+</ul>
+</li>
+<li>
+<p>SPDX Specification &mdash; SPDX specification, version 2.1; as available on
+<a href="https://spdx.org/specifications">https://spdx.org/specifications</a>.</p>
+</li>
+<li>
+<p>SPDX License Identifier &mdash; SPDX short-form identifier, as defined in SPDX
+Specification. See also <a href="https://spdx.org/ids">https://spdx.org/ids</a> for a short introduction and
+examples.</p>
+</li>
+<li>
+<p>SPDX License Expression &mdash; as defined in SPDX Specification, Appendix IV, at <a href="https://spdx.org/spdx-specification-21-web-version#h.jxpfx0ykyb60">https://spdx.org/spdx-specification-21-web-version#h.jxpfx0ykyb60</a>.</p>
+</li>
+<li>
+<p>SPDX License List &mdash; a list of commonly found licenses and exceptions; as
+available on <a href="https://spdx.org/licenses/">https://spdx.org/licenses/</a>.</p>
+</li>
+<li>
+<p>DEP5 &mdash; <a href="https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/">Machine-readable <code>debian/copyright</code> file, Version
+1.0</a>.
+Where the REUSE Specification and DEP5 state different things, the REUSE
+Specification takes precedence. Specifically in the case of the <code>Copyright</code>
+and <code>License</code> tags.</p>
+</li>
+</ul>
+<h2 id="license-files">License Files</h2>
+<p>A Project MUST include a License File for every license under which Covered
+Files are licensed.</p>
+<p>Each License File MUST be placed in the <code>LICENSES/</code> directory in the root of
+the Project. The name of the License File MUST be the SPDX License Identifier of the
+license followed by an appropriate file extension (example:
+<code>LICENSES/GPL-3.0-or-later.txt</code>). The License File MUST be in plain text format.</p>
+<p>If a license does not exist in the SPDX License List, its SPDX License Identifier
+MUST be <code>LicenseRef-[idstring]</code> as defined by the SPDX Specification, Section 6 available at <a href="https://spdx.org/spdx-specification-21-web-version#h.1v1yuxt">https://spdx.org/spdx-specification-21-web-version#h.1v1yuxt</a>.</p>
+<p>A Project MUST NOT include License Files for licenses under which none of the
+files in the Project are licensed.</p>
+<p>Everything that applies to licenses in this section also applies to license
+exceptions, with the exception that it is NOT possible to have a license
+exception that does not exist in the SPDX License List.</p>
+<p>For avoidance of doubt, in practice this means that for every license and exception
+that is part of any SPDX License Expression in any Copyright and Licensing Information
+associated with any Covered File, there MUST exist a License File as defined in this section.</p>
+<h2 id="copyright-and-licensing-information">Copyright and Licensing Information</h2>
+<p>Each Covered File MUST have Copyright and Licensing Information associated with
+it. There are two ways to associate Copyright and Licensing Information with a
+file.</p>
+<h3 id="comment-headers">Comment headers</h3>
+<p>To implement this method, each plain text file that can contain comments MUST
+contain comments at the top of the file (comment header) that declare that
+file&rsquo;s Copyright and Licensing Information.</p>
+<p>If a file is not a plain text file or does not permit the inclusion of
+comments, the comment header that declares the file&rsquo;s Copyright and Licensing
+Information SHOULD be in an adjacent file of the same name with the
+additional extension <code>.license</code> (example: <code>cat.jpg.license</code> if the original
+file is <code>cat.jpg</code>).</p>
+<p>The comment header MUST contain one or more <code>SPDX-FileCopyrightText</code> tags, and one or
+more <code>SPDX-License-Identifier</code> tags. A tag is followed by a colon, followed by
+a text value, and terminated by a newline.</p>
+<p>The <code>SPDX-FileCopyrightText</code> tag MUST be followed by a copyright notice.</p>
+<p>Instead of the <code>SPDX-FileCopyrightText</code> tag, the symbol <code>©</code>, or the word <code>Copyright</code> MAY
+be used, in which case a colon is not needed.</p>
+<p>The <code>SPDX-License-Identifier</code> tag MUST be followed by a valid SPDX License
+Expression describing the licensing of the file (example:
+<code>SPDX-License-Identifier: GPL-3.0-or-later OR Apache-2.0</code>). If separate sections
+of the file are licensed differently, a different <code>SPDX-License-Identifier</code> tag
+MUST be included for each section.</p>
+<p>An example of a comment header:</p>
+<pre tabindex="0"><code># SPDX-FileCopyrightText: 2016, 2018-2019 Jane Doe &lt;jane@example.com&gt;
+# SPDX-FileCopyrightText: 2019 Example Company
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+</code></pre><h3 id="dep5">DEP5</h3>
+<p>Alternatively, Copyright and Licensing Information MAY be associated with a
+file through a DEP5 file. The intended use case of this method is large
+directories where including a comment header in each file (or in <code>.license</code>
+companion files) is impossible or undesirable.</p>
+<p>The DEP5 file MUST be named <code>dep5</code> and stored in the <code>.reuse/</code> directory in the
+root of the Project (i.e. <code>.reuse/dep5</code>).</p>
+<p>The <code>License</code> tag MUST be followed by a valid SPDX License Expression describing
+the licensing of the associated files.</p>
+<p>The <code>Copyright</code> tag MUST be followed by a copyright notice.</p>
+<p>An example of a DEP5 file:</p>
+<pre tabindex="0"><code>Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Project
+Upstream-Contact: Jane Doe &lt;jane@example.com&gt;
+Source: https://example.com/jane/project
+
+Files: po/*
+Copyright: 2019 Translation Company
+License: GPL-3.0-or-later
+</code></pre><h2 id="format-of-copyright-notices">Format of copyright notices</h2>
+<p>A copyright notice MUST be prefixed by a tag, symbol or word denoting a
+copyright notice as described in this specification.</p>
+<p>The copyright notice MUST contain the name of the copyright holder. The
+copyright notice SHOULD contain the year of publication and the contact address
+of the copyright holder. The order of these items SHOULD be: year, name, contact
+address.</p>
+<p>The year of publication MAY be a single year, multiple years, or a span of
+years.</p>
+<p>The copyright holder MAY be an individual, list of individuals, group, legal
+entity, or any other descriptor by which one can easily identify the
+copyright holder(s).</p>
+<p>Any contact address SHOULD be in between angle brackets.</p>
+<p>Examples of valid copyright notices:</p>
+<pre tabindex="0"><code>SPDX-FileCopyrightText: 2019 Jane Doe &lt;jane@example.com&gt;
+SPDX-FileCopyrightText: © 2019 John Doe &lt;joe@example.com&gt;
+© Example Corporation &lt;https://corp.example.com&gt;
+Copyright 2016, 2018-2019 Joe Anybody
+Copyright (c) Alice
+</code></pre>
+</div>
+
+  </div> 
+</div> 
+</div> 
+
+</html>
+</body>

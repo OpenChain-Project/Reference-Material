@@ -1,0 +1,140 @@
+OpenChain	OpenChain	日本語表記せずそのまま使う
+conformance	適合性
+specification	仕様	仕様書
+specification	仕様書	仕様の意味でも使う
+conformance specification	適合仕様	意味：適合性を確認するための仕様
+FOSS	フリー／オープンソース ソフトウェア	Free/Open Source Software
+Version 	版	【例】Version X.X = 第X.X版
+introduction	序文、はしがき、初めに、序論	言い回しはいろいろあるので文書特性に応じて使い分けること
+initiative	イニシアチブ	基本的に日本語に変えずに用いたほうがよさそう
+practitioner	実践する人
+initiative	取組み
+open source	オープンソース
+open source software	オープンソース ソフトウェア	半角スペースを入れて区切る
+supply chain	サプライチェーン
+emerging	新たに出現した	emerging
+observe	観測する
+observe	気づく
+organization	組織
+exchange	交換する
+exchange	やり取りする
+the latter	後者	前者：the former
+accompany	添える	添付するなど
+artifacts	人工物	基本の意味：ヒトの手で作られたもの
+artifacts	（ソフトウェア開発などでの）ドキュメント類	ソフトウェア開発としての意味では以下参照。"tangible by-product"とある。 https://en.wikipedia.org/wiki/Artifact_(software_development)
+deliver	届ける
+deliver	デリバリされる	デリバリされる→ITサービス系の用語だとこういう使い方もありそう
+deliver	やりとりする	やりとりする→ちょっと意訳
+collateral	付随事項	意味：派生事項的な意味。以下から→http://www.dictionary.com/browse/collateral?s=t
+qualitｙ	属性
+verification artifacts	検証すべき証跡	議論の結果いったんここに落ち着かせる。
+free and open source software	フリー／オープンソース ソフトウェア
+Open Source Initiative	オープンソース イニシアティブ	団体名（固有名詞）
+Free Software Foundation	フリーソフトウェア ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
+liaison	窓口	辞書では連絡係、通信係といった意味があるが、窓口がわかり易い
+conforming	準拠
+define	作り出す	以下辞書サイトで「to create on a computer」とある。→https://www.merriam-webster.com/dictionary/define
+contribute	コントリビュート	貢献だとわかりづらいのでそのまま英語を使う
+preparing	整える	使えるようにするといった意味
+contractor	請負業者
+contractor	契約者	契約によって労働を提供する人のこと。契約社員といってよいのかどうか。
+distributed	配布された、頒布された
+foundation	ファンデーション	ファウンデーションとするか悩みどころ
+third parties	サードパーティ	そのままカタカナ表記
+third parties	第三者	文脈によっては日本語で表記
+third party	サードパーティ	そのままカタカナ表記
+third party	第三者	文脈によっては日本語で表記
+requirements	要件	要件定義など。単に「要件」だと流れが悪い場合などは「満たすべき要件」などと表現を工夫する。
+know	知っている、理解している
+as a minimum	最低でも	as a minimum
+Verification Artifact(s)	検証すべき証跡	※確証として必要なもの、確証となるもの、証跡となるものといった意味。議論後本用語に統一。
+rationale	論理的根拠、論拠、そうした理由
+law	法律、法令、法規	法律＜法令＜法規、と意味に広がりがある。法律→国会で決議される国法レベル、法令→国会が制定する法律及び国の行政機関が制定する命令を合わせる、法規→最も広い意味での法規範一般
+pertain	付随する、関連する
+and/or	もしくは	とりあえずこうしておく。
+to be considered current	現時点から？
+course material	教材
+slide deck	スライド資料
+track	追跡する、確認する	確認するは意訳
+section	節	いまのところ以下で整理しておく→章：Chapter、節：Section、項：Subsection-->参考：https://www.latex-tutorial.com/tutorials/beginners/latex-sections/
+current	現時点で、認められて、普及して、最新の（adj.）
+core set	中核となる一連の情報
+relevant	関連のある、今日的な意味がある、対応する
+likely	ふさわしい、適している	以下サイトでは以下のように記載あり："seeming to fulfill requirements or expectations; apparently suitable"　http://www.dictionary.com/browse/likely?s=t
+achieving 	 達成する、実現する（attainment) 	辞書サイト引用：(1)something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed:his remarkable achievements in art.(2)the act of achieving; attainment or accomplishment:the achievement of one's object.http://www.dictionary.com/browse/achievement
+assign	指名する、任命する、アサインする
+responsibility	責任者
+commercially reasonable	商取引上合理的な,商業的に見て理にかなっている
+as appropriate	必要に応じて,適切に
+electronic communication	電子的通信	「電気通信」はelectrical communication。
+with regard to	に関して、について
+resource	資金・設備を提供する	動詞の意味では以下サイトに情報あり。"to provide an organization or department with money or equipment" →http://dictionary.cambridge.org/dictionary/english/resource
+role	役割、役職
+path	経路、パス
+source	情報源、ソースコード
+expertise	専門知識、専門家の助言・見解
+available 	有効な、得られる、獲得できる、役に立つ、使うことができる
+certain	決定された、確かな、ある
+effectively	効果的に
+content	コンテンツ、目次、内容	内容、something that is contained(http://www.dictionary.com/browse/contents?s=t)
+identify	明確化する、特定する、識別する
+inventory	目録、一覧表
+systematic	システマチックな、体系立てられた、手順通りの
+interact	連動する、相互作用する、影響し合う
+attribution	帰属	"著作権法における帰属（英: Attribution）とは、ある著作物（works）を利用（use）する場合、その著作物の著作者への謝辞（acknowledge）やクレジットの掲載を要求することを指す用語である" https://ja.wikipedia.org/wiki/%E5%B8%B0%E5%B1%9E_(%E8%91%97%E4%BD%9C%E6%A8%A9) 
+encounter	直面する
+cause	～させる(to do)
+robust 	堅牢な、長持ちする	たんなる強さではなくしなやかさのある強さというニュアンスを表現したい
+business practices	ビジネスの実践、商習慣
+deliver	引き渡す、届ける	to give into another's possession
+Identified Licenses	確認ライセンス
+prominent notice	重要なお知らせ
+instruction	手順（意訳）
+retrievable	検索する	コンピュータ用語として。復旧などの意味もある。
+archive	記録文書、書庫
+whichever	いずれか
+complete	全ての
+govern	統治する、管理する、コントロールする
+as a minimum	最低限でも	at a minimumの意味？（誤表記？）
+policy	ポリシー、方針、方策
+provided	もし～なら、～という条件で	ifよりも強意的。
+such	（法律）前述の、上記の、当該の
+might	～してもよい、～かもしれない	法律用語では「～する場合がある」といった訳がある
+consideration	考慮、意見、判断など
+engagement	（積極的な）参加、関与
+nevertheless	～にも関わらず
+ｃertify	証明する、認定する、保証する
+certify	証明する、保証する、認定する
+allow 	～させる
+deck	資料	slide deckなどと使用する
+Deck	資料	slide deckなどと使用する
+law	法律制度、法体制、法秩序
+legal jurisdiction	司法権,法域
+issue	論点、重要な話題・問題、問題の核心
+deliver	声に出す、発生する	utter or pronounce
+introduction	導入、入門	"introduction to～"で～入門、～概論
+original work	原作
+authorship	著作者、原作者	著作物：著作権法では著述のほか、音楽・絵画・彫刻・建築・写真などの作品を含む
+series	系、連続
+material	素材、資料、特定の目的で書かれた情報・アイデア
+non-obvious	非自明性,進歩性	その分野の人なら容易に思いつくようなものではないことをいう。たとえば左ハンドルの車を見て右ハンドルの車を考案しても発明にはならない。米国で発明について特許を受けるための要件の一つで日本では「進歩性」がこれに相当するとある。https://ja.wikipedia.org/wiki/%E9%80%B2%E6%AD%A9%E6%80%A7
+incentivize	やる気を起こさせる、奨励する
+limited monopoly	限定された独占権	「限定」は、期間など
+mark	標識、記号、目印
+placeholder	仮置き、後になって実際の文字や数字などが表れる場所を示すもの
+ overview	概観、概説
+big picture	全体像
+literary	著述の、文学の、文芸の	文芸として広く捉える場合と、著述や文学として狭く捉える場合がありレベルに差がある
+entity	実体
+subject to	依存する、影響下・支配下にある
+circle	サークル、団体、分野、領域
+component	構成要素
+predictable	予測可能な
+understandable	分かりやすい、理解可能な
+criteria	基準
+industry-standard	業界標準規格
+measure	評価する
+acceptance criteria	合否判定基準
+tangible	有形の、具体的な、実際の、触れられる
+slide deck	スライド資料集
+reference	参照、参考

@@ -1,0 +1,107 @@
+** CHAPTER 4
+
+Key Software Concepts
+for FOSS Review
+
+# --------------------
+
+** How do you want to use a FOSS component?
+
+Common scenarios include:
+
+- Incorporation
+
+- Linking
+
+- Modification
+
+- Translation
+
+# --------------------
+
+** Incorporation
+
+A developer may copy portions of a FOSS component into your software product. 
+
+Relevant terms include:
+- Integrating
+- Merging
+- Pasting
+- Adapting
+- Inserting
+
+# --------------------
+
+** Linking
+
+A developer may link or join a FOSS component with your software product. 
+
+Relevant terms include:
+- Static/Dynamic Linking
+- Pairing
+- Combining
+- Utilizing
+- Packaging
+- Creating interdependency
+
+# --------------------
+
+** Modification
+
+A developer may make changes to a FOSS component, including:
+
+- Adding/injecting new code into the FOSS component
+- Fixing, optimizing or making changes to the FOSS component
+- Deleting or removing code
+
+# --------------------
+
+** Translation
+
+A developer may transform the code from one state to another.
+
+Examples include:
+- Translating Chinese to English 
+- Converting C++ to Java 
+- Compiling into binary
+
+# --------------------
+
+** Development Tools
+
+Development tools may perform some of these operations behind the scenes.
+
+For example, a tool may inject portions of its own code into output of the tool.
+
+# --------------------
+
+** How is the FOSS component distributed?
+
+- Who receives the software?
+  - Customer/Partner
+  - Community project
+  - Another legal entity within the business group (this may count as
+    distribution)
+
+
+- What format for delivery?
+  - Source code delivery
+  - Binary delivery
+  - Pre-loaded onto hardware
+
+# --------------------
+
+** Check Your Understanding
+
+- What is incorporation?
+
+- What is linking?
+
+- What is modification?
+
+- What is translation?
+
+- What factors are important in assessing a distribution?
+
+# ====================
+

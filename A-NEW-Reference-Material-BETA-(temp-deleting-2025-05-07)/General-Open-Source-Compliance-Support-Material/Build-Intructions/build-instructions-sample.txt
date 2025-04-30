@@ -1,0 +1,40 @@
+These are the build instructions to rebuild the open source components for XXX Frobinator.
+
+Please note: rebuilding the source code and reinstalling the resulting programs onto the device are not supported by our technical support department! Installing modified software will void warranty!
+
+The instructions below have been tested on Ubuntu 14.04 LTS. Other Linux distributions have not been tested.
+
+To rebuild the software you will need to follow the following steps:
+
+1. install a (virtual) machine with Ubuntu 14.04 LTS 64 bit (desktop), with at least 30 GiB of free disk space available
+
+2. install the following packages:
+   * git
+   * gcc
+   * make
+   * yacc
+   * lex
+
+3. create a directory '/src':
+
+    $ sudo su mkdir /src
+
+4. change the owner for the directory to your own user and group (for example: tux:tux)
+
+    $ sudo chown tux:tux /src
+
+5. change the environment:
+
+    $ export FROBENV=FROB123
+
+6. unpack the archive frobinator-src-0.0.1.tar.gz in /src
+
+    $ cd /src
+    $ tar ixf /path/to/frobinator-src-0.0.1.tar.gz
+
+7. type the following commands to start the build:
+
+    $ cd frobinator
+    $ ./build-frob.sh
+
+8. after the build you will be able to find the built binaries in /src/frobinator/build

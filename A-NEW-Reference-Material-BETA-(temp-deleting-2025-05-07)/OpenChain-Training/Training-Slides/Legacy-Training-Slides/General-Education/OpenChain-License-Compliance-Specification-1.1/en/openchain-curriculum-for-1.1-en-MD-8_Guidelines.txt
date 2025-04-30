@@ -1,0 +1,76 @@
+** CHAPTER 8
+
+Developer Guidelines
+
+# --------------------
+
+** Developer Guidelines
+
+- Select code from high quality, well supported FOSS communities
+
+- Seek guidance
+  - Request formal approval for each FOSS component you are using 
+  - Do not check un-reviewed code into any internal source tree
+  - Request formal approval for outside contributions to FOSS projects
+
+- Preserve existing licensing information
+  - Do not remove or in any way disturb existing FOSS licensing copyrights or other licensing
+    information from any FOSS components that you use. All copyright and licensing
+    information is to remain intact in all FOSS components
+  - Do not re-name FOSS components unless you are required to under the FOSS license (e.g.,
+    required renaming of modified versions)
+
+- Gather and retain FOSS project information required for your FOSS review
+  process
+
+# --------------------
+
+** Anticipate Compliance Process Requirements
+
+- Include time required to follow established FOSS policy in work plans
+  - Follow the developer guidelines for using FOSS software, particularly incorporating or linking FOSS
+    code into proprietary or third party source code or vice versa 
+  - Review architecture plans and avoid mixing components governed by incompatible FOSS licenses
+
+- Always update compliance verification - for every product
+  - Verify compliance on a product-by-product basis: Just because a FOSS package is approved for
+    use in one product does not necessarily mean it will be approved for use in a second product
+
+- And for every upgrade to newer versions of FOSS 
+  - Ensure that each new version of the same FOSS component is reviewed and approved 
+  - When you upgrade the version of a FOSS package, make sure that the license of the new version is
+    the same as the license of the older used version (license changes can occur between version
+    upgrades)
+  - If a FOSS project’s license changes, ensure that compliance records are updated and that the new
+    license does not create a conflict
+
+# --------------------
+
+** Compliance Process Applies to all FOSS components
+
+- In-bound software
+  - Take steps to understand what FOSS is included in software delivered by suppliers 
+  - Evaluate your obligations for all of the software that will be included in your products
+  - Always audit source code you received from your software providers or alternatively make it
+    a company policy that software providers must deliver you a source code audit report for
+    any source code you receive
+
+# --------------------
+
+** Check Your Understanding
+
+- Name some general guidelines developers can practice when working with FOSS.
+
+- Should you remove or alter FOSS license header information?
+
+- Name some important steps in a compliance process.
+
+- How can a new version of a previously-reviewed FOSS component create new
+  compliance issues?
+
+- What risks should you address with in-bound software?
+
+Learn more through the free Compliance Basics for Developers hosted by
+the Linux Foundation at: 
+https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/ compliance-basics-for-developers
+

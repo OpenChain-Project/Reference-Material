@@ -1,0 +1,131 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Official-Project-Templates/InDesign-Template/Document fonts/AdobeFnt19.lst
+FileLength:2291
+FileModTime:687881723
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Official-Project-Templates/InDesign-Template/Document fonts/AdobeFnt24.lst
+FileLength:3007
+FileModTime:741764055
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Light
+FamilyName:Avenir Next W1G
+StyleName:Light
+MenuName:Avenir Next W1G Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next W1G Light
+WritingScript:Roman
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Official-Project-Templates/InDesign-Template/Document fonts/AvenirNextW1G-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:104060
+FileModTime:687881723
+NameArray:0,Mac,4,Avenir Next W1G Light
+NameArray:0,Win,1,Avenir Next W1G Light
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Medium
+FamilyName:Avenir Next W1G
+StyleName:Medium
+MenuName:Avenir Next W1G Medium
+StyleBits:0
+WeightClass:450
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next W1G Medium
+WritingScript:Roman
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Official-Project-Templates/InDesign-Template/Document fonts/AvenirNextW1G-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:115424
+FileModTime:687881723
+NameArray:0,Mac,4,Avenir Next W1G Medium
+NameArray:0,Win,1,Avenir Next W1G Medium
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Regular
+FamilyName:Avenir Next W1G
+StyleName:Regular
+MenuName:Avenir Next W1G
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next W1G Regular
+WritingScript:Roman
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Official-Project-Templates/InDesign-Template/Document fonts/AvenirNextW1G-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:114588
+FileModTime:687881723
+NameArray:0,Mac,18,Avenir Next W1G
+NameArray:0,Mac,4,Avenir Next W1G Regular
+NameArray:0,Win,1,Avenir Next W1G
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AvenirNextW1G-Thin
+FamilyName:Avenir Next W1G
+StyleName:Thin
+MenuName:Avenir Next W1G Thin
+StyleBits:0
+WeightClass:275
+WidthClass:5
+AngleClass:0
+FullName:Avenir Next W1G Thin
+WritingScript:Roman
+OutlineFileName:/Users/shane/Documents/OpenChain GitHub/Reference-Material/Official-Project-Templates/InDesign-Template/Document fonts/AvenirNextW1G-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:103180
+FileModTime:687881723
+NameArray:0,Mac,4,Avenir Next W1G Thin
+NameArray:0,Win,1,Avenir Next W1G Thin
+NameArray:0,Win,16,Avenir Next W1G
+%EndFont
+

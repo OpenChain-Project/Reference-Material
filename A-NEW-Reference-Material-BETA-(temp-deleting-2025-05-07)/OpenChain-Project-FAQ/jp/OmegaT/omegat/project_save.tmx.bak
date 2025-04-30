@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_5_r9644:9647" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;OpenChain&lt;t2/&gt; focuses on i) improving compliance programs within organizations that use FOSS from different projects in their solutions and ii) the process for contributing back.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T015509Z" creationid="nobuo imada" creationdate="20170522T014235Z">
+        <seg>&lt;t1/&gt;OpenChain&lt;t2/&gt; は、i) 組織外のプロジェクトから供給されるFOSSを自組織のソリューションに活用する組織においてコンプライアンス プログラムを改善することと、ii) FOSSコミュニティーへ成果を還元するためのプロセスにフォーカスしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;OpenChain&lt;t3/&gt; builds trust in Open Source by making things simpler, more efficient and more consistent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T061752Z" creationid="nobuo imada" creationdate="20170519T061752Z">
+        <seg>&lt;t2/&gt;OpenChain&lt;t3/&gt;は、物事をよりシンプルに、より効率的に、そしてより首尾一貫させることにより、オープンソースの世界に信頼を築きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A company that completes the Online Self-Certification confirms they meet the &lt;t8/&gt;OpenChain&lt;t9/&gt; Specification requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T075937Z" creationid="nobuo imada" creationdate="20170523T075937Z">
+        <seg>オンライン自己認証を完了した会社は、 &lt;t8/&gt;OpenChain&lt;t9/&gt; 仕様の要件を満足していると確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the license can be obtained here: &lt;t0/&gt;CC-BY-4.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T072403Z" creationid="nobuo imada" creationdate="20170523T072403Z">
+        <seg>このライセンスのコピーはこちらで入手できます。&lt;t0/&gt;CC-BY-4.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A software supplier may declare the software offered was prepared under an &lt;t9/&gt;OpenChain&lt;t10/&gt; conforming program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T081527Z" creationid="nobuo imada" creationdate="20170522T081527Z">
+        <seg>ソフトウェアのサプライヤは、そのソフトウェアが &lt;t9/&gt;OpenChain&lt;t10/&gt; に適合したコンプライアンス プログラム下で用意されたと宣言することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Artifacts should be verified internally by the organization using them.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T090027Z">
+        <seg>すべての証跡は、それらを使用する組織によって内部的に検証されなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although artifacts must exist, one is not required to make them public.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T044339Z">
+        <seg>証跡は存在していなければなりませんが、それらを公開する必要はありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although currently an audit by a third party is not a requirement of the &lt;t2/&gt;OpenChain&lt;t3/&gt; specification, a partner or customer may ask for evidence of the Verification Artifacts as a condition for doing business (e.g., under an Non-Disclosure agreement).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T043741Z" creationid="nobuo imada" creationdate="20170523T052003Z">
+        <seg>現在のところ、第三者による監査は &lt;t2/&gt;OpenChain&lt;t3/&gt; 仕様の要件ではありませんが、パートナーや顧客は、ビジネスを行う条件として、(たとえば機密保持契約を締結した上で) 検証すべき証跡の証拠を要求することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any omissions or incorrect answers will be reported by the user.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T091810Z" creationid="nobuo imada" creationdate="20170523T091810Z">
+        <seg>情報の欠落や正しくない回答は、そのユーザによって報告されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are these slides everything you need to be compliant with licenses?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100757Z" creationid="nobuo imada" creationdate="20170523T100757Z">
+        <seg>これらのスライドが、ライセンスを順守するために必要なことのすべてですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Artifacts are a tangible by-product of implementing &lt;t0/&gt;OpenChain&lt;t1/&gt; conformance policies.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T081410Z">
+        <seg>証跡とは、&lt;t0/&gt;OpenChain&lt;t1/&gt; 適合ポリシーを実施することによる有形の副産物です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign Responsibility for Achieving Compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T000604Z" creationid="nobuo imada" creationdate="20170523T000604Z">
+        <seg>コンプライアンスを履行するための責任者のアサイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A FOSS compliance program which the software is prepared under is a candidate for &lt;t2/&gt;OpenChain&lt;t3/&gt; conformance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T080009Z" creationid="nobuo imada" creationdate="20170522T080009Z">
+        <seg>そのソフトウェアを用意するにあたって適用された FOSS コンプライアンス プログラムが、&lt;t2/&gt;OpenChain&lt;t3/&gt; 適合判定の候補となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Certify Adherence to &lt;t0/&gt;OpenChain&lt;t1/&gt; Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T001309Z" creationid="nobuo imada" creationdate="20170523T001309Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 要件適合の認定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clicking this button will cancel your &lt;t4/&gt;previous &lt;t5/&gt;OpenChain&lt;t6/&gt; Self-Certification submission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T081119Z" creationid="nobuo imada" creationdate="20170523T081119Z">
+        <seg>このボタンをクリックすることで、&lt;t4/&gt;以前の&lt;t5/&gt;OpenChain&lt;t6/&gt; 自己認証の提出内容をキャンセルできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Companies need to take this into account when considering the use of the reference slides for in-house training.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100540Z" creationid="nobuo imada" creationdate="20170523T100540Z">
+        <seg>この参照スライドを社内トレーニングに使用する際は、このことを考慮に入れる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance artifacts consist of: source code, build scripts, license copies, attribution notices, modification notices and other materials open source licenses governing a software deliverable may require.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T023749Z" creationid="nobuo imada" creationdate="20170522T063210Z">
+        <seg>コンプライアンス 証跡は、あるソフトウェア配布物を支配するオープンソース ライセンスが要求する、ソースコード、ビルドスクリプト、ライセンス文書、帰属の通知、改変の通知などの文書類からなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conformance Working Group – helps companies check that they are adhering to the Specification requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084055Z" creationid="nobuo imada" creationdate="20170519T080407Z">
+        <seg>適合性ワーキング グループ – 企業が仕様の要件を順守しているかどうかをチェックする手助けをします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curriculum Working Group – provides training material to help companies meeting the Specification education requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084059Z" creationid="nobuo imada" creationdate="20170519T080017Z">
+        <seg>カリキュラム ワーキンググループ – トレーニング用資料を提供することで、仕様に規定された教育要件を満たす手助けをします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Deliver FOSS Content Documentation and Artifacts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T001219Z" creationid="nobuo imada" creationdate="20170523T001219Z">
+        <seg>FOSSコンテンツ ドキュメントとコンプライアンス関連資料の頒布</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Different legal jurisdictions have different legal requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100609Z" creationid="nobuo imada" creationdate="20170523T100609Z">
+        <seg>異なる法域には異なる法的要件があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do resources exist to assist my organization in achieving &lt;t0/&gt;OpenChain&lt;t1/&gt; Conformance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T062923Z" creationid="nobuo imada" creationdate="20170523T062853Z">
+        <seg>私の組織が &lt;t0/&gt;OpenChain&lt;t1/&gt; 適合を達成するのを支援するリソースは、存在しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does &lt;t0/&gt;OpenChain&lt;t1/&gt; program conformance guarantee license compliance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T062011Z" creationid="nobuo imada" creationdate="20170523T062011Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プログラムに適合すればライセンスへのコンプライアンスは保証されますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does all software in an organization need to be covered by an &lt;t0/&gt;OpenChain&lt;t1/&gt; Conforming program to achieve program conformance?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T090234Z" creationid="nobuo imada" creationdate="20170522T090234Z">
+        <seg>プログラムの適合を達成するために、一つの組織のすべてのソフトウェアが &lt;t0/&gt;OpenChain&lt;t1/&gt; に適合したプログラムによって取り扱われる必要がありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does a FOSS program need to satisfy all the requirements of the specification to be considered &lt;t0/&gt;OpenChain&lt;t1/&gt; Conforming?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T065026Z" creationid="nobuo imada" creationdate="20170522T064846Z">
+        <seg>FOSS プログラムが &lt;t0/&gt;OpenChain&lt;t1/&gt; 適合と見なされるためには、仕様のすべての要件を満足する必要がありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does the specification describe how to comply with the most popular FOSS licenses?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100830Z" creationid="nobuo imada" creationdate="20170523T054950Z">
+        <seg>この仕様は、よく使われるFOSSライセンスをどのように順守するかについて記述されていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Does the specification serve as a best practice guide?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T094934Z" creationid="nobuo imada" creationdate="20170522T094934Z">
+        <seg>この仕様は一つのベストプラクティスガイドとして使えますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each requirement is a description of an important quality a FOSS program must maintain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T023853Z" creationid="nobuo imada" creationdate="20170523T023853Z">
+        <seg>各要件は、FOSS プログラムが維持すべき重要な品質を記述したものです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email &lt;t0/&gt;openchain-conformance@linux-foundation.com&lt;t1/&gt; with any issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T091938Z" creationid="nobuo imada" creationdate="20170523T091938Z">
+        <seg>何か問題がありましたら &lt;t0/&gt;openchain-conformance@linux-foundation.com&lt;t1/&gt; に email でご連絡ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Email &lt;t0/&gt;openchain-conformance@linux-foundation.com&lt;t1/&gt; with the name of the organization you are concerned about and the reason you disagree with their submission.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T102454Z" creationid="nobuo imada" creationdate="20170523T090423Z">
+        <seg>あなたが懸念を持っている組織の名前と、同意できない理由を明記して、&lt;t0/&gt;openchain-conformance@linux-foundation.com&lt;t1/&gt; に email でご連絡ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Everyone is invited to participate, contribute material and to assist expanding existing material.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044253Z" creationid="nobuo imada" creationdate="20170523T101821Z">
+        <seg>私たちは、誰もが参加し、資料を提供したり既存の資料の拡張を支援することを歓迎します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Follow the Getting Started instructions on the &lt;t0/&gt;OpenChain&lt;t1/&gt; Conformance page&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044036Z" creationid="nobuo imada" creationdate="20170523T080624Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; Conformance ページ&lt;t2/&gt;の「Getting Started」の説明 (英文) をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore the specification requires that a process exists that ensures the appropriate attention is given to license obligation analysis and &lt;t0/&gt;and&lt;t1/&gt; fulfillment.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T061309Z" creationid="nobuo imada" creationdate="20170523T055949Z">
+        <seg>さらにこの仕様は、ライセンスの義務の分析 &lt;t0/&gt;と&lt;t1/&gt; 履行に対して適切な注意が払われることを確かにするプロセスが存在することを要求しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Questions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170517T073602Z" creationid="nobuo imada" creationdate="20170517T073602Z">
+        <seg>一般的な質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Governing Board – Manage policies or rules and procedures for the Project, fund raising&lt;t0/&gt;, budgeting&lt;t1/&gt; and so forth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084042Z" creationid="nobuo imada" creationdate="20170519T081541Z">
+        <seg>ガバニング ボード – プロジェクト、資金集め、&lt;t0/&gt;予算&lt;t1/&gt;その他についての方針やルールと手続きを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How can I contribute?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T092136Z" creationid="nobuo imada" creationdate="20170523T092136Z">
+        <seg>プロジェクトに貢献するにはどうすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How can companies or individuals contribute to the &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T101444Z" creationid="nobuo imada" creationdate="20170523T101444Z">
+        <seg>どうすれば会社や個人が &lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムに貢献できますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I know who conforms to &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T074842Z" creationid="nobuo imada" creationdate="20170519T074842Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;に適合している組織はどうすればわかりますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I report issues with the Online Self-Certification Web App?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T091902Z" creationid="nobuo imada" creationdate="20170523T091902Z">
+        <seg>オンライン自己認証ウェブアプリに関する問題は、どのように報告すればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How does &lt;t0/&gt;OpenChain&lt;t1/&gt; work?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T075100Z" creationid="nobuo imada" creationdate="20170519T075100Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;の取り組みを教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How was the specification developed?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T102227Z" creationid="nobuo imada" creationdate="20170522T102227Z">
+        <seg>この仕様はどのようにして開発されましたか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all information is correct, the submittal will automatically be approved by the system.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T091034Z" creationid="nobuo imada" creationdate="20170523T091034Z">
+        <seg>もしすべての情報が正しければ、提出はシステムによって自動的に承認されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In contrast, the CII best practices badge focuses on criteria for well-run FOSS projects themselves.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T023659Z" creationid="nobuo imada" creationdate="20170522T015537Z">
+        <seg>これに対して、CII Best Practices Badge は、FOSSプロジェクト自体を良い状態で運営するための基準にフォーカスしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In order to ensure there are no significant gaps in an &lt;t0/&gt;OpenChain&lt;t1/&gt; conforming program that could lead to poor quality output, a program must satisfy all the requirements to be considered &lt;t2/&gt;OpenChain&lt;t3/&gt; conforming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T023911Z" creationid="nobuo imada" creationdate="20170522T074613Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 適合プログラムに、低品質なアウトプットを引き起こしかねない著しいギャップがないことを確実にするため、コンプライアンス プログラムが &lt;t2/&gt;OpenChain&lt;t3/&gt; 適合と見なされるためにはすべての用件を満足しなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Is a third party audit required to declare a FOSS program to be &lt;t0/&gt;OpenChain&lt;t1/&gt; Conforming?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T001457Z" creationid="nobuo imada" creationdate="20170523T001457Z">
+        <seg>FOSS プログラムが &lt;t0/&gt;OpenChain&lt;t1/&gt; 適合であることを宣言するために、第三者による監査は必要ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does require an organization to designate a legal expert who can assist with legal guidance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093958Z" creationid="nobuo imada" creationdate="20170523T055452Z">
+        <seg>そうではなく、この仕様は、法的ガイダンスの支援を提供する法律のエキスパートを、組織が指名することを要求しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It focuses on the “what and why” aspects of a program and not the how or when.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T095634Z" creationid="nobuo imada" creationdate="20170522T095634Z">
+        <seg>そのため、この仕様は「何を」と「なぜ」の側面にフォーカスしており、「どうやって」や「いつ」には触れていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has been discussed that a future version of the specification may provide more specific guidelines on how to obtain third party certification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T054655Z" creationid="nobuo imada" creationdate="20170523T054655Z">
+        <seg>第三者による認証をどのようにして得るかについてのもっと具体的なガイドラインを、本仕様の将来の版において提示する可能性について、議論がなされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is intended to help companies either &lt;t0/&gt;get&lt;t1/&gt; started with an &lt;t2/&gt;OpenChain&lt;t3/&gt; conformant compliance training program or to expand on existing training programs to help conform with the &lt;t4/&gt;OpenChain&lt;t5/&gt; Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T101401Z" creationid="nobuo imada" creationdate="20170523T101401Z">
+        <seg>会社が &lt;t0/&gt;OpenChain&lt;t1/&gt; 適合のコンプライアンス トレーニング プログラムに &lt;t2/&gt;着手&lt;t3/&gt; したり、既存のトレーニング プログラムを &lt;t4/&gt;OpenChain&lt;t5/&gt; 仕様に適合させるのを手助けすることを意図しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is the industry-standard for managing Open Source compliance across the supply chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T070557Z" creationid="nobuo imada" creationdate="20170519T070557Z">
+        <seg>つまりこれは、サプライチェーン全体にわたってオープンソースのコンプライアンスを達成するための業界標準規格です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It can be found at &lt;t0/&gt;https://certification.openchainproject.org/&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044024Z" creationid="nobuo imada" creationdate="20170523T080029Z">
+        <seg>こちらからどうぞ。&lt;t0/&gt;https://certification.openchainproject.org/&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Know Your FOSS Responsibilities [i.e., “Policy and Training”]</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T000540Z" creationid="nobuo imada" creationdate="20170523T000540Z">
+        <seg>FOSSに関わる責任の理解 [すなわちポリシーとトレーニング]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, but it significantly increases the probability that license compliance will be achieved for software releases prepared under &lt;t0/&gt;a&lt;t1/&gt; &lt;t2/&gt;OpenChain&lt;t3/&gt; conforming program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T043813Z" creationid="nobuo imada" creationdate="20170523T062113Z">
+        <seg>いいえ。しかし &lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;OpenChain&lt;t3/&gt; 適合プログラム下で用意されたソフトウェアリリースについては、ライセンスへのコンプライアンスが達成される可能性が著しく高まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No, this is a reference deck.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100913Z" creationid="nobuo imada" creationdate="20170523T100913Z">
+        <seg>いいえ。これはあくまでも参照資料集です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T090242Z" creationid="nobuo imada" creationdate="20170522T090242Z">
+        <seg>いいえ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One should not associate software with &lt;t4/&gt;OpenChain&lt;t5/&gt; conformance if it has not been reviewed under a program that has been assessed to be &lt;t6/&gt;OpenChain&lt;t7/&gt; conforming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T024055Z" creationid="nobuo imada" creationdate="20170522T094836Z">
+        <seg>ソフトウェアが &lt;t6/&gt;OpenChain&lt;t7/&gt; に適合済のプログラム下でレビューされていない場合、そのソフトウェアを &lt;t4/&gt;OpenChain&lt;t5/&gt; 適合性と結びつけることはできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One FOSS program within an organization can be classified as &lt;t2/&gt;OpenChain&lt;t3/&gt; conforming if it satisfies the specification requirements while another program may not.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T092757Z" creationid="nobuo imada" creationdate="20170522T092652Z">
+        <seg>一つの組織内の一つの FOSS プログラムが仕様の要件を満足していれば &lt;t2/&gt;OpenChain&lt;t3/&gt; 適合と格付けできる一方で、別のプログラムがそのように格付けできなくても構いません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; Conformance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T072421Z" creationid="nobuo imada" creationdate="20170523T072421Z">
+        <seg>OpenChain&lt;t0/&gt; 適合について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; Curriculum</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T092336Z" creationid="nobuo imada" creationdate="20170523T092336Z">
+        <seg>OpenChain&lt;t0/&gt; カリキュラムについて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; Self-Certification is designed to assess the status of &lt;t1/&gt;OpenChain&lt;t2/&gt; Conformance in relation to a specific version of the &lt;t3/&gt;OpenChain&lt;t4/&gt; Specification&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T043952Z" creationid="nobuo imada" creationdate="20170523T073436Z">
+        <seg>OpenChain&lt;t0/&gt; 自己認証は、個別のバージョンごとの&lt;t1/&gt;OpenChain&lt;t2/&gt;仕様&lt;t3/&gt; に関して、OpenChain&lt;t4/&gt;適合&lt;t5/&gt;の状態を評価できるように設計されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; Specification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T035338Z" creationid="nobuo imada" creationdate="20170522T021350Z">
+        <seg>OpenChain&lt;t0/&gt; 仕様について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain&lt;t0/&gt; and the CII Best Practices are both Linux Foundation initiatives that identify FOSS process quality criteria.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T012912Z" creationid="nobuo imada" creationdate="20170522T002847Z">
+        <seg>OpenChain&lt;t0/&gt; と CII Best Practices はいずれも、FOSS プロセスの品質基準を明確化するための Linux Foundation の取り組みです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organizations are sometimes composed of different groups and/or departments which may have different programs and release procedures (e.g., engineering &lt;t0/&gt;vs&lt;t1/&gt; professional services).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T092306Z" creationid="nobuo imada" creationdate="20170522T092218Z">
+        <seg>組織は、異なるプログラムとリリース手順を持つ複数のグルーブや部門から構成されていることがよくあります (たとえば、エンジニアリング部門 &lt;t0/&gt;と&lt;t1/&gt; 専門的サービスを提供する部門)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Organizations of any size can accomplish Self-Certification through the &lt;t6/&gt;OpenChain&lt;t7/&gt; Project Online Self-Certification Web App.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T073722Z" creationid="nobuo imada" creationdate="20170523T073722Z">
+        <seg>いかなる大きさの組織も、&lt;t6/&gt;OpenChain&lt;t7/&gt; プロジェクトのオンライン自己認証ウェブアプリによって、自己認証を行えます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Specification creates trust between organizations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T071318Z" creationid="nobuo imada" creationdate="20170519T070945Z">
+        <seg>OpenChainの仕様は、組織と組織の間に信頼を創出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Conformance allows new organizations to join the circle of trust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T072015Z" creationid="nobuo imada" creationdate="20170519T071457Z">
+        <seg>OpenChainに適合することで、組織は信頼の輪の中に入ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Curriculum supports implementation by entities of any size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T072133Z" creationid="nobuo imada" creationdate="20170519T072133Z">
+        <seg>OpenChainのカリキュラムは、組織の大小を問わず適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outreach Committee – Designing, developing and executing efforts to build an &lt;t0/&gt;OpenChain&lt;t1/&gt; compliance ecosystem throughout relevant supply chains in collaboration with the Governing Board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T023617Z" creationid="nobuo imada" creationdate="20170519T084033Z">
+        <seg>アウトリーチ コミッティー – ガバニング ボードと連携して、オープンソースと関連のあるサプライチェーン全体にわたって&lt;t0/&gt;OpenChain&lt;t1/&gt;コンプライアンス エコシステムを構築するための施策を設計、開発および実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please include specific information on the issue you have encountered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T092057Z" creationid="nobuo imada" creationdate="20170523T092057Z">
+        <seg>その際には、遭遇した問題について具体的な情報を記載してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review and approve FOSS content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T001235Z" creationid="nobuo imada" creationdate="20170523T001235Z">
+        <seg>FOSSコンテンツのレビューと承認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the &lt;t3/&gt;CII Best Practices website&lt;t4/&gt; if you are interested in getting a CII Best Practices badge.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T023710Z" creationid="nobuo imada" creationdate="20170522T020935Z">
+        <seg>CII Best Practices Badge の取得に関心のある方は、&lt;t3/&gt;CII Best Practices ウェブサイト&lt;t4/&gt; をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Similarly, a software recipient may ask the supplier if the software they received was prepared under an &lt;t11/&gt;OpenChain&lt;t12/&gt; conforming program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T085048Z" creationid="nobuo imada" creationdate="20170522T085048Z">
+        <seg>同様に、ソフトウェアを受け取る側はサプライヤに対して、受け取ったソフトウェアが &lt;t11/&gt;OpenChain&lt;t12/&gt; に適合したプログラム下で用意されたかどうかを尋ねることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification Working Group – identifies and publishes a set of core requirements a quality FOSS compliance program should satisfy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084105Z" creationid="nobuo imada" creationdate="20170519T075658Z">
+        <seg>仕様ワーキング グループ – FOSSコンプライアンスプログラムが満足すべき一連の要件を明確化し公表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steering Committee – Development, management and updating of the &lt;t0/&gt;OpenChain&lt;t1/&gt; Compliance Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T102117Z" creationid="nobuo imada" creationdate="20170519T084009Z">
+        <seg>ステアリング コミッティー – &lt;t0/&gt;OpenChain&lt;t1/&gt; コンプライアンス仕様の開発、管理および更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplied software itself is not identified as being &lt;t0/&gt;OpenChain&lt;t1/&gt; Conforming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T075350Z" creationid="nobuo imada" creationdate="20170522T075350Z">
+        <seg>供給されるソフトウェア自体については &lt;t0/&gt;OpenChain&lt;t1/&gt; 適合かどうかの判別はしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is, the obligation to provide evidence of the existence of the artifacts, and the willingness to do so, is determined by the relationship entered into by two parties.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T053050Z">
+        <seg>すなわち、証跡の存在の証拠を提示する義務や、それを進んで提示する意思は、当事者同士が結ぶ関係性によって決まります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum is intended to help companies shipping Open Source Software and the companies receiving such software through the supply chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T094926Z" creationid="nobuo imada" creationdate="20170523T094712Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムは、オープンソース ソフトウェアを出荷したり、そのようなソフトウェアをサプライチェーンから受け取る会社の手助けとなることを意図しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum reference slides are focused on US law.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100436Z" creationid="nobuo imada" creationdate="20170523T100415Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムの参照スライドは、米国の法規にフォーカスしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum slide deck provides reference material to meet &lt;t2/&gt;OpenChain&lt;t3/&gt; specification 1.0, requirement 1.2.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T094318Z" creationid="nobuo imada" creationdate="20170523T093623Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムのスライド資料集は &lt;t2/&gt;OpenChain&lt;t3/&gt; 仕様 1.0、要件 1.2 を満足するための参照資料になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum working group has developed training reference materials that greatly facilitate the creation (or enhancement) of a FOSS compliance training program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T094536Z" creationid="nobuo imada" creationdate="20170523T063343Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラム ワーキンググループは、FOSS コンプライアンス トレーニング プログラムの作成 (または強化) を大いに促進する参照トレーニング資料を開発しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project has three working groups open for anyone to contribute to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T022643Z" creationid="nobuo imada" creationdate="20170519T075603Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは三つのワーキング グループからなり、誰でも参加して貢献することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project helps to identify and share the core components of a high quality Free and Open Source Software (FOSS) compliance program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T061129Z" creationid="nobuo imada" creationdate="20170519T061129Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは、フリー／オープンソース ソフトウェア (FOSS) についての高品質なコンプライアンスプログラムの核となる構成要素を明確化し、共有していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project accepted input from dozens of individuals, companies and organizations that have experience preparing for and/or exchanging software in the software supply chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T102544Z" creationid="nobuo imada" creationdate="20170522T102544Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは、ソフトウェア サプライチェーンの中でソフトウェアの作成ややり取りを経験してきた多数の個人、会社、組織からの提案を受け入れました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Specification is simply structured to provide a list of requirements where each requirement maintains a set of acceptance criteria (Verification Artifacts).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T043704Z" creationid="nobuo imada" creationdate="20170523T002110Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 仕様は、シンプルな構成で要件のリストを提供しており、各要件には一連の合否判定基準 (検証すべき証跡) が規定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t2/&gt;OpenChain&lt;t3/&gt; Conformance working group has developed a questionnaire to guide an organization in self-certifying a program to be &lt;t4/&gt;OpenChain&lt;t5/&gt; conforming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T065641Z" creationid="nobuo imada" creationdate="20170523T063451Z">
+        <seg>&lt;t2/&gt;OpenChain&lt;t3/&gt; 適合ワーキンググループは、プログラムが &lt;t4/&gt;OpenChain&lt;t5/&gt; 適合であることを組織が自己認証する際に指針となる質問表を開発しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t2/&gt;OpenChain&lt;t3/&gt; Project has identified 6 main categories of a compliance program and important tasks and deliverables for each category.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T000106Z" creationid="nobuo imada" creationdate="20170523T000106Z">
+        <seg>&lt;t2/&gt;OpenChain&lt;t3/&gt; プロジェクトは、コンプライアンス プログラムの六つの主要なカテゴリーと、各カテゴリーについて重要なタスクと成果物を明確化しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Linux Foundation sponsors various open source projects and initiatives that provide useful tools and compliance program resources that can help implement an &lt;t6/&gt;OpenChain&lt;t7/&gt; FOSS compliance program (e.g., &lt;t8/&gt;SPDX&lt;t9/&gt;, &lt;t10/&gt;FOSSology&lt;t11/&gt;, …)&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T043835Z" creationid="nobuo imada" creationdate="20170523T071814Z">
+        <seg>Linux Foundation は &lt;t6/&gt;OpenChain&lt;t7/&gt; FOSS コンプライアンス プログラムの実施を助ける便利なツールやコンプライアンス プログラムのリソース (たとえば &lt;t8/&gt;SPDX&lt;t9/&gt;, &lt;t10/&gt;FOSSology&lt;t11/&gt;, …)&lt;t12/&gt; を提供するさまざまなオープンソース プロジェクトや取り組みに資金提供しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Verification Artifacts for a requirement represent a list of tangible artifacts that must exist in order for one to determine the specific requirement has been met.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T044228Z">
+        <seg>一つの要件についての検証すべき証跡は、仕様の要件を満足していることを判定するために存在していなければならない具体的な証跡のリストの形で提示されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The key goal of the specification is to foster trust around FOSS compliance between two parties exchanging software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T051544Z" creationid="nobuo imada" creationdate="20170523T051544Z">
+        <seg>この仕様の究極のゴールは、ソフトウェアをやり取りする当事者間にFOSSコンプライアンスについての信頼関係を育てることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The main objective of the specification provides a set of requirements that would help one evaluate whether an existing FOSS compliance program is sufficient.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T100355Z" creationid="nobuo imada" creationdate="20170522T095044Z">
+        <seg>この仕様の主要な目的は、既存のFOSS コンプライアンス プログラムが十分かどうかを評価する手助けとなる一連の要件を提供することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The reference slides are designed to be delivered in a half day training session.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T095327Z" creationid="nobuo imada" creationdate="20170523T095327Z">
+        <seg>この参照スライドは、半日のトレーニングセッションで伝達されるように作られています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is that Open Source becomes predictable, understandable and optimized for internal and external supply chains of any type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T022523Z" creationid="nobuo imada" creationdate="20170519T074625Z">
+        <seg>その結果、オープンソースは組織内外の様々なタイプのサプライチェーンにふさわしく最適化され、見通し良くわかりやすいものになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specification does not provide legal guidance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T055017Z" creationid="nobuo imada" creationdate="20170523T055017Z">
+        <seg>この仕様は、法的なガイダンスを提供するものではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specification is licensed under the Creative Commons Attribution License 4.0 (CC-BY-4.0).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T072134Z" creationid="nobuo imada" creationdate="20170523T072111Z">
+        <seg>この仕様は、Creative Commons Attribution License 4.0 (CC-BY-4.0) でライセンスされています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specification provides a method of measuring whether a program has obtained a base line level of quality and consistency.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T100830Z" creationid="nobuo imada" creationdate="20170522T100804Z">
+        <seg>この仕様は、プログラムが基本レベルの品質と一貫性を持っているかどうかを評価する一つの方法を提供します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specification was designed to provide a core set of requirements to ensure a certain level of program quality has been achieved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T074622Z" creationid="nobuo imada" creationdate="20170522T072949Z">
+        <seg>この仕様は、コンプライアンス プログラムが一定水準の品質を達成していることを確かなものにするための要件一式を提供するよう策定されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are also three committees with paid membership:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T023201Z" creationid="nobuo imada" creationdate="20170519T081207Z">
+        <seg>さらに、有料会員制の三つの委員会があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are many different ways to construct a FOSS compliance program (how and when) such that each way would satisfy the specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T100412Z" creationid="nobuo imada" creationdate="20170522T100109Z">
+        <seg>FOSSコンプライアンス プログラム (「どうやって」と「いつ」) の構成にはたくさんの異なる方法があり、いずれの方法でもこの仕様を満足することができるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were and are no specific requirements for participating.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T102700Z" creationid="nobuo imada" creationdate="20170522T102700Z">
+        <seg>参加することに特段の要件は設けていません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These can include digital documents, websites or paper documents public or private.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T085921Z">
+        <seg>証跡には、公開・非公開を問わず、ディジタル文書、ウェブサイト、紙の文書が含まれます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These resources can be found in the &lt;t13/&gt;Linux Foundation Open Compliance Program&lt;t14/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T071907Z" creationid="nobuo imada" creationdate="20170523T071907Z">
+        <seg>これらのリソースについては、&lt;t13/&gt;Linux Foundation Open Compliance Program&lt;t14/&gt; をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are split into chapters to allow flexible delivery across different timescales and – given the CC-0 licensing – to allow companies to “pick and choose” the sections they need to expand on any existing in-house training materials.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170524T014030Z" creationid="nobuo imada" creationdate="20170523T095748Z">
+        <seg>この資料は複数の章に分かれているので、異なる時間割で柔軟に伝達することもできます。また、CC-0 でライセンスされているので、各社が必要なセクションを取捨選択して、自社の既存のトレーニング資料を拡張するのに利用することもできます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Specification 1.1&lt;t2/&gt; is our latest industry-standard.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T063606Z" creationid="nobuo imada" creationdate="20170522T063503Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 仕様 1.1&lt;t2/&gt; が、私たちが策定した最新の業界標準規格です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows a software supplier to represent to their users that the compliance artifacts they deliver were prepared under a FOSS program that met a standard level of quality.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170522T102115Z">
+        <seg>これにより、ソフトウェアのサプライヤはそのユーザに対して、自身が提供するコンプライアンス 証跡が、標準的なレベルの品質を満たしたFOSS プログラム下で作成されたと表明することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To define a core set of requirements a FOSS compliance program should satisfy to achieve: a level of trust that an organization provides the artifacts required to achieve FOSS license compliance for software it shares with others.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170522T035640Z">
+        <seg>あるFOSSコンプライアンス プログラムが満足すべき一連の要件を定義することです。これは、組織が他者と共有するソフトウェアについて、FOSSライセンス コンプライアンスを達成するのに必要な証跡を組織が提供するという、一定水準の信頼です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Understand FOSS Community Engagement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T001247Z" creationid="nobuo imada" creationdate="20170523T001247Z">
+        <seg>FOSSコミュニティへの（積極的な）関わり方の理解</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visit the &lt;t0/&gt;OpenChain&lt;t1/&gt; Community website&lt;t2/&gt; for information on how to join and contribute.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T092325Z" creationid="nobuo imada" creationdate="20170523T092325Z">
+        <seg>参加や貢献の方法についての情報は &lt;t0/&gt;OpenChain&lt;t1/&gt; コミュニティのウェブサイト&lt;t2/&gt; にありますのでご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We maintain a list of &lt;t0/&gt;OpenChain&lt;t1/&gt; Conformant Organizations&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T075422Z" creationid="nobuo imada" creationdate="20170519T074924Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;適合組織のリストをご覧ください。&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are the components of &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T022408Z" creationid="nobuo imada" creationdate="20170519T070635Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;の構成要素とは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What does it mean that a software offering is &lt;t0/&gt;OpenChain&lt;t1/&gt; Conforming?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T080619Z" creationid="nobuo imada" creationdate="20170522T075115Z">
+        <seg>あるソフトウェアの提供が &lt;t0/&gt;OpenChain&lt;t1/&gt; 適合であるということは、何を意味しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What if I don’t agree with a submission made by another organization?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T090223Z" creationid="nobuo imada" creationdate="20170523T090223Z">
+        <seg>もし、他の組織による提出物に同意できないときは、どうすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What if I want to change my submission?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T081017Z" creationid="nobuo imada" creationdate="20170523T080706Z">
+        <seg>一旦提出した内容を変更したい場合はどうすればよいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T022240Z" creationid="nobuo imada" creationdate="20170517T073645Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;とは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is meant by Artifacts?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T093720Z" creationid="nobuo imada" creationdate="20170523T081252Z">
+        <seg>証跡とはどういう意味ですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum used for?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T092455Z" creationid="nobuo imada" creationdate="20170523T092455Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムはどのように使われますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the &lt;t0/&gt;OpenChain&lt;t1/&gt; specification for?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T021429Z" creationid="nobuo imada" creationdate="20170522T021429Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 仕様の目的を教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the license of the &lt;t0/&gt;OpenChain&lt;t1/&gt; Specification?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T072106Z" creationid="nobuo imada" creationdate="20170523T072106Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 仕様のライセンスを教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the objective of &lt;t0/&gt;OpenChain&lt;t1/&gt; Conformance Self-Certification?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T072501Z" creationid="nobuo imada" creationdate="20170523T072501Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 適合自己認証の目的を教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the projected length of the &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum slide training session?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T095133Z" creationid="nobuo imada" creationdate="20170523T095133Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムのスライド資料によるトレーニングセッションは、どのくらいの時間を想定していますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is the relationship between &lt;t0/&gt;OpenChain&lt;t1/&gt; and the CII Best Practices?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T002803Z" creationid="nobuo imada" creationdate="20170522T002803Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;と CII Best Practices の関係を教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What jurisdiction does the IP law section cover?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T100324Z" creationid="nobuo imada" creationdate="20170523T100324Z">
+        <seg>知的所有権のセクションは、どの法域を対象にしていますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What response time should I expect to a submittal request?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T090954Z" creationid="nobuo imada" creationdate="20170523T090954Z">
+        <seg>提出した認証要求に対する応答時間はどのくらいと考えればよろしいですか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a software supplier states they &lt;t4/&gt;are &lt;t5/&gt;OpenChain&lt;t6/&gt; conforming it means they have a program that satisfies all the requirements of the &lt;t7/&gt;OpenChain&lt;t8/&gt; specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T024019Z" creationid="nobuo imada" creationdate="20170522T080424Z">
+        <seg>ソフトウェアのサプライヤが &lt;t4/&gt;&lt;t5/&gt;OpenChain&lt;t6/&gt; 適合であると宣言しているとき、そのサプライヤのコンプライアンスプログラムが &lt;t7/&gt;OpenChain&lt;t8/&gt; 仕様のすべての要件を満足していることを意味します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can I access the &lt;t0/&gt;OpenChain&lt;t1/&gt; Online Self-Certification?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T080009Z" creationid="nobuo imada" creationdate="20170523T080009Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; オンライン自己認証には、どこからアクセスできますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can I find out more about Getting Started with &lt;t0/&gt;OpenChain&lt;t1/&gt; Self-Certification?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T080243Z" creationid="nobuo imada" creationdate="20170523T080243Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; 自己認証に着手するにあたって、さらなる情報はありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can I get the current version of the specification?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T063248Z" creationid="nobuo imada" creationdate="20170522T063248Z">
+        <seg>最新版の仕様はどこで手に入りますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Where can I learn more about each aspect of &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T022508Z" creationid="nobuo imada" creationdate="20170522T021307Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;の各側面についてさらに学べる場所はありますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who is the &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum intended for?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T094958Z" creationid="nobuo imada" creationdate="20170523T094641Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラムの利用者としては、誰を意図していますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T001337Z" creationid="nobuo imada" creationdate="20170522T065039Z">
+        <seg>はい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can join the &lt;t0/&gt;OpenChain&lt;t1/&gt; Curriculum Mailing List&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T102654Z" creationid="nobuo imada" creationdate="20170523T101521Z">
+        <seg>まずは &lt;t0/&gt;OpenChain&lt;t1/&gt; カリキュラム メーリングリストに参加してください。&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can start below!</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170522T034656Z" creationid="nobuo imada" creationdate="20170522T021334Z">
+        <seg>以下をぜひご覧ください！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can then re-submit the conformance check.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T081156Z" creationid="nobuo imada" creationdate="20170523T081156Z">
+        <seg>その後、適合チェックを再提出できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You should expect a response within 4 weeks.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170523T090739Z" creationid="nobuo imada" creationdate="20170523T090739Z">
+        <seg>回答期間は四週間以内とお考えください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will see an &lt;t0/&gt;Unsubmit&lt;t1/&gt; button at the bottom of the page after signing in to the &lt;t2/&gt;Online Self-Certification&lt;t3/&gt; site.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170525T044128Z" creationid="nobuo imada" creationdate="20170523T080939Z">
+        <seg>&lt;t0/&gt;Online Self-Certification&lt;t1/&gt; サイトにサインインすると、ページの一番下に &lt;t2/&gt;Unsubmit&lt;t3/&gt; ボタンがあります。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

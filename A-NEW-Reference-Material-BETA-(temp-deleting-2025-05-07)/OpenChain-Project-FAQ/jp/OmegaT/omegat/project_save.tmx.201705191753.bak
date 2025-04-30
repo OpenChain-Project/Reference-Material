@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_5_r9644:9647" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;OpenChain&lt;t3/&gt; builds trust in Open Source by making things simpler, more efficient and more consistent.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T061752Z" creationid="nobuo imada" creationdate="20170519T061752Z">
+        <seg>&lt;t2/&gt;OpenChain&lt;t3/&gt;は、物事をよりシンプルに、より効率的に、そしてより首尾一貫させることにより、オープンソースの世界に信頼を築きます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conformance Working Group – helps companies check that they are adhering to the Specification requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084055Z" creationid="nobuo imada" creationdate="20170519T080407Z">
+        <seg>適合性ワーキング グループ – 企業が仕様の要件を順守しているかどうかをチェックする手助けをします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Curriculum Working Group – provides training material to help companies meeting the Specification education requirements.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084059Z" creationid="nobuo imada" creationdate="20170519T080017Z">
+        <seg>カリキュラム ワーキンググループ – トレーニング用資料を提供することで、仕様に規定された教育要件を満たす手助けをします</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Questions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170517T073602Z" creationid="nobuo imada" creationdate="20170517T073602Z">
+        <seg>一般的な質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Governing Board – Manage policies or rules and procedures for the Project, fund raising&lt;t0/&gt;, budgeting&lt;t1/&gt; and so forth.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084042Z" creationid="nobuo imada" creationdate="20170519T081541Z">
+        <seg>ガバニング ボード – プロジェクト、資金集め、&lt;t0/&gt;予算&lt;t1/&gt;その他についての方針やルールと手続きを管理します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do I know who conforms to &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T074842Z" creationid="nobuo imada" creationdate="20170519T074842Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;に適合している組織はどうすればわかりますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How does &lt;t0/&gt;OpenChain&lt;t1/&gt; work?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T075100Z" creationid="nobuo imada" creationdate="20170519T075100Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;の取り組みを教えてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is the industry-standard for managing Open Source compliance across the supply chain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T070557Z" creationid="nobuo imada" creationdate="20170519T070557Z">
+        <seg>つまりこれは、サプライチェーン全体にわたってオープンソースのコンプライアンスを達成するための業界標準規格です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Specification creates trust between organizations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T071318Z" creationid="nobuo imada" creationdate="20170519T070945Z">
+        <seg>OpenChainの仕様は、組織と組織の間に信頼を創出します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Conformance allows new organizations to join the circle of trust.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T072015Z" creationid="nobuo imada" creationdate="20170519T071457Z">
+        <seg>OpenChainに適合することで、組織は信頼の輪の中に入ることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our Curriculum supports implementation by entities of any size.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T072133Z" creationid="nobuo imada" creationdate="20170519T072133Z">
+        <seg>OpenChainのカリキュラムは、組織の大小を問わず適用できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outreach Committee – Designing, developing and executing efforts to build an &lt;t0/&gt;OpenChain&lt;t1/&gt; compliance ecosystem throughout relevant supply chains in collaboration with the Governing Board.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T085325Z" creationid="nobuo imada" creationdate="20170519T084033Z">
+        <seg>アウトリーチ コミッティー – ガバニング ボードと連携して、オープンソースと関連のあるサプライチェーン全体にわたって&lt;t0/&gt;OpenChain&lt;t1/&gt;コンプライアンス エコシステムを構築するための施策を設計、開発および実行する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specification Working Group – identifies and publishes a set of core requirements a quality FOSS compliance program should satisfy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084105Z" creationid="nobuo imada" creationdate="20170519T075658Z">
+        <seg>仕様ワーキング グループ – FOSSコンプライアンスプログラムが満足すべき一連の要件を明確化し公表します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Steering Committee – Development, management and updating of the &lt;t0/&gt;OpenChain&lt;t1/&gt; Compliance Specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084036Z" creationid="nobuo imada" creationdate="20170519T084009Z">
+        <seg>ステアリング コミッティー – &lt;t0/&gt;OpenChain&lt;t1/&gt; コンプライアンス仕様の開発、管理および更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project has three working groups open for anyone to contribute to:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T084115Z" creationid="nobuo imada" creationdate="20170519T075603Z">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは三つのワーキング グループからなり、誰でも参加して貢献することができます。:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;OpenChain&lt;t1/&gt; Project helps to identify and share the core components of a high quality Free and Open Source Software (FOSS) compliance program.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T061129Z" creationid="nobuo imada" creationdate="20170519T061129Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt; プロジェクトは、フリー／オープンソース ソフトウェア (FOSS) についての高品質なコンプライアンスプログラムの核となる構成要素を明確化し、共有していきます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result is that Open Source becomes predictable, understandable and optimized for internal and external supply chains of any type.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T074735Z" creationid="nobuo imada" creationdate="20170519T074625Z">
+        <seg>その結果、オープンソースは組織内組織外の様々なタイプのサプライチェーンにふさわしく最適化され、予測可能でわかりやすくなります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are also three committees with paid membership:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T081207Z" creationid="nobuo imada" creationdate="20170519T081207Z">
+        <seg>さらに、有償で参加できる三つの委員会があります。:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We maintain a list of &lt;t0/&gt;OpenChain&lt;t1/&gt; Conformant Organizations&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T075422Z" creationid="nobuo imada" creationdate="20170519T074924Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;適合組織のリストをご覧ください。&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are the components of &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170519T070635Z" creationid="nobuo imada" creationdate="20170519T070635Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;の構成要素とは何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is &lt;t0/&gt;OpenChain&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="JA" changeid="nobuo imada" changedate="20170517T073645Z" creationid="nobuo imada" creationdate="20170517T073645Z">
+        <seg>&lt;t0/&gt;OpenChain&lt;t1/&gt;とは何ですか?</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
