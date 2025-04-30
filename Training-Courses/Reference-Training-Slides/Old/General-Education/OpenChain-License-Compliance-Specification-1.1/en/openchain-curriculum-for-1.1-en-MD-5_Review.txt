@@ -149,7 +149,7 @@ Binary scanning is a heuristic, secure mapping not supported for every possible 
   - For example used string variables (=text) or other content compiled into the binary
   - Simpler method: capturing file names, or for run-time code (e.g. Java): method and field names 
 
-- Requires database of mapping from source code to resulting artefacts in binary
+- Requires database of mapping from source code to resulting artifacts in binary
 
 # --------------------
 
