@@ -1,3 +1,0 @@
-NOTE
-
-This document is made available as part of the OpenChain Reference Material. The PDF is the official LF printed book. You can reprint and redistribute this. The source code can be remixed under CC-0 but we do ask that you give Ibrahim credit for his exceptional work.
