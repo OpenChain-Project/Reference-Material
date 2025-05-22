@@ -2,13 +2,15 @@
 
 ## Your Options and Choices 
 
-## A Guide for Small, Medium and Large Companies
+## A Guide for Small, Medium and Large Organizations (Or Teams)
 
 The OpenChain Project is not *just* about license compliance or security. It is building a more trusted supply chain by developing business process frameworks. These frameworks define the key requirements of quality license, security or other compliance programs.
 
 The OpenChain Project has developed two ISO/IEC standards to support its mission and to assist the market, OpenChain ISO/IEC 5230 for open source license compliance and OpenChain ISO/IEC 18974 for open source security assurance. These standards focus on risk reduction and trust through standardization of processes and demonstrable controls. They provide a baseline for good compliance approaches.
 
 It is important to remember that *how* you meet the baselines provided by the standards is flexible. The OpenChain Project operates with the concept of defining key process points but being flexible about how the process content is implemented. This allows OpenChain standards to be used by companies of all sizes and in all markets.
+
+It should be noted that while this guide is structured for small, medium and large organizations, the same mental model can be used for small, medium and large teams inside organizations of any size. In other words, the choice of implementation options always depends on the resources available for the complexity of the challenge, and the information in this guide can help anyone planning to improve their open source process management. 
 
 ## I. OpenChain ISO/IEC 5230: Software Bill of Materials (SBOM) & License Compliance**
 
