@@ -22,9 +22,9 @@ As of 2025-05-08, the library is structured in the following folders alphabetica
 4. OpenChain-Adoption-Guides
 5. OpenChain-Case-Studies
 6. OpenChain-Explainers-For-Internal-Teams
-7. OpenChain-FAQ
-8. OpenChain-For-Mergers-and-Acquisitions
-9. OpenChain-Maturity-Models
+7. OpenChain-For-Mergers-and-Acquisitions
+8. OpenChain-Maturity-Models
+9. OpenChain-Processes-and-FAQ
 10. OpenChain-Promotion-Material
 11. OpenChain-Standards-Self-Certification
 12. OpenChain-Supplier-Education
@@ -62,10 +62,6 @@ This folder contains case studies from companies that have adopted OpenChain sta
 
 Explaining the value of OpenChain approaches to compliance process management is critical to ensure buy-in and support across an organization. We have created a series of quick explainer documents to support this.
 
-### OpenChain-FAQ
-
-This folder contains the official OpenChain Project Frequently Asked Questions. These are mirrored on our website.
-
 ### OpenChain-For-Mergers-and-Acquisitions
 
 This folder contains some material relevant to understanding OpenChain standards in the context of Mergers and Acquisitions.
@@ -73,6 +69,10 @@ This folder contains some material relevant to understanding OpenChain standards
 ### OpenChain-Maturity-Models
 
 Once an organization has begun to adopt OpenChain standards, the question arises of how to iterate and improve their compliance program. Maturity models or capability models are a tool to assist with this. We have one to share with you as a reference guide.
+
+### OpenChain-Processes-and-FAQ
+
+This folder contains the official OpenChain Project Frequently Asked Questions and the official processes for our specification development and study group, work group and board elections. These are mirrored on our website.
 
 ### OpenChain-Promotion-Material
 
