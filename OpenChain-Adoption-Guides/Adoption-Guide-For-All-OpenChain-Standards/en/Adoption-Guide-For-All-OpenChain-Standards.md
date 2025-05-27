@@ -2,6 +2,8 @@
 
 ## Your Options and Choices 
 
+This is a draft document. Your help is requested in reviewing, editing and expanding the content. Once we have reached a state where the OpenChain Education Work Group confirms they are happy with it, we will proceed to general release.
+
 ## A Guide for Small, Medium and Large Organizations (Or Teams)
 
 The OpenChain Project is not *just* about license compliance or security. It is building a more trusted supply chain by developing business process frameworks. These frameworks define the key requirements of quality license, security or other compliance programs.
