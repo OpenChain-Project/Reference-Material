@@ -14,7 +14,9 @@ It should be noted that while this guide is structured for small, medium and lar
 
 ## I. OpenChain ISO/IEC 5230: Software Bill of Materials (SBOM) & License Compliance**
 
-This standard concentrates on managing open source components, producing SBOMs, and ensuring license compliance.  Here's a breakdown of choices, by company size:
+This standard focuses on managing open source components, SBOMs, and license compliance.  It is a process management standard that explains how to set up an open source compliance program.
+
+There are multiple ways that the processes identified by ISO/IEC 5230 can be implemented. Below we will explore some (but not all) of the choices available to companies or teams within companies. We will use company (or team) size to show our example options. Naturally any organization of any size can use any of these approaches.
 
 ### A. Small Companies (1-50 Employees)
 
@@ -24,27 +26,83 @@ Limited budget, often no dedicated compliance or security staff, reliance on gen
 
 #### Policy Communication
 
-(a) Simple Email Communication: A brief email outlining the open source policy and pointing to a central document. *Pros:* Low cost, easy to implement. *Cons:* Low engagement, difficult to track.
+##### (a) Simple Email Communication: A brief email outlining the open source policy and pointing to a central document. 
 
-(b) Brief Developer Onboarding Checklists: Integrate awareness of the policy into the standard onboarding process.  *Pros:*  Reaches all new developers. *Cons:* Requires more developer time.
+###### Pros: 
+
+Low cost, easy to implement. 
+
+###### Cons: 
+
+Low engagement, difficult to track.
+
+##### (b) Brief Developer Onboarding Checklists: Integrate awareness of the policy into the standard onboarding process.  
+
+###### Pros: 
+
+Reaches all new developers. 
+
+###### Cons: 
+
+Requires more developer time.
 
 #### SBOM Generation
 
-(a) Manual Inventory:  A spreadsheet listing all open source components. *Pros:* Free, requires minimal tools. *Cons:* Time-consuming, error-prone, difficult to maintain.
+##### (a) Manual Inventory:  
 
-(b) Basic Tooling (e.g., Black Duck Hub Community Edition):** Provides automated scanning, but with limited reporting. *Pros:* Reduces manual effort. *Cons:* Potential learning curve.
+A spreadsheet listing all open source components. 
+
+###### Pros: 
+
+Free, requires minimal tools.
+
+###### Cons: 
+
+Time-consuming, error-prone, difficult to maintain.
+
+##### (b) Basic Tooling (e.g., a minimal install of ScanCode):
+
+Provides automated scanning, but with potentially limited reporting. 
+
+###### Pros: 
+
+Reduces manual effort. 
+
+###### Cons: 
+
+Potential learning curve.
 
 #### License Identification & Compliance
 
-(a) Developer Responsibility: Developers are responsible for understanding and adhering to licenses. *Pros:* Low overhead. *Cons:* Relies heavily on individual knowledge, high risk of errors.
+##### (a) Developer Responsibility: 
 
-(b) Periodic Developer Review: Designated developer reviews open source usage regularly. *Pros:* Increases scrutiny. *Cons:* Still prone to errors, requires developer expertise.
+Developers are responsible for understanding and adhering to licenses. 
+
+###### Pros: 
+
+Low overhead. 
+
+###### Cons: 
+
+Relies heavily on individual knowledge, high risk of errors.
+
+##### (b) Periodic Developer Review: 
+
+Designated developer reviews open source usage regularly. 
+
+###### Pros: 
+
+Increases scrutiny.
+
+###### Cons: 
+
+Still prone to errors, requires developer expertise.
 
 #### Allowed Licenses
 
 Start with a "whitelist" of permissive licenses (MIT, Apache 2.0, BSD) and require approval for others.  Consider the company's risk tolerance and use cases.
 
-### B. Medium Companies (51-250 Employees)**
+### B. Medium Companies (51-250 Employees)
 
 #### More Dedicated Staff: 
 
@@ -52,21 +110,81 @@ Possibly a dedicated security or compliance engineer.
 
 #### Policy Communication
 
-(a) Mandated Short Training Module (30-60 mins): Using platforms like Lessonly or internal Learning Management Systems. *Pros:* Higher engagement, demonstrates commitment. *Cons:* Requires platform and content creation.
+##### (a) Mandated Short Training Module (30-60 mins): 
 
-(b) Integrate with Code Review Process: Policy reminders during code review. *Pros:* Directly links compliance to development. *Cons:* Requires training reviewers.
+Using internal Learning Management Systems to help staff understand the task and their required roles. 
+
+###### Pros: 
+
+Higher engagement, demonstrates commitment. 
+
+###### Cons: 
+
+Requires platform and content creation.
+
+##### (b) Integrate with Code Review Process: 
+
+Policy reminders during code review. 
+
+###### Pros: 
+
+Directly links compliance to development. 
+
+###### Cons: 
+
+Requires training reviewers.
 
 #### SBOM Generation
 
-(a) Commercial Tooling (ScanCode, FOSSology, WhiteSource): More comprehensive reporting and automated updates. *Pros:* Automates much of the work. *Cons:* Ongoing costs.  ScanCode is excellent and has a free, self-managed option. FOSSology has a commercial service offering, in addition to the open source tools.
+##### (a) Commercial Tooling: 
 
-(b) Integrations with CI/CD Pipelines: Automatically generate SBOMs during builds. *Pros:* Real-time visibility. *Cons:* Requires pipeline modifications.
+This may provide more comprehensive reporting and automated updates than self-hosted tooling. 
+
+###### Pros:
+
+Automates much of the work. 
+
+###### Cons:
+
+Ongoing costs. FOSSology and ScanCode are two examples of open source tooling for open source management. ScanCode has a commercial service offering in addition to the open source tools.
+
+##### (b) Integrations with CI/CD Pipelines: 
+
+Automatically generate SBOMs during builds. 
+
+###### Pros:
+
+Real-time visibility.
+
+###### Cons:
+
+Requires pipeline modifications.
 
 #### License Identification & Compliance
 
-#### (a) Commercial Service Providers (e.g., Mend.io, Revenera):  Provide scanning, remediation advice, and ongoing monitoring. *Pros:* Expert assistance, reduced workload. *Cons:* Higher cost.
+##### (a) Commercial Service Providers:  
 
-#### (b) Dedicated Compliance Engineer: Responsible for managing the process, scanning, and remediation. *Pros:* Focused expertise. *Cons:* Requires specialized skills and salary.
+Provide scanning, remediation advice, and ongoing monitoring. 
+
+###### Pros: 
+
+Expert assistance, reduced workload. 
+
+###### Cons: 
+
+Higher cost.
+
+##### (b) Dedicated Compliance Engineer: 
+
+Responsible for managing the process, scanning, and remediation.
+
+###### Pros:
+
+Focused expertise. 
+
+###### Cons:
+
+Requires specialized skills and salary.
 
 #### Allowed Licenses
 
@@ -80,23 +198,85 @@ Security, compliance, legal, and DevOps teams.
 
 #### Policy Communication
 
-(a) Formal, Company-Wide Training Program: Regularly updated and reinforced through ongoing communication. *Pros:* Strong commitment and understanding. *Cons:* Requires significant investment.
+##### (a) Formal, Company-Wide Training Program: 
 
-(b) Automated Enforcement in CI/CD: Prevent developers from including components with prohibited licenses. *Pros:* Prevents errors at the source. *Cons:*  Can be complex to implement.
+Regularly updated and reinforced through ongoing communication. 
 
-#### SBOM Generation:**
+###### Pros:
 
-(a) Full Suite Commercial Solutions:  Including continuous monitoring, vulnerability analysis, and automated remediation. *Pros:* Comprehensive protection. *Cons:*  Significant cost.
+Strong commitment and understanding. 
 
-(b) Integrations with Internal Systems: Connect SBOM generation with procurement, contract management, and risk management tools. *Pros:* Holistic view of risk. *Cons:*  Requires system integrations.
+###### Cons:
+
+Requires significant investment.
+
+##### (b) Automated Enforcement in CI/CD: 
+
+Prevent developers from including components with prohibited licenses. 
+
+###### Pros:
+
+Prevents errors at the source.
+
+###### Cons:
+
+Can be complex to implement.
+
+#### SBOM Generation:
+
+##### (a) Full Suite Commercial Solutions:  
+
+Including continuous monitoring, vulnerability analysis, and automated remediation.
+
+###### Pros: 
+
+Comprehensive protection. 
+
+###### Cons: 
+
+Significant cost.
+
+##### (b) Integrations with Internal Systems: 
+
+Connect SBOM generation with procurement, contract management, and risk management tools.
+
+###### Pros: 
+
+Holistic view of risk.
+
+###### Cons:  
+
+Requires system integrations.
 
 #### License Identification & Compliance:
 
-(a) Automated Policy Enforcement: Prevent development from adding components with restricted licenses. *Pros:* Eliminates manual errors. *Cons:* Requires policy configuration.
+(a) Automated Policy Enforcement: 
 
-(b) Legal Review of High-Risk Components: Involve legal counsel for components with complex licenses or copyleft implications. *Pros:* Expert guidance. *Cons:* Can slow down development.
+Prevent development from adding components with restricted licenses.
 
-#### Allowed Licenses: Categorize licenses based on risk level and define approval workflows for each category.
+###### Pros: 
+
+Eliminates manual errors.
+
+###### Cons: 
+
+Requires policy configuration.
+
+(b) Legal Review of High-Risk Components: 
+
+Involve legal counsel for components with complex licenses or copyleft implications. 
+
+###### Pros: 
+
+Expert guidance. 
+
+###### Cons: 
+
+Can slow down development.
+
+#### Allowed Licenses: 
+
+Categorize licenses based on risk level and define approval workflows for each category.
 
 ## II. OpenChain ISO/IEC 18974: Software Security Assurance**
 
@@ -110,9 +290,27 @@ Regardless of size, start tracking CVEs (Common Vulnerabilities and Exposures) i
 
 #### Vulnerability Management Process
 
-(a) Manual Review of Security Advisories: Review security advisories from vendors and security researchers. *Pros:* Free. *Cons:* Time-consuming, prone to errors.
+##### (a) 
 
-(b) Commercial Vulnerability Database Subscriptions (e.g., Snyk, Sonatype): Provides automated vulnerability identification and remediation advice. *Pros:* Faster, more accurate. *Cons:* Ongoing costs.
+Manual Review of Security Advisories: 
+
+Review security advisories from vendors and security researchers.
+
+###### Pros: 
+
+Free. 
+
+###### Cons: 
+
+Time-consuming, prone to errors.
+
+##### (b) Commercial Vulnerability Database Subscriptions: 
+
+Provides automated vulnerability identification and remediation advice. 
+
+###### Pros: Faster, more accurate. 
+
+###### Cons: Ongoing costs.
 
 #### Prioritization
 
@@ -120,13 +318,13 @@ Prioritize remediation based on the severity of the vulnerability, the component
 
 #### Remediation Options
 
-(a) Upgrading Components:  Updating to versions with patched vulnerabilities.
-(b) Patching: Applying custom patches (not always feasible).
-(c) Compensating Controls:  Implementing safeguards to mitigate the risk of exploitation.
+##### (a) Upgrading Components:  Updating to versions with patched vulnerabilities.
+##### (b) Patching: Applying custom patches (not always feasible).
+##### (c) Compensating Controls:  Implementing safeguards to mitigate the risk of exploitation.
 
 #### Automation Tooling
 
-Tools like Dependabot (GitHub), Renovate, and automated patching services can help streamline the remediation process.
+Tools like Dependabot (GitHub) and automated patching services can help streamline the remediation process.
 
 ### B. Choices Based on Company Size**
 
@@ -147,11 +345,25 @@ Integrate vulnerability management with broader security and risk management pro
 1. OpenChain Project:** [https://openchainproject.org/](https://openchainproject.org/)
 2. NIST National Vulnerability Database:** [https://nvd.nist.gov/](https://nvd.nist.gov/)
 
-## Key Takeaway
+## Key Takeaways
 
-OpenChain ISO/IEC 5230 and ISO/IEC 18974 offer a framework for improving open source license compliance and security security assurance. The specific implementation choices of using either standard should be tailored to your organization's size, resources, and risk tolerance.  Focus on establishing a simple, core management process, then automating as much as possible or iterating complexity over time, and remember to continuously monitor your software supply chain to catch external issues or address them in a timely manner.
+OpenChain ISO/IEC 5230 and ISO/IEC 18974 offer a framework for improving open source license compliance and security assurance. The specific implementation choices of using either standard should be tailored to your organization's size, resources, and risk tolerance.  Focus on establishing a simple, core management process, then automating as much as possible or iterating complexity over time, and remember to continuously monitor your software supply chain to catch external issues or address them in a timely manner.
+
+# ChangeLog
+
+2025-05-27
+
+Human review, reformatting, expansion and adjustment of the document.
+
+2025-05-22
+
+Human review, adjustment of title to explain team size as well as or instead of company size can be a filter for deciding what to do.
+
+2025-5-08
 
 # Original LLM Output Below - NOT FOR USE - REFERENCE ONLY
+
+This was used for the initial draft of the document, and subsequently human review and adjustment was made.
 
 PROMPT for Gemma 3 12b IT-QAT on Ollama (gemma3:12b-it-qat)
 
