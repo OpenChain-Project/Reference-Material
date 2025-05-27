@@ -12,7 +12,7 @@ It is important to remember that *how* you meet the baselines provided by the st
 
 It should be noted that while this guide is structured for small, medium and large organizations, the same mental model can be used for small, medium and large teams inside organizations of any size. In other words, the choice of implementation options always depends on the resources available for the complexity of the challenge, and the information in this guide can help anyone planning to improve their open source process management. 
 
-## I. OpenChain ISO/IEC 5230: Software Bill of Materials (SBOM) & License Compliance**
+## I. OpenChain ISO/IEC 5230: Software Bill of Materials (SBOM) & License Compliance
 
 This standard focuses on managing open source components, SBOMs, and license compliance.  It is a process management standard that explains how to set up an open source compliance program.
 
@@ -278,7 +278,7 @@ Can slow down development.
 
 Categorize licenses based on risk level and define approval workflows for each category.
 
-## II. OpenChain ISO/IEC 18974: Software Security Assurance**
+## II. OpenChain ISO/IEC 18974: Software Security Assurance
 
 This standard focuses on identifying and managing vulnerabilities in open source components, and assuring the security of the software supply chain.
 
@@ -308,9 +308,13 @@ Time-consuming, prone to errors.
 
 Provides automated vulnerability identification and remediation advice. 
 
-###### Pros: Faster, more accurate. 
+###### Pros: 
 
-###### Cons: Ongoing costs.
+Faster, more accurate. 
+
+###### Cons: 
+
+Ongoing costs.
 
 #### Prioritization
 
@@ -326,7 +330,7 @@ Prioritize remediation based on the severity of the vulnerability, the component
 
 Tools like Dependabot (GitHub) and automated patching services can help streamline the remediation process.
 
-### B. Choices Based on Company Size**
+### B. Choices Based on Company Size
 
 #### Small
 
