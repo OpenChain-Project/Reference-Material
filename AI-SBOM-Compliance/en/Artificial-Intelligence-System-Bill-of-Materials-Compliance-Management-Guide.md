@@ -198,7 +198,7 @@ Different programs may be governed by different levels of scope. For example, a 
 
 ### Verification material(s)
 
-- - A written statement that clearly defines the scope and limits of the program.
+- A written statement that clearly defines the scope and limits of the program.
 
 ### Rationale
 
@@ -212,7 +212,7 @@ A process shall exist for reviewing the relevant identified licenses for an AI s
 
 ### Verification material(s)
 
-- - A documented procedure to review and document upstream and downstream obligations, restrictions, and rights granted by each identified license, as appropriate.
+- A documented procedure to review and document upstream and downstream obligations, restrictions, and rights granted by each identified license, as appropriate.
 
 ###
 
