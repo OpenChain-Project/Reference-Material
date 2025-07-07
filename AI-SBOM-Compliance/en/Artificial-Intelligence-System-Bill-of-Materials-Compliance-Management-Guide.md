@@ -136,12 +136,12 @@ Ideally the reader will review the process points or activities described below 
 
 A written policy shall exist that governs AI System Bill of Materials (AI SBOM) compliance. The policy shall be internally communicated, and informed by business strategy, legal requirements in the relevant jurisdictions, and the level of risk appropriate for the use case. <sup><sup>[\[4\]](#footnote-3)</sup></sup>
 
-### Verification materials
+### Verification material(s):
 
 - A documented policy meeting the above requirements
 - A documented procedure that makes program participants aware of the existence of the policy (e.g. via training, internal wiki or other practical communication method)
 
-### Rationale
+### Rationale:
 
 To ensure steps are taken to create, record and make program participants aware of the existence of the policy. Although only high level requirements are provided in this section for what should additionally be included in the policy, other sections may impose specific obligations that must be included in the policy.
 
@@ -162,13 +162,13 @@ The organisation shall identify the roles and the corresponding responsibilities
 
 ###
 
-### Verification material(s)
+### Verification material(s):
 
 - A documented list of roles with corresponding responsibilities for the different participants in the program.
 - A document that identifies the competencies for each role.
 - Documented evidence of assessed competence for each program participant, with periodic checks to keep the list up-to-date.
 
-### Rationale
+### Rationale:
 
 To ensure the responsible people are accountable for their contributions.
 
@@ -181,14 +181,14 @@ The organisation shall ensure that the program participants are aware of: <sup><
 - Their contribution to the effectiveness of the program; and
 - The implications of not following the Program’s requirements.
 
-### Verification material(s)
+### Verification material(s):
 
 - Documented evidence of assessed awareness for the program participants, which should include:
   - The program’s objectives;
   - One’s contribution within the program; and
   - The implications of program non-conformance.
 
-### Rationale
+### Rationale:
 
 - To ensure the program participants have obtained a sufficient level of awareness for their respective roles and responsibilities within the program.
 
@@ -196,11 +196,11 @@ The organisation shall ensure that the program participants are aware of: <sup><
 
 Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department, or an entire organisation. The scope designation needs to be declared for each program.
 
-### Verification material(s)
+### Verification material(s):
 
 - A written statement that clearly defines the scope and limits of the program.
 
-### Rationale
+### Rationale:
 
 - To provide the flexibility to construct a program that best fits the scope of an organization’s needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
 
@@ -208,11 +208,11 @@ Different programs may be governed by different levels of scope. For example, a 
 
 A process shall exist for reviewing the relevant identified licenses for an AI system’s code, weights, and datasets (including but not limited to training, testing, and verification datasets) as well as the license for the AI system itself to determine the obligations, restrictions, and rights granted by each license, taking into account the intended use of the AI system. Note that it’s often the case that an AI system is trained on multiple other AI systems that may be identified in the AI system Model Tree for example; each of these may have their own licenses.
 
-### Verification material(s)
+### Verification material(s):
 
 - A documented procedure to review and document upstream and downstream obligations, restrictions, and rights granted by each identified license, as appropriate.
 
-### Rationale
+### Rationale:
 
 - To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in ISO/IEC 5230:2020 Section 3.3.2).
 
@@ -222,23 +222,23 @@ A process shall exist for reviewing if there are any transparency obligations fr
 
 If the use case for the training data creates a relevant issue (e.g., disclosure obligations to downstream recipients) in the context of transparency, then appropriate risk mitigation measures should be undertaken. <sup><sup>[\[7\]](#footnote-6)</sup></sup>
 
-### Verification material(s)
+### Verification material(s):
 
 - A documented procedure to review and document the transparency measures undertaken.
 
-### Rationale
+### Rationale:
 
-- To ensure that an organisation is aware of the latest transparency obligations set out by regulators.
+- To ensure that an organization is aware of the latest transparency obligations set out by regulators.
 
 ## 3.7 Access
 
 Maintain a process to effectively respond to external AI SBOM Compliance inquiries. Publicly identify a means by which a third party can make an AI SBOM Compliance inquiry.
 
-### Verification material(s)
+### Verification material(s):
 
 - Publicly visible method that allows any interested parties to make an AI SBOM Compliance inquiry (e.g., via a published contact email address). An internal documented procedure for responding to third-party AI SBOM Compliance inquiries. <sup><sup>[\[8\]](#footnote-7)</sup></sup>
 
-### Rationale
+### Rationale:
 
 - To ensure there is a reasonable way for third parties to contact the organization with regard to compliance inquiries and that the organization is prepared to effectively respond.
 
@@ -253,7 +253,7 @@ Maintain a process to effectively respond to external AI SBOM Compliance inquiri
 - Legal expertise pertaining to AI SBOM Compliance is accessible to those who may need such guidance; and
 - A process exists for the resolution of AI SBOM Compliance issues.
 
-### Verification material(s)
+### Verification material(s):
 
 - Document with name of persons, group or function in program role(s) identified.
 - The identified program roles have been properly staffed and adequate funding provided.
@@ -262,7 +262,7 @@ Maintain a process to effectively respond to external AI SBOM Compliance inquiri
 - A documented procedure for handling the review and remediation of non-compliant cases.
 - See, e.g., Sections B.4.2 and B.4.6 of Annex B of ISO/IEC 42001. Section B.9.3 from the same Annex also provides guidance to determine if human resources for human oversight should be incorporated.
 
-### Rationale
+### Rationale:
 
 - To ensure: i) program responsibilities are effectively supported and resourced and ii) policies and supporting processes are regularly updated to accommodate changes in AI SBOM Compliance best practices.
 
@@ -270,12 +270,12 @@ Maintain a process to effectively respond to external AI SBOM Compliance inquiri
 
 A process shall exist for creating and managing an AI SBOM, this can be in any format e.g. SPDX, CycloneDX, or another format. The AI SBOM shall account for inbound materials from third-parties.
 
-### Verification material(s)
+### Verification material(s):
 
 - A documented procedure for identifying, tracking, reviewing, approving, and archiving information related to the components of an AI system (e.g., model, datasets, etc).
 - Records for the supplied system that demonstrates the documented procedure was properly followed.
 
-### Rationale
+### Rationale:
 
 - To ensure a process exists for creating and managing an AI SBOM used to construct the supplied system. A bill of materials is needed to support the systematic review and approval of the system to understand the obligations and restrictions
 
@@ -283,11 +283,11 @@ A process shall exist for creating and managing an AI SBOM, this can be in any f
 
 An organization shall have a governance framework for AI, policies, and practices to help ensure that AI systems are developed, deployed, and managed responsibly. Governance emphasizes compliance with emerging AI laws and regulations, such as the EU AI Act, Hiroshima AI process or Global AI Governance Initiative (China), and addresses ethical considerations, risk management, and transparency. For example, understand the risks associated with ongoing use of AI Systems and training data in the context of their intended Programs. This could include the ability to monitor the lifecycle of the AI system and perform ongoing analysis of its intended uses. <sup><sup>[\[9\]](#footnote-8)</sup></sup>
 
-### Verification material(s)
+### Verification material(s):
 
 - A documented AI governance framework for the lifecycle of an AI system with a process to review the framework periodically.
 
-### Rationale
+### Rationale:
 
 - To ensure a process exists for maintaining an AI framework for the lifecycle of the AI system. A framework is needed to support the periodic review of the AI system.
 
