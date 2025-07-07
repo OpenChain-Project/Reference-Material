@@ -10,6 +10,10 @@ THIS IS NOT A PRODUCTION RELEASE OR OFFICIAL RELEASE DOCUMENT FROM THE OPENCHAIN
 
 This document is currently undergoing a Public Comment period as per the [OpenChain Project process outlined on our website](https://openchainproject.org/processes#process-public-comments).
 
+YOU CAN SUBMIT A COMMENT BY:
+ - [Opening an issue on the OpenChain Project Reference Library GitHub Repository](https://github.com/OpenChain-Project/Reference-Material/issues)
+ - [Emailing the OpenCain AI Work Group mailing list](https://lists.openchainproject.org/g/ai)
+
 THE DEADLINE FOR SUBMISSION OF PUBLIC COMMENTS IS 2025-08-18 AT 20:00 JST.
 
 # Table of Contents
