@@ -8,6 +8,10 @@ _Draft Document from the OpenChain Project AI Work Group_
 
 THIS IS NOT A PRODUCTION RELEASE OR OFFICIAL RELEASE DOCUMENT FROM THE OPENCHAIN PROJECT. AT THIS JUNCTURE, IT IS WORKING DOCUMENT DESIGNED TO ALLOW INTERESTED PARTIES TO SHARE IDEAS.
 
+This document is currently undergoing a Public Comment period as per the [OpenChain Project process outlined on our website](https://openchainproject.org/processes#process-public-comments).
+
+THE DEADLINE FOR SUBMISSION OF PUBLIC COMMENTS IS 2025-08-18 AT 20:00 JST.
+
 # Table of Contents
 
 Introduction
