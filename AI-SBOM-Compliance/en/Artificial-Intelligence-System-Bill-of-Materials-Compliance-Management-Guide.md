@@ -1,8 +1,7 @@
-Artificial Intelligence  
-System Bill of Materials
+# Artificial Intelligence  
+# System Bill of Materials
 
-Compliance Management Guide  
-for the Supply Chain
+## Compliance Management Guide for the Supply Chain
 
 _Draft Document from the OpenChain Project AI Work Group_
 
