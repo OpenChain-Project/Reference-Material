@@ -190,7 +190,7 @@ The organisation shall ensure that the program participants are aware of: <sup><
 
 ### Rationale
 
-To ensure the program participants have obtained a sufficient level of awareness for their respective roles and responsibilities within the program.
+- To ensure the program participants have obtained a sufficient level of awareness for their respective roles and responsibilities within the program.
 
 ## 3.4 Program scope
 
@@ -202,23 +202,19 @@ Different programs may be governed by different levels of scope. For example, a 
 
 ### Rationale
 
-To provide the flexibility to construct a program that best fits the scope of an organization’s needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
+- To provide the flexibility to construct a program that best fits the scope of an organization’s needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
 
 ## 3.5 License obligations
 
 A process shall exist for reviewing the relevant identified licenses for an AI system’s code, weights, and datasets (including but not limited to training, testing, and verification datasets) as well as the license for the AI system itself to determine the obligations, restrictions, and rights granted by each license, taking into account the intended use of the AI system. Note that it’s often the case that an AI system is trained on multiple other AI systems that may be identified in the AI system Model Tree for example; each of these may have their own licenses.
 
-###
-
 ### Verification material(s)
 
 - A documented procedure to review and document upstream and downstream obligations, restrictions, and rights granted by each identified license, as appropriate.
 
-###
-
 ### Rationale
 
-To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in ISO/IEC 5230:2020 Section 3.3.2).
+- To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in ISO/IEC 5230:2020 Section 3.3.2).
 
 ## 3.6 Transparency obligations
 
@@ -226,33 +222,25 @@ A process shall exist for reviewing if there are any transparency obligations fr
 
 If the use case for the training data creates a relevant issue (e.g., disclosure obligations to downstream recipients) in the context of transparency, then appropriate risk mitigation measures should be undertaken. <sup><sup>[\[7\]](#footnote-6)</sup></sup>
 
-###
-
 ### Verification material(s)
 
-A documented procedure to review and document the transparency measures undertaken.
-
-###
+- A documented procedure to review and document the transparency measures undertaken.
 
 ### Rationale
 
-To ensure that an organisation is aware of the latest transparency obligations set out by regulators.
+- To ensure that an organisation is aware of the latest transparency obligations set out by regulators.
 
 ## 3.7 Access
 
 Maintain a process to effectively respond to external AI SBOM Compliance inquiries. Publicly identify a means by which a third party can make an AI SBOM Compliance inquiry.
 
-###
-
 ### Verification material(s)
 
-Publicly visible method that allows any interested parties to make an AI SBOM Compliance inquiry (e.g., via a published contact email address). An internal documented procedure for responding to third-party AI SBOM Compliance inquiries. <sup><sup>[\[8\]](#footnote-7)</sup></sup>
-
-###
+- Publicly visible method that allows any interested parties to make an AI SBOM Compliance inquiry (e.g., via a published contact email address). An internal documented procedure for responding to third-party AI SBOM Compliance inquiries. <sup><sup>[\[8\]](#footnote-7)</sup></sup>
 
 ### Rationale
 
-To ensure there is a reasonable way for third parties to contact the organization with regard to compliance inquiries and that the organization is prepared to effectively respond.
+- To ensure there is a reasonable way for third parties to contact the organization with regard to compliance inquiries and that the organization is prepared to effectively respond.
 
 ## 3.8 Effectively resourced
 
@@ -265,8 +253,6 @@ To ensure there is a reasonable way for third parties to contact the organizatio
 - Legal expertise pertaining to AI SBOM Compliance is accessible to those who may need such guidance; and
 - A process exists for the resolution of AI SBOM Compliance issues.
 
-###
-
 ### Verification material(s)
 
 - Document with name of persons, group or function in program role(s) identified.
@@ -276,13 +262,9 @@ To ensure there is a reasonable way for third parties to contact the organizatio
 - A documented procedure for handling the review and remediation of non-compliant cases.
 - See, e.g., Sections B.4.2 and B.4.6 of Annex B of ISO/IEC 42001. Section B.9.3 from the same Annex also provides guidance to determine if human resources for human oversight should be incorporated.
 
-###
-
 ### Rationale
 
-To ensure: i) program responsibilities are effectively supported and resourced and ii) policies and supporting processes are regularly updated to accommodate changes in AI SBOM Compliance best practices.
-
-##
+- To ensure: i) program responsibilities are effectively supported and resourced and ii) policies and supporting processes are regularly updated to accommodate changes in AI SBOM Compliance best practices.
 
 ## 3.9 AI System Bill of Materials
 
@@ -293,11 +275,9 @@ A process shall exist for creating and managing an AI SBOM, this can be in any f
 - A documented procedure for identifying, tracking, reviewing, approving, and archiving information related to the components of an AI system (e.g., model, datasets, etc).
 - Records for the supplied system that demonstrates the documented procedure was properly followed.
 
-###
-
 ### Rationale
 
-To ensure a process exists for creating and managing an AI SBOM used to construct the supplied system. A bill of materials is needed to support the systematic review and approval of the system to understand the obligations and restrictions
+- To ensure a process exists for creating and managing an AI SBOM used to construct the supplied system. A bill of materials is needed to support the systematic review and approval of the system to understand the obligations and restrictions
 
 ## 3.10 Governance
 
@@ -307,11 +287,11 @@ An organization shall have a governance framework for AI, policies, and practice
 
 - A documented AI governance framework for the lifecycle of an AI system with a process to review the framework periodically.
 
-###
-
 ### Rationale
 
-To ensure a process exists for maintaining an AI framework for the lifecycle of the AI system. A framework is needed to support the periodic review of the AI system.
+- To ensure a process exists for maintaining an AI framework for the lifecycle of the AI system. A framework is needed to support the periodic review of the AI system.
+
+## Footnotes
 
 1. OpenChain Project version: [_OpenChain ISO/IEC 5230 - License Compliance_](https://openchainproject.org/license-compliance) is functionally identical and freely available [↑](#footnote-ref-0)
 
