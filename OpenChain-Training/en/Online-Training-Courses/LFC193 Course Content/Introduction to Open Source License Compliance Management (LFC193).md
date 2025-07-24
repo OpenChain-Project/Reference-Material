@@ -367,7 +367,7 @@ The common scenarios are:
 
 Incorporation is a situation where portions of one software component are copied into another software component or product. In our illustration below, we are visualizing a situation when a developer copies portions of an Open Source component (green) into a software product (blue).
 
-![Code incorporation depiction](LFC193%20Course%20Content/LFC193%20Images/Incorporation.png)
+![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Incorporation.png)
 
 There are various terms that describe different forms or activities around incorporation. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity:
 
