@@ -384,7 +384,7 @@ For example, if the code incorporated is under a GPL license, under that license
 
 Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) and one proprietary component (blue).
 
-![Code Linking depiction](LFC193%20Course%20Content/LFC193%20Images/Linking.png)
+![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Linking.png)
 
 There are various terms that describe different forms or activities around linking. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity. Linking is particularly important to consider in the context of copyleft Open Source licenses:
 
@@ -400,7 +400,7 @@ There are various terms that describe different forms or activities around linki
 
 Modification is a situation where a software component is changed, improved or otherwise edited. In our illustration below, we are visualizing a situation where a developer adds a software component (blue) to an existing codebase. The outcome is a new software component influenced by both the original software component and the developer's contribution (green).
 
-![Code modification depiction](LFC193%20Course%20Content/LFC193%20Images/Modification.png)
+![Code modification depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Modification.png)
 
 There are various terms that describe different forms of modification. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity:
 
@@ -418,7 +418,7 @@ All of the activities we have discussed previously are undertaken by developers.
 1. A tool may silently pull in dependencies with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
 2. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
 
-![Code incorporation depiction](LFC193%20Course%20Content/LFC193%20Images/Development%20Tools%20Facilitating%20A%20Software%20Development%20Activity.png)
+![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Development%20Tools%20Facilitating%20A%20Software%20Development%20Activity.png)
 
 ### How Is the Open Source Component Distributed?
 
