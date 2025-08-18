@@ -9,4 +9,9 @@ If an organization can answer positively each question or statement, then it mee
 You can get help with self-certification from our global community. Get started here:
 https://www.openchainproject.org/community
 
-Our help is free and is provided by user companies like yourself. We are working togehter to save time and resource in apply open source for open innovation.
+Our help is free and is provided by user companies like yourself. We are working together to save time and resource in apply open source for open innovation.
+
+# Please Note
+
+The OpenChain Self-Certification Questionnaires have been depreciated. It is recommended to use the Self-Certification Checklists located here:
+[https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Standards-Self-Certification/Checklist](https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Standards-Self-Certification/Checklist)
