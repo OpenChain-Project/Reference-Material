@@ -99,7 +99,7 @@ You also have the option of filling out this checklist online:
 
 - [ ]  We have documentation confirming that the program conformance is reviewed at least every 18 months.
 
-## Next Steps
+# Next Steps
 
 Have you self-certified to this specification? You can let us know at this link:
 [https://openchainproject.org/conformance-submission](https://openchainproject.org/conformance-submission)
