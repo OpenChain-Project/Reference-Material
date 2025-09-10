@@ -1,0 +1,1109 @@
+- order: 1
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    (A) [COMPANY] understands that open source licenses permit the use, study, improvement and sharing of software without seeking further permission. Open source software is a vital component in the software ecosystem and is a valuable resource that:
+    -  Provides quality software and software-based services;
+    -  Reduces vendor lock-in;
+    -  Reduces the likelihood of security issues;
+    -  Reduces development time;
+    -  Grants access to developer communities;
+    -  Aids the attraction and retention of skilled and satisfied staff.
+  Foundations Specific: |-
+    The [FOUNDATION] is committed to open development, and believes that free and open source software provides the best framework for both providing value for money, [and therefore the public purse], and also the highest quality software.
+- order: 2
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    (B) [COMPANY] also understands that using open source or proprietary software presents some risks and that:
+    -  Open source software is not automatically high quality;
+    -  Open source licensing is complex, and compliance with the licensing terms needs careful consideration, documentation and following of processes;
+    -  Other software which has some similar characteristics to open source software (such as non-commercial or shared source) is not open source software;
+    -  Incorrect deployment and distribution of open source software can lead to breaches of intellectual property rights, which, if they can be remedied at, may potentially only be remediable by the release of our trade secrets, including source code;
+    -  It can be difficult to find warranty cover for open source code and performance;
+    -  Open source software can be misunderstood, and may be viewed suspiciously by customers and investors.
+  Foundations Specific: |-
+    The [FOUNDATION] recognises that using open source software presents some risks (particularly in terms of the consequences of non-compliance with its license terms). By adopting appropriate policies, practices and procedures, these risks can be address and minimised. This policy is compliant with the OpenChain Specification v2.1, ISO/IEC 5230:2020, an industry standard for open source license compliance.
+- order: 3
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    (C)        The purpose of this policy is to assist [COMPANY] in getting the best business value from open source software while mitigating risks, primarily relating to breach of applicable license terms. All program participants will be made aware of this policy though, for example, training, internal wiki/knowledge base.
+  Foundations Specific: |-
+    The purpose of this policy is to guide the [FOUNDATION] in making the best use of open source software while understanding and mitigating any risks of non compliance with license terms.
+
+    If you are an external contributor to projects, you are not bound by this policy, but we ask that you read it as it will help to answer any queries you may have about how we select code for incorporation into our codebase. You will, however, have to sign our [Developer Certificate of Origin][Apache-style CLA], which you can find here [insert link].
+- order: 4
+  OCS Section: 2.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "compliance artifacts" - a collection of artifacts that represent the output of a compliance program and accompany the supplied software. The collection may include (but is not limited to) one or more of the following: attribution notices, source code, build and install scripts, copy of licenses, copyright notices, modification notifications, written offers, open source component bill of materials, and SPDX documents.
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "compliance artifacts" - each artifact which represents the output of the open source management program for each component of a supplied software release. This may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, open source component bill of materials, SPDX documents and so forth.
+  Foundations Specific: |-
+    "compliance artifacts" - each artifact which represents the output of the open source management program for each component of a supplied software release. This may include (but is not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, open source component bill of materials, SPDX documents and so forth.
+- order: 5
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "compliance log book" - the complete set of compliance artifacts which are made available to third parties to comply with the requirements of the licenses applicable to supplied software for a specific release, in the appropriate form to ensure compliance (e.g. license text may be required, as opposed to a link to the license text).
+  Foundations Specific: |-
+    "compliance log book" - the complete set of compliance artifacts which are made available to third parties to comply with the requirements of the licenses applicable to supplied software for a specific release, in the appropriate form to ensure compliance (e.g. license text may be required, as opposed to a link to the license text).
+- order: 6
+  OCS Section: 2.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "identified licenses" - a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is comprised.
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "identified licenses" - a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is comprised.
+  Foundations Specific: |-
+    "identified licenses" - a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is comprised.
+- order: 7
+  OCS Section: 2.3
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "OpenChain conformant" - a program that satisfies all the requirements of this document.
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "OpenChain conformant" - a program that satisfies all the requirements of the Linux Foundation's Open Chain Specification v2.1, ISO/IEC 5230:2020
+  Foundations Specific: |-
+    "OpenChain conformant" - a program that satisfies all the requirements of the Linux Foundation's Open Chain Specification v2.1, ISO/IEC 5230:2020
+- order: 8
+  OCS Section: 2.4
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "open source" - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see opensource.org/osd) or the Free Software Definition published by the Free Software Foundation (see gnu.org/philosophy/free-sw.html) or similar license.
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "open source" - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see opensource.org/osd) or the Free Software Definition published by the Free Software Foundation (see gnu.org/philosophy/free-sw.html) or similar license.
+  Foundations Specific: |-
+    "open source" - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see opensource.org/osd) or the Free Software Definition published by the Free Software Foundation (see gnu.org/philosophy/free-sw.html) or similar license.
+- order: 9
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: ''
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "Open Source Compliance Board Member" the individual sitting on the board of [COMPANY] with overall responsibility for [COMPANY]'s open source compliance program.
+  Foundations Specific: |-
+    "Open Source Compliance Board Member" the individual sitting on the [board] of [FOUNDATION] with overall responsibility for [FOUNDATION's] open source compliance program.
+- order: 10
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: ''
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "Open Source Compliance Lead" - the individual with day-to-day responsibility for open source compliance issues within the [Company] as detailed in Appendix 1
+  Foundations Specific: |-
+    "Open Source Compliance Lead" - the individual with day-to-day responsibility for open source compliance issues within the [FOUNDATION] as detailed in Appendix 1
+- order: 11
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "Open Source Liaison" - the individual responsible for addressing external open source compliance queries[, and open source outreach with external projects]. More details can be found in Appendix 1.
+  Foundations Specific: |-
+    "Open Source Liaison" - the individual responsible for addressing external open source compliance queries[, and open source outreach with external projects]. More details can be found in Appendix 1.
+- order: 12
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "open source log" - the record kept in [ticketing system] of determinations, queries and answers relating to [COMPANY]'s selection and incorporation of open source code.
+  Foundations Specific: |-
+    "open source log" - the record kept in [ticketing system] of determinations, queries and answers relating to the [FOUNDATION]'s selection and incorporation of open source code.
+- order: 13
+  OCS Section: 2.5
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "program" - the set of policies, processes and personnel that comprise an organization's open source license compliance activities.
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "program" - the set of policies, processes and personnel that comprise an organization's open source license compliance activities.
+  Foundations Specific: |-
+    "program" - the set of policies, processes and personnel that comprise an organization's open source license compliance activities.
+- order: 14
+  OCS Section: 2.6
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "program participants" - any organization employee or contractor that defines, contributes to or has responsibility for preparing supplied software. Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "program participants" - any organization employee or contractor that defines, contributes to or has responsibility for preparing supplied software. Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
+  Foundations Specific: |-
+    "program participants" - any organization employee or contractor that defines, contributes to or has responsibility for preparing supplied software. Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management. It does not include external contributors to code, provided that the code in question is submitted and selected for incorporation in accordance with this policy.
+- order: 15
+  OCS Section: 2.7
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "SPDX" - the format standard created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see spdx.org).
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "SPDX" - the format standard created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see spdx.org).
+  Foundations Specific: |-
+    "SPDX" - the format standard created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see spdx.org).
+- order: 16
+  OCS Section: 2.8
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "supplied software" - software that an organization distributes to third parties (e.g., other organizations or individuals).
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "supplied software" - software that an organization distributes to third parties (e.g., other organizations or individuals) [or otherwise makes available to third parties, e.g. via an API or through a web interface]
+  Foundations Specific: |-
+    "supplied software" - software that an organization distributes to third parties (e.g., other organizations or individuals).
+- order: 17
+  OCS Section: 2.9
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    "verification materials" - materials that demonstrate that a given requirement of the specification is satisfied.
+
+    ISO and IEC maintain terminological databases for use in standardization at the following addresses:
+    - ISO Online browsing platform: available at https://www.iso.org/obp
+    - IEC Electropedia: available at http://www.electropedia.org/
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    "verification materials" - materials that demonstrate that a given requirement of the OpenChain Specification v2.1, ISO/IEC 5230:2020, is satisfied.
+  Foundations Specific: |-
+    "verification materials" - materials that demonstrate that a given requirement of the OpenChain Specification v2.1, ISO/IEC 5230:2020, is satisfied.
+- order: 18
+  OCS Section: '3'
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Requirements"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 19
+  OCS Section: 3.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Program foundation"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 20
+  OCS Section: 3.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Policy"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 21
+  OCS Section: 3.1.1.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A written open source policy exists that governs open source license compliance of the supplied software. The policy must be internally communicated.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 22
+  OCS Section: 3.1.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented open source policy.
+  Category: VM
+  Q No.: 1.a
+  Conformance Questions: |-
+    Do you have a documented policy that governs open source license compliance of the Supplied Software distribution (e.g., via training, internal wiki, or other practical communication method)?
+  Generic Policy Text: Our open source policy can be found [on the [COMPANY]]intranet
+    at [LINK].
+  Foundations Specific: |-
+    Our open source policy [can be found at] [is publicly available on Github] at [LINK].
+- order: 23
+  OCS Section: 3.1.1.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
+  Category: VM
+  Q No.: 1.b
+  Conformance Questions: |-
+    Do you have a documented procedure that communicates the existence of the open source policy to all Software Staff?
+  Generic Policy Text: |-
+    All joining program participants will be made aware of the open source policy, and associated training policy and its location during the induction process. This will be recorded on the [induction checklist | HR system].
+  Foundations Specific: |-
+    All joining program participants will be made aware of the open source policy, and associated training policy and its location during the induction process. This will be recorded on the [induction checklist].
+- order: 24
+  OCS Section: 3.1.1.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure steps are taken to create, record and make  program participants aware of the existence of an open source policy. Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 25
+  OCS Section: 3.1.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Competence"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 26
+  OCS Section: 3.1.2.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    The organization shall:
+    - Identify the roles and the corresponding responsibilities of those roles that affects the performance and effectiveness of the program;
+    - Determine the necessary competence of program participants fulfilling each role
+    - Ensure that program participants are competent on the basis of appropriate education, training, and/or experience;
+    - Where applicable, take actions to acquire the necessary competence; and
+    - Retain appropriate documented information as evidence of competence.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 27
+  OCS Section: 3.1.2.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented list of roles with corresponding responsibilities for the different participants in the program.
+  Category: VM
+  Q No.: 1.c
+  Conformance Questions: |-
+    Have you identified the roles and the corresponding responsibilities that affect the performance and effectiveness of the Program?
+  Generic Policy Text: |-
+    You can find [COMPANY]'s list of roles and corresponding responsibilities for the different program participants in [see Appendix 1 for a sample].
+  Foundations Specific: |-
+    The [FOUNDATION]'s list of roles and corresponding responsibilities for the different program participants can be found in [see Appendix 1 for a sample].
+- order: 28
+  OCS Section: 3.1.2.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A document that identifies the
+    competencies for each role.
+  Category: VM
+  Q No.: 1.d
+  Conformance Questions: 'Have you identified and documented the competencies required
+    for each role?
+
+    '
+  Generic Policy Text: |-
+    You can find [COMPANY]'s list of competencies for each role in the program in [see Appendix 1 for a sample].
+  Foundations Specific: |-
+    The [FOUNDATION]'s list of competencies for each role in the program can be found in [see Appendix 1 for a sample].
+- order: 29
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    All program participants must undertake training covering the competencies required for their role, and at a minimum basic training. Appendix 5 contains details of the training requirements for each role.
+  Foundations Specific: |-
+    All [FOUNDATION] program participants must undertake training covering the competencies required for their role, and at a minimum basic training. Appendix 5 contains details of the training requirements for each role.
+- order: 30
+  OCS Section: 3.1.2.3
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Documented evidence of assessed
+    competence for each program participant.
+  Category: VM
+  Q No.: 1.e
+  Conformance Questions: |-
+    Have you documented evidence of assessed competence for each Program participant?
+  Generic Policy Text: |-
+    Every program participant will be assessed, and records of the assessment will be found [in the [COMPANY] learning management system][will be kept by the HR department] and retained for [at least 6 years].
+  Foundations Specific: |-
+    Every program participant will be assessed, and records of the assessment will be retained by the [FOUNDATION] for [at least 6 years].
+- order: 31
+  OCS Section: 3.1.2.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure that the program participants have obtained a sufficient level of competence for their respective roles and responsibilities.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 32
+  OCS Section: 3.1.3
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Awareness"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 33
+  OCS Section: 3.1.3.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    The organization shall ensure that the program participants are aware of:
+    - The open source policy;
+    - Relevant open source objectives;
+    - Their contribution to the effectiveness of the program; and
+    - The implications of not following the program's requirements.
+  Category: RQ
+  Q No.: 1.f
+  Conformance Questions: |
+    Do you have evidence documenting the awareness of your
+    personnel of the following topics?
+
+    1.f.i - The open source policy and where to find it;
+
+    1.f.ii - The relevant open source objectives;
+
+    1.f.iii - The contributions expected to ensure the effectiveness of the Program;
+
+    1.f.iv - The implications of failing to follow the Program requirements.
+  Generic Policy Text: |-
+    - A copy of our open source policy can be found at [insert link].
+    - Our open source objectives are set out in the introduction to this policy.
+    - You contribute to the effectiveness of the program by understanding the rationale behind, and content of, this policy. This includes keeping yourself up to date with our business practices, and also keeping up to date with current software development practices and techniques. You can do this by following news sources like [insert sources], participating in [list forums, mailing lists], and undertaking training activities. If you have any questions relating to this policy, or to our practices and procedures relating to open source, please do not hesitate to contact [Open Source Compliance Lead - see Appendix 1].
+    - It is important that [COMPANY] adheres to this policy. Failure to do so may lead to:
+    - legal claims from the holders of copyright or other intellectual property rights in code we use;
+    - claims from our customers;
+    - the inadvertent release of [COMPANY] proprietary code;
+    - breach of regulatory obligations by [COMPANY] potentially leading to fines;
+    - loss of reputation;
+    - loss of revenue;
+    - breach of contract with suppliers and customers.
+    For this reason, we take breaches of this policy seriously, and any individual breaching the policy may find themselves subject to [COMPANY]'s disciplinary procedure.
+  Foundations Specific: |-
+    - This open source policy is, and will remain available, at [insert link].
+    - Our open source objectives are set out in the introduction to this policy.
+    - You contribute to the effectiveness of the program by understanding the rationale behind, and content of, this policy. This includes keeping yourself up to date with our activities and practices, and also keeping up to date with current software development practices and techniques. You can do this by following news sources like [insert sources], participating in [list forums, mailing lists], and undertaking training activities. If you have any questions relating to this policy, or to our practices and procedures relating to open source, please do not hesitate to contact [Open Source Compliance Lead - see Appendix 1].
+    - It is important that the [FOUNDATION] adheres to this policy. Failure to do so may lead to:
+    - legal claims from the holders of copyright or other intellectual property rights in code we use;
+    - claims from recipients of our code;
+    - the inadvertent release of code we are not permitted to release;
+    - breach of regulatory obligations by the [FOUNDATION] potentially leading to fines;
+    - loss of reputation;
+    - loss of funding and income;
+    - breach of contract.
+    For this reason, we take breaches of this policy seriously, and any individual breaching the policy may find themselves subject to disciplinary action.
+- order: 34
+  OCS Section: 3.1.3.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Documented evidence of assessed awareness for the program participants - which should include the program's objectives, one's contribution within the program, and implications of program non-conformance.
+  Category: VM
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    The [COMPANY]'s training and assessment program will cover the objectives of each program in which you participate, your role within the program, and implications to the company and to individuals for non-conformance. Evidence of your assessment will be [contained in the [COMPANY] learning management system][maintained by the HR department].
+  Foundations Specific: |-
+    The [FOUNDATION]'s training and assessment program will cover the objectives of each program in which you participate, your role within the program, and implications to the [FOUNDATION] and to individuals for non-conformance. Evidence of your assessment will be retained by the [FOUNDATION] [in line with the [FOUNDATION]'s HR data retention/destruction policy].
+- order: 35
+  OCS Section: 3.1.3.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure the program participants have obtained a sufficient level of awareness for their respective roles and responsibilities within the program.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 36
+  OCS Section: 3.1.4
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Program scope"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 37
+  OCS Section: 3.1.4.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department or an entire organization. The scope designation needs to be declared for each program.
+  Category: RQ
+  Q No.: 1.g
+  Conformance Questions: 'Do you have a process for determining the scope of your
+    Program?
+    '
+  Generic Policy Text: |-
+    The Open Source Compliance Lead will consider at the initiation of any new project within [COMPANY] whether that project should also be included within the scope of the program, and if so, that proposal shall be made to the Board Members through the Open Source Compliance Board Member and if the proposal is adopted, the scope of the program, and if necessary, this policy, will be amended accordingly. The Open Source Compliance Lead may also initiate a review of the scope of the program at any time they consider it appropriate to do so, following the same process.
+  Foundations Specific: |-
+    The Open Source Compliance Lead will consider at the initiation of any new project within the [FOUNDATION] whether that project should also be included within the scope of the program, and if so, that proposal shall be made to the [Board Members] through the Open Source Compliance Board Member and if the proposal is adopted, the scope of the program, and if necessary, this policy, will be amended accordingly. The Open Source Compliance Lead may also initiate a review of the scope of the program at any time they consider it appropriate to do so, following the same process.
+- order: 38
+  OCS Section: 3.1.4.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |- 
+    A written statement that clearly
+    defines the scope and limits of the program.
+  Category: VM
+  Q No.: 1.h
+  Conformance Questions: |
+    Do you have a written statement that clearly defines the scope and limits of the Program?
+  Generic Policy Text: |-
+    This open source policy covers [all products which COMPANY makes available or distributes externally]. [In future, the COMPANY may determine that different products and projects are part of different programs, and each program may have a different scope].
+  Foundations Specific: |-
+    This open source policy covers projects developed under the [FOUNDATION]'s program. [In future, the [FOUNDATION] may determine that different products and projects are part of different programs, and each program may have a different scope.]
+- order: 39
+  OCS Section: 3.1.4.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To provide the flexibility to construct a program that best fits the scope of an organization's needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 40
+  OCS Section: 3.1.5
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "License obligations"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 41
+  OCS Section: 3.1.5.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A process exists for reviewing the identified licenses to determine the obligations, restrictions and rights granted by each license.
+  Category: RQ
+  Q No.: 1.i
+  Conformance Questions: |
+    Do you have a process for reviewing open source license obligations, restrictions and rights?
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 42
+  OCS Section: 3.1.5.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure to review and document the obligations, restrictions and rights granted by each identified license.
+  Category: VM
+  Q No.: 1.j
+  Conformance Questions: |-
+    Do you have a documented procedure to review and document the obligations, restrictions and rights?
+  Generic Policy Text: |-
+    Our procedure for reviewing and documenting the obligations, restrictions and rights granted by each identified license is as follows:
+    - [Open Source Compliance Lead] makes a preliminary assessment of the license based on the criteria set out in [Appendix 2].
+    - In case of any doubt, [Open Source Compliance Lead] refers the question to [External Legal Counsel][whose details are in Appendix 1].
+    - The outcome of any determination, and associated rationale (whether internal or external) is recorded in the open source log.
+  Foundations Specific: |-
+    Our procedure for reviewing and documenting the obligations, restrictions and rights granted by each identified license is as follows:
+    - [Open Source Compliance Lead] makes a preliminary assessment of the license based on the criteria set out in [Appendix 2].
+    - In case of any doubt, [Open Source Compliance Lead] refers the question to [External Legal Counsel][whose details are in Appendix 1].
+    - The outcome of any determination, and associated rationale (whether internal or external) is recorded in the open source log.
+- order: 43
+  OCS Section: 3.1.5.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in requirement 3.3.2)
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 44
+  OCS Section: 3.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |- 
+    Relevant tasks defined and supported
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 45
+  OCS Section: 3.2.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Access"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 46
+  OCS Section: 3.2.1.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Maintain a process to effectively respond to external open source inquiries. Publicly identify a means by which a third party can make an open source compliance inquiry.
+  Category: RQ
+  Q No.: 2.a
+  Conformance Questions: |
+    Have you assigned individual(s) responsible for receiving external open source compliance inquiries ("Open Source Liaison")?
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 47
+  OCS Section: 3.2.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Publicly visible method that allows any third party to make an open source license compliance inquiry (e.g., via a published contact email address, or the Linux Foundation's Open Compliance Directory).
+  Category: VM
+  Q No.: 2.b
+  Conformance Questions: |
+    Is the Open Source Liaison function publicly identified (e.g. via an email address and/or the Linux Foundation's Open Compliance Directory)?
+  Generic Policy Text: |-
+    Details of our Open Source Liaison can be found at [link to externally facing website]. Further details of our Open Source Liaison can be found in [Appendix 1].
+  Foundations Specific: |-
+    Details of our Open Source Liaison can be found at [link to externally facing website]. Further details of our Open Source Liaison can be found in [Appendix 1].
+- order: 48
+  OCS Section: 3.2.1.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    An internal documented procedure for responding to third party open source license compliance inquiries.
+  Category: VM
+  Q No.: 2.c
+  Conformance Questions: |
+    Do you have a documented procedure that assigns responsibility for receiving and responding to open source compliance inquiries?
+  Generic Policy Text: |-
+    Anyone receiving an open source compliance inquiry from outside the [COMPANY] shall refer it to the Open Source Liaison who shall, in consultation with the Open Source Compliance Lead [both of whose details are in Appendix 1], have overall responsibility for dealing with the enquiry, and, where appropriate, assigning the handling of all or part of it to suitable individuals within [COMPANY], or, where they determine appropriate, to External Legal Counsel whose details are [also in Appendix 1].
+  Foundations Specific: |-
+    Anyone receiving an open source compliance enquiry from outside
+    the [FOUNDATION] shall refer it to the Open Source Liaison who shall, in consultation
+    with the Open Source Compliance Lead [whose details are in Appendix 1], have
+    overall responsibility for dealing with the enquiry, and, where appropriate,
+    assigning\_ the handling of all or part of it to suitable individuals within
+    the [FOUNDATION], or, where they determine appropriate, to External Legal Counsel
+    whose details are [also in Appendix 1].
+- order: 49
+  OCS Section: 3.2.1.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure there is a reasonable way for third parties to contact the organization with regard to open source compliance inquiries and that the organization is prepared to effectively respond.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 50
+  OCS Section: 3.2.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Effectively resourced"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 51
+  OCS Section: 3.2.2.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Identify and Resource Program Task(s):
+    - Assign accountability to ensure the successful execution of program tasks.
+    - Program tasks are sufficiently resourced:
+    - Time to perform the tasks have been allocated; and
+    - Adequate funding has been allocated.
+    - A process exists for reviewing and updating the policy and supporting tasks;
+    - Legal expertise pertaining to open source license compliance is accessible to those who may need such guidance; and
+    - A process exists for the resolution of open source license compliance issues.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 52
+  OCS Section: 3.2.2.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Document with name of persons,
+    group or function in program role(s) identified.
+  Category: VM
+  Q No.: 2.d
+  Conformance Questions: |
+    Have you documented the persons, group or function supporting the Program role(s) identified?
+  Generic Policy Text: |-
+    The Open Source Compliance Lead is primarily responsible for day-to-day internal open source compliance issues, supported by the [list persons, groups and their functions whose details are in Appendix 1].
+  Foundations Specific: |-
+    The Open Source Compliance Lead is primarily responsible for day-to-day internal open source compliance issues, supported by the [list persons, groups and their functions whose details are in Appendix 1]. The [FOUNDATION] may outsource the role of Open Source Compliance Lead to a third party, provided that third party complies with this Policy as if they were internal to the [FOUNDATION].
+- order: 53
+  OCS Section: 3.2.2.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    The identified program roles have been properly staffed and adequate funding provided.
+  Category: VM
+  Q No.: 2.e
+  Conformance Questions: |
+    Have the identified Program roles been properly staffed and has adequate funding provided?
+  Generic Policy Text: |-
+    [COMPANY] shall ensure that the identified program roles are staffed, adequately funded and allocated with time to perform their duties. Any individual in an identified program role who believes that their role is inadequately resourced and funded must take up the issue with the Open Source Compliance Lead who shall investigate and seek to resolve the issue promptly, and failing effective resolution of the issue, shall take it up with the Open Source Compliance Board Member.
+  Foundations Specific: |-
+    The [FOUNDATION] shall ensure that the identified program roles are staffed, adequately funded and allocated with time to perform their duties. Any individual in an identified program role who believes that their role is inadequately resourced and funded must take up the issue with the Open Source Compliance Lead who shall investigate and seek to resolve the issue promptly, and failing effective resolution of the issue, shall take it up with the Open Source Compliance Board Member.
+- order: 54
+  OCS Section: 3.2.2.3
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Identification of legal expertise available to address open source license compliance matters which could be internal or external.
+  Category: VM
+  Q No.: 2.f
+  Conformance Questions: |
+    Is legal expertise pertaining to internal and external open source compliance identified?
+  Generic Policy Text: |-
+    We engage [the law firm Bristows LLP, and Orcro Limited, a specialist open source compliance company] to provide legal and associated compliance advice. Any legal or compliance requests should be routed to [Open Source Compliance Lead] who will determine whether it is necessary to involve external advisers. The efficacy and appropriateness of our external advisers shall be assessed and reviewed at least annually by the Open Source Compliance Lead.
+  Foundations Specific: |-
+    We engage [the law firm Bristows LLP, and Orcro Limited, a specialist open source compliance company] to provide legal and associated compliance advice. Any legal or compliance requests should be routed to [Open Source Compliance Lead] who will determine whether it is necessary to involve external advisers. The efficacy and appropriateness of our external advisers shall be assessed and reviewed at least annually by the Open Source Compliance Lead.
+- order: 55
+  OCS Section: 3.2.2.4
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure that assigns internal responsibilities for open source compliance.
+  Category: VM
+  Q No.: 2.g
+  Conformance Questions: |-
+    Do you have a documented procedure assigning internal responsibilities for Open Source compliance.
+  Generic Policy Text: |-
+    The Open Source Compliance Lead [and <list supporting persons, groups and their functions as set out in Appendix 1>] shall be primarily responsible for the resolution of day-to-day internal compliance issues, as well as updating and reviewing this policy.
+
+    The Open Source Compliance Lead shall be responsible for
+    - Reviewing, implementing and communicating this policy;
+    - Reviewing and implementing training and assessment for open source compliance related issues (in conjunction with HR);
+    - Overseeing the activities of the Open Source Liaison;
+    - Categorising identified licenses;
+    - Keeping themselves appraised of up-to-date issues around open source compliance, including involvement with appropriate forums, user groups and mailing lists, and keeping in regular contact with the external legal [and compliance] advisors as set out in Appendix 1;
+    - Keeping the Board, and in particular, the Open Source Compliance Board Member, up to date with activities affected by this open source policy;
+    - [list any additional persons, groups and their responsibilities as further set out in Appendix 1]
+  Foundations Specific: |-
+    The Open Source Compliance Lead [and <list supporting persons, groups and their functions as set out in Appendix 1>] shall be primarily responsible for the resolution of day-to-day internal compliance issues, as well as updating and reviewing this policy.
+
+    The Open Source Compliance Lead shall be responsible for
+    - Reviewing, implementing and communicating this policy;
+    - Reviewing and implementing training and assessment for open source compliance related issues (in conjunction with [FOUNDATION]'s HR or Equivalent];
+    - Overseeing the activities of the Open Source Liaison;
+    - Categorising identified licenses;
+    - Keeping themselves appraised of up-to-date issues around open source compliance, including involvement with appropriate forums, user groups and mailing lists, and keeping in regular contact with the external legal [and compliance] advisors as set out in Appendix 1;
+    - Keeping the Board, and in particular, the Open Source Compliance Board Member, up to date with activities affected by this open source policy;
+    - [list any additional persons, groups and their responsibilities as further set out in Appendix 1]
+- order: 56
+  OCS Section: 3.2.2.5
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure for handling the review and remediation of non-compliant cases.
+  Category: VM
+  Q No.: 2.h
+  Conformance Questions: |-
+    Do you have a documented procedure for handling review and remediation of non-compliant cases?
+  Generic Policy Text: |-
+    Should a non-compliance issue be raised, the Open Source Compliance Lead shall:
+
+    1. Acknowledge receipt of the query and state a reasonable time for resolution;
+    2. Determine whether the query discloses a genuine issue or not (and if not, respond to the querier accordingly);
+    3. If the issue is genuine, apply [Appendix 4: incident severity criteria] to prioritise;
+    4. Determine the appropriate response according to [Appendix 4: incident response criteria];
+    5. Carry out response in accordance with criteria, changing client terms of business etc. as appropriate; and
+    6. Document the above in the open source log.
+  Foundations Specific: |-
+    Should a non-compliance issue be raised, the Open Source Compliance Lead shall:
+
+    1. Acknowledge receipt of the query and state a reasonable time for resolution;
+    2. Determine whether the query discloses a genuine issue or not (and if not, respond to the querier accordingly);
+    3. If the issue is genuine, apply [Appendix 4: incident severity criteria] to prioritise;
+    4. Determine the appropriate response according to [Appendix 4: incident response criteria];
+    5. Carry out response in accordance with criteria, changing client terms of business etc. as appropriate; and
+    6. Document the above in the open source log.
+- order: 57
+  OCS Section: 3.2.2.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure: i) program responsibilities are effectively supported and resourced and ii) policies and supporting processes are regularly updated to accommodate changes in open source compliance best practices.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 58
+  OCS Section: 3.3
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Open source content review and approval"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 59
+  OCS Section: 3.3.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Bill of materials"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 60
+  OCS Section: 3.3.1.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A process exists for creating and managing a bill of materials that includes each open source component (and its identified licenses) from which the supplied software is comprised.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    We have a process for ensuring that only code meeting our quality, licensing, provenance and functional requirements is incorporated into our code base and supplied software. All code must be approved before incorporation, and all code use (and the decisions that led to its inclusion) must be properly documented in the open source log.
+  Foundations Specific: |-
+    We have a process for ensuring that only code meeting our quality, licensing, provenance and functional requirements is incorporated into our code base and supplied software. All code must be approved before incorporation, and all code use (and the decisions that led to its inclusion) must be properly documented in the open source log.
+
+    All projects which are within the scope of this program will consider contributions from third parties provided that those third parties have entered into the standard [Contributor License Agreement/Developer Certificate of Origin] and are not otherwise excluded. Where an external contributor requests to incorporate any third party code, that code shall only be incorporated into the codebase by the Open Source Compliance Lead or other authorised program participant in accordance with the code selection procedure [set out in Appendix 3] and other requirements set out in this policy.
+
+    Although external contributors are not required to adhere to this policy, they are encouraged to read it and familiarise themselves with it. They will be asked to provide information about the provenance of any third party code which they propose to incorporate into the code base, so that the Open Source Compliance Lead (or authorised program participant) can make a determination, in accordance with this policy, as to whether it should be included or not. Understanding the criteria for inclusion (and asking appropriate questions before starting to consider third party code) will save time for both the contributor and the Open Source Compliance Lead.
+- order: 61
+  OCS Section: 3.3.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |
+    A documented procedure for identifying, tracking, reviewing, approving, and archiving information about the collection of open source components from which the supplied software is comprised.
+  Category: VM
+  Q No.: 3.a
+  Conformance Questions: |
+    Do you have a documented procedure for identifying, tracking and archiving information about the collection of open source components from which a Supplied Software release is comprised?
+  Generic Policy Text: |-
+    All decisions carried out under this policy shall be recorded in the open source log, with details of the background, decision made, date, source of request, and name of the decision maker.
+
+    The open source log shall be reviewed annually, and any entries relating to code which is no longer currently used or distributed shall be flagged. All such entries shall be archived after [three years] of being flagged, and shall be anonymised after [six years].
+  Foundations Specific: |-
+    All decisions carried out under this policy shall be recorded in the open source log, with details of the background, decision made, date, source of request, and name of the decision maker.
+
+    The open source log shall be reviewed annually, and any entries relating to code which is no longer currently used or distributed shall be flagged. All such entries shall be archived after [three years] of being flagged, and shall be anonymised after [six years].
+- order: 62
+  OCS Section: 3.3.1.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    Open source component records for the supplied software that demonstrates the documented procedure was properly followed.
+  Category: VM
+  Q No.: 3.b
+  Conformance Questions: |
+    Do you have open source component records for each Supplied Software release which demonstrates the documented procedure was properly followed?
+  Generic Policy Text: |-
+    The open source log shall be maintained so as to ensure that each entry is cross referenced to the supplied software release or releases it referred to, to enable it to be sorted so that a subset of all log entries for a specific release can be produced, demonstrating that this procedure has been properly followed.
+  Foundations Specific: |-
+    The open source log shall be maintained so as to ensure that each entry is cross referenced to the supplied software release or releases it referred to, to enable it to be sorted so that a subset of all log entries for a specific release can be produced, demonstrating that this procedure has been properly followed.
+- order: 63
+  OCS Section: 3.3.1.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure a process exists for creating and managing an open source component bill of materials used to construct the supplied software. A bill of materials is needed to support the systematic review and approval of each component's license terms to understand the obligations and restrictions as it applies to the distribution of the supplied software.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 64
+  OCS Section: 3.3.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "License compliance"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 65
+  OCS Section: 3.3.2.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    The program must be capable of managing common open source license use cases encountered by program participants for supplied software, which may include the following use cases (note that the list is neither exhaustive, nor may all of the use cases apply):
+    - Distributed in binary form;
+    - Distributed in source form;
+    - Integrated with other open source such that it triggers additional licensing obligations;
+    - Contains modified open source;
+    - Contains open source or other software under an incompatible license interacting with other components within the supplied software; and/or
+    - Contains open source with attribution requirements.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 66
+  OCS Section: 3.3.2.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure for handling the common open source license use cases for the open source components of the supplied software.
+  Category: VM
+  Q No.: 3.c
+  Conformance Questions: |
+    Have you implemented a procedure that handles at least the following common open source license use cases for the open source components of each supplied Supplied Software release?
+
+    3.c.i - distributed in binary form;
+
+    3.c.ii - distributed in source form;
+
+    3.c.iii - integrated with other open source such that it may trigger copyleft obligations;
+
+    3.c.iv - contains modified open source;
+
+    3.c.v - contains open source or other software under an incompatible license interacting with other components within the Supplied Software;
+
+    3.c.vi - contains open source with attribution requirements.
+  Generic Policy Text: |-
+    [Appendix 2: licenses] contains a list of frequently encountered licenses covering the code in each release of supplied software categorising how each license deals with distribution in binary form, source form, strong or weak copyleft, provided on a SaaS basis, is modified or contains attribution requirements. Any code which is released under a license not in the database shall be referred to review as set out in [reference].
+
+    The inclusion of any code into any release of supplied software shall follow [Appendix 3: Source acceptability criteria].
+  Foundations Specific: |-
+    [Appendix 2: licenses] contains a list of frequently encountered licenses covering the code in each release of supplied software categorising how each license deals with distribution in binary form, source form, strong or weak copyleft, provided on a SaaS basis, is modified or contains attribution requirements. Any code which is released under a license not in the database shall be referred to review as set out in [reference].
+
+    The inclusion of any code into any release of supplied software shall follow [Appendix 3: Source acceptability criteria].
+- order: 67
+  OCS Section: 3.3.2.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure the program is sufficiently robust to handle an organization's common open source license use cases. That a procedure exists to support this activity and that the procedure is followed.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 68
+  OCS Section: 3.4
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Compliance artifact creation and delivery"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 69
+  OCS Section: 3.4.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Compliance artifacts"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 70
+  OCS Section: 3.4.1.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A process exists for creating the set of compliance artifacts for the supplied software.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    Open source licenses attach a variety of requirements to the distribution of source and/or binaries. Some require notices to be displayed by or with the running code, while others have requirements relating to the content and location of attribution, copyright statements, disclaimers and similar. Copyleft licenses also require copies of corresponding source to be made available to the recipient or to the general public. A failure to comply with any of these requirements would breach the license and amount to non-compliance with this policy with potentially serious consequences. For convenience, all these various materials are called "compliance artifacts", and the compilation of them into a specific release of supplied software is called the compliance log book.
+  Foundations Specific: |-
+    Open source licenses attach a variety of requirements to the distribution of source and/or binaries. Some require notices to be displayed by or with the running code, while others have requirements relating to the content and location of attribution, copyright statements, disclaimers and similar. Copyleft licenses also require copies of corresponding source to be made available to the recipient or to the general public. A failure to comply with any of these requirements would breach the license and amount to non-compliance with this policy with potentially serious consequences. For convenience, all these various materials are called "compliance artifacts", and the compilation of them into a specific release of supplied software is called the compliance log book.
+- order: 71
+  OCS Section: 3.4.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure that describes the process under which the compliance artifacts are prepared and distributed with the supplied software as required by the identified licenses.
+  Category: VM
+  Q No.: 4.a
+  Conformance Questions: |
+    Do you have a documented procedure that describes a process that ensures the Compliance Artifacts are distributed with Supplied Software as required by the Identified Licenses?
+  Generic Policy Text: |-
+    For each component which is incorporated into a supplied software release, the appropriate compliance artifacts shall be compiled into the compliance log book for that release. The compliance log book shall be compiled in such a format that it complies with the relevant license terms (for example, it may be necessary to provide the specific text of a license, rather than a link to the text). Where appropriate, and required by the mode of distribution of the release, the compliance log book shall also be published online at [insert link].
+
+    In general, we favour providing the whole of the text of the relevant license in the compliance log book, even if only providing part of the text (e.g. an attribution notice and disclaimer) is permissible.
+  Foundations Specific: |-
+    For each component which is incorporated into a supplied software release, the appropriate compliance artifacts shall be compiled into the compliance log book for that release. The compliance log book shall be compiled in such a format that it complies with the relevant license terms (for example, it may be necessary to provide the specific text of a license, rather than a link to the text). Where appropriate, and required by the mode of distribution of the release, the compliance log book shall also be published online at [insert link].
+
+    Where the distribution mode of the supplied software release is from a specific repository which also contains the source code, the project repository shall be considered to be the "compliance log book" provided that it complies with all the requirements of the identified licenses, and it shall therefore be considered to be "published" for the purposes of this policy.
+
+    In general, we favour providing the whole of the text of the relevant license in the compliance log book, even if only providing part of the text (e.g. an attribution notice and disclaimer) is permissible.
+- order: 72
+  OCS Section: 3.4.1.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure for archiving copies of the compliance artifacts of the supplied software - where the archive is planned to exist for a reasonable period of time (determined by domain, legal jurisdiction and/or customer contracts) since the last offer of the supplied software; or as required by the identified licenses (whichever is longer). Records exist that demonstrate the procedure has been properly followed.
+  Category: VM
+  Q No.: '4.b
+
+
+
+    4.c'
+  Conformance Questions: |-
+    Do you archive copies of the Compliance Artifacts of the Supplied Software?
+
+    Are the copies of the Compliance Artifacts archived for at least as long as the Supplied Software is offered or as required by the Identified Licenses (whichever is longer)?
+  Generic Policy Text: |-
+    The compliance artifacts for all previous releases of supplied software shall be retained [in the open source log] and archived as set out above [insert reference].
+  Foundations Specific: |-
+    The compliance artifacts for all previous releases of supplied software shall be retained [in the open source log] and archived as set out above [insert reference].
+- order: 73
+  OCS Section: 3.4.1.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure reasonable commercial efforts have been instituted in the preparation of the compliance artifacts that accompany the supplied software, as required by the identified licenses.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 74
+  OCS Section: 3.5
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Understand open Source community engagement"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 75
+  OCS Section: 3.5.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Contributions"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 76
+  OCS Section: 3.5.1.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |
+    If an organization considers contributions to open source projects, then:
+    - a written policy exists that governs contributions to open source projects;
+    - the policy must be internally communicated; and
+    - a process exists that implements the policy
+  Category: RQ
+  Q No.: 5.a
+  Conformance Questions: |
+    Do you have a policy that governs contributions to open source projects on behalf of the organization?
+  Generic Policy Text: |-
+    [Our own open source projects have a vibrant community around them, and we encourage participation from people both inside and outside [COMPANY]. For more information, please see [OUR PROJECT AND COMMUNITY]].
+
+    We recognise the benefits of becoming involved in open source projects, from personal satisfaction of our team, through to gaining in-depth understanding of the project in question, being able to help influence the direction of movement of the project as a whole, and also ensuring that any bug fixes and enhancements we contribute are not kept to ourselves (which would, over time, mean we have forked the project, and creates a support headache) but become part of the main supported release.
+
+
+    OR
+
+
+    We recognise the benefit of open source projects and are supportive of their goals. Where deemed appropriate by the Open Source Liaison we may contribute bug fixes or other material to projects of our choosing. Unapproved contributions may not be made by any staff of the company at any time.
+  Foundations Specific: |-
+    Our own open source projects have a vibrant community around them, and we encourage participation from people both inside and outside the [FOUNDATION].
+
+    We recognise the benefits of becoming involved in other relevant open source projects, from personal satisfaction of our team, through to gaining in-depth understanding of the project in question, being able to help influence the direction of movement of the project as a whole, and also ensuring that any bug fixes and enhancements we contribute are not kept to ourselves (which would, over time, mean we have forked the project, and creates a support headache) but become part of the main supported release. We also support interoperability of open source projects, and adherence to open standards.
+- order: 77
+  OCS Section: 3.5.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "A documented open source contribution policy"
+  Category: VM
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    We encourage our team to get involved in open source (and similar) projects outside [COMPANY]. If you want to join a project, please see the Open Source Compliance Lead for more information. Aside from projects that [COMPANY] has involvement in, feel free to contribute to other projects in your own time. Note, however, your obligations to [COMPANY] relating to trade secrets, confidential information and our intellectual property. For this reason, you must clear any participation with Open Source Compliance Lead before starting to contribute to projects which may have some connection with your work for [COMPANY].
+
+    OR
+
+
+    We do not generally encourage involvement in open source (and similar) projects outside [COMPANY]. If you wish to become involved in a project outside [COMPANY] please seek explicit permission from the Open Source Liaison. This is required given your obligations to [COMPANY] relating to confidential information, trade secrets and our intellectual property.
+  Foundations Specific: |-
+    We encourage our team to get involved in open source (and similar) projects outside the [FOUNDATION]. If you want to join a project, please see the Open Source Compliance Lead for more information. Aside from projects that the [FOUNDATION] has involvement in, feel free to contribute to other projects in your own time. Note, however, your obligations to the [FOUNDATION] relating to trade secrets, confidential information our own intellectual property. For this reason, you must clear any participation with the [Open Source Compliance Lead | Open Source Liaison] before starting to contribute to projects which may have some connection with your work for the [FOUNDATION]. Permission will only be withheld in exceptional circumstances.
+- order: 78
+  OCS Section: 3.5.1.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure that governs open source contributions
+    Category: VM
+    Q No.: 5.b
+    Conformance Questions: 'Do you have a documented procedure that governs Open Source
+      contributions?
+
+      '
+  Generic Policy Text: |-
+    In order to contribute to an approved open source project, you may be asked to sign a developer certificate of origin, a contributor license agreement, or other document. It may be the case that we already have a signed blanket agreement in place, for example. Before contributing to any open source projects, you must check with Open Source Compliance Lead, and make sure that all requirements relating to documentation are fulfilled. You may use your [COMPANY] email address to register and identify yourself as the source of contributions once this clearance has been obtained.
+  Foundations Specific: |-
+    In order to contribute to an external open source project on behalf of the [FOUNDATION], you may be asked to sign a developer certificate of origin, a contributor license agreement, or other document. It may be the case that we already have a signed blanket agreement in place, for example. Before contributing to any open source projects, you must check with Open Source Compliance Lead, and make sure that all requirements relating to documentation are fulfilled. You may use your [FOUNDATION] email address to register and identify yourself as the source of contributions once this clearance has been obtained.
+- order: 79
+  OCS Section: 3.5.1.3
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A documented procedure that makes all program participants aware of the existence of the Open Source contribution policy (e.g., via training, internal wiki, or other practical communication method)
+  Category: VM
+  Q No.: 5.c
+  Conformance Questions: |-
+    Do you have a documented procedure that makes all Software Staff aware of the existence of the Open Source contribution policy?
+  Generic Policy Text: |+
+    More information about contributing to open source projects can be found [HERE] and the policy and training related to it is covered in the training referred to in [REF:TRAINING] above.
+
+  Foundations Specific: |-
+    More information about contributing to open source projects can be found [HERE] and the policy and training related to it is covered in the training referred to in [REF:TRAINING] above.
+- order: 80
+  OCS Section: 3.5.1.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    When an organization permits open source contributions, the intent is that the organization has given reasonable consideration to developing and implementing a contribution policy. The open source contribution policy can be made a part of the overall open source policy or be its own separate policy.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 81
+  OCS Section: 3.6
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Adherence to the Specification Requirements"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 82
+  OCS Section: 3.6.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Conformance"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 83
+  OCS Section: 3.6.1.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    In order for a program to be deemed OpenChain conformant, the organization must affirm that the program satisfies the requirements presented in the specification.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    [COMPANY] supports the Linux Foundation's OpenChain project. This is a conformance program designed to ensure that we know what code we have and are using; that it complies with the licensing obligations attached to it; that our team are trained in and understand issues around open source licensing and their use and deployment of code within [COMPANY], and that [COMPANY] has both internally- and externally-facing open source officers who are able to handle queries and support COMPANY's open source use and deployment. This policy has been carefully designed to be compliant with the OpenChain Specification v2.1, ISO/IEC 5230:2020. For more information about the OpenChain project, please see OpenChainProject.org
+  Foundations Specific: |-
+    The [FOUNDATION] supports the Linux Foundation's OpenChain project. This is a conformance program designed to ensure that we know what code we have and are using; that it complies with the licensing obligations attached to it; that our team are trained in and understand issues around open source licensing and their use and deployment of code within the [FOUNDATION], and that the [FOUNDATION] has both internally- and externally-facing open source officers who are able to handle queries and support the [FOUNDATION]'s open source use and deployment. This policy has been carefully designed to be compliant with the OpenChain Specification v2.1, ISO/IEC 5230:2020. For more information about the OpenChain project, please see OpenChainProject.org.
+- order: 84
+  OCS Section: 3.6.1.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A document affirming the program specified in requirement Section3.1.4 satisfies all the requirements of this specification.
+  Category: VM
+  Q No.: 6.a
+  Conformance Questions: |
+    Do you have documentation confirming that your Program meets all the requirements of this specification?
+  Generic Policy Text: |-
+    [COMPANY] affirms that as of
+    - [insert date] and in respect of [describe supplied software A]
+    - [insert date] and in respect of [describe supplied software B]
+    it is in compliance with the OpenChain Specification v 2.1, ISO/IEC 5230:2020. [Our public declaration can be found here [insert link]].
+  Foundations Specific: |-
+    The [FOUNDATION] affirms that as of
+    - [insert date] and in respect of [describe supplied software A]
+    - [insert date] and in respect of [describe supplied software B]
+    it is in compliance with the OpenChain Specification v 2.1, ISO/IEC 5230:2020. [Our public declaration can be found here [insert link]].
+- order: 85
+  OCS Section: 3.6.1.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    To ensure that if an organization declares that it has a program that is OpenChain conforming, that such program has met all the requirements of this specification. The mere meeting of a subset of these requirements would not be considered sufficient.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 86
+  OCS Section: 3.6.2
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: "Duration"
+  Category: H
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 87
+  OCS Section: 3.6.2.0
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A program that is OpenChain conformant with version 2.1 of the specification will last 18 months from the date conformance validation was obtained. The conformance validation registration procedure can be found on the OpenChain project's website.
+  Category: RQ
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 88
+  OCS Section: 3.6.2.1
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    A document affirming the program meets all the requirements of this version of the specification (version 2.1), within the past 18 months of obtaining conformance validation
+  Category: VM
+  Q No.: 6.b
+  Conformance Questions: |-
+    Do you have documentation confirming that your Program conformance was reviewed within the last 18 months?
+  Generic Policy Text: |-
+    [COMPANY] affirms that within the past 18 months of obtaining conformance validation, the program meets all the requirements of the OpenChain Specification v2.1, ISO/IEC 5230:2020. [Our public declaration can be found here [insert link]].
+
+    [COMPANY]'s affirmation of conformance will be reviewed and renewed if appropriate at intervals of at least [12|18 months].
+
+    The effectiveness and performance of this open source policy will be reviewed at [the same time as affirmation], and changes will be made and communicated in line with this policy where appropriate.
+  Foundations Specific: |-
+    The [FOUNDATION] affirms that within the past 18 months of obtaining conformance validation, the program meets all the requirements of the OpenChain Specification v2.1, ISO/IEC 5230:2020. [Our public declaration can be found here [insert link]].
+
+    The [FOUNDATION]'s affirmation of conformance will be reviewed and renewed if appropriate at intervals of at least [12|18 months].
+
+    The effectiveness and performance of this open source policy will be reviewed at [the same time as affirmation], and changes will be made and communicated in line with this policy where appropriate.
+- order: 89
+  OCS Section: 3.6.2.R
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: |-
+    It is important for a program to remain current with the specification if an organization wants to assert conformance over time. This requirement ensures that the program's supporting processes and controls do not erode if an organization continues to assert program conformance over time.
+  Category: RT
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: ''
+  Foundations Specific: ''
+- order: 90
+  OCS Section: ''
+  OpenChain Specification v2.1, ISO/IEC 5230:2020: ''
+  Category: TX
+  Q No.: ''
+  Conformance Questions: ''
+  Generic Policy Text: |-
+    [add a recorded clickthrough acceptance mechanism or a signature block if done on paper]
+
+    By [ticking/signing] and accepting this you confirm your understanding and acceptance of this open source policy and that you are aware of each program personnel and the program's objectives, your contribution within the program, and the implications of program non-conformance.
+
+    This policy shall not form part of your employment contract with [COMPANY] and you hereby consent to the [COMPANY] varying this open source policy and the related program from time to time, without your consent.
+  Foundations Specific: |-
+    [add a recorded clickthrough acceptance mechanism or a signature block if done on paper]
+
+    By [ticking/signing] and accepting this you confirm your understanding and acceptance of this open source policy and that you are aware of each program personnel and the program's objectives, your contribution within the program, and the implications of program non-conformance.
+
+    This policy shall not form part of any employment contract with the [FOUNDATION] and you hereby consent to the [FOUNDATION] varying this open source policy and the related program from time to time, without your consent.
