@@ -113,7 +113,7 @@ Note: Depending on the organization, that may include (but is not limited to) so
 
 ### 2.8 - supplied software
 
-software that an organization distributes to third parties (e.g., other organizations or individuals)
+software that an organization either provides or makes available to third parties
 
 ### 2.9 - verification materials
 
