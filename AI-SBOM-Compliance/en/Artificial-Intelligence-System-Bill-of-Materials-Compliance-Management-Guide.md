@@ -99,11 +99,11 @@ a collection of artifacts that represent the output of a compliance program and 
 
 ### 2.5 - identified licenses
 
-a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is comprised
+a set of licenses identified as a result of following an appropriate method of identifying components from which the supplied software is comprised
 
 ### 2.6 - program
 
-the set of policies, processes and personnel that comprise an organization's open source license compliance activities
+an organization's open source license compliance activities
 
 ### 2.7 - program participants
 
