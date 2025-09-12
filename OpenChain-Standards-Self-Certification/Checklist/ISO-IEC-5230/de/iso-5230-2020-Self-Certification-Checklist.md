@@ -23,15 +23,15 @@ https://openchainproject.org/checklist-iso-5230-2020
 
 ## Abschnitt 1: Programm-Grundlagen
 
-- [ ] Wir verfügen über eine dokumentierte Richtlinie, die die Open-Source-Lizenzkonformität der bereitgestellten Software regelt.
+- [ ] Wir verfügen über eine dokumentierte Richtlinie, welche die Open-Source-Lizenzkonformität der bereitgestellten Software regelt.
 
 - [ ] Wir verfügen über ein dokumentiertes Verfahren, um den Programmteilnehmern die Existenz der Open-Source-Richtlinie mitzuteilen.
 
-- [ ] Wir haben die Rollen und Verantwortlichkeiten identifiziert, die die Leistung und Wirksamkeit des Programms beeinflussen.
+- [ ] Wir haben die Rollen und Verantwortlichkeiten identifiziert, welche die Leistung und Wirksamkeit des Programms beeinflussen.
 
-- [ ] Wir haben die für jede Rolle erforderlichen Kompetenzen identifiziert und dokumentiert.
+- [ ] Wir haben für jede Rolle die erforderlichen Kompetenzen identifiziert und dokumentiert.
 
-- [ ] Wir haben die bewertete Kompetenz für jeden Programmteilnehmer dokumentiert.
+- [ ] Wir haben die Kompetenzbewertung für jeden Programmteilnehmer dokumentiert.
 
 - [ ] Wir haben dokumentiert, dass unsere Programmteilnehmer die Open-Source-Richtlinie kennen und wissen, wo sie zu finden ist.
 
@@ -79,7 +79,7 @@ https://openchainproject.org/checklist-iso-5230-2020
 
 - [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Einbeziehung von Open-Source- oder anderer Software unter inkompatiblen Lizenzen abdeckt, die mit anderen Komponenten der bereitgestellten Software interagieren.
 
-- [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Einbeziehung von Open Source mit Namensnennungspflichten in die bereitgestellte Software abdeckt.
+- [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Einbeziehung von Open Source mit Nennungspflichten in die bereitgestellte Software abdeckt.
 
 ## Abschnitt 4: Erstellung und Auslieferung von Konformitätsartefakten
 
