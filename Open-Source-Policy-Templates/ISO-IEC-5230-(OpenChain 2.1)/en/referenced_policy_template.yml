@@ -721,9 +721,13 @@
   Q No.: ''
   Conformance Questions: ''
   Generic Policy Text: |-
-    We have a process for ensuring that only code meeting our quality, licensing, provenance and functional requirements is incorporated into our code base and supplied software. All code must be approved before incorporation, and all code use (and the decisions that led to its inclusion) must be properly documented in the open source log.
+    We have a process [insert link to process] for ensuring that all code components incorporated into any supplied software are recorded in a software bill of materials [in SPDX format] accompanying each version of supplied software.
+    
+    Only code meeting our quality, licensing, provenance and functional requirements is incorporated into our code base and supplied software. All code must be approved before incorporation, and all code use (and the decisions that led to its inclusion) must be properly documented in the associated software bill of materials and the open source log. 
   Foundations Specific: |-
-    We have a process for ensuring that only code meeting our quality, licensing, provenance and functional requirements is incorporated into our code base and supplied software. All code must be approved before incorporation, and all code use (and the decisions that led to its inclusion) must be properly documented in the open source log.
+    We have a process [insert link to process] for ensuring that all code components incorporated into any supplied software are recorded in a software bill of materials [in SPDX format] accompanying each version of supplied software.
+    
+    Only code meeting our quality, licensing, provenance and functional requirements is incorporated into our code base and supplied software. All code must be approved before incorporation, and all code use (and the decisions that led to its inclusion) must be properly documented in the associated software bill of materials and the open source log. 
 
     All projects which are within the scope of this program will consider contributions from third parties provided that those third parties have entered into the standard [Contributor License Agreement/Developer Certificate of Origin] and are not otherwise excluded. Where an external contributor requests to incorporate any third party code, that code shall only be incorporated into the codebase by the Open Source Compliance Lead or other authorised program participant in accordance with the code selection procedure [set out in Appendix 3] and other requirements set out in this policy.
 
