@@ -1,6 +1,6 @@
 #### Please note 
 
-This document is generated from the full OpenChain Policy Template Spreadsheet document at this URL: https://github.com/OpenChain-Project/Reference-Material/tree/master/Open-Source-Policy-Templates/ISO-IEC-5230-(OpenChain%202.1)/en and that this link is current as of 2025-06-16. If the full URL does not work, you should be able to find the full policy template using the instruction in the README file at this link: https://github.com/OpenChain-Project/Reference-Material
+This document is generated from the full OpenChain Policy Template Spreadsheet document at this URL: https://github.com/OpenChain-Project/Reference-Material/tree/master/Open-Source-Policy-Templates/ISO-IEC-5230-(OpenChain%202.1)/en and that this link is current as of 2025-08-10. If the full URL does not work, you should be able to find the full policy template using the instruction in the README file at this link: https://github.com/OpenChain-Project/Reference-Material
 
 This document is not intended to be a complete or prescriptive or recommended open source policy. It is provided as an example only.
 
