@@ -14,7 +14,7 @@ This repository contains documentation. Typical contributions are:
 * Corrections and improvements to existing documents: fixing typos, spelling, grammar, phrasing.
 * Conversion of documents from other formats to Markdown.
 * Reviewing [existing Pull Requests](https://github.com/OpenChain-Project/Reference-Material/pulls).
-* [Submitting issues](https://github.com/OpenChain-Project/Reference-Material/issues/new) identifying problems with current content, or suggesting new content.
+* [Submitting issues](https://github.com/OpenChain-Project/Reference-Material/issues/new) identifying problems with current content, or suggesting new content, ideally by submitting a [pull request] which, if accepted, resolves the issue (please reference the issue in the pull request).
 * Working on [existing issues](https://github.com/OpenChain-Project/Reference-Material/issues).
 
 Other contributions are welcomed too, such as:
@@ -30,6 +30,7 @@ Contributions are also welcomed through [discussions](https://www.openchainproje
 Issues with the documentation in this repository can be [logged as issues in GitHub](https://github.com/OpenChain-Project/Reference-Material/issues).
 
 ## Submitting Corrections and Contributions
+[pull request]: #submitting-corrections-and-contributions
 
 Please create a pull request (PR). If you are new to contributions through GitHub, these resources may help:
 * OpenChain has a guide to [Getting Started with GittHub and GitHub Pages](https://openchain-project.github.io/github-training/).
