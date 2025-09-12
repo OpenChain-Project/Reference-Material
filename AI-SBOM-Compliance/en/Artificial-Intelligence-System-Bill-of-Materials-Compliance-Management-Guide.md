@@ -107,9 +107,9 @@ an organization's open source license compliance activities
 
 ### 2.7 - program participants
 
-any organization employee or contractor that defines, contributes to or has responsibility for preparing supplied software
+any organization employee or contractor that defines, contributes to or has responsibility for preparing, reviewing or approving supplied software
 
-Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
+Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing, legal and product management.
 
 ### 2.8 - supplied software
 
