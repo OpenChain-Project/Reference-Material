@@ -367,7 +367,7 @@ The common scenarios are:
 
 Incorporation is a situation where portions of one software component are copied into another software component or product. In our illustration below, we are visualizing a situation when a developer copies portions of an Open Source component (green) into a software product (blue).
 
-![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Incorporation.png)
+![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Incorporation_1_looped.gif)
 
 There are various terms that describe different forms or activities around incorporation. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity:
 
@@ -377,6 +377,8 @@ There are various terms that describe different forms or activities around incor
 - Adapting (adjusting part or the whole of one piece of software with or without external code)
 - Inserting (this is another way of talking about integrating)
 - Embedding (this is another way of talking about integrating)
+
+![Code incorporation terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Incorporation_2_looped.gif)
 
 For example, if the code incorporated is under a GPL license, under that license the entire resulting code (green and blue) would have to be made available under the GPL license as a “derivative work” when the code is distributed.
 
