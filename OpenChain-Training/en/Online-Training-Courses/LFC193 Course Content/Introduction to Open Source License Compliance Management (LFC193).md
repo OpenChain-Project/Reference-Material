@@ -422,9 +422,12 @@ Many licenses require that modifications are documented (which is good software 
 All of the activities we have discussed previously are undertaken by developers. However, it is also important to understand that software development is a process facilitated by tools. These are referred to as "development tools" or "development environments" and provide a level of automation to ensure efficiency. The consequences of using development tools can include more than manipulation of software components. For example, in some cases, a development tool may inject material into a software component to provide an outcome. It is important to be aware of this and ask questions around this to ensure developers and managers know what the final software component contains. Two common examples are:
 
 1. A tool may silently pull in dependencies with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
-2. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
 
-![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Development%20Tools%20Facilitating%20A%20Software%20Development%20Activity.png)
+![Dev Tool dependency pull-in depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_1_animated_looped.gif)
+
+3. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
+
+![Dev Tool own-code injection depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_2_animated.gif)
 
 ### How Is the Open Source Component Distributed?
 
