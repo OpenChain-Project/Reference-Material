@@ -415,7 +415,7 @@ There are various terms that describe different forms of modification. It is use
 
 ![Code Modification terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Modification_2_animated_looped.gif)
 
-Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the Mozilla Public License (MPL), where a modified code source needs to be made available.
+Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the [Mozilla Public License](https://en.wikipedia.org/wiki/Mozilla_Public_License) (MPL), where a modified code source needs to be made available.
 
 ### Development Tools
 
