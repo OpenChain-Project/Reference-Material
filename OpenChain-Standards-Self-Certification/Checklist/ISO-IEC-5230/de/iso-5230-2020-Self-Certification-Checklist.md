@@ -3,16 +3,17 @@
 # NOTE: This is a reference machine translation. It will be reviewed and corrected by the community. You can be part of this - participate in our community from this link:
 [https://openchainproject.org/participate](https://openchainproject.org/participate)
 
-OpenChain ISO/IEC 5230 Checkliste zur Selbstzertifizierung
-Der einfache Weg zur Konformitätsprüfung
+# OpenChain ISO/IEC 5230 Checkliste zur Selbstzertifizierung
+## Der einfache Weg zur Konformitätsprüfung
+
 Generation 2 - Version 1
 18.08.2025
 
 # Einleitung
 
-OpenChain ISO/IEC 5230 ist der Internationale Standard für Open-Source-Lizenzkonformität. ISO/IEC 5230 hilft Organisationen dabei, die Lizenzanforderungen von Open Source für vergangene, aktuelle und zukünftige Produkte oder Dienstleistungen zu verwalten.
+OpenChain ISO/IEC 5230 ist der Internationale Standard für Open-Source-Lizenzkonformität. Der ISO/IEC 5230 Standard hilft Organisationen dabei, die Lizenzanforderungen von Open Source für vergangene, aktuelle und zukünftige Produkte oder Dienstleistungen zu verwalten.
 
-Ihre Organisation kann sich selbst als konform mit OpenChain ISO/IEC 5230 zertifizieren. Dies ist so einfach wie die Beantwortung aller Fragen im Online-Formular mit „Ja“. Wenn eine Organisation nicht alle Fragen mit „Ja“ beantworten kann, erfüllt sie die Anforderungen des Standards noch nicht.
+Ihre Organisation hat die Möglichkeit, sich selbst als konform mit OpenChain ISO/IEC 5230 zu zertifizieren, indem sie alle Fragen im Online-Formular mit „Ja“ beantwortet. Sollte ihre Organisation nicht in der Lage sein, alle Fragen mit „Ja“ zu beantworten, erfüllen sie die Anforderungen des Standards noch nicht vollständig.
 
 Bitte beachten Sie, dass dies eine Selbstzertifizierung ist und Sie und Ihre Organisation allein für die Richtigkeit der nachstehenden Aussagen verantwortlich sind.
 
@@ -37,7 +38,7 @@ https://openchainproject.org/checklist-iso-5230-2020
 
 - [ ] Wir haben das Bewusstsein unserer Programmteilnehmer für relevante Open-Source-Ziele dokumentiert.
 
-- [ ] Wir haben das Bewusstsein unserer Programmteilnehmer für die Beiträge dokumentiert, die zur Gewährleistung der Wirksamkeit des Programms erwartet werden.
+- [ ] Wir haben das Bewusstsein unserer Programmteilnehmer für die Beiträge dokumentiert, die für die Gewährleistung der Wirksamkeit des Programms erwartet werden.
 
 - [ ] Wir haben das Bewusstsein unserer Programmteilnehmer für die Konsequenzen einer Nichteinhaltung der Programmanforderungen dokumentiert.
 
@@ -59,7 +60,7 @@ https://openchainproject.org/checklist-iso-5230-2020
 
 - [ ] Wir haben juristische Expertise identifiziert, um interne und externe Angelegenheiten der Open-Source-Konformität zu behandeln.
 
-- [ ] Wir verfügen über ein dokumentiertes Verfahren, das interne Verantwortlichkeiten für die Open-Source-Konformität zuweist.
+- [ ] Wir verfügen über ein dokumentiertes Verfahren, welches interne Verantwortlichkeiten für die Open-Source-Konformität zuweist.
 
 - [ ] Wir verfügen über ein dokumentiertes Verfahren für die Überprüfung und Behebung von Konformitätsverstößen.
 
@@ -69,13 +70,13 @@ https://openchainproject.org/checklist-iso-5230-2020
 
 - [ ] Wir verfügen über Aufzeichnungen der Open-Source-Komponenten für die bereitgestellte Software, die belegen, dass das dokumentierte Verfahren ordnungsgemäß befolgt wurde.
 
-- [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Verteilung der bereitgestellten Software in Binärform abdeckt.
+- [ ] Wir verfügen über ein dokumentiertes Verfahren, um die Verteilung der bereitgestellten Software in Binärform abzudecken.
 
-- [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Verteilung der bereitgestellten Software in Quellcodeform abdeckt.
+- [ ] Wir verfügen über ein dokumentiertes Verfahren, um die Verteilung der bereitgestellten Software in Quellcodeform abzudecken.
 
 - [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Integration der bereitgestellten Software mit Open Source abdeckt, die zusätzliche Verpflichtungen auslösen kann.
 
-- [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Einbeziehung modifizierter Open-Source-Software in die bereitgestellte Software abdeckt.
+- [ ] Wir verfügen über ein dokumentiertes Verfahren, um die Einbeziehung modifizierter Open-Source-Software in die bereitgestellte Software abzudecken.
 
 - [ ] Wir verfügen über ein dokumentiertes Verfahren, das die Einbeziehung von Open-Source- oder anderer Software unter inkompatiblen Lizenzen abdeckt, die mit anderen Komponenten der bereitgestellten Software interagieren.
 
