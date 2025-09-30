@@ -384,9 +384,9 @@ For example, if the code incorporated is under a GPL license, under that license
 
 ### Linking
 
-Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) and one proprietary component (blue).
+Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) with proprietary product code (blue).
 
-![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Linking.png)
+![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_1_animated_looped.gif)
 
 There are various terms that describe different forms or activities around linking. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity. Linking is particularly important to consider in the context of copyleft Open Source licenses:
 
@@ -397,6 +397,8 @@ There are various terms that describe different forms or activities around linki
 - Utilizing (this is another way of talking about either static or dynamic linking)
 - Packaging (this is another way of talking about either static or dynamic linking)
 - Creating interdependency (this is another way of talking about either static or dynamic linking)
+
+![Code Linking terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_2_animated_looped.gif)
 
 ### Modification
 
