@@ -367,7 +367,7 @@ The common scenarios are:
 
 Incorporation is a situation where portions of one software component are copied into another software component or product. In our illustration below, we are visualizing a situation when a developer copies portions of an Open Source component (green) into a software product (blue).
 
-![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Incorporation.png)
+![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Incorporation_1_looped.gif)
 
 There are various terms that describe different forms or activities around incorporation. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity:
 
@@ -378,13 +378,15 @@ There are various terms that describe different forms or activities around incor
 - Inserting (this is another way of talking about integrating)
 - Embedding (this is another way of talking about integrating)
 
+![Code incorporation terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Incorporation_2_looped.gif)
+
 For example, if the code incorporated is under a GPL license, under that license the entire resulting code (green and blue) would have to be made available under the GPL license as a “derivative work” when the code is distributed.
 
 ### Linking
 
-Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) and one proprietary component (blue).
+Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) with proprietary product code (blue).
 
-![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Linking.png)
+![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_1_animated_looped.gif)
 
 There are various terms that describe different forms or activities around linking. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity. Linking is particularly important to consider in the context of copyleft Open Source licenses:
 
@@ -396,11 +398,13 @@ There are various terms that describe different forms or activities around linki
 - Packaging (this is another way of talking about either static or dynamic linking)
 - Creating interdependency (this is another way of talking about either static or dynamic linking)
 
+![Code Linking terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_2_animated_looped.gif)
+
 ### Modification
 
-Modification is a situation where a software component is changed, improved or otherwise edited. In our illustration below, we are visualizing a situation where a developer adds a software component (blue) to an existing codebase. The outcome is a new software component influenced by both the original software component and the developer's contribution (green).
+Modification is a situation where a software component is changed, improved or otherwise edited. In our illustration below, we are visualizing a situation where a developer adds some software code (blue) into an existing open source component (depicted in green) that they are using, deleting some existing code first. The outcome is a new software component influenced by both the original software code and the developer's contribution (blue).
 
-![Code modification depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Modification.png)
+![Code Modification depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Modification_1_animated_looped.gif)
 
 There are various terms that describe different forms of modification. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity:
 
@@ -409,16 +413,21 @@ There are various terms that describe different forms of modification. It is use
 - Removing technical debt (this is another way of talking about improving)
 - Deletion (this is another way of talking about optimization)
 
-Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the MPL, where a modified code source needs to be made available.
+![Code Modification terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Modification_2_animated_looped.gif)
+
+Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the [Mozilla Public License](https://en.wikipedia.org/wiki/Mozilla_Public_License) (MPL), where a modified code source needs to be made available.
 
 ### Development Tools
 
 All of the activities we have discussed previously are undertaken by developers. However, it is also important to understand that software development is a process facilitated by tools. These are referred to as "development tools" or "development environments" and provide a level of automation to ensure efficiency. The consequences of using development tools can include more than manipulation of software components. For example, in some cases, a development tool may inject material into a software component to provide an outcome. It is important to be aware of this and ask questions around this to ensure developers and managers know what the final software component contains. Two common examples are:
 
 1. A tool may silently pull in dependencies with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
-2. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
 
-![Code incorporation depiction](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Development%20Tools%20Facilitating%20A%20Software%20Development%20Activity.png)
+![Dev Tool dependency pull-in depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_1_animated_looped.gif)
+
+3. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
+
+![Dev Tool own-code injection depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_2_animated.gif)
 
 ### How Is the Open Source Component Distributed?
 
