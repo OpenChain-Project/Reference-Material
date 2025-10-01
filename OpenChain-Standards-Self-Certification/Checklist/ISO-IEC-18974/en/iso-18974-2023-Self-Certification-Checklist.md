@@ -1,6 +1,7 @@
 ![](./media/image1.png "OpenChain logo")
 
 # OpenChain ISO/IEC 18974 Self-Certification Checklist
+
 ## The Simple Way To Check Conformance
 
 Generation 2 - Version 1
@@ -15,15 +16,15 @@ Your organization can self-certify to conform to OpenChain ISO/IEC 18974. It is 
 Please note that this is a self-certification, and you and your organization are solely responsible for the accuracy of the statements below.
 
 You also have the option of filling out this checklist online:
-[https://openchainproject.org/checklist-iso-5230-2020](https://openchainproject.org/checklist-iso-5230-2020)
+[https://openchainproject.org/checklist-iso-18974-2023](https://openchainproject.org/checklist-iso-18974-2023)
 
 # The Self-Certification Checklist
 
 ## Section 4.1.1
 
-- [ ]  We have a documented policy governing the open source security assurance of Supplied Software.
+- [ ] We have a documented policy governing the open source security assurance of Supplied Software.
 
-- [ ]  We have a documented procedure to communicate the existence of the open source policy to all Program Participants.
+- [ ] We have a documented procedure to communicate the existence of the open source policy to all Program Participants.
 
 ## Section 4.1.2
 
