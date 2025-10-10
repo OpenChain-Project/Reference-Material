@@ -47,7 +47,7 @@ The author can choose to provide a right to use the software in any way a user m
 
 ### The Specific Rights Related To Software
 
-When we talk about copyright and software we are usually referring to the right to reproduce the software (make a copy), the right to create derivative works (making modifications) and the right to distribute the software (sharing copies of it with others).
+When we talk about copyright and software, we are usually referring to the right to reproduce the software (make a copy), the right to create derivative works (making modifications) and the right to distribute the software (sharing copies of it with others).
 
 The details of how distribution in a legal sense is understood may differ from country to country, but the basic legal concepts are shared across the world.
 
@@ -66,14 +66,14 @@ A patent license may be required even if you independently implement specific fu
 A “license” is the way a copyright or patent holder grants permission or rights to someone else to use the item(s) of interest under certain legal terms and conditions. License conditions can include types of use allowed and how it can be shared or used for business. For example:
 
 - Commercial or non-commercial, educational use only.
-- How the artifact can be distributed, i.e., medium of distribution or format of distribution.
-- How others can make use of the artifact, whether used wholly or as derivative works / to make, have made, manufacture.
-- The geographical scope of where the artifact can be used or sold can be specified and limited too; generally this is in case of commercial software or non-Open Source software licenses.
+- How the artifact can be distributed, i.e. medium of distribution or format of distribution.
+- How others can make use of the artifact, whether used wholly or as derivative works, to make, have made, manufacture.
+- The geographical scope of where the artifact can be used or sold can also be specified and limited; generally this is in case of commercial software or non-Open Source software licenses.
 - The time limits on the right of use of the software
 
 All of the above terms and conditions often apply to non-Open Source software. In contrast, Open Source licenses typically have fewer conditions than proprietary software licenses, but the conditions they do have tend to focus on the conditions for redistributing the software to others (something which proprietary software licenses tend to try to prohibit entirely).
 
-A license may also include contractual terms regarding warranties, indemnification, support, upgrade, and maintenance.
+A license may also include contractual terms regarding warranties, indemnification, support, upgrades, and maintenance.
 
 ## Knowledge Check
 
@@ -124,15 +124,17 @@ By the end of this chapter, you should be able to:
 
 ### Open Source Licenses
 
-Open Source licenses vary in specific terms but they all allow users to use, study, share and improve the software they receive. By necessity, this means that source code for the software is made available. These licenses often also have conditions related to providing a copy of the license, a copyright statement, and sometimes a written offer to make the source code available.
+Open Source licenses vary in specific terms but they all allow users to use, study, share and improve the software they receive. By necessity, this means that [source code](https://en.wikipedia.org/wiki/Source_code) for the software is made available. These licenses often also have conditions related to providing a copy of the license, a copyright statement, and sometimes a written offer to make the source code available.
 
 To ensure continuity and clarity around Open Source software licenses there are various definitions to contextualize the field. A frequently used definition is the [Open Source Definition (OSD)](https://opensource.org/osd/) hosted by the Open Source Initiative (OSI). This lists criteria that determine whether a license qualifies as Open Source or not. There can be licenses that are very similar to Open Source licenses but do not meet all of these criteria.
 
-It is worth remembering that Open Source by definition cannot limit the field of use of the software. On occasion you may see some normal Open Source license text with an added "only for non-commercial" clause, rendering it a non-Open Source license. Licenses such as [Creative Commons Attribution-NonCommercial (CC-BY-NC)](https://creativecommons.org/licenses/by-nc/2.0/) are inherently non-commercial and therefore not Open Source.
+It is worth remembering that Open Source by definition cannot limit the field of use of the software. On occasion you may see some normal Open Source license text with an added "only for non-commercial" use clause, rendering it a non-Open Source license. Licenses such as [Creative Commons Attribution-NonCommercial (CC-BY-NC)](https://creativecommons.org/licenses/by-nc/2.0/) are inherently non-commercial and therefore not considered as Open Source licenses.
+
+Note also that there are often different versions of licenses in existence as the specific license text (and e.g. potentially conditions) has been modified and revised over time. It is important to know which version of license applies. For example the [Eclipse Public license (EPL)](https://en.wikipedia.org/wiki/Eclipse_Public_License) version 1.0 is different to the version 2.0.
 
 ### Proprietary License or Closed Source
 
-A proprietary software license is similar to an Open Source license in that they both apply to the software. However, proprietary software licenses generally have more restrictions on how the licensed software can be used. For example, it is pretty common for proprietary software licenses to disallow sharing the software with other users, or to disallow making any derivative versions of the software. Proprietary licenses are usually vendor-specific and therefore there are as many proprietary licenses as there are vendors selling proprietary software.
+A proprietary (sometimes referred to as closed source) software license is similar to an Open Source license in that they both apply to software. However, proprietary software licenses generally have more restrictions on how the licensed software can be used. For example, it is common for proprietary software licenses to prohibit sharing the software with other users, and/or to prohibit making any derivative versions of the software. Proprietary licenses are usually vendor-specific and often product-specific, therefore there are many different proprietary licenses.
 
 There is nothing wrong with proprietary software licensing. It is simply a business decision taken by the author or authors of the software. However, it is important to be aware that this is a different approach to open source software licensing.
 
@@ -145,31 +147,31 @@ There are various types of software licenses that may provide software without c
 1. Open Source software is not a synonym for free-of-charge software.
 2. Software that is free is not a synonym for Open Source software.
 
-One common example is called freeware, a type of proprietary software that is free of charge. This is usually fully functional and available for use within constraints applied by the author. Freeware usually imposes restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.). The latter point is particularly important. Open Source by definition cannot limit the field of use of the software.
+One common example is called [freeware](https://en.wikipedia.org/wiki/Freeware), a type of proprietary software that is free of charge. This is usually fully functional and available for use within constraints applied by the author. Freeware usually imposes restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.). The latter point is particularly important. Open Source by definition cannot limit the field of use of the software.
 
-Another common example is public domain software. This refers to software not protected by copyright and therefore usable by the public without requiring a license. For example, “All of the code and documentation in this software has been dedicated to the public domain by the authors.” A public domain declaration attempts to waive or eliminate any intellectual property rights. It may be accompanied by other terms like warranty disclaimers. In some legal jurisdictions there are types of rights associated with authorship called moral rights that cannot be waived, a situation the [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) declaration of a broad license is designed to address. In practice, public domain software is generally treated as Open Source software with an extremely permissive license.
+Another common example is [public domain software](https://en.wikipedia.org/wiki/Public-domain_software). This refers to software not protected by copyright and therefore usable by the public without requiring a license. For example, a declaration “All of the code and documentation in this software has been dedicated to the public domain by the authors.” A public domain declaration such as this attempts to waive or eliminate any intellectual property rights. It may be accompanied by other terms like warranty disclaimers. In some legal jurisdictions there are types of rights associated with authorship called moral rights that cannot be waived, a situation the [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) declaration of a broad license is designed to address. In practice, public domain software is generally treated as Open Source software with an extremely permissive license.
 
 ### Notices
 
-Notices, such as text in comments in file headers, often provide authorship and licensing information. They are generally regarded as best practices for ensuring the clarity and sustainability of codebases. Open Source licenses may also require the placement of notices in or alongside source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.
+Notices often provide authorship and licensing information. They are generally regarded as best practice for ensuring the clarity and sustainability of codebases (such as text in comments in source code file headers). Open Source licenses may also require the placement of notices in or alongside source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.
 
 Some examples of notices are copyright notices, license notices, attribution notices and modification notices. Copyright statements often look like "Copyright \[year\] \[author name\]." An example of a license notice is a statement identifying the license being used. An example of an attribution notice is a statement identifying the authors of the software. An example of a modification notice is a statement explaining what has changed.
 
-All of these statements are usually made visible in the software documentation. In the current digital world, they are often accessed via a menu under “licensing terms” or “legal notices” or similar. In the past, such notices may have been supplied in physical user manuals provided with consumer electronics.
+All of these statements are usually made visible in the software documentation. In the current digital world, they are often accessed via a menu under “licensing terms” or “legal notices” or similar. In the past, such notices may have been supplied in physical paper user manuals provided with consumer electronics.
 
 ### Permissive Open Source Licenses
 
 What is generally termed permissive Open Source licenses have minimal conditions that users must follow. For example, a permissive license might allow unlimited use and redistribution of software for any purpose as long as the copyright notices and the license terms are made visible to existing and future users.
 
-There are quite a few permissive licenses with slightly different terms. The most common include the BSD-3-Clause license, the MIT license and the Apache 2.0 License.
+There are quite a few permissive licenses with slightly different terms. The most common include the [BSD-3-Clause license](https://en.wikipedia.org/wiki/BSD_licenses#3-clause), the [MIT license](https://en.wikipedia.org/wiki/MIT_License) and the [Apache 2.0 License](https://en.wikipedia.org/wiki/Apache_License#Apache_License_2.0).
 
 ### License Reciprocity & Copyleft Licenses
 
-Some software licenses contain more terms than others. For example, you will often hear about “Copyleft” licenses when people talk about Open Source software. Copyleft is a domain-specific term that can also be referred to as “license reciprocity.” These licenses require any derivative works to be distributed under the same license as the original software which includes making the source code available under that license.
+Some software licenses contain more terms than others. For example, you will often hear about “Copyleft” licenses when people talk about Open Source software. Copyleft is a domain-specific term that can also be referred to as “license reciprocity.” These licenses require any derivative works to be distributed under the same license as the original software, which includes making the source code available under that same license.
 
-In the context of Open Source software, the term “derivative work” often refers to software based directly on the source code, software in the same source code file as the original, or in the same program. It is important to understand how a specific license defines derivative work to ensure compliance with that license.
+In the context of Open Source software, the term “derivative work” often refers to software based directly on the source code, software in the same source code file as the original, or in the same program. It is important to understand how a specific license defines "derivative work" to ensure compliance with that license.
 
-Examples of Copyleft Open Source licenses include the GPL, the LGPL, the AGPL, the MPL, and CDDL. The Creative Commons CC-BY-SA (Attribution-Share-Alike) has a similar effect: “sharealike” is the Creative Commons term for copyleft. Each has subtly different terms, but all include the concept of derivative works needing to remain under the same licensing terms as the original software.
+Examples of Copyleft Open Source licenses include the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), the [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), the [AGPL](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License), the [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), and [CDDL](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License). The [Creative Commons CC-BY-SA (Attribution-Share-Alike)](https://creativecommons.org/licenses/by-sa/4.0/) has a similar effect: “sharealike” is the Creative Commons term for copyleft. Each has subtly different terms, but all include the concept of derivative works needing to remain under the same licensing terms as the original software.
 
 ### Software License Compatibility
 
@@ -179,9 +181,9 @@ Software license compatibility is determined by whether the relevant software li
 
 ### Multi-Licensing of Software Artifacts
 
-The concept of multi-licensing refers to the practice of distributing software under two or more different sets of terms and conditions simultaneously, where the recipient can choose which license to apply for. This adds flexibility in choosing a convenient license for the user based on their purpose.
+The concept of multi-licensing refers to the practice of distributing software under two or more different sets of terms and conditions simultaneously, where the recipient can choose which license to apply. This adds flexibility in choosing a convenient license for the user, based on their purpose.
 
-Example: when software is “dual licensed,” the copyright owner gives each recipient the choice of two licenses. For example, software can be released under MIT license as well as GPL-2.0 simultaneously, and here we have a choice of complying with only one of the licenses from the choices given based on the interest and purpose of the individual user or organization.
+Example: when software is “dual licensed,” the copyright owner gives each recipient the choice of two licenses. For example, software can be released under MIT license as well as GPL-2.0 simultaneously, and here we have a choice of complying with only one of the licenses from the choices given, based on the interest and purpose of the individual user or organization.
 
 ## Knowledge Check
 
