@@ -221,7 +221,7 @@ Which of the following is/are permissive Open Source license(s)?
 
 ### Chapter Overview
 
-This chapter explains how compliance with open source licenses works. It is intended to add the “how” to the “what” discussed in the last chapter. It is important to understand how this works to ensure your organization avoids unnecessary mistakes in the adoption, use and deployment of software made from or containing Open Source.
+This chapter explains how compliance with open source licenses can work. It is intended to add the “how” to the “what” discussed in the last chapter. It is important to understand how this works to ensure your organization avoids unnecessary mistakes in the adoption, use and deployment of software made from or containing Open Source.
 
 This chapter does not require a legal background. While it discusses some concepts from the law, it does this in a non-technical way.
 
@@ -237,7 +237,7 @@ By the end of this chapter, you should be able to:
 
 **Know what you are using.** You should have a process for identifying and tracking Open Source components that are present in your software. For example, your policy may require that no software component is incorporated into your software unless you have identified where it has come from, identified the license applicable to it, determined whether you can comply with that license, and recorded all of this information.
 
-**Know how you are using it.** You should have a process that identifies how you are using each Open Source component and/or a policy covering how you are allowed to use it. The conditions within each open source license may vary depending on the use case, with an example being that using code licensed under GPL-2.0 on the server-side of a SaaS (software as service) application is not distributed and there is no requirement to make the source code available to people making use of the service. However, if you take the same code and distribute it to customers so they can run their own SaaS instance then you would need to make the source code available to them. Typical use cases which could be recorded are:
+**Know how you are using it.** You should have a process that identifies how you are using each Open Source component and/or a policy covering how you are allowed to use it. The conditions within each open source license may vary depending on the use case, with an example being that using code licensed under GPL-2.0 on the server-side of a SaaS (software as service) application is not distributed and therfore there is no requirement to make the source code available to people making use of the service. However, if you take the same code and distribute it to customers so they can run their own SaaS instance then you would need to make the source code available to them. Typical use cases which could be recorded are:
 
 - Internal use only, with no distribution to or use by third parties.
 - Sharing the application source code with third parties (such as partners) who build the application themselves.
@@ -257,9 +257,9 @@ Organizations that have been successful at Open Source compliance are ones that 
 
 ### Implementing Compliance Practices
 
-Compliance practices consist of more than preparing a policy and processes. It is also necessary to ensure that the policy and processes are appropriate for the organization (or business unit), and, crucially, have management buy-in, and are supported by sufficient staff and resources to handle a number of very specific tasks.
+Compliance practices consist of more than preparing a policy and processes. It is also necessary to ensure that the policy and processes are actually followed, are appropriate for the organization (or business unit), and, crucially, have management buy-in, supported by sufficient staff and resources to handle a number of very specific tasks.
 
-**Identification of the origin and applicable licenses. Identify the origin and applicable license** of all software sourced from outside the business, and any constraints and obligations applicable to software that has been developed internally.
+**Identification of the origin and applicable licenses.** Identify the origin and applicable license of all software sourced from outside the business, and any constraints and obligations applicable to software that has been developed internally.
 
 **Tracking Open Source software within the development process.** For example, components used in a specific project may be test suites, tools, or code that are not included in a distributed binary. However, there may be situations where you are required to provide these components due to license requirements that apply to the distributed binary. It is also important to record which version of a component is used, as sometimes the license varies from version to version of the same component.
 
@@ -267,7 +267,7 @@ Compliance practices consist of more than preparing a policy and processes. It i
 
 **Fulfillment of license obligations when the product is distributed.** The conditions in most Open Source licenses apply at the point of distribution. Accordingly, it is necessary to ensure that those obligations are fulfilled (such as the obligation to retain attribution notices or the offer to provide source). Sometimes, these obligations will apply in other cases (for example, some licenses apply obligations when the functionality of the software is made available to third parties over the Internet, even if the software itself is not distributed).
 
-**Oversight for Open Source Compliance Program, creation of policy, and compliance decisions.** Alongside the necessity for regular review we mention above, it is equally necessary to ensure that there is effective oversight of the operation of the policy, and a mechanism to enable queries about code usage and incorporation (both from inside and outside the company) to be handled. Any decisions should be recorded, both so as to streamline the resolution of similar queries in the future, but also so that the overall effectiveness of the compliance program can be checked and improved over time.
+**Oversight for Open Source Compliance Program, creation of policy, and compliance decisions.** Alongside the necessity for regular review, it is equally necessary to ensure that there is effective oversight of the operation of the policy, and a mechanism to enable queries about code usage and incorporation (both from inside and outside the company) to be handled. Any decisions should be recorded, both so as to streamline the resolution of similar queries in the future, but also so that the overall effectiveness of the compliance program can be checked and improved upon over time.
 
 **Training.** In order for a program to be effective, participants should be appropriately trained. The training should be recorded and assessed, and there is no necessity for everyone to have the same training: training should be tailored to each relevant role.
 
@@ -289,13 +289,13 @@ Depending on the Open Source license(s) involved, your compliance obligations ma
 1. **Attribution and Notices.** You may need to provide or retain copyright and license text in the source code and/or product documentation or user interface so that downstream users know the origin of the software and their rights under the licenses. You may also need to provide notices regarding modifications, or full copies of the license.
 2. **Notice of Amendment**. You may need to record and notify recipients of the code if it has been modified from the original version you received. The extent to which the changes have to be notified varies from license to license, from a simple requirement to note that changes have been made, to ensuring that the changelog of the software has to be maintained in the software package.
 3. **Source Code Availability.** You may need to provide source code for the Open Source software, for modifications you make, for combined or linked software, and scripts that control the build process. These obligations may continue even after the production and sale of the product or service is complete.
-4. **Medium of Source Code Availability.** You may also need to provide source code for the Open Source software and related modifications, i.e., either by upstreaming (uploading) the code to the original open source software repository (complying under terms and conditions of the repository for upload or contribution) or, if distributing to other users, by providing a channel (e.g., downloadable URL or attached file of the code) from where the code can be obtained.
-5. **Reciprocity.** You may need to ensure that modified versions or derivative works are made available and released under the same license that governs the Open Source component.
-6. **Other Terms.** The Open Source license may have other obligations or conditions. and these can be terms that may touch upon topics like patent grants to you or from you and the Open Source license may restrict the use of the copyright holder name or trademark, may require modified versions to use a different name to avoid confusion, or may terminate upon any breach.
+4. **Medium of Source Code Availability.** You may also need to provide source code for the Open Source software and related modifications, i.e. either by upstreaming (uploading) the code to the original open source software repository (complying to the terms and conditions of the repository for upload or contribution) or, if distributing to other users, by providing a channel (e.g. a download URL or attached file of the code) from where the code can be obtained.
+5. **Reciprocity.** You may need to ensure that modified versions or derivative works source code is made available and released under the same license that governs the Open Source component.
+6. **Other Terms.** The Open Source license may have other obligations or conditions. and these can be terms that may touch upon topics like patent grants to you or from you, and the Open Source license may restrict the use of the copyright holder name or trademark, may require modified versions to use a different name to avoid confusion, or may terminate upon any breach.
 
 ### Open Source Compliance Issues that May Occur During the Distribution of Software
 
-For some Open Source licenses, access via a computer network can “trigger” license conditions. For example, in the case of applications downloaded to a user’s machine or mobile device and JavaScript, web client, or other code that is downloaded to the user’s machine or browser. All versions of the Affero General Public License require providing modified source code if “users interact with it remotely through a computer network.”
+For some Open Source licenses, access via a computer network can “trigger” license conditions. For example, in the case of applications downloaded to a user’s machine or mobile device and JavaScript, web client, or other code that is downloaded to the user’s machine or browser. All versions of the [Affero General Public License (AGPL)](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License) require providing modified source code if “users interact with it remotely through a computer network.”
 
 ### Open Source Compliance Issues that May Occur with Untracked Modification
 
@@ -341,7 +341,7 @@ What are some benefits of an Open Source Compliance Program?
 
 ### Chapter Overview
 
-This chapter explains specific software development activities that occur when using Open Source (or any other software). It is important to understand these general software development activities to plan, prepare and deploy processes to effectively manage open source licensing because the way you use the Open Source may impact which obligations you have to meet.
+This chapter explains specific software development activities that occur when using Open Source (or any other software). It is important to understand these general software development activities to plan, prepare and deploy processes to effectively manage Open Source licensing because the way you use the Open Source may impact which obligations you have to meet.
 
 This chapter does not require a software engineering background. While it discusses some concepts from software engineering, it does so in a non-technical way.
 
@@ -357,7 +357,7 @@ By the end of this chapter, you should be able to:
 
 When designing software, developers decide whether to include Open Source components and which ones to include. Sometimes they need to decide what parts of the software will be proprietary and what parts will be Open Source. They also need to make decisions about specific actions undertaken in the development process. These decisions can impact what licenses can be used or which Open Source components you would consider for different parts of the software, different product offerings and so on.
 
-Incorporating Open Source with proprietary software can be done in several ways. Depending upon the license of the Open Source, the means of incorporation can have an impact on the obligations required to be satisfied in order to comply with the license.
+Using Open Source with proprietary software can be done in several ways. Depending upon the license of the Open Source, how this is done can have an impact on the obligations required to be satisfied in order to comply with the license.
 
 The common scenarios are:
 
@@ -377,8 +377,8 @@ There are various terms that describe different forms or activities around incor
 - Merging (combining two pieces of software)
 - Pasting (copying and pasting parts of one software into another)
 - Adapting (adjusting part or the whole of one piece of software with or without external code)
-- Inserting (this is another way of talking about integrating)
-- Embedding (this is another way of talking about integrating)
+- Inserting (this is a synonym for integrating)
+- Embedding (this is a synonym for integrating)
 
 ![Code incorporation terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Incorporation_2_looped.gif)
 
@@ -386,19 +386,19 @@ For example, if the code incorporated is under a GPL license, under that license
 
 ### Linking
 
-Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) with proprietary product code (blue).
+Linking is a situation where two different software components are connected, such that they can make use of the functionality of the other. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) with proprietary product code (blue).
 
 ![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_1_animated_looped.gif)
 
 There are various terms that describe different forms or activities around linking. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity. Linking is particularly important to consider in the context of copyleft Open Source licenses:
 
-- Static linking (incorporated at build time)
-- Dynamic linking (sought out at runtime)
+- Static linking (linked and incorporated at build time)
+- Dynamic linking (link connection sought out at runtime)
 - Pairing (this is another way of talking about either static or dynamic linking)
-- Combining (this is another way of talking about either static or dynamic linking)
-- Utilizing (this is another way of talking about either static or dynamic linking)
-- Packaging (this is another way of talking about either static or dynamic linking)
-- Creating interdependency (this is another way of talking about either static or dynamic linking)
+- Combining (this is a synonym for either static or dynamic linking)
+- Utilizing (this is a synonym for either static or dynamic linking)
+- Packaging (this is a synonym for either static or dynamic linking)
+- Creating interdependency (this is a synonym for either static or dynamic linking)
 
 ![Code Linking terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_2_animated_looped.gif)
 
@@ -417,17 +417,17 @@ There are various terms that describe different forms of modification. It is use
 
 ![Code Modification terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Modification_2_animated_looped.gif)
 
-Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the [Mozilla Public License](https://en.wikipedia.org/wiki/Mozilla_Public_License) (MPL), where a modified code source needs to be made available.
+Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the [Mozilla Public License](https://en.wikipedia.org/wiki/Mozilla_Public_License) (MPL), where modified source code needs to be made available.
 
 ### Development Tools
 
-All of the activities we have discussed previously are undertaken by developers. However, it is also important to understand that software development is a process facilitated by tools. These are referred to as "development tools" or "development environments" and provide a level of automation to ensure efficiency. The consequences of using development tools can include more than manipulation of software components. For example, in some cases, a development tool may inject material into a software component to provide an outcome. It is important to be aware of this and ask questions around this to ensure developers and managers know what the final software component contains. Two common examples are:
+All of the activities we have discussed previously are undertaken by developers. However, it is also important to understand that modern software development is a process facilitated by tools. These are referred to as "development tools" or "development environments" and provide a level of automation to ensure efficiency. The consequences of using development tools can include more than manipulation of software components. For example, in some cases, a development tool may inject material into a software component to provide the desired outcome. It is important to be aware of this and ask questions around this to ensure developers and managers know what the final software component contains. Two common examples are:
 
-1. A tool may silently pull in dependencies with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
+1. A tool may silently pull in dependencies (other components) with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
 
 ![Dev Tool dependency pull-in depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_1_animated_looped.gif)
 
-3. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
+3. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license than the tool but should be tracked regardless.
 
 ![Dev Tool own-code injection depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_2_animated.gif)
 
@@ -435,7 +435,7 @@ All of the activities we have discussed previously are undertaken by developers.
 
 Finally, an important consideration for an open source compliance review relates to the end product, the software component deliverable, and who will receive it. Different parties receiving the deliverable will have different rights and requirements according to the Open Source licenses.
 
-This can be broken broadly into two categories: people inside your legal entity and people outside your legal entity. Open Source licenses use copyright as their fundamental building block.
+This can be broken broadly into two categories: people inside your legal entity and people outside your legal entity as Open Source licenses use copyright law as their fundamental building block.
 
 If you are giving the final software component to people inside your legal entity, you are not regarded as distributing the software. You are effectively giving it to yourself. This means that the distribution requirements applied by the Open Source license will not be activated.
 
@@ -447,7 +447,7 @@ The format of distribution may also be impacted by the Open Source licenses. It 
 2. How is the software component distributed?
 3. Is source code included or offered?
 4. Have we documented this?
-5. Have we archived the software for future reference?
+5. Have we archived everything needed for future reference?
 
 The concepts discussed above will be important while deriving license obligations for the open source components we use. It helps us understand how an open source license allows us to use the respective component and be bundled with our proprietary project.
 
@@ -502,7 +502,7 @@ By the end of this chapter, you should be able to:
 
 Takeaways:
 
-- We learned the basics of copyrights and the rights and obligations it confers to software.
+- We learned the basics of copyright and the rights and obligations it confers to software.
 - We had an introduction to Open Source licenses and how they are structured.
 - We gained an understanding of the key items needed for Open Source compliance.
 
