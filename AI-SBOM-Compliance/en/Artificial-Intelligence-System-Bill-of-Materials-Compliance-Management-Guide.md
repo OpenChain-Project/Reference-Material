@@ -2,6 +2,7 @@
 # System Bill of Materials
 
 ## Compliance Management Guide for the Supply Chain
+### Version 1.0
 
 # Table of Contents
 
