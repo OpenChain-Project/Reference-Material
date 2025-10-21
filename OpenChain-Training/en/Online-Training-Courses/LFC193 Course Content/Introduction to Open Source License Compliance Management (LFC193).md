@@ -596,12 +596,12 @@ Which of the following are Open Source compliance goals? Select all answers that
 
 When should an Open Source compliance review be done? Select all answers that apply. (TRUE/FALSE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
 
-- ***Upon a customer request***
+- ***Only upon a customer request***
 - Prior to distributing a product
-- ***If a license troll sues the company for license infringement***
+- ***Only if a license troll sues the company for license infringement***
 - During the software development process
 
-What are common scenarios for code building and distribution? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
+What are common scenarios for code building that need to be considered? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
 
 - ***Selling software on a USB stick***
 - ***Making software available to download***
@@ -615,7 +615,7 @@ What is static linking? (TRUE/FALSE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***
 - ***Adding a software library to the same read-only DVD for distribution***
 - Incorporating a software component at build time
 
-Which of the following questions are important to ask around the distribution of software? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
+In the context of Open Source license compliance which of the following questions are important to ask around the distribution of software? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
 
 - Who is the software component distributed to?
 - ***To which countries the software is distributed?***
@@ -625,7 +625,7 @@ Which of the following questions are important to ask around the distribution of
 - ***How big is the distributed executable?***
 - Have we archived the software for future reference?
 
-What are some of the key challenges organizations face with software license compliance? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS IN RED)
+What are some of the key challenges organizations may face with software license compliance? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS IN RED)
 
 - Understanding how licenses work and how this impacts organizational decisions
 - Understanding what situations invoke license obligations and decisions around licenses
