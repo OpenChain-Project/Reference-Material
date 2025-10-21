@@ -3,6 +3,7 @@
 
 ## Compliance Management Guide for the Supply Chain
 ### Version 1.0
+#### [Get this as a printable document](https://openchainproject.org/news/2025/10/20/welcoming-the-openchain-ai-system-bill-of-materials-compliance-guide)
 
 # Table of Contents
 
