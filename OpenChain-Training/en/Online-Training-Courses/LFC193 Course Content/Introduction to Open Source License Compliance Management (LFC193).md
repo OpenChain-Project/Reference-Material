@@ -191,8 +191,8 @@ Example: when software is “dual licensed,” the copyright owner gives each re
 
 What is an Open Source license?
 
-- It makes software available under terms that allow for share, modification, and redistribution. 
-- ***Correct answer: An Open Source license gives everyone the ability to modify and redistribute open source software.***
+- A license that makes software available under terms that allow for share, modification and redistribution for non-commercial purposes. 
+- ***Correct answer: A license gives everyone the ability to modify and redistribute open source software for any purpose.***
 - It is a template to apply conditions on proprietary products.
 - An Open Source license is the same as a freeware license.
 
