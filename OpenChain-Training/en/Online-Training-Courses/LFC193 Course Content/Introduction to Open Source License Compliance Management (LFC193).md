@@ -47,7 +47,7 @@ The author can choose to provide a right to use the software in any way a user m
 
 ### The Specific Rights Related To Software
 
-When we talk about copyright and software we are usually referring to the right to reproduce the software (make a copy), the right to create derivative works (making modifications) and the right to distribute the software (sharing copies of it with others).
+When we talk about copyright and software, we are usually referring to the right to reproduce the software (make a copy), the right to create derivative works (making modifications) and the right to distribute the software (sharing copies of it with others).
 
 The details of how distribution in a legal sense is understood may differ from country to country, but the basic legal concepts are shared across the world.
 
@@ -66,14 +66,14 @@ A patent license may be required even if you independently implement specific fu
 A “license” is the way a copyright or patent holder grants permission or rights to someone else to use the item(s) of interest under certain legal terms and conditions. License conditions can include types of use allowed and how it can be shared or used for business. For example:
 
 - Commercial or non-commercial, educational use only.
-- How the artifact can be distributed, i.e., medium of distribution or format of distribution.
-- How others can make use of the artifact, whether used wholly or as derivative works / to make, have made, manufacture.
-- The geographical scope of where the artifact can be used or sold can be specified and limited too; generally this is in case of commercial software or non-Open Source software licenses.
+- How the artifact can be distributed, i.e. medium of distribution or format of distribution.
+- How others can make use of the artifact, whether used wholly or as derivative works, to make, have made, manufacture.
+- The geographical scope of where the artifact can be used or sold can also be specified and limited; generally this is in case of commercial software or non-Open Source software licenses.
 - The time limits on the right of use of the software
 
 All of the above terms and conditions often apply to non-Open Source software. In contrast, Open Source licenses typically have fewer conditions than proprietary software licenses, but the conditions they do have tend to focus on the conditions for redistributing the software to others (something which proprietary software licenses tend to try to prohibit entirely).
 
-A license may also include contractual terms regarding warranties, indemnification, support, upgrade, and maintenance.
+A license may also include contractual terms regarding warranties, indemnification, support, upgrades, and maintenance.
 
 ## Knowledge Check
 
@@ -124,15 +124,17 @@ By the end of this chapter, you should be able to:
 
 ### Open Source Licenses
 
-Open Source licenses vary in specific terms but they all allow users to use, study, share and improve the software they receive. By necessity, this means that source code for the software is made available. These licenses often also have conditions related to providing a copy of the license, a copyright statement, and sometimes a written offer to make the source code available.
+Open Source licenses vary in specific terms but they all allow users to use, study, share and improve the software they receive. By necessity, this means that [source code](https://en.wikipedia.org/wiki/Source_code) for the software is made available. These licenses often also have conditions related to providing a copy of the license, a copyright statement, and sometimes a written offer to make the source code available.
 
 To ensure continuity and clarity around Open Source software licenses there are various definitions to contextualize the field. A frequently used definition is the [Open Source Definition (OSD)](https://opensource.org/osd/) hosted by the Open Source Initiative (OSI). This lists criteria that determine whether a license qualifies as Open Source or not. There can be licenses that are very similar to Open Source licenses but do not meet all of these criteria.
 
-It is worth remembering that Open Source by definition cannot limit the field of use of the software. On occasion you may see some normal Open Source license text with an added "only for non-commercial" clause, rendering it a non-Open Source license. Licenses such as [Creative Commons Attribution-NonCommercial (CC-BY-NC)](https://creativecommons.org/licenses/by-nc/2.0/) are inherently non-commercial and therefore not Open Source.
+It is worth remembering that Open Source by definition cannot limit the field of use of the software. On occasion you may see some normal Open Source license text with an added "only for non-commercial" use clause, rendering it a non-Open Source license. Licenses such as [Creative Commons Attribution-NonCommercial (CC-BY-NC)](https://creativecommons.org/licenses/by-nc/2.0/) are inherently non-commercial and therefore not considered as Open Source licenses.
+
+Note also that there are often different versions of licenses in existence as the specific license text (and e.g. potentially conditions) has been modified and revised over time. It is important to know which version of license applies. For example the [Eclipse Public license (EPL)](https://en.wikipedia.org/wiki/Eclipse_Public_License) version 1.0 is different to the version 2.0.
 
 ### Proprietary License or Closed Source
 
-A proprietary software license is similar to an Open Source license in that they both apply to the software. However, proprietary software licenses generally have more restrictions on how the licensed software can be used. For example, it is pretty common for proprietary software licenses to disallow sharing the software with other users, or to disallow making any derivative versions of the software. Proprietary licenses are usually vendor-specific and therefore there are as many proprietary licenses as there are vendors selling proprietary software.
+A proprietary (sometimes referred to as closed source) software license is similar to an Open Source license in that they both apply to software. However, proprietary software licenses generally have more restrictions on how the licensed software can be used. For example, it is common for proprietary software licenses to prohibit sharing the software with other users, and/or to prohibit making any derivative versions of the software. Proprietary licenses are usually vendor-specific and often product-specific, therefore there are many different proprietary licenses.
 
 There is nothing wrong with proprietary software licensing. It is simply a business decision taken by the author or authors of the software. However, it is important to be aware that this is a different approach to open source software licensing.
 
@@ -145,31 +147,31 @@ There are various types of software licenses that may provide software without c
 1. Open Source software is not a synonym for free-of-charge software.
 2. Software that is free is not a synonym for Open Source software.
 
-One common example is called freeware, a type of proprietary software that is free of charge. This is usually fully functional and available for use within constraints applied by the author. Freeware usually imposes restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.). The latter point is particularly important. Open Source by definition cannot limit the field of use of the software.
+One common example is called [freeware](https://en.wikipedia.org/wiki/Freeware), a type of proprietary software that is free of charge. This is usually fully functional and available for use within constraints applied by the author. Freeware usually imposes restrictions in relation to copying, distributing, and making derivative works of the software, as well as restrictions on the type of usage (personal, commercial, academic, etc.). The latter point is particularly important. Open Source by definition cannot limit the field of use of the software.
 
-Another common example is public domain software. This refers to software not protected by copyright and therefore usable by the public without requiring a license. For example, “All of the code and documentation in this software has been dedicated to the public domain by the authors.” A public domain declaration attempts to waive or eliminate any intellectual property rights. It may be accompanied by other terms like warranty disclaimers. In some legal jurisdictions there are types of rights associated with authorship called moral rights that cannot be waived, a situation the [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) declaration of a broad license is designed to address. In practice, public domain software is generally treated as Open Source software with an extremely permissive license.
+Another common example is [public domain software](https://en.wikipedia.org/wiki/Public-domain_software). This refers to software not protected by copyright and therefore usable by the public without requiring a license. For example, a declaration “All of the code and documentation in this software has been dedicated to the public domain by the authors.” A public domain declaration such as this attempts to waive or eliminate any intellectual property rights. It may be accompanied by other terms like warranty disclaimers. In some legal jurisdictions there are types of rights associated with authorship called moral rights that cannot be waived, a situation the [Creative Commons CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) declaration of a broad license is designed to address. In practice, public domain software is generally treated as Open Source software with an extremely permissive license.
 
 ### Notices
 
-Notices, such as text in comments in file headers, often provide authorship and licensing information. They are generally regarded as best practices for ensuring the clarity and sustainability of codebases. Open Source licenses may also require the placement of notices in or alongside source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.
+Notices often provide authorship and licensing information. They are generally regarded as best practice for ensuring the clarity and sustainability of codebases (such as text in comments in source code file headers). Open Source licenses may also require the placement of notices in or alongside source code or documentation to give credit to the author (an attribution) or to make it clear the software includes modifications.
 
 Some examples of notices are copyright notices, license notices, attribution notices and modification notices. Copyright statements often look like "Copyright \[year\] \[author name\]." An example of a license notice is a statement identifying the license being used. An example of an attribution notice is a statement identifying the authors of the software. An example of a modification notice is a statement explaining what has changed.
 
-All of these statements are usually made visible in the software documentation. In the current digital world, they are often accessed via a menu under “licensing terms” or “legal notices” or similar. In the past, such notices may have been supplied in physical user manuals provided with consumer electronics.
+All of these statements are usually made visible in the software documentation. In the current digital world, they are often accessed via a menu under “licensing terms” or “legal notices” or similar. In the past, such notices may have been supplied in physical paper user manuals provided with consumer electronics.
 
 ### Permissive Open Source Licenses
 
 What is generally termed permissive Open Source licenses have minimal conditions that users must follow. For example, a permissive license might allow unlimited use and redistribution of software for any purpose as long as the copyright notices and the license terms are made visible to existing and future users.
 
-There are quite a few permissive licenses with slightly different terms. The most common include the BSD-3-Clause license, the MIT license and the Apache 2.0 License.
+There are quite a few permissive licenses with slightly different terms. The most common include the [BSD-3-Clause license](https://en.wikipedia.org/wiki/BSD_licenses#3-clause), the [MIT license](https://en.wikipedia.org/wiki/MIT_License) and the [Apache 2.0 License](https://en.wikipedia.org/wiki/Apache_License#Apache_License_2.0).
 
 ### License Reciprocity & Copyleft Licenses
 
-Some software licenses contain more terms than others. For example, you will often hear about “Copyleft” licenses when people talk about Open Source software. Copyleft is a domain-specific term that can also be referred to as “license reciprocity.” These licenses require any derivative works to be distributed under the same license as the original software which includes making the source code available under that license.
+Some software licenses contain more terms than others. For example, you will often hear about “Copyleft” licenses when people talk about Open Source software. Copyleft is a domain-specific term that can also be referred to as “license reciprocity.” These licenses require any derivative works to be distributed under the same license as the original software, which includes making the source code available under that same license.
 
-In the context of Open Source software, the term “derivative work” often refers to software based directly on the source code, software in the same source code file as the original, or in the same program. It is important to understand how a specific license defines derivative work to ensure compliance with that license.
+In the context of Open Source software, the term “derivative work” often refers to software based directly on the source code, software in the same source code file as the original, or in the same program. It is important to understand how a specific license defines "derivative work" to ensure compliance with that license.
 
-Examples of Copyleft Open Source licenses include the GPL, the LGPL, the AGPL, the MPL, and CDDL. The Creative Commons CC-BY-SA (Attribution-Share-Alike) has a similar effect: “sharealike” is the Creative Commons term for copyleft. Each has subtly different terms, but all include the concept of derivative works needing to remain under the same licensing terms as the original software.
+Examples of Copyleft Open Source licenses include the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), the [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), the [AGPL](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License), the [MPL](https://en.wikipedia.org/wiki/Mozilla_Public_License), and [CDDL](https://en.wikipedia.org/wiki/Common_Development_and_Distribution_License). The [Creative Commons CC-BY-SA (Attribution-Share-Alike)](https://creativecommons.org/licenses/by-sa/4.0/) has a similar effect: “sharealike” is the Creative Commons term for copyleft. Each has subtly different terms, but all include the concept of derivative works needing to remain under the same licensing terms as the original software.
 
 ### Software License Compatibility
 
@@ -179,9 +181,9 @@ Software license compatibility is determined by whether the relevant software li
 
 ### Multi-Licensing of Software Artifacts
 
-The concept of multi-licensing refers to the practice of distributing software under two or more different sets of terms and conditions simultaneously, where the recipient can choose which license to apply for. This adds flexibility in choosing a convenient license for the user based on their purpose.
+The concept of multi-licensing refers to the practice of distributing software under two or more different sets of terms and conditions simultaneously, where the recipient can choose which license to apply. This adds flexibility in choosing a convenient license for the user, based on their purpose.
 
-Example: when software is “dual licensed,” the copyright owner gives each recipient the choice of two licenses. For example, software can be released under MIT license as well as GPL-2.0 simultaneously, and here we have a choice of complying with only one of the licenses from the choices given based on the interest and purpose of the individual user or organization.
+Example: when software is “dual licensed,” the copyright owner gives each recipient the choice of two licenses. For example, software can be released under MIT license as well as GPL-2.0 simultaneously, and here we have a choice of complying with only one of the licenses from the choices given, based on the interest and purpose of the individual user or organization.
 
 ## Knowledge Check
 
@@ -219,7 +221,7 @@ Which of the following is/are permissive Open Source license(s)?
 
 ### Chapter Overview
 
-This chapter explains how compliance with open source licenses works. It is intended to add the “how” to the “what” discussed in the last chapter. It is important to understand how this works to ensure your organization avoids unnecessary mistakes in the adoption, use and deployment of software made from or containing Open Source.
+This chapter explains how compliance with open source licenses can work. It is intended to add the “how” to the “what” discussed in the last chapter. It is important to understand how this works to ensure your organization avoids unnecessary mistakes in the adoption, use and deployment of software made from or containing Open Source.
 
 This chapter does not require a legal background. While it discusses some concepts from the law, it does this in a non-technical way.
 
@@ -235,7 +237,7 @@ By the end of this chapter, you should be able to:
 
 **Know what you are using.** You should have a process for identifying and tracking Open Source components that are present in your software. For example, your policy may require that no software component is incorporated into your software unless you have identified where it has come from, identified the license applicable to it, determined whether you can comply with that license, and recorded all of this information.
 
-**Know how you are using it.** You should have a process that identifies how you are using each Open Source component and/or a policy covering how you are allowed to use it. The conditions within each open source license may vary depending on the use case, with an example being that using code licensed under GPL-2.0 on the server-side of a SaaS (software as service) application is not distributed and there is no requirement to make the source code available to people making use of the service. However, if you take the same code and distribute it to customers so they can run their own SaaS instance then you would need to make the source code available to them. Typical use cases which could be recorded are:
+**Know how you are using it.** You should have a process that identifies how you are using each Open Source component and/or a policy covering how you are allowed to use it. The conditions within each open source license may vary depending on the use case, with an example being that using code licensed under GPL-2.0 on the server-side of a SaaS (software as service) application is not distributed and therfore there is no requirement to make the source code available to people making use of the service. However, if you take the same code and distribute it to customers so they can run their own SaaS instance then you would need to make the source code available to them. Typical use cases which could be recorded are:
 
 - Internal use only, with no distribution to or use by third parties.
 - Sharing the application source code with third parties (such as partners) who build the application themselves.
@@ -255,9 +257,9 @@ Organizations that have been successful at Open Source compliance are ones that 
 
 ### Implementing Compliance Practices
 
-Compliance practices consist of more than preparing a policy and processes. It is also necessary to ensure that the policy and processes are appropriate for the organization (or business unit), and, crucially, have management buy-in, and are supported by sufficient staff and resources to handle a number of very specific tasks.
+Compliance practices consist of more than preparing a policy and processes. It is also necessary to ensure that the policy and processes are actually followed, are appropriate for the organization (or business unit), and, crucially, have management buy-in, supported by sufficient staff and resources to handle a number of very specific tasks.
 
-**Identification of the origin and applicable licenses. Identify the origin and applicable license** of all software sourced from outside the business, and any constraints and obligations applicable to software that has been developed internally.
+**Identification of the origin and applicable licenses.** Identify the origin and applicable license of all software sourced from outside the business, and any constraints and obligations applicable to software that has been developed internally.
 
 **Tracking Open Source software within the development process.** For example, components used in a specific project may be test suites, tools, or code that are not included in a distributed binary. However, there may be situations where you are required to provide these components due to license requirements that apply to the distributed binary. It is also important to record which version of a component is used, as sometimes the license varies from version to version of the same component.
 
@@ -265,7 +267,7 @@ Compliance practices consist of more than preparing a policy and processes. It i
 
 **Fulfillment of license obligations when the product is distributed.** The conditions in most Open Source licenses apply at the point of distribution. Accordingly, it is necessary to ensure that those obligations are fulfilled (such as the obligation to retain attribution notices or the offer to provide source). Sometimes, these obligations will apply in other cases (for example, some licenses apply obligations when the functionality of the software is made available to third parties over the Internet, even if the software itself is not distributed).
 
-**Oversight for Open Source Compliance Program, creation of policy, and compliance decisions.** Alongside the necessity for regular review we mention above, it is equally necessary to ensure that there is effective oversight of the operation of the policy, and a mechanism to enable queries about code usage and incorporation (both from inside and outside the company) to be handled. Any decisions should be recorded, both so as to streamline the resolution of similar queries in the future, but also so that the overall effectiveness of the compliance program can be checked and improved over time.
+**Oversight for Open Source Compliance Program, creation of policy, and compliance decisions.** Alongside the necessity for regular review, it is equally necessary to ensure that there is effective oversight of the operation of the policy, and a mechanism to enable queries about code usage and incorporation (both from inside and outside the company) to be handled. Any decisions should be recorded, both so as to streamline the resolution of similar queries in the future, but also so that the overall effectiveness of the compliance program can be checked and improved upon over time.
 
 **Training.** In order for a program to be effective, participants should be appropriately trained. The training should be recorded and assessed, and there is no necessity for everyone to have the same training: training should be tailored to each relevant role.
 
@@ -287,13 +289,13 @@ Depending on the Open Source license(s) involved, your compliance obligations ma
 1. **Attribution and Notices.** You may need to provide or retain copyright and license text in the source code and/or product documentation or user interface so that downstream users know the origin of the software and their rights under the licenses. You may also need to provide notices regarding modifications, or full copies of the license.
 2. **Notice of Amendment**. You may need to record and notify recipients of the code if it has been modified from the original version you received. The extent to which the changes have to be notified varies from license to license, from a simple requirement to note that changes have been made, to ensuring that the changelog of the software has to be maintained in the software package.
 3. **Source Code Availability.** You may need to provide source code for the Open Source software, for modifications you make, for combined or linked software, and scripts that control the build process. These obligations may continue even after the production and sale of the product or service is complete.
-4. **Medium of Source Code Availability.** You may also need to provide source code for the Open Source software and related modifications, i.e., either by upstreaming (uploading) the code to the original open source software repository (complying under terms and conditions of the repository for upload or contribution) or, if distributing to other users, by providing a channel (e.g., downloadable URL or attached file of the code) from where the code can be obtained.
-5. **Reciprocity.** You may need to ensure that modified versions or derivative works are made available and released under the same license that governs the Open Source component.
-6. **Other Terms.** The Open Source license may have other obligations or conditions. and these can be terms that may touch upon topics like patent grants to you or from you and the Open Source license may restrict the use of the copyright holder name or trademark, may require modified versions to use a different name to avoid confusion, or may terminate upon any breach.
+4. **Medium of Source Code Availability.** You may also need to provide source code for the Open Source software and related modifications, i.e. either by upstreaming (uploading) the code to the original open source software repository (complying to the terms and conditions of the repository for upload or contribution) or, if distributing to other users, by providing a channel (e.g. a download URL or attached file of the code) from where the code can be obtained.
+5. **Reciprocity.** You may need to ensure that modified versions or derivative works source code is made available and released under the same license that governs the Open Source component.
+6. **Other Terms.** The Open Source license may have other obligations or conditions. and these can be terms that may touch upon topics like patent grants to you or from you, and the Open Source license may restrict the use of the copyright holder name or trademark, may require modified versions to use a different name to avoid confusion, or may terminate upon any breach.
 
 ### Open Source Compliance Issues that May Occur During the Distribution of Software
 
-For some Open Source licenses, access via a computer network can “trigger” license conditions. For example, in the case of applications downloaded to a user’s machine or mobile device and JavaScript, web client, or other code that is downloaded to the user’s machine or browser. All versions of the Affero General Public License require providing modified source code if “users interact with it remotely through a computer network.”
+For some Open Source licenses, access via a computer network can “trigger” license conditions. For example, in the case of applications downloaded to a user’s machine or mobile device and JavaScript, web client, or other code that is downloaded to the user’s machine or browser. All versions of the [Affero General Public License (AGPL)](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License) require providing modified source code if “users interact with it remotely through a computer network.”
 
 ### Open Source Compliance Issues that May Occur with Untracked Modification
 
@@ -339,7 +341,7 @@ What are some benefits of an Open Source Compliance Program?
 
 ### Chapter Overview
 
-This chapter explains specific software development activities that occur when using Open Source (or any other software). It is important to understand these general software development activities to plan, prepare and deploy processes to effectively manage open source licensing because the way you use the Open Source may impact which obligations you have to meet.
+This chapter explains specific software development activities that occur when using Open Source (or any other software). It is important to understand these general software development activities to plan, prepare and deploy processes to effectively manage Open Source licensing because the way you use the Open Source may impact which obligations you have to meet.
 
 This chapter does not require a software engineering background. While it discusses some concepts from software engineering, it does so in a non-technical way.
 
@@ -355,7 +357,7 @@ By the end of this chapter, you should be able to:
 
 When designing software, developers decide whether to include Open Source components and which ones to include. Sometimes they need to decide what parts of the software will be proprietary and what parts will be Open Source. They also need to make decisions about specific actions undertaken in the development process. These decisions can impact what licenses can be used or which Open Source components you would consider for different parts of the software, different product offerings and so on.
 
-Incorporating Open Source with proprietary software can be done in several ways. Depending upon the license of the Open Source, the means of incorporation can have an impact on the obligations required to be satisfied in order to comply with the license.
+Using Open Source with proprietary software can be done in several ways. Depending upon the license of the Open Source, how this is done can have an impact on the obligations required to be satisfied in order to comply with the license.
 
 The common scenarios are:
 
@@ -375,8 +377,8 @@ There are various terms that describe different forms or activities around incor
 - Merging (combining two pieces of software)
 - Pasting (copying and pasting parts of one software into another)
 - Adapting (adjusting part or the whole of one piece of software with or without external code)
-- Inserting (this is another way of talking about integrating)
-- Embedding (this is another way of talking about integrating)
+- Inserting (this is a synonym for integrating)
+- Embedding (this is a synonym for integrating)
 
 ![Code incorporation terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Incorporation_2_looped.gif)
 
@@ -384,19 +386,19 @@ For example, if the code incorporated is under a GPL license, under that license
 
 ### Linking
 
-Linking is a situation where two different software components are connected in two specific manners. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) with proprietary product code (blue).
+Linking is a situation where two different software components are connected, such that they can make use of the functionality of the other. In our illustration below, we are visualizing a situation where a developer links one Open Source component (green) with proprietary product code (blue).
 
 ![Code Linking depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_1_animated_looped.gif)
 
 There are various terms that describe different forms or activities around linking. It is useful to be aware of these terms to ensure you understand briefings and decisions about this activity. Linking is particularly important to consider in the context of copyleft Open Source licenses:
 
-- Static linking (incorporated at build time)
-- Dynamic linking (sought out at runtime)
+- Static linking (linked and incorporated at build time)
+- Dynamic linking (link connection sought out at runtime)
 - Pairing (this is another way of talking about either static or dynamic linking)
-- Combining (this is another way of talking about either static or dynamic linking)
-- Utilizing (this is another way of talking about either static or dynamic linking)
-- Packaging (this is another way of talking about either static or dynamic linking)
-- Creating interdependency (this is another way of talking about either static or dynamic linking)
+- Combining (this is a synonym for either static or dynamic linking)
+- Utilizing (this is a synonym for either static or dynamic linking)
+- Packaging (this is a synonym for either static or dynamic linking)
+- Creating interdependency (this is a synonym for either static or dynamic linking)
 
 ![Code Linking terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Linking_2_animated_looped.gif)
 
@@ -415,17 +417,17 @@ There are various terms that describe different forms of modification. It is use
 
 ![Code Modification terms](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_Modification_2_animated_looped.gif)
 
-Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the [Mozilla Public License](https://en.wikipedia.org/wiki/Mozilla_Public_License) (MPL), where a modified code source needs to be made available.
+Many licenses require that modifications are documented (which is good software engineering practice to document in comments anyway!). Some licenses have additional obligations, such as the [Mozilla Public License](https://en.wikipedia.org/wiki/Mozilla_Public_License) (MPL), where modified source code needs to be made available.
 
 ### Development Tools
 
-All of the activities we have discussed previously are undertaken by developers. However, it is also important to understand that software development is a process facilitated by tools. These are referred to as "development tools" or "development environments" and provide a level of automation to ensure efficiency. The consequences of using development tools can include more than manipulation of software components. For example, in some cases, a development tool may inject material into a software component to provide an outcome. It is important to be aware of this and ask questions around this to ensure developers and managers know what the final software component contains. Two common examples are:
+All of the activities we have discussed previously are undertaken by developers. However, it is also important to understand that modern software development is a process facilitated by tools. These are referred to as "development tools" or "development environments" and provide a level of automation to ensure efficiency. The consequences of using development tools can include more than manipulation of software components. For example, in some cases, a development tool may inject material into a software component to provide the desired outcome. It is important to be aware of this and ask questions around this to ensure developers and managers know what the final software component contains. Two common examples are:
 
-1. A tool may silently pull in dependencies with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
+1. A tool may silently pull in dependencies (other components) with license requirements that you need to know about. Usually, the tool will have an option for outputting dependencies used.
 
 ![Dev Tool dependency pull-in depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_1_animated_looped.gif)
 
-3. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license but should be tracked regardless.
+3. There may be a silent injection of code from the tool itself under an open source license. This is often under the same license or a more permissive license than the tool but should be tracked regardless.
 
 ![Dev Tool own-code injection depiction](https://github.com/OpenChain-Project/Reference-Material/blob/LFC193_update_2025/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content/LFC193%20Images/Ch4_DevTools_2_animated.gif)
 
@@ -433,7 +435,7 @@ All of the activities we have discussed previously are undertaken by developers.
 
 Finally, an important consideration for an open source compliance review relates to the end product, the software component deliverable, and who will receive it. Different parties receiving the deliverable will have different rights and requirements according to the Open Source licenses.
 
-This can be broken broadly into two categories: people inside your legal entity and people outside your legal entity. Open Source licenses use copyright as their fundamental building block.
+This can be broken broadly into two categories: people inside your legal entity and people outside your legal entity as Open Source licenses use copyright law as their fundamental building block.
 
 If you are giving the final software component to people inside your legal entity, you are not regarded as distributing the software. You are effectively giving it to yourself. This means that the distribution requirements applied by the Open Source license will not be activated.
 
@@ -445,7 +447,7 @@ The format of distribution may also be impacted by the Open Source licenses. It 
 2. How is the software component distributed?
 3. Is source code included or offered?
 4. Have we documented this?
-5. Have we archived the software for future reference?
+5. Have we archived everything needed for future reference?
 
 The concepts discussed above will be important while deriving license obligations for the open source components we use. It helps us understand how an open source license allows us to use the respective component and be bundled with our proprietary project.
 
@@ -500,7 +502,7 @@ By the end of this chapter, you should be able to:
 
 Takeaways:
 
-- We learned the basics of copyrights and the rights and obligations it confers to software.
+- We learned the basics of copyright and the rights and obligations it confers to software.
 - We had an introduction to Open Source licenses and how they are structured.
 - We gained an understanding of the key items needed for Open Source compliance.
 
@@ -594,12 +596,12 @@ Which of the following are Open Source compliance goals? Select all answers that
 
 When should an Open Source compliance review be done? Select all answers that apply. (TRUE/FALSE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
 
-- ***Upon a customer request***
+- ***Only upon a customer request***
 - Prior to distributing a product
-- ***If a license troll sues the company for license infringement***
+- ***Only if a license troll sues the company for license infringement***
 - During the software development process
 
-What are common scenarios for code building and distribution? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
+What are common scenarios for code building that need to be considered? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
 
 - ***Selling software on a USB stick***
 - ***Making software available to download***
@@ -613,7 +615,7 @@ What is static linking? (TRUE/FALSE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***
 - ***Adding a software library to the same read-only DVD for distribution***
 - Incorporating a software component at build time
 
-Which of the following questions are important to ask around the distribution of software? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
+In the context of Open Source license compliance which of the following questions are important to ask around the distribution of software? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS ***LIKE THIS***)
 
 - Who is the software component distributed to?
 - ***To which countries the software is distributed?***
@@ -623,7 +625,7 @@ Which of the following questions are important to ask around the distribution of
 - ***How big is the distributed executable?***
 - Have we archived the software for future reference?
 
-What are some of the key challenges organizations face with software license compliance? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS IN RED)
+What are some of the key challenges organizations may face with software license compliance? Select all answers that apply. (MULTIPLE CHOICE - PLEASE ADD FALSE QUESTIONS IN RED)
 
 - Understanding how licenses work and how this impacts organizational decisions
 - Understanding what situations invoke license obligations and decisions around licenses
