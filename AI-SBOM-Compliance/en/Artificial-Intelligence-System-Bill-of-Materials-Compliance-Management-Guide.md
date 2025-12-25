@@ -31,11 +31,9 @@ Introduction
 
 3.8 Effectively resourced
 
-3.9 AI content review and approval
+3.9 AI System Bill of Materials
 
-3.10 AI System Bill of Materials
-
-3.11 Governance
+3.10 Governance
 
 # Introduction
 
