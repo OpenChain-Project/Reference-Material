@@ -22,24 +22,24 @@ These processes and practices can be scaled to fit real-world situations and can
 
 **A**
 
-**Artifact  
-**Artifacts are materials that can be used to trace the entire software development such as process and the decisions made. Artifacts might be databases, data models, documentation, scripts, and bill of materials.
+**Artifact**
+Artifacts are materials that can be used to trace the entire software development such as process and the decisions made. Artifacts might be databases, data models, documentation, scripts, and bill of materials.
 
-**Attribution  
-**Many open source licenses require the respective open source software user to give credit to the e.g. author(s) of the open source software; this is referred to as an attribution or attribution statement**.**
+**Attribution**
+Many open source licenses require the respective open source software user to give credit to the e.g. author(s) of the open source software; this is referred to as an attribution or attribution statement**.**
 
 **Audit**  
 In this course, audit refers to an open source audit. An open source audit is a thorough investigation into your open source components.
 
 **B**
 
-**Build Environment  
-**The software development system that creates deployable images or executable, etc. It includes the required libraries, operating system, integration system, CI/CD pipelines, etc.
+**Build Environment**
+The software development system that creates deployable images or executable, etc. It includes the required libraries, operating system, integration system, CI/CD pipelines, etc.
 
 **C**
 
-**Compliance  
-**Open source software license compliance is a process of meeting the requirements of open source licenses of software components.
+**Compliance**
+Open source software license compliance is a process of meeting the requirements of open source licenses of software components.
 
 **Copyleft License**  
 A license requiring that derivative works are distributed under the same terms as the original work, also called reciprocal license.
@@ -84,13 +84,13 @@ The way a copyright or patent holder gives permission or rights to someone else.
 
 **N**
 
-**Notice(s)  
-**Open source notices refer to documentation such as the respective licenses, copyright notices, and attribution requirements for an open source component or collection of components.
+**Notice(s)**
+Open source notices refer to documentation such as the respective licenses, copyright notices, and attribution requirements for an open source component or collection of components.
 
 **O**
 
-**Obligation  
-**Open source obligation means being legally bound to the terms and conditions stated by the enforced open source license on the respective open source software.
+**Obligation**
+Open source obligation means being legally bound to the terms and conditions stated by the enforced open source license on the respective open source software.
 
 **P**
 
@@ -115,8 +115,8 @@ Software not protected (in jurisdictions that allow it) by copyright and therefo
 **Shareware**  
 Proprietary software provided to users on a trial basis, for a limited time, free of charge, and/or with limited functionality or features.
 
-**Software Bill of Materials (SBOM)  
-**Software Bill of Materials (SBOM) is an inventory for software, a list of items that make up a software component (which in turn may be made up from other components).
+**Software Bill of Materials (SBOM)**
+Software Bill of Materials (SBOM) is an inventory for software, a list of items that make up a software component (which in turn may be made up from other components).
 
 **T**
 
@@ -178,6 +178,8 @@ Compliance management is the set of actions (activities) that manage open source
 
 At a high level, incoming open source software is brought into an Organization (e.g. by the project team downloading it themselves, software delivered from a supplier, etc.). Then, compliance activity is performed in such a way that any outgoing open source components in products or services meet open source license obligations.
 
+![Compliance Management Overview](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-01.png)
+
 Compliance management includes the following important steps:
 
 - Identifying all open source componentsIn this step, we identify the open source components included in a software product. They can be anything, such as library packages or executables or even code snippets copied from open source projects or blog posts. This step also includes identifying the open source sub-components, code snippets, etc., used, or planned to be used, in any software from a third-party vendor.
@@ -230,6 +232,7 @@ The open source review process includes the following steps:
 ### Open Source Review Team
 
 An open source review team includes the Organization representatives that support, guide, coordinate and review the use of open source.
+![Compliance Management Open Source Review Team](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-02.png)
 
 These representatives may include the following:
 
@@ -243,11 +246,15 @@ Based on the Organization or project size, these roles may vary. In smaller Orga
 
 Any individual contributor or team leader working with open source should be able to initiate an open source review. In smaller Organizations or when working on small-scale projects, an individual contributor may play all the roles of a development team. On the other hand, mid-size or large companies usually require multiple people (e.g. program or product managers, engineers) to handle each activity.
 
+![Compliance Management Initiating an Open Source Review](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-03.png)
+
 Based on development practices and the specific project, the review initiation timing can vary. Most teams or individuals encourage open source reviews as early as possible e.g. in the design phase although as requirements can change this could be initiated at any time prior to the final build.
 
 **_NOTE_**_: The process often starts when new open source software is selected or considered for use by engineering or outside vendors while initiating new projects and/or improving existing ones._
 
 ### Analyzing Proposed Open Source Usage
+
+![Compliance Management Analyzing Proposed Open Source Usage](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-04.png)
 
 The open source review team should assess the information it has been provided with (e.g. the Software Bill of Materials of the open source used, or proposed to be used, in the project) before providing guidance for open source license compliance. This may include scanning code using tools to help confirm the accuracy of the information.
 
@@ -261,6 +268,8 @@ Here are a few items that the open source review team should consider:
 
 The image presented below visualizes this stage of the open source review process: the open source review team guides the development team (review initiators) on open source license compliance.
 
+![Compliance Management open source review process](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-05.png)
+
 This open source review process may require executive oversight to resolve disagreements and approve the most important decisions.
 
 The open source review process crosses disciplines, including engineering, business, and legal teams, and it should be interactive to ensure all these groups correctly understand the issues and can create clear, shared guidance.
@@ -273,7 +282,7 @@ Common items to collect are the package name, the status of the community around
 
 ### Source Code Scanning Tools
 
-## Source code scanning tools are software solutions that analyze codebases to identify open source components, detect the licenses that govern their use and identify copyright. These tools help Organizations understand what third-party code is present and how it is licensed with a degree of automation. By automating the discovery and analysis, such tools can reduce compliance risk, support due-diligence activities, and enable consistent governance of open source software across the development lifecycle.
+Source code scanning tools are software solutions that analyze codebases to identify open source components, detect the licenses that govern their use and identify copyright. These tools help Organizations understand what third-party code is present and how it is licensed with a degree of automation. By automating the discovery and analysis, such tools can reduce compliance risk, support due-diligence activities, and enable consistent governance of open source software across the development lifecycle.
 
 ## Complying with Open Source License Obligations
 
@@ -325,6 +334,7 @@ By the end of this chapter, you should be able to:
 ### Compliance Management End-to-End Process
 
 The image presented below shows the various steps involved in the end-to-end compliance process.
+![Compliance Management End-to-End Process](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-06.png)
 
 For small and medium-sized companies the end-to-end compliance checklist looks similar to this simulated example shown below.
 
@@ -346,6 +356,8 @@ Support requirements:
 
 In our example, the first step is to identify incoming open source components using established audit processes.
 
+![Compliance Management Identification and Audit](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-07.png)
+
 **Steps to identify/audit open source components:**
 
 - The development team raises a request to perform identification/auditing of the incoming open source components in the project.
@@ -366,6 +378,8 @@ In our example, the first step is to identify incoming open source components us
 
 The next step is to resolve issues.
 
+![Compliance Management Resolving Issues](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-08.png)
+
 **Steps to resolve all issues identified in the audit:**
 
 - Provide feedback to the appropriate engineers to resolve issues listed in the audit report that conflict with your open source policy.
@@ -380,6 +394,8 @@ The next step is to resolve issues.
 
 Next, it is recommended to review the resolved issues.
 
+![Compliance Management Performing Reviews](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-09.png)
+
 **Steps to review the resolved issues to confirm they match your open source policy:**
 
 - Include appropriate authority levels in review staff.
@@ -393,6 +409,8 @@ Next, it is recommended to review the resolved issues.
 ### Approval and Registration
 
 The following step is called Approval and Registration.
+
+![Compliance Management Approval and Registration](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-10.png)
 
 **Steps for approvals and registration:**
 
@@ -410,6 +428,8 @@ The following step is called Approval and Registration.
 
 Notices refer to collecting and providing open source copyright, license and attribution information, a very common open source license requirement.
 
+![Compliance Management Notices](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-11.png)
+
 **Steps to prepare notices:**
 
 - Prepare appropriate notices for any open source component used in a product release:
@@ -424,6 +444,8 @@ Notices refer to collecting and providing open source copyright, license and att
 ### Verifications
 
 The next compliance activity is verification.
+
+![Compliance Management Verifications](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-12.png)
 
 **Steps to verify that the software to be distributed has been reviewed and approved:**
 
@@ -441,6 +463,8 @@ The next compliance activity is verification.
 
 Here, we will talk about fulfilling obligations to provide source code, a requirement of some open source licenses.
 
+![Compliance Management Distribution](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-13.png)
+
 **Steps to provide source code as required:**
 
 - Provide source code along with any associated build tools and documentation, following your Organization’s process.
@@ -453,6 +477,9 @@ Here, we will talk about fulfilling obligations to provide source code, a requir
 ### Validation
 
 The last step in our example is the final validation.
+
+![Compliance Management Validation](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-14.png)
+
 
 **Steps to validate compliance with license obligations:**
 
