@@ -10,7 +10,7 @@ In this follow-on course to [_Introduction to Open Source License Compliance Man
 
 The course will start with a quick review of what open source compliance management is. Then, you will learn why it is important to conduct an open source review and who is involved in this process and why. You will also gain an understanding of the steps necessary to achieve end-to-end compliance. In addition, you will become familiar with developer guidelines that are recommended to be followed when using open source code and contributing to open source projects and communities.
 
-The policies and processes discussed in this course can be used to manage open source compliance activities such that the legal obligations of licenses are met in a practical and consistent way, and following industry best practices as documented and advocated by [OpenChain](https://www.openchainproject.org/) – the [Linux Foundation](https://www.linuxfoundation.org/) initiative.
+The policies and processes discussed in this course can be used to manage open source compliance activities such that the legal obligations of licenses are met in a practical and consistent way, and following industry best practices as documented and advocated by [OpenChain](https://www.openchainproject.org/) – the [Linux Foundation](https://www.linuxfoundation.org/) initiative. However, nothing in this course should be considered as legal advice.
 
 These processes and practices can be scaled to fit real-world situations and can be introduced to build and implement an open source compliance management system that addresses the needs of small, medium and large Organizations/Companies (referred to simply as Organization in this course).
 
