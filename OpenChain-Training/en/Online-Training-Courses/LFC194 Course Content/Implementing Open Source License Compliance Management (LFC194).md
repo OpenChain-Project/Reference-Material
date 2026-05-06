@@ -316,11 +316,11 @@ Obligation fulfillment and distribution are discussed later in the course.
 
 ### Chapter Overview
 
-This chapter explains the processes that can be used to manage open source compliance activities. It is designed to help small, medium, and large Organizations make informed decisions regarding their compliance programs.
+This chapter explains the processes that can be used to manage open source compliance activities. It is designed to help Organizations of any size make informed decisions regarding their compliance programs.
 
 Open source compliance processes should reflect the Organization's open source policy. For example, an Organization can create a process for recording open source project names and versions used, a process for creating and maintaining open source attributions to accompany software distributions (or "supplied software"), and a release process that includes checks for accuracy.
 
-For example, an Organization may have a simple policy to entirely ban any Affero GPLv3 licensed code for use within any product. Another policy might be to always include all modified source code where required with the product distribution itself, such as in the package image (this would remove the need of some licenses for an offer of source to be made if the source isn’t distributed). It is also common to have processes for contributions to open source projects, including creating new projects.
+As another example, an Organization may have a simple policy to entirely ban any Affero GPLv3 licensed code for use within any product. Another policy might be to always include all modified source code where required with the product distribution itself, such as in the package image, which would remove the requirement of some licenses for an offer of source to be made if the source isn’t distributed. It is also common to have processes for contributions to open source projects, including creating new projects.
 
 ### Learning Objectives
 
@@ -349,7 +349,7 @@ Support requirements:
 
 - Ensure adequate compliance staffing and designate clear lines of responsibility.
 - If necessary, e.g. for process efficiency, adapt existing business processes to support the open source compliance program.
-- Have training on the Organization’s open source policy made available to everyone.
+- Have training on the Organization’s open source policy and processes made available to everyone.
 - Track progress of all open source compliance activities.
 
 ### Identification and Audit
@@ -362,9 +362,9 @@ In our example, the first step is to identify incoming open source components us
 
 - The development team raises a request to perform identification/auditing of the incoming open source components in the project.
 - From the open source review team, a person competent in scanning activity will scan open source components using previously established processes. This helps to identify details of the open source components in question as well as their applicable license(s).
-- Scan results (understood as a list of complete or partial matches to open source shown by the scan tools, and identification of third-party party license texts) from the audit or scan are reviewed and verified to ensure the proper origin of the code (the applicable open source component used).
+- The scan results (understood as a list of complete or partial matches to open source shown by the scan tools, and identification of third-party party license texts) from the audit or scan are reviewed and verified to ensure the proper origin of the code (the applicable open source component used).
 - Audits or scans are performed iteratively based on the software development and release lifecycles.
-- The individual(s) responsible for scanning should also perform the due diligence of incoming third-party software and verify the list of open source components received within the software.
+- The individual(s) responsible for scanning should also perform due diligence on incoming third-party software and verify the list of open source components received within the software.
     - The above verification can be completed by referring to the Software Bill of Materials documentation (SBOMs) which should have been shared along with the third-party software or otherwise made available.
     - Confirm whether the incoming open source licenses are in compliance with the receiving Organization’s open source policy.
 - If open source components found (by manual or a tool) in the third-party software does not match those mentioned in the SBOM then the supplier should be contacted to provide an explanation and/or update.
@@ -426,13 +426,13 @@ The following step is called Approval and Registration.
 
 ### Notices
 
-Notices refer to collecting and providing open source copyright, license and attribution information, a very common open source license requirement.
+Notices contain open source copyright, license and attribution information, a very common open source license requirement.
 
 ![Compliance Management Notices](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-11.png)
 
 **Steps to prepare notices:**
 
-- Prepare appropriate notices for any open source component used in a product release:
+- Prepare appropriate notices for all open source components used in a product release:
     - Acknowledge the use of open source components by providing full copyright and license information.
     - Include information on how to request a copy of the open source code (when applicable, such as for GPL and LGPL requirements).
     - Reproduce the entire text of the license(s) for the open source code included in the product as needed.
@@ -461,18 +461,19 @@ The next compliance activity is verification.
 
 ### Distribution
 
-Here, we will talk about fulfilling obligations to provide source code, a requirement of some open source licenses.
+Here, we will talk about fulfilling license obligations to provide open source notices and, if applicable, source code.
 
 ![Compliance Management Distribution](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-13.png)
 
-**Steps to provide source code as required:**
+**Steps to fulfill license obligations:**
 
+- Include open source notice files along with every external distribution of the software. 
 - Provide source code along with any associated build tools and documentation, following your Organization’s process.
 - Source code should be identified with labels which correspond to a specific product and version and match the corresponding information in the associated SBOM.
 
 **Outcome:**
 
-- Any obligations to provide source code are met.
+- License obligations are met.
 
 ### Validation
 
