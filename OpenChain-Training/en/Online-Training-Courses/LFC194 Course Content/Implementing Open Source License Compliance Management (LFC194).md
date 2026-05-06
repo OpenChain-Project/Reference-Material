@@ -174,7 +174,7 @@ With the key concepts reiterated above, it should be clear that it is necessary 
 
 ### Compliance Management Overview
 
-Compliance management is the set of actions (activities) that manage open source code and components that are distributed by an Organization. Those activities are used to ensure that all obligations of the applicable license(s) are met in products and services. They also cover procedures for contributions to open source projects. Open source components are called _supplied software_ in the OpenChain specification.
+Compliance management is the set of actions (activities) that manage open source code and components that are distributed by an Organization. Those activities are used to ensure that all obligations of the applicable license(s) are met in products and services. They also cover procedures for contributions to open source projects.
 
 At a high level, incoming open source software is brought into an Organization (e.g. by the project team downloading it themselves, software delivered from a supplier, etc.). Then, compliance activity is performed in such a way that any outgoing open source components in products or services meet open source license obligations.
 
