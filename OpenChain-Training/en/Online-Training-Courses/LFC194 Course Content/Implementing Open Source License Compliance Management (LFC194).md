@@ -637,7 +637,6 @@ Good relationships with the software communities are helpful in enhancing two-wa
     - The final product will be functional and high quality → Incorrect Answer
     - Potential compliance mistakes are addressed early --> Correct answer
     - Open source is used more efficiently and in a compliant manner --> Correct answer
-    - Meaningful relationships with the open source community are established --> Correct answer
     - There are no benefits, compliance generates additional cost in money and time → Incorrect Answer
 
 # Chapter 5. Developer Guidelines
