@@ -612,7 +612,7 @@ This can be avoided by using software composition analysis (SCA) tools and track
 
 ### Ensure Compliance Prior to Product Shipment
 
-Companies must make compliance a priority before any product (in whatever form) ships. Prioritizing compliance promotes:
+Organizations must make compliance a priority before any product (in whatever form) ships. Prioritizing compliance promotes:
 
 - More effective use of open source within your Organization.
 - Better relations with the open source community and open source Organizations.
