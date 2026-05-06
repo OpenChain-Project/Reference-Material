@@ -174,7 +174,7 @@ With the key concepts reiterated above, it should be clear that it is necessary 
 
 ### Compliance Management Overview
 
-Compliance management is the set of actions (activities) that manage open source code and components that are distributed by an Organization. Those activities are used to ensure that all obligations of the applicable license(s) are met in products and services. They also cover procedures for contributions to open source projects. Open source components are called _supplied software_ in the OpenChain specification.
+Compliance management is the set of actions (activities) that manage open source code and components that are distributed by an Organization. Those activities are used to ensure that all obligations of the applicable license(s) are met in products and services. They also cover procedures for contributions to open source projects.
 
 At a high level, incoming open source software is brought into an Organization (e.g. by the project team downloading it themselves, software delivered from a supplier, etc.). Then, compliance activity is performed in such a way that any outgoing open source components in products or services meet open source license obligations.
 
@@ -349,7 +349,7 @@ Support requirements:
 
 - Ensure adequate compliance staffing and designate clear lines of responsibility.
 - If necessary, e.g. for process efficiency, adapt existing business processes to support the open source compliance program.
-- Have training on the Organization’s open source policy made available to everyone.
+- Have training on the Organization’s open source policy and process made available to everyone.
 - Track progress of all open source compliance activities.
 
 ### Identification and Audit
@@ -367,7 +367,7 @@ In our example, the first step is to identify incoming open source components us
 - The individual(s) responsible for scanning should also perform the due diligence of incoming third-party software and verify the list of open source components received within the software.
     - The above verification can be completed by referring to the Software Bill of Materials documentation (SBOMs) which should have been shared along with the third-party software or otherwise made available.
     - Confirm whether the incoming open source licenses are in compliance with the receiving Organization’s open source policy.
-- If open source components found (by manual or a tool) in the third-party software does not match those mentioned in the SBOM then the supplier should be contacted to provide an explanation and/or update.
+- If open source components found (by manual or a tool) in the third-party software does not match those mentioned in a supplier's SBOM then the supplier should be contacted to provide an explanation and/or update.
 
 **Outcome:**
 
@@ -414,7 +414,7 @@ The following step is called Approval and Registration.
 
 **Steps for approvals and registration:**
 
-- Based on the results of the software audit and review conducted in the previous steps, the software may or may not be approved for use.
+- Based on the results of the software audit and review conducted in the previous steps, the open source software may or may not be approved for use.
 - The approval should specify versions of approved open source components, the approved usage model for the component, and any other applicable obligations under the open source license.
 - Approvals should be made at appropriate authority levels. Usually, the open source review team is involved in the activities, and rarely Executive decisions shall be obtained and recorded.
 
@@ -450,8 +450,8 @@ The next compliance activity is verification.
 **Steps to verify that the software to be distributed has been reviewed and approved:**
 
 - Verify that open source packages finalized for distribution have been identified and approved.
-- Verify as much as practical that the reviewed source code matches the binary equivalents shipping in the product.
-- Verify that instructions on how to request source code are included when required by the identified open source license.
+- Verify that the reviewed source code matches the binary equivalents shipping in the product.
+- Verify that instructions on how to request source code are included when required by the identified open source license(s).
 - Verify compliance with other identified obligations.
 
 **Outcome:**
@@ -532,11 +532,11 @@ We will begin with the big picture, discussing some general intellectual propert
 
 #### Unplanned inclusion of copyleft open source into proprietary or third party code
 
-This type of failure occurs during the development process when engineers add open source code into source code that is intended to be proprietary, thus creating a conflict with the open source policy and potentially jeopardizes the Organization’s ability to protect their intellectual property. This situation can be discovered by reviewing and auditing (e.g. scanning using tools) the source code for possible matches with open source code or copyright notices. For example, a search for copyright statements in the source code may reveal some unexpected contributor notice, leading to an open source component and thus requiring further investigation. Automated source code scanning tools may also be used for this purpose.
+This type of failure occurs during the development process when engineers add open source code into source code that is intended to be proprietary, thus creating a conflict with the open source policy and potentially jeopardizing the Organization’s ability to protect their intellectual property. This situation can be discovered by reviewing and auditing (e.g. scanning using tools) the source code for possible matches with open source code or copyright notices. For example, a search for copyright statements in the source code may reveal some unexpected contributor notice, leading to an open source component and thus requiring further investigation. Automated source code scanning tools may also be used for this purpose.
 
 This type of failure can be avoided by offering training to engineering staff about compliance issues, the different types of open source licenses and the implications of including open source in proprietary source code and conducting regular source code scans or audits for all the source code in the build environment.
 
-#### Unplanned/unintended etc., linking of copyleft open source and proprietary source code
+#### Unplanned/unintended linking between copyleft open source and proprietary source code
 
 This type of failure can be discovered using a dependency tracking tool that shows any linking between different software components.
 
@@ -554,11 +554,11 @@ We will now discuss issues specific to license compliance. Like the previous sec
 
 #### Failure to provide source code/appropriate license, attribution or notice information
 
-This type of failure can be avoided by publishing a checklist in the product release cycle before the product becomes available in the marketplace. This checklist would examine if appropriate licenses are shared, if attribution or notice files are in place, and if links or copies of source code that needs to be shared as part of the license obligation are provided.
+This type of failure can be avoided by publishing a license compliance checklist in the product release cycle before the product becomes available in the marketplace. This checklist would examine if appropriate license texts are shared, if attribution or notice files are in place, and if links or copies of source code that needs to be shared as part of the license obligation are provided.
 
 #### Providing the incorrect version of accompanying source code
 
-This type of failure can be avoided by adding a verification step into the compliance process to ensure that the accompanying source code for the binary version is being published or otherwise made available. It is good practice, and some licenses require that the source code should be made available for several years beyond the last distribution of the software.
+This type of failure can be avoided by adding a verification step into the compliance process to ensure that the accompanying source code for the binary version is being published or otherwise made available. Note that some licenses require that the source code is made available for several years beyond the last distribution of the software.
 
 #### Failure to provide source code for open source component modifications
 
@@ -604,7 +604,7 @@ It can be prevented through education or, if the cause is lack of resources, by 
 
 This can be avoided by using software composition analysis (SCA) tools and tracking all open source and other third-party software that is used to build and run the product.
 
-#### Failure not to provide a full Software Bill of Material (SBOM) at the time when product is shipped
+#### Failure to provide a full Software Bill of Material (SBOM) at the time when product is shipped
 
 This can be avoided by using software composition analysis (SCA) tools and tracking all open source and other third-party software that is used to build and run the product.
 
@@ -666,13 +666,13 @@ When using third-party code, it is imperative to select from high quality, well-
 
 Don’t hesitate to seek guidance and advice from the appropriate people inside your Organization, such as the Open Source Program Office (OSPO), the legal department, or the office of the CTO. Make sure you are clear on who the right people are and what is the right department to talk to_—_this should be clearly specified in the Organization's policy documentation. To learn more about OSPO, enroll in the [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) course series offered by the Linux Foundation.
 
-Also, check the Organization’s policy regarding the approval process. For example, some companies may have extensive “approve” lists for third-party code. Others may require case-by-case approvals. Most will probably have a combination of different procedures depending on the task being worked on. The Organization open source policy should help clarify this for you.
+Also, check the Organization’s policy regarding the approval process. For example, some companies may have extensive “approve” lists for third-party code. Others may require case-by-case approvals. Most will probably have a combination of different procedures depending on the task being worked on. The Organization's open source policy should help clarify this for you.
 
 It is important to either finish the above action items or to follow other Organization guidelines before checking new code into the internal Organization systems. Checking the Organization's policy regarding the approval process typically goes beyond personal use of the code for a specified project. However, it is still encouraged considering the potential negative implications of the code accidentally being used by other teams in the future without approval if there is a process breakdown.
 
 Quite often a developer or development team will be in a situation where contributing code back to a third-party project makes sense (e.g., a bug fix, so that it isn’t necessary to keep making the same fix whenever a new version of the open source is released and used). In these situations, you should also check your Organization’s open source policy (or relevant documentation) to make sure that your intended contribution fits into the Organization’s approach and that of the community in question.
 
-Regardless of whether you are taking code into your Organization or sending code outside of your Organization, it is important to be mindful and careful of license information. It should be provided in all cases to ensure clarity. Be careful not to remove or inadvertently change existing open source license information or license texts in third-party code. This applies whether it is an inbound or outbound contribution. The clarity in the licensing is critical to ensuring that things run smoothly.
+Regardless of whether you are taking code into your Organization or sending code outside of your Organization, it is important to be mindful and careful of license information. It should be retained and provided in all cases to ensure clarity. Be careful not to remove or inadvertently change existing open source license information or license texts in third-party code. This applies whether it is an inbound or outbound contribution. Clarity of the licensing is critical to ensure that things run smoothly.
 
 Wherever possible, do not rename open source components unless there is a specific requirement to do so for your particular use case or because of a requirement in a license. The reason for this is simple: if and when you rename the code, you increase the risk of misinterpretation around the license and the chance of someone in the future failing to understand the provenance of this code.
 
@@ -680,7 +680,7 @@ Adjacent to this, you should also gather and retain attribution information acco
 
 ### Anticipate Compliance Process Requirements
 
-The overhead of using third-party code in a compliant way is not high, but it does exist. It is useful to ensure that you budget time and resources for addressing your Organization’s open source policy process requirements in the development work plans. This type of activity is part of the (small) cost of having access to open source or proprietary code from third-parties.
+The overhead of using third-party code in a compliant way is not high, but it does exist. It is useful to ensure that you budget time and resources for addressing your Organization’s open source policy and process requirements in the development work plans. This type of activity is part of the (small) cost of having access to open source code.
 
 Issues you may want to spend time on include considering the impact of linking or incorporating third-party code into your code or other third-party code. Understanding license implications early on can save you a lot of time later. This can be part of your architectural planning cycle.
 
@@ -708,7 +708,7 @@ Having some form of inbound code audit is extremely useful to get this done. Thi
     - No, existing license information should be preserved, and additional header information can be added for modifications or additions to source code --> Correct answer
 - Can a new version of a previously reviewed open source component create new compliance issues? Select all answers that apply.
     - Yes, if there is a change in the open source license for the new version of the open source component --> Correct answer
-    - Yes, if new dependencies are introduced with new versions which creates additional open source obligations --> Correct answer
+    - Yes, if new dependencies are introduced with new versions which create additional open source obligations --> Correct answer
     - No, authors are not allowed to change licenses or copyright notices for future versions of existing open source components. → Incorrect answer
     - None of the above → Incorrect answer
 
