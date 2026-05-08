@@ -354,24 +354,31 @@ Support requirements:
 
 ### Identification and Audit
 
-In our example, the first step is to identify incoming open source components using established audit processes.
+In our example, the first step is to identify all incoming open source components using established declaration/identification and audit processes.
 
 ![Compliance Management Identification and Audit](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-07.png)
 
-**Steps to identify/audit open source components:**
+**Identify open source components and initial view of license(s):**
+Incoming open source components may be indentified by:
+- The development team raising a request (e.g. to review) the proposed incoming open source components in the project.
+- Third-party Software Bill of Material (SBOM) documentation; which should have been shared along with the third-party software or otherwise made available.
+- Scanning. From the open source review team, a person competent in scanning activity will scan source code and packages for open source components using previously established processes. This aims to identify the details of the open source components present, as well as their applicable license(s).
 
-- The development team raises a request to perform identification/auditing of the incoming open source components in the project.
-- From the open source review team, a person competent in scanning activity will scan open source components using previously established processes. This helps to identify details of the open source components in question as well as their applicable license(s).
-- Scan results (understood as a list of complete or partial matches to open source shown by the scan tools, and identification of third-party party license texts) from the audit or scan are reviewed and verified to ensure the proper origin of the code (the applicable open source component used).
-- Audits or scans are performed iteratively based on the software development and release lifecycles.
-- The individual(s) responsible for scanning should also perform the due diligence of incoming third-party software and verify the list of open source components received within the software.
-    - The above verification can be completed by referring to the Software Bill of Materials documentation (SBOMs) which should have been shared along with the third-party software or otherwise made available.
-    - Confirm whether the incoming open source licenses are in compliance with the receiving Organization’s open source policy.
-- If open source components found (by manual or a tool) in the third-party software does not match those mentioned in the SBOM then the supplier should be contacted to provide an explanation and/or update.
+- This is performed iteratively based on the software development and release lifecycles.
+
+  
+**Audit of open source components:**
+Incoming open source components may then be audited:
+- Scan results (understood as a list of complete or partial matches to open source shown by the scan tools, and identification of third-party party license texts) are reviewed and verified to e.g. ensure the proper and correct origin of the code (the applicable open source component used).
+- Perform the due diligence of incoming third-party software, e.g. verify the list of open source components received within the software by comparing scan results to the Software Bill of Material (SBOM) documentation provided from/by the third-party. If open source components found (by manual or a tool) in the third-party software does not match those mentioned in the SBOM then the supplier should be contacted to provide an explanation and/or update.
+- Confirm whether the incoming open source licenses and thier proposed usage are in compliance with the receiving Organization’s open source policy.
+
+- This is performed iteratively based on the software development and release lifecycles.
+
 
 **Outcome:**
 
-- An audit report identifying the origins and licenses of the open source code, as well as any issues that need to be addressed.
+- An audit report identifying the origins and licenses of all the incoming open source code, as well as any issues that may need to be further investigated and addressed.
 - A compliance record (created or updated) for the open source software.
 
 ### Resolving Issues
