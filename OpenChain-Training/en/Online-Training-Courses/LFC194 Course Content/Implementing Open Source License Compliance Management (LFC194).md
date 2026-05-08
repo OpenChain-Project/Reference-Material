@@ -334,7 +334,7 @@ By the end of this chapter, you should be able to:
 ### Compliance Management End-to-End Process
 
 The image presented below shows the various steps involved in the end-to-end compliance process.
-![Compliance Management End-to-End Process](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-06.png)
+![Compliance Management End-to-End Process](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-02.png)
 
 For small and medium-sized companies the end-to-end compliance checklist looks similar to this simulated example shown below.
 
@@ -356,7 +356,7 @@ Support requirements:
 
 In our example, the first step is to identify all incoming open source components using established declaration/identification and audit processes.
 
-![Compliance Management Identification and Audit](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-07.png)
+![Compliance Management Identification and Audit](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-03.png)
 
 **Identify open source components and initial view of license(s):**
 
@@ -389,7 +389,7 @@ Incoming open source components may then be audited:
 
 The next step is to resolve issues.
 
-![Compliance Management Resolving Issues](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-08.png)
+![Compliance Management Resolving Issues](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-04.png)
 
 **Steps to resolve all issues identified in the audit:**
 
@@ -405,7 +405,7 @@ The next step is to resolve issues.
 
 Next, it is recommended to review the resolved issues.
 
-![Compliance Management Performing Reviews](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-09.png)
+![Compliance Management Performing Reviews](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-05.png)
 
 **Steps to review the resolved issues to confirm they match your open source policy:**
 
@@ -421,7 +421,7 @@ Next, it is recommended to review the resolved issues.
 
 The following step is called Approval and Registration.
 
-![Compliance Management Approval and Registration](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-10.png)
+![Compliance Management Approval and Registration](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-6.png)
 
 **Steps for approvals and registration:**
 
@@ -439,7 +439,7 @@ The following step is called Approval and Registration.
 
 Notices refer to collecting and providing open source copyright, license and attribution information, a very common open source license requirement.
 
-![Compliance Management Notices](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-11.png)
+![Compliance Management Notices](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-7.png)
 
 **Steps to prepare notices:**
 
@@ -456,7 +456,7 @@ Notices refer to collecting and providing open source copyright, license and att
 
 The next compliance activity is verification.
 
-![Compliance Management Verifications](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-12.png)
+![Compliance Management Verifications](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-8.png)
 
 **Steps to verify that the software to be distributed has been reviewed and approved:**
 
@@ -474,7 +474,7 @@ The next compliance activity is verification.
 
 Here, we will talk about fulfilling obligations to provide source code, a requirement of some open source licenses.
 
-![Compliance Management Distribution](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-13.png)
+![Compliance Management Distribution](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-9.png)
 
 **Steps to provide source code as required:**
 
@@ -489,7 +489,7 @@ Here, we will talk about fulfilling obligations to provide source code, a requir
 
 The last step in our example is the final validation.
 
-![Compliance Management Validation](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-14.png)
+![Compliance Management Validation](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-10.png)
 
 
 **Steps to validate compliance with license obligations:**
