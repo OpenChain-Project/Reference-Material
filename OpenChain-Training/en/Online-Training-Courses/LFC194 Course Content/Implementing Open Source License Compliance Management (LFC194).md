@@ -232,7 +232,7 @@ The open source review process includes the following steps:
 ### Open Source Review Team
 
 An open source review team includes the Organization representatives that support, guide, coordinate and review the use of open source.
-![Compliance Management Open Source Review Team](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-02.png)
+![Compliance Management Open Source Review Team](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-review_all.png)
 
 These representatives may include the following:
 
@@ -246,7 +246,7 @@ Based on the Organization or project size, these roles may vary. In smaller Orga
 
 Any individual contributor or team leader working with open source should be able to initiate an open source review. In smaller Organizations or when working on small-scale projects, an individual contributor may play all the roles of a development team. On the other hand, mid-size or large companies usually require multiple people (e.g. program or product managers, engineers) to handle each activity.
 
-![Compliance Management Initiating an Open Source Review](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-03.png)
+![Compliance Management Initiating an Open Source Review](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-initiate_review.png)
 
 Based on development practices and the specific project, the review initiation timing can vary. Most teams or individuals encourage open source reviews as early as possible e.g. in the design phase although as requirements can change this could be initiated at any time prior to the final build.
 
@@ -254,7 +254,7 @@ Based on development practices and the specific project, the review initiation t
 
 ### Analyzing Proposed Open Source Usage
 
-![Compliance Management Analyzing Proposed Open Source Usage](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-04.png)
+![Compliance Management Analyzing Proposed Open Source Usage](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-analyse_usage.png)
 
 The open source review team should assess the information it has been provided with (e.g. the Software Bill of Materials of the open source used, or proposed to be used, in the project) before providing guidance for open source license compliance. This may include scanning code using tools to help confirm the accuracy of the information.
 
@@ -268,7 +268,7 @@ Here are a few items that the open source review team should consider:
 
 The image presented below visualizes this stage of the open source review process: the open source review team guides the development team (review initiators) on open source license compliance.
 
-![Compliance Management open source review process](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-05.png)
+![Compliance Management open source review process](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-review_oversight.png)
 
 This open source review process may require executive oversight to resolve disagreements and approve the most important decisions.
 
