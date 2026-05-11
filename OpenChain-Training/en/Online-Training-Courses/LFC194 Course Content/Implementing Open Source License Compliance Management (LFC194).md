@@ -421,7 +421,7 @@ Next, it is recommended to review the resolved issues.
 
 The following step is called Approval and Registration.
 
-![Compliance Management Approval and Registration](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-6.png)
+![Compliance Management Approval and Registration](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-06.png)
 
 **Steps for approvals and registration:**
 
@@ -439,7 +439,7 @@ The following step is called Approval and Registration.
 
 Notices refer to collecting and providing open source copyright, license and attribution information, a very common open source license requirement.
 
-![Compliance Management Notices](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-7.png)
+![Compliance Management Notices](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-07.png)
 
 **Steps to prepare notices:**
 
@@ -456,7 +456,7 @@ Notices refer to collecting and providing open source copyright, license and att
 
 The next compliance activity is verification.
 
-![Compliance Management Verifications](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-8.png)
+![Compliance Management Verifications](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-08.png)
 
 **Steps to verify that the software to be distributed has been reviewed and approved:**
 
@@ -474,7 +474,7 @@ The next compliance activity is verification.
 
 Here, we will talk about fulfilling obligations to provide source code, a requirement of some open source licenses.
 
-![Compliance Management Distribution](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-9.png)
+![Compliance Management Distribution](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-09.png)
 
 **Steps to provide source code as required:**
 
