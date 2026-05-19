@@ -92,6 +92,9 @@ Open source notices refer to documentation such as the respective licenses, copy
 **Obligation**
 Open source obligation means being legally bound to the terms and conditions stated by the enforced open source license on the respective open source software.
 
+**OSPO**
+Open Source Program Office. A department (which may be virtual) within an organization responsible for managing, governing, and promoting its open-source software activities. It can act as a bridge between internal teams—like engineering, legal, and security—and the broader open-source community
+
 **P**
 
 **Patents**  
@@ -757,10 +760,11 @@ Challenges we may have to be aware of include the following:
 - Knowing how to identify open source components when they are not visible to the naked eye. For example, when open source license components are not listed on the package except for copyrights, author name(s) and/or inheritance notices.
 - Understanding how to accommodate and identify the roles and responsibilities of open source review teams, and how such teams work in small-scale companies as opposed to midsize and large-scale Organizations.
 - Understanding that there is no universally applicable set of guidelines available for identifying and addressing compliance pitfalls. This is because various regional and Organization legal interpretations for compliance and risks exist that need to be taken into consideration.
+- How to operate a security assurance program with respect to the use of open source software.
 
 But there’s also good news! Some of these challenges are being handled by existing communities. For example:
 
-- [OpenChain](https://www.openchainproject.org/) has released and is further planning to release Playbooks which should help you understand and work through common challenges seen in the area of open source compliance.
+- [OpenChain](https://www.openchainproject.org/) has released Playbooks which should help you understand and work through common challenges seen in the area of open source compliance. OpenChain also created the [OpenChain Security Assurance Specification](https://github.com/OpenChain-Project/Security-Assurance-Specification/blob/main/Security-Assurance-Specification/ISO-18974/en/ISO-18974.md), which is also available as an ISO standard, to help Organizations' create appropriate policies and processes for handling the security assurance of Open Source.  
 - [TODO Group](https://todogroup.org/) also has been busy at creating and sharing various OSPO-related materials that can help you better understand OSPO requirements and identify the skill sets necessary to address some of the challenges we’ve discussed in this course and many more.
 
 ## What’s Next
