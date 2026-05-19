@@ -93,7 +93,7 @@ Open source notices refer to documentation such as the respective licenses, copy
 Open source obligation means being legally bound to the terms and conditions stated by the enforced open source license on the respective open source software.
 
 **OSPO**
-Open Source Program Office. A department (which may be virtual) within an organization responsible for managing, governing, and promoting its open-source software activities. It can act as a bridge between internal teams—like engineering, legal, and security—and the broader open-source community
+Open Source Program Office. A department (which may be virtual and may be named differently) within an organization responsible for managing, governing, and promoting its open-source software activities. It can act as a bridge between internal teams—like engineering, legal, and security—and the broader open-source community
 
 **P**
 
