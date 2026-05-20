@@ -26,7 +26,7 @@ These processes and practices can be scaled to fit real-world situations and can
 Artifacts are materials that can be used to trace the entire software development such as process and the decisions made. Artifacts might be databases, data models, documentation, scripts, and bill of materials.
 
 **Attribution**
-Many open source licenses require the respective open source software user to give credit to the e.g. author(s) of the open source software; this is referred to as an attribution or attribution statement**.**
+Many open source licenses require the respective open source software user to give credit to the author(s) of the open source software; this is referred to as an attribution or attribution statement**.**
 
 **Audit**  
 In this course, audit refers to an open source audit. An open source audit is a thorough investigation into your open source components.
@@ -34,7 +34,7 @@ In this course, audit refers to an open source audit. An open source audit is a 
 **B**
 
 **Build Environment**
-The software development system that creates deployable images or executable, etc. It includes the required libraries, operating system, integration system, CI/CD pipelines, etc.
+The software development system that creates deployable images or executables, etc. It includes the required libraries, operating system, integration system, CI/CD pipelines, etc.
 
 **C**
 
@@ -60,7 +60,7 @@ A new creation/work based upon an original work, that has been added to or modif
 **F**
 
 **Freeware**  
-A term referring to software that is distributed under a proprietary license at no or very low cost but often has restricted licensing terms particularly those related to modification and redistribution.
+A term referring to software that is distributed under a proprietary license at no or very low cost but often has restricted licensing terms, particularly those related to modification and redistribution.
 
 **G**
 
@@ -185,19 +185,21 @@ At a high level, incoming open source software is brought into an Organization (
 
 Compliance management includes the following important steps:
 
-- Identifying all open source componentsIn this step, we identify the open source components included in a software product. They can be anything, such as library packages or executables or even code snippets copied from open source projects or blog posts. This step also includes identifying the open source sub-components, code snippets, etc., used, or planned to be used, in any software from a third-party vendor.
-- Identifying all licenses and license obligations  
-    In this step, we identify the respective applicable license(s) and their obligations for all the open source components present in the software product.
-- Conforming to all obligationsIn this step, we confirm that all license obligations are met, or ready to be met, before the distribution of the software occurs (where “distribution” may include implementations of Software as a Service accessed via a network for some licenses).
-- Delivering open source compliant software  
-    This step involves making the software available with open source compliance-assured articles. Such articles would include packaging Software Bill of Materials and all other documentation as directed by the license obligations along with the software distribution media.
+- Identify all open source components
+  In this step, we identify the open source components included in a software product. They can be anything, such as library packages or executables or even code snippets copied from open source projects or blog posts. This step also includes identifying the open source sub-components, code snippets, etc., used, or planned to be used, in any software from a third-party vendor.
+- Identify all licenses and license obligations  
+  In this step, we identify the respective applicable license(s) and their obligations for all the open source components present in the software product.
+- Conform to all obligations
+  In this step, we confirm that all license obligations are met, or ready to be met, before the distribution of the software occurs (where “distribution” may include implementations of Software as a Service accessed via a network, for some licenses).
+- Deliver open source compliant software  
+  This step involves making the software available with open source compliance-assured articles. Such articles include packaging Software Bill of Materials and all other documentation as directed by the license obligations along with the software distribution media.
 
 While Organizations can differ widely and have vastly different resources available (such as legal support), the same activities still need to be performed. It is expected that existing business processes can, and will, be adapted as necessary to support a robust open source compliance program.
 
 To ensure everything is properly managed, the supporting requirements are as follows:
 
 - Adequate compliance staffing and clear lines of responsibility are defined.
-- The Organization's open source policy is available to everyone, and anyone involved in delivering products and services that include open source is aware of it. Supported by e.g. suitable training materials (such as the LFC193 course) as needed to ensure sufficient awareness.
+- The Organization's open source policy is available to everyone, and anyone involved in delivering products and services that include open source is aware of it. Supported by, e.g., suitable training materials (such as the LFC193 course) as needed to ensure sufficient awareness.
 - All relevant open source compliance activities are tracked and recorded.
 
 End-to-end compliance of software products is the ultimate goal. In the next chapters, we will learn more about how this may be achieved, the roles and responsibilities of those involved in the process, and how an open source review fits into license compliance management.
@@ -224,13 +226,13 @@ By the end of this chapter, you should be able to:
 
 ### What Is an Open Source Review?
 
-A key element to an open source compliance program is an open source review process. During this process, an Organization identifies the open source software it uses, or plans to use, and determines the rights and obligations of the software license(s).
+A key element to an open source compliance program is an open source review process. During this process, an Organization identifies the open source software it uses or plans to use, and determines the rights and obligations of the software license(s).
 
 The open source review process includes the following steps:
 
-- Identifying open source components included, or planned to be included, in the software product.
-- Determining open source license obligations.
-- Providing guidance compatible with Organization policy and business objectives to achieve compliance with license obligations for the open source components.
+- Identify open source components included, or planned to be included, in the software product.
+- Determine open source license obligations.
+- Provide guidance compatible with Organization policy and business objectives to achieve compliance with license obligations for the open source components.
 
 ### Open Source Review Team
 
@@ -239,7 +241,7 @@ An open source review team includes the Organization representatives that suppor
 
 These representatives may include the following:
 
-- Legal professionals to e.g. evaluate license obligations and provide Organizational guidelines on complying with them.
+- Legal professionals to evaluate license obligations and provide Organizational guidelines on complying with them.
 - Source code scanning and tooling support to help identify and track open source usage (including tracking the Software Bill of Materials).
 - Other specialists working within the Organization that may be impacted by (or have a view on the) open source usage, e.g. export compliance, commercial licensing, etc.
 
@@ -251,7 +253,7 @@ Any individual contributor or team leader working with open source should be abl
 
 ![Compliance Management Initiating an Open Source Review](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-review.png)
 
-Based on development practices and the specific project, the review initiation timing can vary. Most teams or individuals encourage open source reviews as early as possible e.g. in the design phase although as requirements can change this could be initiated at any time prior to the final build.
+Based on development practices and the specific project, the review initiation timing can vary. Most teams or individuals encourage open source reviews as early as possible, e.g. in the design phase, although as requirements can change this could be initiated at any time prior to the final build.
 
 **_NOTE_**_: The process often starts when new open source software is selected or considered for use by engineering or outside vendors while initiating new projects and/or improving existing ones._
 
@@ -259,7 +261,7 @@ Based on development practices and the specific project, the review initiation t
 
 ![Compliance Management Analyzing Proposed Open Source Usage](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-analyse_usage.png)
 
-The open source review team should assess the information it has been provided with (e.g. the Software Bill of Materials of the open source used, or proposed to be used, in the project) before providing guidance for open source license compliance. This may include scanning code using tools to help confirm the accuracy of the information.
+The open source review team should assess the information provided (e.g. the Software Bill of Materials of the open source used, or proposed to be used, in the project) before providing guidance for open source license compliance. This may include scanning code using tools to help confirm the accuracy of the information.
 
 Here are a few items that the open source review team should consider:
 
