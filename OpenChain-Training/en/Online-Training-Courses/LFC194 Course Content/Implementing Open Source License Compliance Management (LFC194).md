@@ -279,13 +279,13 @@ The open source review process crosses disciplines, including engineering, busin
 
 ### What Information Do You Need to Gather?
 
-When analyzing open source usage, you should collect information about the identity of the open source component, its license(s), and how the open source component will be used to evaluate license compliance.
+When analyzing open source usage, you should collect information about the identity of the open source component, its license(s), and how the open source component will be used, in order to evaluate license compliance.
 
-Common items to collect are the package name, the status of the community around the package, the version of the package used, the download or source code location online, the copyright owner(s), the license(s), attribution notice(s), a description of modifications made, a list of dependencies, the intended use in your product (for example, how it is linked and to what), the product release that will include the package, the location where the source code will be maintained, and the development team point of contact.
+Common items to collect are the component/package name, the status of the community around the package, the version of the package used, the download or source code location, the copyright owner(s), the license(s), attribution notice(s), a description of modifications made, a list of dependencies, the intended use in your product (for example, how it is linked and to what), the product release that will include the package, the location where the source code will be maintained, and the development team point of contact.
 
 ### Source Code Scanning Tools
 
-Source code scanning tools are software solutions that analyze codebases to identify open source components, detect the licenses that govern their use and identify copyright. These tools help Organizations understand what third-party code is present and how it is licensed with a degree of automation. By automating the discovery and analysis, such tools can reduce compliance risk, support due-diligence activities, and enable consistent governance of open source software across the development lifecycle.
+Source code scanning tools are software solutions that analyze codebases to identify open source components, detect the licenses that govern their use and identify copyright. These tools help Organizations understand and document what third-party code is present and how it is licensed with a degree of automation. By automating the discovery and analysis, such tools can reduce compliance risk, support due-diligence activities, and enable consistent governance of open source software across the development lifecycle.
 
 ## Complying with Open Source License Obligations
 
@@ -295,7 +295,7 @@ Open source license obligations vary. Licenses described as permissive licenses 
 
 Hence, complying/fulfilling an obligation varies depending on the type of license we are dealing with. Typically, the minimum expectation, even for permissive licenses, is to maintain notices and provide complete attribution to the open source code used. Another basic step would be to keep the original license text intact and include it with the software deliverables before the distribution of the software.
 
-Obligation fulfillment and distribution are discussed later in the course.
+Obligation fulfillment upon distribution are discussed later in the course.
 
 ## Knowledge Check
 
@@ -546,13 +546,13 @@ We will begin with the big picture, discussing some general intellectual propert
 
 #### Unplanned inclusion of copyleft open source into proprietary or third party code
 
-This type of failure occurs during the development process when engineers add open source code into source code that is intended to be proprietary, thus creating a conflict with the open source policy and potentially jeopardizes the Organization’s ability to protect their intellectual property. This situation can be discovered by reviewing and auditing (e.g. scanning using tools) the source code for possible matches with open source code or copyright notices. For example, a search for copyright statements in the source code may reveal some unexpected contributor notice, leading to an open source component and thus requiring further investigation. Automated source code scanning tools may also be used for this purpose.
+This type of failure occurs during the development process when engineers add open source code, particularly under a "copyleft" license, into source code that is intended to be proprietary, thus creating a conflict with the open source policy and potentially jeopardizes the Organization’s ability to protect their intellectual property. This situation can be discovered by reviewing and auditing (e.g. scanning using tools) the source code for possible matches with open source code or copyright notices. For example, a search for copyright statements in the source code may reveal some unexpected contributor notice, leading to an open source component and thus requiring further investigation. Automated source code scanning tools may also be used for this purpose.
 
 This type of failure can be avoided by offering training to engineering staff about compliance issues, the different types of open source licenses and the implications of including open source in proprietary source code and conducting regular source code scans or audits for all the source code in the build environment.
 
 #### Unplanned/unintended etc., linking of copyleft open source and proprietary source code
 
-This type of failure can be discovered using a dependency tracking tool that shows any linking between different software components.
+This type of failure can be discovered using a dependency tracking tool that shows any linking (and type of linking - static or dynamic) between different software components.
 
 It can be prevented by offering training to engineering staff on how to avoid linking software components with licenses that conflict with their open source policy and by continuously running the dependency tracking tool over the build environment.
 
@@ -572,15 +572,15 @@ This type of failure can be avoided by publishing a checklist in the product rel
 
 #### Providing the incorrect version of accompanying source code
 
-This type of failure can be avoided by adding a verification step into the compliance process to ensure that the accompanying source code for the binary version is being published or otherwise made available. It is good practice, and some licenses require that the source code should be made available for several years beyond the last distribution of the software.
+This type of failure can be avoided by adding the verification step into the compliance process to ensure that the correct accompanying source code for the binary version is being published or otherwise made available. It is good practice, and some licenses require it, that the source code should be made available for several years beyond the last distribution of the software.
 
 #### Failure to provide source code for open source component modifications
 
-This type of failure can be avoided by adding a verification step into the compliance process to ensure that the source code for modifications is published (as opposed to only having the original source code for the open source component).
+This type of failure can be avoided by adding the verification step into the compliance process to ensure that the source code for modifications is published (as opposed to only having the original source code for the open source component).
 
 #### Failure to mark open source code modifications
 
-Some open source licenses require that modification to the source is to be indicated/marked. This type of failure can be avoided by adding source code modification marking as a verification step before releasing the source code, as well as by offering training to engineering staff to ensure they update the copyright markings or license information of all open source or proprietary software that is going to be released.
+Some open source licenses require that modification to the source is to be indicated/marked. This type of failure can be avoided by adding source code modification marking as part of the verification step before releasing the source code, as well as by offering training to engineering staff to ensure they update the copyright markings or license information of all open source or proprietary software that is going to be released.
 
 ### Compliance Process Pitfalls
 
@@ -594,7 +594,7 @@ This type of failure can be prevented by conducting periodic full scans for the 
 
 This type of failure can be avoided by ensuring that the completion of the open source training is part of the employees’ professional development plan and that it is monitored for completion as part of the performance review.
 
-It can be prevented by mandating engineering staff to take the open source training by a specific date.
+It can be prevented by mandating engineering staff to take the open source training within a specific timeframe or by a due date.
 
 #### Failure to audit the source code
 
@@ -620,7 +620,7 @@ This can be avoided by using software composition analysis (SCA) tools and track
 
 #### Failure not to provide a full Software Bill of Material (SBOM) at the time when product is shipped
 
-This can be avoided by using software composition analysis (SCA) tools and tracking all open source and other third-party software that is used to build and run the product.
+This can be avoided by using software composition analysis (SCA) and other compliance support tools, and tracking all open source and other third-party software that is used to build and run the product.
 
 ## Additional Thoughts on Compliance Pitfalls
 
@@ -678,13 +678,13 @@ By the end of this chapter, you should be able to:
 
 When using third-party code, it is imperative to select from high quality, well-supported communities that meet your requirements regarding community structure, activities, and accountability.
 
-Don’t hesitate to seek guidance and advice from the appropriate people inside your Organization, such as the Open Source Program Office (OSPO), the legal department, or the office of the CTO. Make sure you are clear on who the right people are and what is the right department to talk to_—_this should be clearly specified in the Organization's policy documentation. To learn more about OSPO, enroll in the [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) course series offered by the Linux Foundation.
+Don’t hesitate to seek guidance and advice from the appropriate people inside your Organization, such as the Open Source Program Office (OSPO), the legal department, or the office of the CTO. Make sure you are clear on who the right people are and what is the right department to talk to - this should be clearly specified in the Organization's policy documentation. To learn more about OSPOs, enroll in the [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) course series offered by the Linux Foundation.
 
 Also, check the Organization’s policy regarding the approval process. For example, some companies may have extensive “approve” lists for third-party code. Others may require case-by-case approvals. Most will probably have a combination of different procedures depending on the task being worked on. The Organization open source policy should help clarify this for you.
 
 It is important to either finish the above action items or to follow other Organization guidelines before checking new code into the internal Organization systems. Checking the Organization's policy regarding the approval process typically goes beyond personal use of the code for a specified project. However, it is still encouraged considering the potential negative implications of the code accidentally being used by other teams in the future without approval if there is a process breakdown.
 
-Quite often a developer or development team will be in a situation where contributing code back to a third-party project makes sense (e.g., a bug fix, so that it isn’t necessary to keep making the same fix whenever a new version of the open source is released and used). In these situations, you should also check your Organization’s open source policy (or relevant documentation) to make sure that your intended contribution fits into the Organization’s approach and that of the community in question.
+Quite often a developer or development team will be in a situation where contributing code back to a third-party project makes sense (e.g. a bug fix, so that it isn’t necessary to keep making the same fix whenever a new version of the open source is released and used). In these situations, you should also check your Organization’s open source policy (or relevant documentation) to make sure that your intended contribution fits into the Organization’s approach and that of the community in question.
 
 Regardless of whether you are taking code into your Organization or sending code outside of your Organization, it is important to be mindful and careful of license information. It should be provided in all cases to ensure clarity. Be careful not to remove or inadvertently change existing open source license information or license texts in third-party code. This applies whether it is an inbound or outbound contribution. The clarity in the licensing is critical to ensuring that things run smoothly.
 
@@ -748,7 +748,7 @@ By the end of this chapter, you should be able to:
 The key takeaways are as follows:
 
 - We first discussed what open source license compliance is and what is needed to achieve open source license compliance. Then we talked about the outcomes of compliance software including identifying all open source components used in the software and licenses applicable to them, meeting the license obligations, and delivering the software package bundled with the compliant artifacts.
-- We also learned about the roles and responsibilities involved in the Open Source Review processes and took a brief walkthrough of how such a team would be placed in a medium-to-large-scale Organization. Then, we talked about how individual contributors often wear many hats in smaller companies.
+- We also learned about the roles and responsibilities involved in the Open Source Review processes and took a brief walkthrough of how such a team would be placed in a medium-to-large-scale Organization. Then, we talked about how individual contributors often fulfil many roles and responsibilities in smaller Organizations.
 - We talked about eight compliance activities based on a hypothetical example of an end-to-end compliance process for a medium scale Organization. We studied the steps involved in each activity and the possible outcomes of those steps.
 - We then focused on potential compliance pitfalls and discussed different ways to address them and minimize their risks.
 - Finally, we introduced some developer guidelines with respect to the open source projects, and how to adhere to compliance requirements of the open source projects and components we are working with.
