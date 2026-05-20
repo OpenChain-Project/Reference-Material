@@ -361,6 +361,8 @@ In our example, the first step is to identify all incoming open source component
 
 ![Compliance Management Identification and Audit](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-03.png)
 
+Note that the figure depicts "Incoming: Open Source SBOM" as an input directly to the "Distribution" step of the Compliance Activity. This may be because, for example, the third party SBOM (and associated compliance artifacts) is sufficiently trusted because e.g. the supplier has an OpenChain conformant compliance programme.
+
 **Identify open source components and initial view of license(s):**
 
 Incoming open source components may be indentified by:
