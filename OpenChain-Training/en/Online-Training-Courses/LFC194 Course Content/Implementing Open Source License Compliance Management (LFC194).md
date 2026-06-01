@@ -197,12 +197,11 @@ While Organizations can differ widely and have vastly different resources availa
 To ensure everything is properly managed, the supporting requirements are as follows:
 
 - Adequate compliance staffing and clear lines of responsibility are defined.
-- The Organization's open source policy is available to everyone, and anyone involved in delivering products and services that include open source is aware of it. Supported by e.g. suitable training materials (such as the LFC193 course) as needed to ensure sufficient awareness.
+- The Organization's open source policy is available to everyone, and anyone involved in delivering products and services that include open source is aware of it. This should be supported by, e.g., suitable training materials (such as the LFC193 course) as needed to ensure sufficient awareness.
 - All relevant open source compliance activities are tracked and recorded.
 
 End-to-end compliance of software products is the ultimate goal. In the next chapters, we will learn more about how this may be achieved, the roles and responsibilities of those involved in the process, and how an open source review fits into license compliance management.
 
-.
 
 # Chapter 2. Open Source Review
 
@@ -365,7 +364,7 @@ Note that the figure depicts "Incoming: Open Source SBOM" as an input directly t
 
 **Identify open source components and initial view of license(s):**
 
-Incoming open source components may be indentified by:
+Incoming open source components may be identified by:
 
 - The development team raising a request (e.g. to review) the proposed incoming open source components in the project.
 - Third-party Software Bill of Material (SBOM) documentation; which should have been shared along with the third-party software or otherwise made available.
@@ -378,9 +377,9 @@ Incoming open source components may be indentified by:
 
 Incoming open source components may then be audited:
 
-- Scan results (understood as a list of complete or partial matches to open source shown by the scan tools, and identification of third-party party license texts) are reviewed and verified to e.g. ensure the proper and correct origin of the code (the applicable open source component used).
+- Scan results (understood as a list of complete or partial matches to open source shown by the scan tools, and identification of third-party license texts) are reviewed and verified to e.g. ensure the proper and correct origin of the code (the applicable open source component used).
 - Perform the due diligence of incoming third-party software, e.g. verify the list of open source components received within the software by comparing scan results to the Software Bill of Material (SBOM) documentation provided from/by the third-party. If open source components found (by manual or a tool) in the third-party software does not match those mentioned in the SBOM then the supplier should be contacted to provide an explanation and/or update.
-- Confirm whether the incoming open source licenses and thier proposed usage are in compliance with the receiving Organization’s open source policy.
+- Confirm whether the incoming open source licenses and their proposed usage are in compliance with the receiving Organization’s open source policy.
 
 - This is performed iteratively based on the software development and release lifecycles.
 
@@ -518,7 +517,7 @@ The last step in our example is the final validation.
     - Distribution
     - Validation
     - All of the above --> Correct answer
-- Is it necessary to bundle third-party vendor SBOMs with our finalized source code acing package?
+- Is it necessary to bundle third-party vendor SBOMs with our finalized source code package?
     - Yes, all third-party vendor SBOMs should be bundled
     - Yes, but only SBOMs items that are used in the final delivered package and required to be declared should be bundled --> Correct answer
     - No need to bundle third-party SBOMs
@@ -620,7 +619,7 @@ It can be prevented through education or, if the cause is lack of resources, by 
 
 This can be avoided by using software composition analysis (SCA) tools and tracking all open source and other third-party software that is used to build and run the product.
 
-#### Failure not to provide a full Software Bill of Material (SBOM) at the time when product is shipped
+#### Failure to provide a full Software Bill of Material (SBOM) at the time when product is shipped
 
 This can be avoided by using software composition analysis (SCA) and other compliance support tools, and tracking all open source and other third-party software that is used to build and run the product.
 
@@ -844,7 +843,7 @@ Here is what you can do next:
     - The count of lines of codes in the software package and year of release of the software package
     - The package name, version, download URL, license, description and intended use in your product --> Correct answer
     - No additional information is required
-- In which stage of an end-to-end compliance do we bundle SBOMs shared by the third-party vendor along with our final distribution package of software?
+- In which stage of an end-to-end compliance process do we bundle SBOMs shared by the third-party vendor along with our final distribution package of software?
     - Distribution stage --> Correct answer
     - Final validation stage
     - At the stage of preparing notices and attribution
