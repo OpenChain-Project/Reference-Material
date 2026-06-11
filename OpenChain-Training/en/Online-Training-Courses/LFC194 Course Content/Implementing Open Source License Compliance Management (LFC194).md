@@ -328,7 +328,7 @@ For example, an Organization may have a simple policy to entirely ban any Affero
 
 By the end of this chapter, you should be able to:
 
-- Understand what steps are involved in end-to-end compliance based on the given example.
+- Explain the steps involved in end-to-end compliance based on the given example.
 - List the common artifacts to be created and distributed along with the software package to meet the Organization’s view of the required obligations.
 
 ## Enterprise Process
