@@ -185,10 +185,12 @@ At a high level, incoming open source software is brought into an Organization (
 
 Compliance management includes the following important steps:
 
-- Identifying all open source componentsIn this step, we identify the open source components included in a software product. They can be anything, such as library packages or executables or even code snippets copied from open source projects or blog posts. This step also includes identifying the open source sub-components, code snippets, etc., used, or planned to be used, in any software from a third-party vendor.
+- Identifying all open source components
+  In this step, we identify the open source components included in a software product. They can be anything, such as library packages or executables or even code snippets copied from open source projects or blog posts. This step also includes identifying the open source sub-components, code snippets, etc., used, or planned to be used, in any software from a third-party vendor.
 - Identifying all licenses and license obligations  
-    In this step, we identify the respective applicable license(s) and their obligations for all the open source components present in the software product.
-- Conforming to all obligationsIn this step, we confirm that all license obligations are met, or ready to be met, before the distribution of the software occurs (where “distribution” may include implementations of Software as a Service accessed via a network for some licenses).
+  In this step, we identify the respective applicable license(s) and their obligations for all the open source components present in the software product.
+- Conforming to all obligations
+  In this step, we confirm that all license obligations are met, or are ready to be met, before the distribution of the software occurs (where “distribution” may include implementations of Software as a Service accessed via a network for some licenses).
 - Delivering open source compliant software  
     This step involves making the software available with open source compliance-assured articles. Such articles would include packaging Software Bill of Materials and all other documentation as directed by the license obligations along with the software distribution media.
 
