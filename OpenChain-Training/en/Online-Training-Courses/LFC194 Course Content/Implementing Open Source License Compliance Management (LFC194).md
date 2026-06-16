@@ -248,7 +248,7 @@ Based on the Organization or project size, these roles may vary. In smaller Orga
 
 ### Initiating an Open Source Review
 
-Any individual contributor or team leader working with open source should be able to initiate an open source review. In smaller Organizations or when working on small-scale projects, an individual contributor may play all the roles of a development team. On the other hand, mid-size or large companies usually require multiple people (e.g. program or product managers, engineers) to handle each activity.
+Any individual contributor or team leader working with open source should be able to initiate an open source review. In smaller Organizations or when working on small-scale projects, an individual contributor may play all the roles of a development team. On the other hand, mid-size or large Organizations usually require multiple people (e.g. program or product managers, engineers) to handle each activity.
 
 ![Compliance Management Initiating an Open Source Review](https://github.com/OpenChain-Project/Reference-Material/blob/lfc194_update_2026/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-review.png)
 
@@ -340,7 +340,7 @@ By the end of this chapter, you should be able to:
 The image presented below shows the various steps involved in the end-to-end compliance process.
 ![Compliance Management End-to-End Process](https://github.com/OpenChain-Project/Reference-Material/blob/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content/LFC194%20Course%20Images/LFTraining_LFC194_CourseGraphics-02.png)
 
-For small and medium-sized companies the end-to-end compliance checklist looks similar to this simulated example shown below.
+For small and medium-sized Organizations the end-to-end compliance checklist looks similar to this simulated example shown below.
 
 Ongoing compliance tasks:
 
@@ -629,7 +629,7 @@ This can be avoided by using software composition analysis (SCA) and other compl
 
 ### Ensure Compliance Prior to Product Shipment
 
-Companies must make compliance a priority before any product (in whatever form) ships. Prioritizing compliance promotes:
+Organizations must make compliance a priority before any product (in whatever form) ships. Prioritizing compliance promotes:
 
 - More effective use of open source within your Organization.
 - Better relations with the open source community and open source Organizations.
@@ -683,7 +683,7 @@ When using third-party code, it is imperative to select from high quality, well-
 
 Don’t hesitate to seek guidance and advice from the appropriate people inside your Organization, such as the Open Source Program Office (OSPO), the legal department, or the office of the CTO. Make sure you are clear on who the right people are and what is the right department to talk to - this should be clearly specified in the Organization's policy documentation. To learn more about OSPOs, enroll in the [Open Source Management & Strategy](https://training.linuxfoundation.org/training/open-source-management-and-strategy/) course series offered by the Linux Foundation.
 
-Also, check the Organization’s policy regarding the approval process. For example, some companies may have extensive “approve” lists for third-party code. Others may require case-by-case approvals. Most will probably have a combination of different procedures depending on the task being worked on. The Organization open source policy should help clarify this for you.
+Also, check the Organization’s policy regarding the approval process. For example, some Organizations may have extensive “approve” lists for third-party code. Others may require case-by-case approvals. Most will probably have a combination of different procedures depending on the task being worked on. The Organization open source policy should help clarify this for you.
 
 It is important to either finish the above action items or to follow other Organization guidelines before checking new code into the internal Organization systems. Checking the Organization's policy regarding the approval process typically goes beyond personal use of the code for a specified project. However, it is still encouraged considering the potential negative implications of the code accidentally being used by other teams in the future without approval if there is a process breakdown.
 
@@ -709,7 +709,7 @@ The same applies to every upgrade to the packages being used. It is important fo
 
 Your final validation is an important step aiming to prevent releasing code with compliance issues that will be more difficult and/or costly to fix later. You always have the obligation to ensure that you are in compliance with all open source component licenses that you have obtained from your suppliers, and that you include in your product. You also need to be aware of any obligations that transfer onto the receiver as the third-party code arrives.
 
-Having some form of inbound code audit is extremely useful to get this done. This burden does not have to rest on your team. For example, some companies and some project teams have a policy that suppliers must include a source code audit report to make your decision-making processes quicker.
+Having some form of inbound code audit is extremely useful to get this done. This burden does not have to rest on your team. For example, some Organizations and some project teams have a policy that suppliers must include a source code audit report to make your decision-making processes quicker.
 
 ## Knowledge Check
 
@@ -761,7 +761,7 @@ The key takeaways are as follows:
 Challenges we may have to be aware of include the following:
 
 - Knowing how to identify open source components when they are not obviously visible. For example, when open source license components are not listed on the package except for copyrights, author name(s) and/or inheritance notices.
-- Understanding how to accommodate and identify the roles and responsibilities of open source review teams, and how such teams work in small-scale companies as opposed to mid-size and large-scale Organizations.
+- Understanding how to accommodate and identify the roles and responsibilities of open source review teams, and how such teams work in small-scale Organizations as opposed to mid-size and large-scale Organizations.
 - Understanding that there is no universally applicable set of guidelines available for identifying and addressing compliance pitfalls. This is because various regional and Organization legal interpretations for compliance and risks exist that need to be taken into consideration.
 - How to operate a security assurance program with respect to the use of open source software.
 
