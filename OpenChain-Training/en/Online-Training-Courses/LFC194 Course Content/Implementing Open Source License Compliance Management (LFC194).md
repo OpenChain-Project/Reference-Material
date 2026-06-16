@@ -707,7 +707,7 @@ The same applies to every upgrade to the packages being used. It is important fo
 
 ### Compliance Process Applies to All Open Source Components
 
-Your final validation is an important step aiming to prevent releasing code with compliance issues that will be more difficult and/or costly to fix later. You always have the obligation to ensure that you are in compliance with all open source component licenses that you have obtained from your suppliers and that you include in your product what your suppliers provide. You also need to be aware of any obligations that transfer onto the receiver as the third-party code arrives.
+Your final validation is an important step aiming to prevent releasing code with compliance issues that will be more difficult and/or costly to fix later. You always have the obligation to ensure that you are in compliance with all open source component licenses that you have obtained from your suppliers, and that you include in your product. You also need to be aware of any obligations that transfer onto the receiver as the third-party code arrives.
 
 Having some form of inbound code audit is extremely useful to get this done. This burden does not have to rest on your team. For example, some companies and some project teams have a policy that suppliers must include a source code audit report to make your decision-making processes quicker.
 
@@ -760,8 +760,8 @@ The key takeaways are as follows:
 
 Challenges we may have to be aware of include the following:
 
-- Knowing how to identify open source components when they are not visible to the naked eye. For example, when open source license components are not listed on the package except for copyrights, author name(s) and/or inheritance notices.
-- Understanding how to accommodate and identify the roles and responsibilities of open source review teams, and how such teams work in small-scale companies as opposed to midsize and large-scale Organizations.
+- Knowing how to identify open source components when they are not obviously visible. For example, when open source license components are not listed on the package except for copyrights, author name(s) and/or inheritance notices.
+- Understanding how to accommodate and identify the roles and responsibilities of open source review teams, and how such teams work in small-scale companies as opposed to mid-size and large-scale Organizations.
 - Understanding that there is no universally applicable set of guidelines available for identifying and addressing compliance pitfalls. This is because various regional and Organization legal interpretations for compliance and risks exist that need to be taken into consideration.
 - How to operate a security assurance program with respect to the use of open source software.
 
@@ -845,7 +845,7 @@ Here is what you can do next:
     - The count of lines of codes in the software package and year of release of the software package
     - The package name, version, download URL, license, description and intended use in your product --> Correct answer
     - No additional information is required
-- In which stage of an end-to-end compliance process do we bundle SBOMs shared by the third-party vendor along with our final distribution package of software?
+- In which stage of an end-to-end compliance process do we bundle SBOMs shared by the third-party vendor, for components included in our product, along with our final distribution package of software?
     - Distribution stage --> Correct answer
     - Final validation stage
     - At the stage of preparing notices and attribution
