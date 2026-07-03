@@ -324,7 +324,7 @@ This chapter explains the processes that can be used to manage open source compl
 
 Open source compliance processes should reflect the Organization's open source policy. For example, an Organization can create a process for recording open source project names and versions used, a process for creating and maintaining open source attributions to accompany software distributions (or "supplied software"), and a release process that includes checks for accuracy.
 
-For example, an Organization may have a simple policy to entirely ban any Affero GPLv3 licensed code for use within any product. AAnother policy might require always including all modified source code where required with the product distribution itself, such as in the package image (this would remove the need of some licenses for an offer of source to be made if the source isn’t distributed). It is also common to have processes for contributions to open source projects, including creating new projects.
+For example, an Organization may have a simple policy to entirely ban any Affero GPLv3 licensed code for use within any product. Another policy might require always including all modified source code where required with the product distribution itself, such as in the package image (this would remove the need of some licenses for an offer of source to be made if the source isn’t distributed). It is also common to have processes for contributions to open source projects, including creating new projects.
 
 ### Learning Objectives
 
