@@ -623,7 +623,7 @@ This can be avoided by using software composition analysis (SCA) tools and track
 
 #### Failure to provide a full Software Bill of Material (SBOM) at the time when product is shipped
 
-This can be avoided by using software composition analysis (SCA) and other compliance support tools, and tracking all open source and other third-party software that is used to build and run the product.
+This type of failure can be discovered using audits of the shipped product and SBOM,  potentially supplemented by additional Source Code Analysis scans. It can be avoided by offering training to engineering staff and conducting regular audits.
 
 ## Additional Thoughts on Compliance Pitfalls
 
