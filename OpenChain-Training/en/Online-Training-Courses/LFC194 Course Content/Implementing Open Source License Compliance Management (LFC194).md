@@ -805,7 +805,7 @@ Good relationships with the software communities are helpful in enhancing two-wa
     - Meaningful relationships with the open source community are established --> Correct answer
     - There are no benefits, compliance generates additional cost in money and time → Incorrect Answer
  
-## Updated Knowledge Check Questions 2026(Need Review)
+## Updated Knowledge Check Questions 2026 (Needs Review)
 
 Question 1 (Scenario-Based Review)
 
@@ -932,7 +932,7 @@ Having some form of inbound code audit is extremely useful to get this done. Thi
     - No, authors are not allowed to change licenses or copyright notices for future versions of existing open source components. → Incorrect answer
     - None of the above → Incorrect answer
  
-## Updated Knowledge Check Questions 2026 (Need Review)
+## Updated Knowledge Check Questions 2026 (Needs Review)
 
 Question 1
 
@@ -1081,7 +1081,7 @@ Here is what you can do next:
     - True
     - False --> Correct answer
  
-## Updated Knowledge Check Questions 2026 (Need Review)
+## Updated Knowledge Check Questions 2026 (Needs Review)
 
 Question 1
 
@@ -1367,22 +1367,6 @@ C (Incorrect): Marketing materials, raw line counts, and functional software bug
 an organization detect or manage hidden legal liabilities and license obligations.
 
 D (Incorrect): Developers must never attempt to rewrite a community license model, bypass mandatory final validation steps, or strip copyright text. Doing so is a direct compliance violation, not a method for managing supply chain risk.
-
-### MY comment, this next bit seems to be a copy and paste error by LFT, claritying
-
-Correct Answer: A
-
-Explanations
-
-A (Correct): Approvals are strictly tied to both the version and how the component is used. A component that is clear for internal use might trigger new distribution obligations or policy conflicts if its usage model changes.
-
-B (Incorrect): Changing how code is used does not alter the code itself. The original scan results from the audit phase remain technically accurate and valid.
-
-C (Incorrect): While compliance programs reference OpenChain, the specification does not force organizations to reset valid approvals on an arbitrary calendar schedule.
-
-D (Incorrect): This process requirement ensures legal safety. It is not a database limitation regarding how many paths a software inventory can track.
-
-### end of bit to check with LFT 
 
 Reference Chapter 4
 
