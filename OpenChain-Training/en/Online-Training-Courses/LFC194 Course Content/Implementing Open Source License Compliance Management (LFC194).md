@@ -323,27 +323,27 @@ Your product team has completed a thorough code quality and performance assessme
 
 Which of the following best explains why the review must still proceed?
 
-A. Code quality and performance metrics do not identify compliance obligations or verify that the package aligns with organizational license policies.
+A. Code quality and performance metrics do not identify compliance obligations or verify that the package aligns with organizational policies.
 
 B. The open source review team must rewrite the package code to ensure it complies with internal style guidelines and community standards.
 
-C. Product teams are prohibited from evaluating software packages until the compliance team issues a formal security performance clearance.
+C. Product teams are prohibited from evaluating software packages until the compliance team issues a formal clearance.
 
 D. Compliance automation tools require a clean performance benchmark score before they can execute a legal code scan on a package.
 
 Correct Answer: A
 
-Explanation — A (Correct): An open source review focuses specifically on discovering third-party components, determining license obligations, and providing compliance guidance. Technical performance and code quality reviews do not address these legal or governance requirements.
+Explanation — A (Correct): An open source review focuses primarily on discovering third-party components, determining license obligations, and providing compliance guidance. Technical performance and code quality reviews do not address these legal or governance requirements.
 
-Explanation — B (Incorrect): The open source review team evaluates compliance risks, establishes governance, and provides alignment guidance. They do not actively rewrite or refactor third-party community code to meet internal style preferences.
+Explanation — B (Incorrect): The open source review team evaluates compliance risks, establishes governance, and provides alignment guidance. They do not actively suggest to rewrite or refactor third-party community code e.g. to meet internal style preferences.
 
-Explanation — C (Incorrect): Development teams are encouraged to initiate reviews as early as possible—even during the design phase. Compliance programs do not lock engineering out of assessing packages early in the process.
+Explanation — C (Incorrect): Development teams are encouraged to initiate reviews as early as possible — even during the design phase. Compliance programs do not lock engineering out of assessing packages early in the process.
 
 Explanation — D (Incorrect): Source code scanning solutions evaluate codebases to discover licenses, track dependencies, and identify copyrights. These compliance tools function entirely independently of software performance benchmarks or quality scores.
 
 Question 2
 
-An automated source code scan of a third-party package flags a mismatch: the top-level repository documentation claims the package is under a permissive license, but several inner source files contain restrictive copyleft notices. 
+An automated source code scan of a third-party package flags a mismatch: the top-level repository documentation claims the package is under a permissive license, but several source files contain restrictive copyleft notices. 
 
 How should the review team proceed?
 
@@ -364,7 +364,7 @@ Explanation — A (Incorrect): Simply trusting a top-level README file or packag
 
 Explanation — C (Incorrect): Mismatches are common during due-diligence activities. Discovering an inconsistency does not require immediate, automated rejection; instead, it triggers the analytical phase of the open source review.
 
-Explanation — D (Incorrect): Removing copyright notices or license headers from third-party code violates basic compliance principles. Permissive and copyleft licenses alike require teams to keep original license texts and notices intact.
+Explanation — D (Incorrect): Removing copyright notices or license headers from third-party code violates basic compliance principles. Original license texts and notices should be kept intact.
 
 Question 3
 
@@ -382,7 +382,7 @@ D. Individual contributors are legally required to maintain separate source code
 
 Correct Answer: A
 
-Explanation — A (Correct): To properly evaluate license compliance, you must gather the identity of the component, its specific licenses, and exactly how it will be used or linked within the product. Copyleft obligations (such as sharing source code) change significantly depending on whether and how components are linked together.
+Explanation — A (Correct): To properly evaluate license compliance, you must gather the identity of the component, its specific licenses, and exactly how it will be used or linked within the product. Organization policy rules and license obligations (such as sharing of source code) can change significantly depending on whether and how components are used and linked.
 
 Explanation — B (Incorrect): Source code scanning solutions identify components, versions, and licenses by analyzing the files and codebase metadata directly. They do not rely on a developer's manual form entry to detect basic version numbers.
 
@@ -613,14 +613,15 @@ Your development team has finished auditing an open source component, resolving 
 
 A. Yes, because compliance management concludes once an open source component is successfully added to the software inventory and tracking system. 
 
-B. Yes, because verifying that the final distributed binary matches the reviewed source code is an automated QA task rather than a compliance activity.
+B. Yes, because verifying that the final distributed binary matches the reviewed source code is an automated Quality Assurance (QA) task rather than a compliance activity.
 
 C. No, because compliance management only applies to the initial identification and audit phases and does not cover the software registration steps.
 
 D. No, because distribution and validation are active compliance steps required to ensure that open source code and license obligations are met correctly.
 
-Explanations
+Correct Answer: D
 
+Explanations
 
 A (Incorrect): This is incorrect because adding the component to the software inventory and registering it in the tracking system only completes the approval and registration step. The compliance process still requires subsequent steps, including preparing notices, performing verifications, handling distribution, and executing final validation.
 
@@ -642,13 +643,15 @@ C. You do not need to bundle any SBOM information because third-party vendor doc
 
 D. You should bundle the entire vendor SBOM but mark all 50 components as conditionally approved in your organization's tracking system.
 
+Correct Answer: B
+
 Explanations
 
 A (Incorrect): This is incorrect because bundling components that are completely absent from the finalized, delivered package introduces unnecessary and inaccurate documentation into your distributed compliance artifacts.
 
 B (Correct): This is correct because the organization's view of required obligations dictates that you only need to bundle and declare the specific open source items that are actually present in the final delivered package.
 
-C (Incorrect): This is incorrect because incoming third-party software must be audited, and relevant open source components used within it must be declared to satisfy your end-to-end compliance obligations.
+C (Incorrect): This is incorrect because incoming third-party software must be audited, and relevant open source components used within the final package must be declared to satisfy your end-to-end compliance obligations.
 
 D (Incorrect): This is incorrect because the tracking system and the distributed compliance artifacts serve different purposes; you should not distribute a bloated 50-component SBOM to a customer when only two components are actively included in the supplied software.
 
@@ -664,13 +667,15 @@ C. Deny the package because a rejected component cannot be used in a distributed
 
 D. Deny the package temporarily until the compliance team can establish whether the five testing customers maintain their own compliance programs.
 
+Correct Answer: C
+
 Explanations
 
 A (Incorrect): This is incorrect because allowing a known non-compliant, rejected component into any external distribution violates the purpose of the approval and registration step, regardless of future remediation promises.
 
 B (Incorrect): This is incorrect because a beta version distributed to customers still constitutes a distribution of software, meaning open source license review and policy adherence remain strictly mandatory.
 
-C (Correct): This is correct because once a component is rejected at the approval and registration step, it cannot be used in the product's release path. Limited distribution or beta status does not waive the requirement to follow the organization's open source policy.
+C (Correct): This is correct because once a component is rejected at the approval and registration step, it should not be used in the product's release path. Limited distribution or beta status does not waive the requirement to follow the organization's open source policy.
 
 D (Incorrect): This is incorrect because the compliance status of the customers' internal programs does not alter the fact that your own organization is distributing a component that actively violates its own open source policy.
 
@@ -815,7 +820,7 @@ Which of the following actions taken by the team represents a clear compliance f
 
 A. The team published a source code package from a previous release archive while distributing a newly patched binary to customers.
 
-B. The team manually cross-referenced the automated scan tool results against the structural details provided in the supplier's SBOM.
+B. The team manually cross-referenced the automated scan tool results against the details provided in the supplier's SBOM.
 
 C. The team added an extra review step to verify that all local code modifications were clearly indicated before the final release.
 
@@ -837,7 +842,7 @@ Question 2
 
 Your organization integrates a third-party software package that includes an upstream Software Bill of Materials (SBOM) listing 50 open source components. After reviewing the package, your team determines that your final supplied software only activates and uses two of those components.
 
-To meet your organization's required obligations, what is the correct way to handle the compliance artifacts for distribution?
+To meet your organization's required obligations, what is the best way to handle the compliance artifacts for distribution?
 
 A. Filter the vendor's SBOM to include only the two components used in the final delivered package.
 
@@ -847,13 +852,15 @@ C. Replace the vendor's SBOM entirely with a standard written offer promising to
 
 D. Remove the third-party SBOM from the distribution package and log all 50 components as an internal exception.
 
+## MY comment - I think this question is too similar to one in a previous chapter
+
 Correct Answer: A
 
 Explanations
 
-A (Correct): This is correct because compliance artifacts distributed with supplied software must accurately reflect what is actually present and required to be declared in the final delivered package. You only bundle entries for the components used.
+A (Correct): This is correct because compliance artifacts distributed with supplied software must accurately reflect what is actually present and required to be declared in the final delivered package. You should only bundle entries for the components used.
 
-B (Incorrect): This is a very common mistake in practice. Passing along a bloated, unmodified 50-component SBOM introduces inaccurate documentation because 48 of those components are not actually distributed in your final package.
+B (Incorrect): This is a very common mistake in practice. Passing along a bloated, unmodified 50-component SBOM introduces inaccurate documentation because 48 of those components are not actually distributed in your final package. As a result, your customer may, for example, request the source of these unused components adding to overheads.
 
 C (Incorrect): This is incorrect because a written offer for source code is a separate requirement for specific license types. It does not substitute for providing accurate compliance artifacts, like an SBOM, for the software you are actively delivering.
 
@@ -940,7 +947,7 @@ A developer identifies a package from a well-supported open source community. Be
 
 Based on the developer guidelines, why is this action an operational failure?
 
-A. Renaming components and checking new source code into internal systems must not occur before completing the organization's official approval actions.
+A. Renaming components and checking new source code into internal systems must not occur before starting the organization's official approval actions.
 
 B. Checking the approval process is an action item required only for personal use of code, meaning it should be bypassed entirely for team-based repositories.
 
@@ -952,7 +959,7 @@ Correct Answer: A
 
 Explanations
 
-A (Correct): This is correct because guidelines state it is critical to either finish approval action items or follow specific organization guidelines before checking new code into internal organization systems. Additionally, renaming components increases the risk of misinterpreting the license and obscures code provenance.
+A (Correct): This is correct because guidelines state it is critical to follow approval action items or follow specific organization guidelines before checking new code into internal organization systems. Additionally, renaming components increases the risk of misinterpreting the license, obscures code provenance and may not be allowed by the license of the code.
 
 B (Incorrect): This is incorrect because the text notes that checking the organization's approval process typically goes beyond personal use for a specified project. It is highly encouraged for all internal team systems to prevent unapproved code from spreading to other projects due to a process breakdown.
 
