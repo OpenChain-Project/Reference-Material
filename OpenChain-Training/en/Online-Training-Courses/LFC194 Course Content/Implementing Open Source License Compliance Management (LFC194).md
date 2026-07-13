@@ -1011,9 +1011,9 @@ Correct Answer: A
 
 Explanations
 
-A (Correct): This is correct because an approval is sometimes strictly dependent on a specific product or service. Every package upgrade must be an explicit decision included in compliance processes to avoid unforeseen complications, such as changes in code licensing or hidden sub-dependencies.
+A (Correct): This is correct because an approval is sometimes strictly dependent on a specific product or service and the specific component version. Every package upgrade must be an explicit decision included in compliance processes to avoid unforeseen complications, such as changes in code licensing or hidden sub-dependencies.
 
-B (Incorrect): This is incorrect because while keeping packages current for security reasons is important, updates cannot bypass formal workflows; version changes must remain integrated into the compliance check loop to prevent tracking breakdowns.
+B (Incorrect): This is incorrect because while keeping packages current for security reasons is very important, updates cannot bypass formal workflows; version changes must remain integrated into the compliance check loop to prevent process and policy breakdowns.
 
 C (Incorrect): This is incorrect because a local process failure does not transfer or alter your compliance obligations, nor does it shift proprietary restrictions onto an external upstream supplier.
 
@@ -1161,7 +1161,7 @@ Correct Answer: A
 
 Explanations
 
-A (Correct): This is correct because a key challenge in compliance management is recognizing that no universal guideline fits every situation. Organizations must tailor their policies to address their specific regional laws, operational risks, and internal legal interpretations.
+A (Correct): This is correct because a key challenge in compliance management is recognizing that no universal guideline fits every situation. Organizations must tailor their policies to address their specific regional laws, operational risks, and internal legal interpretations. Note also that copying the "Universal Open Source Compliance Guide" itself may be a copyright license issue! 
 
 B (Incorrect): This is incorrect because while the TODO Group creates and shares highly valuable OSPO-related materials, they are not a regulatory body that dictates the legal binding status of open source licenses.
 
@@ -1254,7 +1254,7 @@ D (Incorrect): This is incorrect because commercial agreements and enterprise pr
 
 Question 2
 
-A compliance team is auditing a component where the top-level license text is missing or unclear. To safely discover the legal origins of the package and determine exactly who is licensing the software, which specific combination of elements should the team analyze?
+A compliance team is auditing a component where the top-level license text is missing or unclear. To safely discover the real origins of the package and determine exactly who is licensing the software, which specific combination of elements should the team analyze?
 
 A. The hosting platform's domain name, the repository's popularity rating, and the download timestamp logs. 
 
@@ -1268,11 +1268,11 @@ Correct Answer: B
 
 Explanations
 
-A (Incorrect): This is a frequent mistake. A download URL or hosting domain (like GitHub or GitLab) only tells you where a copy of the code was stored; it does not legally identify the underlying copyright holders or authors licensing the software.
+A (Incorrect): This is a frequent mistake. A download URL or hosting domain (like GitHub or GitLab) only tells you where a copy of the code was stored; it does not necessarily identify the underlying copyright holders or authors licensing the software.
 
-B (Correct): This is correct because when direct license files are unclear or missing, looking into nested copyright notices, author names, attribution text, and headers inside the actual source code is the standard way to verify code provenance and identify who licenses the software.
+B (Correct): This is correct because when direct license files are unclear or missing, looking into nested copyright notices, author names, attribution text, and headers inside the actual source code is a standard way to verify code provenance and identify who licenses the software.
 
-C (Incorrect): Technical parameters such as compilation properties, file sizes, and dependency counts are helpful for performance debugging and software optimization. However, they contain zero legal metadata regarding ownership or licensing terms.
+C (Incorrect): Technical parameters such as compilation properties, file sizes, and dependency counts are helpful for performance debugging and software optimization. However, they contain zero metadata regarding ownership or licensing terms.
 
 D (Incorrect): Commercial procurement contracts, marketing write-ups, and accounting receipts are financial and corporate onboarding artifacts. They track business transactions rather than the internal open source notices embedded within the software itself.
 
@@ -1282,7 +1282,7 @@ A software development team is preparing to log a newly selected third-party ope
 
 A. The comprehensive vulnerability history tracking metrics, the open CVE database logs, and the continuous integration build parameters. 
 
-B. The exact package name, the active version number, the origin download URL, the applicable license, and the intended product use case. 
+B. The exact package name, the active version number, the origin download URL, the applicable license(s), and the intended product use case. 
 
 C. The total number of internal engineering developers, the estimated project completion dates, and the repository file download statistics. 
 
@@ -1304,7 +1304,7 @@ Reference Chapter 3
 
 Question 4
 
-A product release team is completing the final steps of an organizational compliance process. The team needs to attach the third-party open source Software Bills of Materials (SBOMs) provided by external suppliers directly to the finalized corporate software package. At which specific stage of the end-to-end compliance process must this bundling action occur?
+A product release team is completing the final steps of an organizational compliance process. The team needs to attach the third-party open source Software Bills of Materials (SBOMs) provided by external suppliers directly to the finalized corporate software package. At which specific stage of the end-to-end compliance process should this bundling action occur?
 
 A. The final validation stage, where automated tools scan the internal repository to catch any last-minute license conflicts. 
 
@@ -1328,7 +1328,7 @@ D (Incorrect): The notices and attribution stage focuses on gathering and format
 
 Question 5
 
-A program manager is setting up an end-to-end open source compliance management pipeline for a new engineering division. To ensure the process captures all necessary checkpoints before a product launch, which core set of workflow steps must be embedded directly into the product development lifecycle?
+A program manager is setting up an end-to-end open source compliance management pipeline for a new engineering division. To ensure the process captures all necessary license compliance checkpoints before a product launch, which core set of workflow steps must be embedded directly into the product development lifecycle?
 
 A. Automating feature performance testing, executing remote security patch updates, and conducting localized user-interface usability reviews. 
 
@@ -1383,7 +1383,7 @@ During a review, a compliance officer discovers that an engineering team has com
 
 A. Failing to clear an internal engineering gate, which forces the development team to delay the active product delivery timeline. 
 
-B. Mixing proprietary and copyleft code, which can legally require the organization to make its proprietary software available to the public. 
+B. Mixing proprietary and copyleft code, which may require the organization to make its proprietary software available to the public. 
 
 C. Violating a third-party project's explicit trademark rights, which automatically converts the commercial application into a public domain asset. 
 
@@ -1469,7 +1469,7 @@ Explanations
 
 A (Incorrect): This is a very common engineering pitfall. Assuming that compliance is someone else's job or waiting until the final validation phase to catch errors introduces massive risk, as discovering a license conflict late in the cycle can lead to costly architectural rework.
 
-B (Correct): This is correct because developer guidelines explicitly mandate that when a question or uncertainty arises, developers must seek guidance from appropriate internal resources—such as the OSPO, the legal department, or the office of the CTO—or initiate an official review process before checking code into internal systems.
+B (Correct): This is correct because developer guidelines explicitly mandate that when a question or uncertainty arises, developers must seek guidance from appropriate internal resources such as the OSPO, the legal department, or the office of the CTO or initiate an official review process before checking code into internal systems.
 
 C (Incorrect): While engaging with open source communities is highly encouraged for outbound contributions and bug fixes, reaching out to public forums to discuss internal proprietary architecture or seek organization-specific licensing advice is a process violation that can expose internal product strategies.
 
