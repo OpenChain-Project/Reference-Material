@@ -766,7 +766,7 @@ It can be prevented by implementing blocks in approvals in the open source compl
 
 #### Failure to seek review of open source in a timely manner
 
-This type of failure can be avoided by initiating open source review requests regardless of whether the engineering team has confirmed the adoption of the open source code.
+This type of failure can be avoided by initiating open source review requests early in the product development.
 
 It can be prevented through education or, if the cause is lack of resources, by increasing resources (e.g., invest in more skilled people, more frequent review meetings, tools, etc.).
 
