@@ -1180,8 +1180,8 @@ D (Incorrect): This is incorrect because regional and organizational legal risks
     - That they provide relevant copyright, attribution notices and source code modifications details --> Correct answer
     - No additional information is necessary
 - Which of the following is an example of an intellectual property failure:
-    - Not being able to find an appropriate open source code, even though it must exist somewhere on the Internet
-    - Mixing proprietary code and open source code, which may result in making proprietary software available to the general public despite the Organization's policy --> Correct answer
+    - Not being able to find appropriate open source code, even though it must exist somewhere on the Internet
+    - Mixing proprietary code and open source codein a way that violates the Organization's policy --> Correct answer
     - Not being able to write the software
 - Name some important steps in a compliance process. Select all answers that apply.
     - Follow developer guidelines, especially for any open source code included in or linked to proprietary code --> Correct answer
