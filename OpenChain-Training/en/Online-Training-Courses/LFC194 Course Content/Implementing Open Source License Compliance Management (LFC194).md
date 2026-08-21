@@ -665,7 +665,7 @@ B. Approve the package because distributing software to a restricted testing gro
 
 C. Deny the package because a rejected component cannot be used in a distributed software package, even if the beta release has a limited audience.
 
-D. Deny the package temporarily until the compliance team can establish whether the five testing customers maintain their own compliance programs.
+D. Deny the package temporarily until the compliance team can establish whether the three testing customers maintain their own compliance programs.
 
 Correct Answer: C
 
