@@ -760,7 +760,7 @@ It can be prevented by enforcing periodic audits and providing proper staffing t
 
 #### Failure to resolve audit findings
 
-This type of failure can be avoided by not allowing compliance tickets to be resolved or closed if the audit report is not finalized.
+This type of failure can be avoided by not allowing compliance issues to be resolved or closed if the audit report is not finalized.
 
 It can be prevented by implementing blocks in approvals in the open source compliance process. For example, a product cannot be shipped until acceptable compliance is achieved according to the Organization’s policy.
 
