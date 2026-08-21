@@ -712,12 +712,6 @@ This type of failure can be discovered using a dependency tracking tool that sho
 
 It can be prevented by offering training to engineering staff on how to avoid linking software components with licenses that conflict with their open source policy and by continuously running the dependency tracking tool over the build environment.
 
-#### Inclusion of proprietary code into copyleft open source
-
-This type of failure can be discovered using audits or scans by tools to identify and analyze the source code that you introduced to the open source component.
-
-It can be avoided by offering training to engineering staff and conducting regular code audits.
-
 ### License Compliance Pitfalls
 
 We will now discuss issues specific to license compliance. Like the previous section, this is not intended to be an exhaustive list. However, it should help you understand and avoid the most common license compliance-related challenges. Each of the points discussed below assumes discovery through the manual or automated review of the open source code included in the product or service that you are planning to release.
