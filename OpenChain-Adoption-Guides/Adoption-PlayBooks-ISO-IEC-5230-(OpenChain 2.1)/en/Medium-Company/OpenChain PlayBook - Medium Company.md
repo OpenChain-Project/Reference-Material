@@ -140,14 +140,6 @@ For more detail, and ideas of how to improve, there is also a maturity model:
 
 https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Maturity-Models/OpenChain-Capability-Maturity-Model-ISO-IEC-5230-(OpenChain%202.1)-Version-1.0/en
 
-- Do you have a policy for contribution to open source projects on behalf of the organization?
-- Do you have a documented procedure governing open source contributions?
-- Do you have a documented procedure for making all Software Staff aware of the open source contribution policy?
-
-### Section 6: Adherence to the specification requirements
-
-- Do you have documentation confirming that your Program meets all the requirements of this specification?
-- Do you have documentation confirming that your Program conformance was reviewed within the last 18 months?
 
 
 
