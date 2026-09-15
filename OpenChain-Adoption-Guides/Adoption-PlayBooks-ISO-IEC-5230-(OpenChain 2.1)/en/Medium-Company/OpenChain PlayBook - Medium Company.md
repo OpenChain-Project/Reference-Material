@@ -1,6 +1,6 @@
 # OpenChain Medium Company Playbook
 
-## Version 1
+## Version 1.01
 
 ## Introduction
 
@@ -11,7 +11,7 @@ This may sound specific. However, the intention is to provide a thinking-tool fo
 There may be situations where you would like more examples for more specific industries. This is where the OpenChain community comes in. You can join our mailing lists, our webinars, our group calls and our regional work groups to discuss challenges with your peers and in your native language. You can get started here:
 https://www.openchainproject.org/community 
 
-Finally, this PlayBook contains an appendix with all the questions you need to answer to become OpenChain ISO/IEC 5230:2020 conformant. If you can answer all of these questions with “yes,” you have a conformant program. If you answer some of the questions with “no,” you know where to invest resources.
+Finally, this PlayBook contains an appendix with a link to where you can find the questions you need to answer to become OpenChain ISO/IEC 5230:2020 conformant. If you can answer all of these questions with “yes,” you have a conformant program. If you answer some of the questions with “no,” you know where to invest resources.
 
 ## Medium Company
 
@@ -130,68 +130,16 @@ The OSPO schedules a review of the program every 18 months to ensure it maintain
 
 The OSPO also schedules a review of current company processes every six months to help ensure everything is optimized. This review is based on reports from individual project managers about how quick and effective current processes are, and which current processes are causing challenges for the teams.
  
-# Appendix 1
+# Appendix 1 - Self-Certification Checklist
 
-## Self-Certification Questionnaire
+The OpenChain Project maintains a checklist to help companies easily see where they are conformant (and where they are not) to OpenChain:
 
-### Section 1: Program foundation
+https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Standards-Self-Certification/Checklist/ISO-IEC-5230
 
-- Do you have a documented policy governing the open source license compliance of the Supplied Software?
-- Do you have a documented procedure to communicate the existence of the open source policy to all Software Staff
-- Have you identified the roles and responsibilities that affect the performance and effectiveness of the Program?
-- Have you identified and documented the competencies required for each role?
-- Have you documented the assessed competence for each Program participant?
+For more detail, and ideas of how to improve, there is also a maturity model:
 
-Have you documented the awareness of your Program participants on the following topics?
-- The open source policy and where to find it;
-- Relevant open source objectives;
-- Contributions expected to ensure the effectiveness of the Program;
-- The implications of failing to follow the Program requirements.
+https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Maturity-Models/OpenChain-Capability-Maturity-Model-ISO-IEC-5230-(OpenChain%202.1)-Version-1.0/en
 
-- Do you have a process for determining the scope of your Program?
-- Do you have a written statement clearly defining the scope and limits of the Program?
-- Do you have a documented procedure to review and document open source license obligations, restrictions and rights?
-
-### Section 2: Relevant tasks defined and supported
-
-- Have you assigned individual(s) responsibility for receiving external open source compliance inquiries?
-- Is the external open source compliance contact publicly identified (e.g. via an email address or the Linux Foundation Open Compliance Directory)?
-- Do you have a documented procedure for receiving and responding to internal and external open source compliance inquiries?
-- Have you documented the persons, group or function supporting the Program role(s) identified?
-- Have the identified Program roles been properly staffed and adequately funded?
-- Has legal expertise to address internal and external open source compliance been identified?
-- Do you have a documented procedure assigning internal responsibilities for open source compliance?
-- Do you have a documented procedure for handling review and remediation of non-compliant cases?
-
-### Section 3: Open source content review and approval
-
-- Do you have a documented procedure for identifying, tracking and archiving information about the open source components in a Supplied Software release?
-- Do you have open source component records for the Supplied Software which demonstrate the documented procedure was properly followed?
-
-Do you have a documented procedure that covers these common open source license use cases for open source components in the Supplied Software?
-- Distribution in binary form;
-- Distribution in source form;
-- Integration with other open source that may trigger additional obligations;
-- Containing modified open source;
-- Containing open source or other software under incompatible licenses for interaction with other components in the Supplied Software;
-- Containing open source with attribution requirements.
-
-### Section 4: Compliance artifact creation and delivery
-
-- Do you have a documented procedure describing the process for ensuring the Compliance Artifacts are distributed with Supplied Software as required by the Identified Licenses?
-- Do you have a documented procedure for archiving copies of Compliance Artifacts for the Supplied Software?
-- Are the Compliance Artifacts archived at least as long as the Supplied Software is offered and as required by the Identified Licenses?
-
-### Section 5: Understanding open source community engagements
-
-- Do you have a policy for contribution to open source projects on behalf of the organization?
-- Do you have a documented procedure governing open source contributions?
-- Do you have a documented procedure for making all Software Staff aware of the open source contribution policy?
-
-### Section 6: Adherence to the specification requirements
-
-- Do you have documentation confirming that your Program meets all the requirements of this specification?
-- Do you have documentation confirming that your Program conformance was reviewed within the last 18 months?
 
 
 
