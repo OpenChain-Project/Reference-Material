@@ -712,7 +712,7 @@ This type of failure can be discovered using a dependency tracking tool that sho
 
 It can be prevented by offering training to engineering staff on how to avoid linking software components with licenses that conflict with their open source policy and by continuously running the dependency tracking tool over the build environment.
 
-#### Inclusion of proprietary code into copyleft open source
+#### Unplanned Inclusion of proprietary code/modifications of copyleft open source
 
 This type of failure can be discovered using audits or scans by tools to identify and analyze the source code that you introduced to the open source component.
 
