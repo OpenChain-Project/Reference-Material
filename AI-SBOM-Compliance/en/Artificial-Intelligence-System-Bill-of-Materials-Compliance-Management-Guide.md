@@ -91,7 +91,7 @@ a set of licenses identified as a result of following an appropriate method of i
 
 ### 2.6 - program
 
-an organization's open source license compliance activities
+an organization's AI compliance activities
 
 ### 2.7 - program participants
 
