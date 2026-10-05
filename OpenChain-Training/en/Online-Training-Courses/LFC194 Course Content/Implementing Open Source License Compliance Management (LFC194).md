@@ -298,24 +298,8 @@ Hence, complying/fulfilling an obligation varies depending on the type of licens
 
 Obligation fulfillment upon distribution are discussed later in the course.
 
+
 ## Knowledge Check
-
-- What is the purpose of an open source review?
-    - To perform code quality review of the code from open source communities
-    - To gather and analyze information regarding open source usage and to produce appropriate guidance --> Correct answer
-    - To review whether using open source is a good idea for a project
-    - To check that previous use of open source was a good idea
-- What is an action you should take if you want to use an open source component?
-    - Choose the most popular open source community to download any open source package
-    - Initiate an open source review process --> Correct answer
-    - Incorporate the component into the product and distribute to customers to see if they notice any improvement
-    - Name all the open source contributors and the number of versions released
-- Assessing the quality of information collected and used in an open source review:
-    - Is a straightforward single-step process which requires checking what license is attached to the package as a whole (if it is found in a license or a README file then the condition is satisfied)
-    - Consists of multiple steps, including checking information for completeness, consistency and accuracy --> Correct answer
- 
-
-## New Knowledge Check 2026 update (Needs Review)
 
 Question 1
 
@@ -585,27 +569,8 @@ The last step in our example is the final validation.
 
 - Open source license compliance process has been completed correctly and license obligations met.
 
+
 ## Knowledge Check
-
-- Which of the following steps are considered compliance activities?
-    - Identification and Audit
-    - Resolving Issues
-    - Performing Reviews
-    - Approval and Registration
-    - Notices
-    - Verifications
-    - Distribution
-    - Validation
-    - All of the above --> Correct answer
-- Is it necessary to bundle third-party vendor SBOMs with our finalized source code package?
-    - Yes, all third-party vendor SBOMs should be bundled
-    - Yes, but only SBOMs items that are used in the final delivered package and required to be declared should be bundled --> Correct answer
-    - No need to bundle third-party SBOMs
-- Can we use in a product beta release an open source software package that was rejected at the Approval and Registration step of the open source review because the beta has only been distributed to a few customers to test?
-    - Yes (but start working on an update to replace it in the future)
-    - No --> Correct answer
-
-## Updated Knowledge Check Questions 2026 (Needs Review)
 
 Question 1
 
@@ -793,23 +758,8 @@ An Organization that uses open source in a commercial product should try to crea
 
 Good relationships with the software communities are helpful in enhancing two-way communication: upstreaming improvements and getting support from the software developers, as well as when seeking advice on the best way to become/stay compliant or resolve compliance issues.
 
-## Knowledge Check
-
-- What types of pitfalls are common in open source compliance?
-    - Intellectual property pitfalls
-    - License compliance pitfalls
-    - Compliance process pitfalls
-    - All of the above --> Correct answer
-- An example of a license compliance failure is failing to mark an open source software after modification. True or False?
-    - True --> Correct answer
-    - False
-- What are the benefits of prioritizing compliance? Select all answers that apply.
-    - The final product will be functional and high quality → Incorrect Answer
-    - Potential compliance mistakes are addressed early --> Correct answer
-    - Open source is used more efficiently and in a compliant manner --> Correct answer
-    - There are no benefits, compliance generates additional cost in money and time → Incorrect Answer
  
-## Updated Knowledge Check Questions 2026 (Needs Review)
+## Knowledge Check
 
 Question 1 (Scenario-Based Review)
 
@@ -836,34 +786,6 @@ B (Incorrect): This is incorrect because comparing scan results to a supplier's 
 C (Incorrect): This is incorrect because adding a verification step to confirm that source code modifications are properly marked directly helps fulfill open source license obligations.
 
 D (Incorrect): This is incorrect because a compliant tracking system is supposed to make it clear that a new approval must be obtained whenever a new version of an open source component is introduced.
-
-Question 2 
-
-Your organization integrates a third-party software package that includes an upstream Software Bill of Materials (SBOM) listing 50 open source components. After reviewing the package, your team determines that your final supplied software only activates and uses two of those components.
-
-To meet your organization's required obligations, what is the best way to handle the compliance artifacts for distribution?
-
-A. Filter the vendor's SBOM to include only the two components used in the final delivered package.
-
-B. Forward the vendor's complete, original 50-component SBOM to the customer without modifications.
-
-C. Replace the vendor's SBOM entirely with a standard written offer promising to provide the code upon request.
-
-D. Remove the third-party SBOM from the distribution package and log all 50 components as an internal exception.
-
-## MY comment - I think this question is too similar to one in a previous chapter
-
-Correct Answer: A
-
-Explanations
-
-A (Correct): This is correct because compliance artifacts distributed with supplied software must accurately reflect what is actually present and required to be declared in the final delivered package. You should only bundle entries for the components used.
-
-B (Incorrect): This is a very common mistake in practice. Passing along a bloated, unmodified 50-component SBOM introduces inaccurate documentation because 48 of those components are not actually distributed in your final package. As a result, your customer may, for example, request the source of these unused components adding to overheads.
-
-C (Incorrect): This is incorrect because a written offer for source code is a separate requirement for specific license types. It does not substitute for providing accurate compliance artifacts, like an SBOM, for the software you are actively delivering.
-
-D (Incorrect): This is incorrect because completely removing the documentation and hiding the components as an internal exception fails to satisfy your open source review and transparency obligations to the end user.
 
 
 # Chapter 5. Developer Guidelines
@@ -921,24 +843,6 @@ Your final validation is an important step aiming to prevent releasing code with
 Having some form of inbound code audit is extremely useful to get this done. This burden does not have to rest on your team. For example, some Organizations and some project teams have a policy that suppliers must include a source code audit report to make your decision-making processes quicker.
 
 ## Knowledge Check
-
-- Which of the following are some general guidelines that developers can practice when working with open source? Select all answers that apply.
-    - Select code from high quality open source communities --> Correct answer
-    - Seek guidance --> Correct answer
-    - Ignore all guidelines, and just contribute good code → Incorrect Answer
-    - Preserve existing licensing information --> Correct answer
-    - Gather and retain open source project information for your review process ---> Correct answer
-- Should you remove or alter open source license header information?
-    - Yes, as it is now part of your software
-    - Yes, that’s the best way to keep the source file short and tidy
-    - No, existing license information should be preserved, and additional header information can be added for modifications or additions to source code --> Correct answer
-- Can a new version of a previously reviewed open source component create new compliance issues? Select all answers that apply.
-    - Yes, if there is a change in the open source license for the new version of the open source component --> Correct answer
-    - Yes, if new dependencies are introduced with new versions which create additional open source obligations --> Correct answer
-    - No, authors are not allowed to change licenses or copyright notices for future versions of existing open source components. → Incorrect answer
-    - None of the above → Incorrect answer
- 
-## Updated Knowledge Check Questions 2026 (Needs Review)
 
 Question 1
 
@@ -1073,22 +977,6 @@ Here is what you can do next:
 
 ## Knowledge Check
 
-- Which community provides freely available resources to help with open source compliance?
-    - OpenChain -> Correct answer
-    - OpenDaylight
-    - OssChain
-    - OpenView
-- What is the minimum number of people required to staff a compliance program?
-    - One person is sufficient to complete all tasks
-    - Five people are needed: an engineer, a product manager, a program manager, a lawyer, and an executive manager
-    - 10% of the number of developers
-    - Depends on the Organization’s size and the number of product(s) --> Correct answer
-- There is one universal training available to identify compliance pitfalls. True or False?
-    - True
-    - False --> Correct answer
- 
-## Updated Knowledge Check Questions 2026 (Needs Review)
-
 Question 1
 
 A mid-sized organization wants to build an official open source compliance framework. The project team is struggling to resolve common policy challenges and does not want to create their strategy completely from scratch. 
@@ -1172,58 +1060,6 @@ D (Incorrect): This is incorrect because regional and organizational legal risks
 ## Course Completion
 
 ### Final Exam
-
-- What additional information is important when reviewing an open source component from a third-party?
-    - That they offer a commercial version of the software
-    - That they are being paid to make the software available
-    - That they provide relevant copyright, attribution notices and source code modifications details --> Correct answer
-    - No additional information is necessary
-- Which of the following is an example of an intellectual property failure:
-    - Not being able to find appropriate open source code, even though it must exist somewhere on the Internet
-    - Mixing proprietary code and open source codein a way that violates the Organization's policy --> Correct answer
-    - Not being able to write the software
-- Name some important steps in a compliance process. Select all answers that apply.
-    - Follow developer guidelines, especially for any open source code included in or linked to proprietary code --> Correct answer
-    - Review and approve all open source early in the cycle --> Correct answer
-    - Review architecture and avoid mixing components governed by incompatible licenses --> Correct answer
-    - Verify open source compliance for every product and every version prior to release --> Correct answer
-    - Review open source compliance for new versions of open source --> Correct answer
-    
-- What information helps identify who is licensing the software?
-    - Footer with details indicating where the software was downloaded from
-    - Copyright notices, attribution, and source code --> Correct answer
-    - Direct information about the licensor will not be available
-- What risks should you address with software supplied to you that you use and incorporate into your products and solutions?
-    - License compliance for any disclosed open source embedded in the supplied software
-    - The potential for creating license conflicts by integrating said software with other open source or proprietary software
-    - Undisclosed or unknown open source included in the software
-    - All of the above --> Correct answer
-
-- What is an example of a compliance process failure:
-    - Not taking minutes for the open source review meeting
-    - Auditors waiving all the red-flagged items in a compliance report to allow the software to be released → Correct Answer
-    - Software not passing all the test cases
-    - Allowing software to be released even though auditors deemed one of the key features was not properly tested
-- What are the benefits of maintaining a good community relationship?
-    - You can enjoy a beer together on the project budget
-    - You can better assess how to comply with the open source license requirements, and have better two-way communication with regard to contribution and use of the open source --> Correct answer
-    - You can step up your marketing efforts for the Organization/product
-- What should you do if you have a question about using open source?
-    - Nothing, focus on delivering the code because only the project lead needs to know more about open source
-    - Initiate an open source review process or contact the open source review team --> Correct answer
-    - Directly contact the contributors of the open source community
-- What kind of information should you collect for an open source review?
-    - Test results showing that the code works as expected
-    - The count of lines of codes in the software package and year of release of the software package
-    - The package name, version, download URL, license, description and intended use in your product --> Correct answer
-    - No additional information is required
-- In which stage of an end-to-end compliance process do we bundle SBOMs shared by the third-party vendor, for components included in our product, along with our final distribution package of software?
-    - Distribution stage --> Correct answer
-    - Final validation stage
-    - At the stage of preparing notices and attribution
-    - We do not need to bundle third-party open source SBOM with our final distribution package
- 
-### Updated Final Exam 2026 (Needs Review)
 
 Reference: Chapter 2
 
