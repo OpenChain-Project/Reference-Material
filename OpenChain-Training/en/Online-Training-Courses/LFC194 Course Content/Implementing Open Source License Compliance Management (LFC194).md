@@ -844,6 +844,8 @@ Having some form of inbound code audit is extremely useful to get this done. Thi
 
 ## Knowledge Check
 
+**editor's note: the Linux Foundation Training System randomises the questions and answers, this arangement matches their version of the course text - consider re-arranging the answers so that they are not all the same (answer A)**
+
 Question 1
 
 A developer identifies a package from a well-supported open source community. Because the project is urgent, the developer renames the component to match internal naming standards and checks the source code directly into the organization’s system, planning to log an approval request with the Open Source Program Office (OSPO) later during final validation.
@@ -977,6 +979,8 @@ Here is what you can do next:
 
 ## Knowledge Check
 
+**editor's note: the Linux Foundation Training System randomises the questions and answers, this arangement matches their version of the course text - consider re-arranging the answers so that they are not all the same (answer A)**
+
 Question 1
 
 A mid-sized organization wants to build an official open source compliance framework. The project team is struggling to resolve common policy challenges and does not want to create their strategy completely from scratch. 
@@ -1060,6 +1064,8 @@ D (Incorrect): This is incorrect because regional and organizational legal risks
 ## Course Completion
 
 ### Final Exam
+
+**editor's note: the Linux Foundation Training System randomises the questions and answers, this arangement matches their version of the course text - consider re-arranging the answers so that they are not all or mostly the same (e.g. answer B)**
 
 Reference: Chapter 2
 
