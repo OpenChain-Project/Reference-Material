@@ -218,10 +218,14 @@ Procurement personnel are required to pay attention to the software in all the d
 Security personnel should be aware of the specific characteristics of Open Source security issues, such as:
 
 Common Vulnerabilities and Exposures ([CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures))
+
 Common Vulnerability Scoring System ([CVSS](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System))
+
 Common Weakness Enumeration ([CWE](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration))
+
 Exploit Prediction Scoring System ([EPSS](https://en.wikipedia.org/wiki/Exploit_Prediction_Scoring_System))
-Vulnerability Exploitability eXchange ([VEX[(https://www.ntia.gov/sites/default/files/publications/vex_one-page_summary_0.pdf))
+
+Vulnerability Exploitability eXchange ([VEX](https://www.ntia.gov/sites/default/files/publications/vex_one-page_summary_0.pdf))
 
 They should also have a policies for the Organization, e.g. which level vulnerabilities are acceptable and what kind of mitigation/remediation must happen at what stages. There should also be policies and processes in place regarding how to communicate vulnerabilities to downstream customers.
 
