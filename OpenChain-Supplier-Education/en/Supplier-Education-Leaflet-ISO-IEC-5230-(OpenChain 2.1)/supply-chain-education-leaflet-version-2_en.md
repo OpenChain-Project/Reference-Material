@@ -124,6 +124,8 @@ The conditions that need to be fulfilled when open source is distributed vary fr
 
 This is required to clearly understand all the different license terms that must be satisfied.
 
+Note that the license of a component can change from one version to another and may introduce different obligations. Therefore licensing needs to be monitored for every version utilised by an Organization.
+
 ## Permissive licenses
 
 The MIT license, the  BSD-1/2/3-Clause licenses and the Apache license have few conditions. These licenses require the distribution of the software’s copyright notice and the license text. The notice should be clearly displayed in a place where the person receiving the open source can read it.
@@ -137,6 +139,11 @@ In addition to the disclosure of the source code, these licenses generally requi
 ## Considerations around patents
 
 In some cases, an open source license may require a distributor to grant their users a license for patents embodied in the software that the distributor uses or adds to the open source. If you have such a patent, that you cannot grant your users a license to, you must not distribute open source covered by such license terms.
+
+## Considerations around export restrictiona
+
+Some licenses, and jurisdictions, may restrict export of the code; failure to comply may have serious implications.
+
 
 # Risks caused by failure to comply
 
