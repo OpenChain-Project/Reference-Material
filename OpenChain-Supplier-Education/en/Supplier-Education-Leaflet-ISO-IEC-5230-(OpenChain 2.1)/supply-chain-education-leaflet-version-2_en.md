@@ -18,7 +18,7 @@ This document is designed to help companies in the supply chain understand and m
 
 Open source has become essential to modern software development and is incorporated into almost every electronic product, from consumer to industrial devices, from cloud to embedded software. Open source is an indispensable part of helping companies to bring products or services to market.
 
-Much open source is developed through the collaboration of expert developers from individuals and organizations throughout the world. 
+Much open source is developed through the collaboration of expert developers from individuals and Organizations throughout the world. 
 
 Open source can be used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed within the supply chain, the distributor is required to comply with the terms and conditions of the license. There have been cases where suppliers were sued because they failed to satisfy their legal obligations. This document is designed to help introduce the best practices needed to prevent issues occurring and to solve them when they do occur. It leads to further resources available through the OpenChain Project and other Linux Foundation Projects.
 
@@ -58,7 +58,7 @@ In general, when an item that includes open source software is delivered to anot
 
 Open source is software for which the source code is provided, and the copyright holder allows others to use, inspect, modify, and share the software.
 
-The Open Source Initiative (OSI) is an organization that promotes open source. It defines criteria for what constitutes open source and approves different licenses as valid open source licenses.
+The Open Source Initiative (OSI) is an Organization that promotes open source. It defines criteria for what constitutes open source and approves different licenses as valid open source licenses.
 
 https://opensource.org/licenses https://opensource.org/osd (Open Source Definition)
 
@@ -253,7 +253,7 @@ Cooperation with legal and intellectual property personnel is indispensable for 
 
 To use open source effectively and appropriately requires the cooperation of different staff inside a company.
 
-Executives and managers may need to facilitate coordination between internal organizations and may decide to establish a dedicated team to manage open source-related issues. This includes investments in human resources, training, and development environments.
+Executives and managers may need to facilitate coordination between internal Organizations and may decide to establish a dedicated team to manage open source-related issues. This includes investments in human resources, training, and development environments.
 
 # Delivery of open source software
 
