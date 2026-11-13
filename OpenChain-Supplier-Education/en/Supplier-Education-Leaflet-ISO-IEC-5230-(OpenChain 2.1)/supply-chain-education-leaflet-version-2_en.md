@@ -15,11 +15,16 @@ Second Edition
 # Introduction
 
 This document is designed to help companies in the supply chain understand and manage Open Source Software (open source). The OpenChain Project maintains the OpenChain ISO/IEC 5230:2020 for open source license compliance and OpenChain ISO/IEC 18974:2023 for open source security assurance. These standards can help companies manage open source. You can learn more about the OpenChain Project and its standards at www.openchainproject.org.
-Open source has become essential to modern software development and is incorporated into almost every electronic product, from consumer to industrial devices, from cloud to embedded software. Open source is an indispensable part of helping companies to bring products or services to market.
-Much open source is developed through the collaboration of expert developers from individuals and organizations throughout the world. 
-Open source can be used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed within the supply chain, the distributor is required to comply with the terms and conditions of the license. There have been cases where suppliers were sued because they failed to satisfy their legal obligations. This document is designed to help introduce the best practices needed to prevent issues occurring and to solve them when they do occur. It leads to further resources available through the OpenChain Project and other Linux Foundation Projects.
-Like all other software, security issues sometimes occur with open source. By understanding how open source is created, used, and maintained, it is possible to identify, prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel to understand the basic principles of open source.
-Please note that this document is designed to provide insight based on experience shared from our global community. It does not contain legal advice.
+
+Open source has become essential to modern software development and is incorporated into almost every electronic product, from consumer to industrial devices, from cloud to embedded software. Open source is an indispensable part of helping companies to bring products or services to market.
+
+Much open source is developed through the collaboration of expert developers from individuals and organizations throughout the world. 
+
+Open source can be used, modified, and distributed by anyone who complies with the associated license conditions. When open source is distributed within the supply chain, the distributor is required to comply with the terms and conditions of the license. There have been cases where suppliers were sued because they failed to satisfy their legal obligations. This document is designed to help introduce the best practices needed to prevent issues occurring and to solve them when they do occur. It leads to further resources available through the OpenChain Project and other Linux Foundation Projects.
+
+Like all other software, security issues sometimes occur with open source. By understanding how open source is created, used, and maintained, it is possible to identify, prevent and address many of these issues before they become a concern. The key thing is for all relevant personnel to understand the basic principles of open source.
+
+Please note that this document is designed to provide insight based on experience shared from our global community. It does not contain legal advice.
 
 # Learning Open Source
 
@@ -52,8 +57,10 @@ In general, when an item that includes open source software is delivered to anot
 ## Definition of open source
 
 Open source is software for which the source code is provided, and the copyright holder allows others to use, inspect, modify, and share the software.
-The Open Source Initiative (OSI) is an organization that promotes open source. It defines criteria for what constitutes open source and approves different licenses as valid open source licenses.
-https://opensource.org/licenses https://opensource.org/osd (Open Source Definition)
+
+The Open Source Initiative (OSI) is an organization that promotes open source. It defines criteria for what constitutes open source and approves different licenses as valid open source licenses.
+
+https://opensource.org/licenses https://opensource.org/osd (Open Source Definition)
 
 Most open source software is licensed under an OSI-approved license. Some software that is licensed under a non-OSI-approved license may still be treated as open source provided that it complies with the Open Source Definition.
 
@@ -103,10 +110,12 @@ There are several different ways open source may be distributed. In every case, 
 
 1. One way to distribute open source is to develop a product using an SDK (software development kit) provided by a e.g. semiconductor vendor. If open source that is included in the SDK is incorporated into a product during development, then this means that the semiconductor vendor is distributing open source via inclusion in the SDK, and the product developer is distributing open source via inclusion in the product. In this case, the product vendor has responsibilities to fulfill to comply with the license. But they are dependent on the semiconductor vendor. If the semiconductor vendor does not provide appropriate information about the open source included in the SDK, the product vendor cannot comply with the open source license.
 
-2. Another way that open source might be distributed is when an Original Design Manufacturer (ODM) or Original Equipment Manufacturer (OEM) is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate open source into the product, which the product distributor needs to know about. Even though an OEM or ODM made the product, the companies responsible for the distribution of the product to market must pay attention to open source incorporated into the product. These companies are required to comply with the open source license. If the ODM or OEM manufacturer does not provide appropriate information about open source, the distributing company cannot comply with the open source license.
+2. Another way that open source might be distributed is when an Original Design Manufacturer (ODM) or Original Equipment Manufacturer (OEM) is entrusted with the design and development of a product for manufacturers. The ODM or OEM may incorporate open source into the product, which the product distributor needs to know about. Even though an OEM or ODM made the product, the companies responsible for the distribution of the product to market must pay attention to open source incorporated into the product. These companies are required to comply with the open source license. If the ODM or OEM manufacturer does not provide appropriate information about open source, the distributing company cannot comply with the open source license.
+
 3. Other ways of distributing open source include shipping a product, releasing mobile application software, or providing an update of software for a previously shipped device. If open source is included in a product, mobile application, or software update, this constitutes distribution of open source. The entity who ships the product or releases the software is required to comply with the open source license.
 
-4. JavaScript used in web pages constitutes distribution: An interesting case of open source distribution may occur when a web page is transferred to a user’s machine. JavaScript that is included in web pages is transferred from the web server to the browser on the user’s machine, as part of the page data, when the user accesses the page. If the JavaScript program is open source, then this constitutes distribution and the license terms will apply.
+4. JavaScript used in web pages constitutes distribution: An interesting case of open source distribution may occur when a web page is transferred to a user’s machine. JavaScript that is included in web pages is transferred from the web server to the browser on the user’s machine, as part of the page data, when the user accesses the page. If the JavaScript program is open source, then this constitutes distribution and the license terms will apply.
+
 5. Some licenses (such as AGPL or the Open Software License) impose conditions on use of the software where the functionality of that software is made available to third parties (e.g. a user accessing a SaaS service provided by the software). These so-called “deemed distribution” licenses require that (in certain circumstances) the end-user is entitled to the source code of the software under the relevant open source license, even if the executable software code is not distributed to them in providing the service.
 
 ## Conditions to be fulfilled when open source is distributed
@@ -117,12 +126,13 @@ This is required to clearly understand all the different license terms that must
 
 ## Permissive licenses
 
-The MIT license, the BSD license and the Apache license have few conditions. These licenses require the distribution of the software’s copyright notice and the license text. The notice should be clearly displayed in a place where the person receiving the open source can read it.
+The MIT license, the  BSD-1/2/3-Clause licenses and the Apache license have few conditions. These licenses require the distribution of the software’s copyright notice and the license text. The notice should be clearly displayed in a place where the person receiving the open source can read it.
 
 ## Reciprocal licenses
 
 The GPL license, the LGPL license, the AGPL license, and the Common Development and Distribution License require disclosure of the source code for the associated software. The license and the copyright in the source code must not be removed. If the distributor has modified the source code, then all source code modifications must also be disclosed. Reciprocal licenses aim to foster an environment where people can share modifications and improvements among all users and developers of the software.
-In addition to the disclosure of the source code, these licenses generally require other conditions to be met as well. To distribute software under a reciprocal license you must understand these conditions. If needed, you should consult with your legal and intellectual property staff.
+
+In addition to the disclosure of the source code, these licenses generally require other conditions to be met as well. To distribute software under a reciprocal license you must understand these conditions. If needed, you should consult with your legal and intellectual property staff.
 
 ## Considerations around patents
 
@@ -179,8 +189,10 @@ Get Certified: [https://www.openchainproject.org/get-started](https://www.opench
 ## Requirements for participants in the supply chain
 
 When a supplier distributes software, the supplier is required to provide to each recipient the information that is needed to comply with the open source license. A recipient should review the data and files carefully and verify that they are accurate.
-A software distributor may include software from multiple suppliers for a single product. In this case, the distributor is required to receive information about each open source component it receives, along with the software.
-If information about an open source component is not received, the component should not be incorporated into a product.
+
+A software distributor may include software from multiple suppliers for a single product. In this case, the distributor is required to receive information about each open source component it receives, along with the software.
+
+If information about an open source component is not received, the component should not be incorporated into a product.
 
 ## Different roles in a company have different responsibilities for open source compliance
 
@@ -221,17 +233,22 @@ Cooperation with legal and intellectual property personnel is indispensable for 
 ### Executives and Managers
 
 To use open source effectively and appropriately requires the cooperation of different staff inside a company.
-Executives and managers may need to facilitate coordination between internal organizations and may decide to establish a dedicated team to manage open source-related issues. This includes investments in human resources, training, and development environments.
+
+Executives and managers may need to facilitate coordination between internal organizations and may decide to establish a dedicated team to manage open source-related issues. This includes investments in human resources, training, and development environments.
 
 # Delivery of open source software
 
 ### To ensure that everyone benefits from open source, people must know what information regarding open source must be provided with software deliverables.
 
 This document has explained the importance of maintaining the list of open source and of complying with open source licenses.
-What information regarding open source should be provided with software deliverables? This section explains the specific information that must be distributed with open source. Because the required information varies depending on business and company policy, and supply contracts, please communicate with each recipient company for details.
-When no open source is included in software deliverables, you should clearly communicate that “the deliverable does not include any open source” to recipients. The recipient may then act accordingly.
-When open source is included in software deliverables, you must clearly identify such software, and its license. For example, the license may change between different versions of an open source component. The name and specific version of each component is therefore indispensable information. For each component it is helpful to provide the download location or main project source site or web site for the software. This allows recipients to verify the information about the software, its version and license.
-When the open source license requires the distributor to disclose source code, please provide the source code. The source code and any associated materials that is specifically required depends on the open source license. For example, version 3 of the GPL/LGPL license requires that in addition to the source code for the software, you must also provide information needed to re-install a modified binary based on the code.
+
+What information regarding open source should be provided with software deliverables? This section explains the specific information that must be distributed with open source. Because the required information varies depending on business and company policy, and supply contracts, please communicate with each recipient company for details.
+
+When no open source is included in software deliverables, you should clearly communicate that “the deliverable does not include any open source” to recipients. The recipient may then act accordingly.
+
+When open source is included in software deliverables, you must clearly identify such software, and its license. For example, the license may change between different versions of an open source component. The name and specific version of each component is therefore indispensable information. For each component it is helpful to provide the download location or main project source site or web site for the software. This allows recipients to verify the information about the software, its version and license.
+
+When the open source license requires the distributor to disclose source code, please provide the source code. The source code and any associated materials that is specifically required depends on the open source license. For example, version 3 of the GPL/LGPL license requires that in addition to the source code for the software, you must also provide information needed to re-install a modified binary based on the code.
 
 ## Information that may be required by customers
 
@@ -256,7 +273,8 @@ For open source where the license requires disclosure of source code:
 - The required source code plus potentially other items such as the scripts used compilation and installation (check the individual license terms)
 
 In some cases, where an open source component itself includes a secondary piece of open source, you must provide information for the secondary open source component as well.
-The preceding information is general. One customer may require certain pieces of information, while a different customer may require other information instead. It is important to communicate with your customers regarding the pieces of information they require and the format of them.
+
+The preceding information is general. One customer may require certain pieces of information, while a different customer may require other information instead. It is important to communicate with your customers regarding the pieces of information they require and the format of them.
 
 ## SPDX Project
 
@@ -269,7 +287,8 @@ There are scanning tools that can detect open source in software packages and au
 ## About OpenChain Project
 
 The OpenChain Project is building a supply chain where open source is delivered with trusted and consistent process management information. It maintains OpenChain ISO/IEC 5230:2020, the international standard for open source license compliance, and ISO/IEC 18974:2023, the international standard for open source security assurance. 
-There is an extensive global community of over 1,000 companies collaborating around the OpenChain Project to make the supply chain quicker, more effective and more efficient. For more information, please visit us at [https://www.openchainproject.org](https://www.openchainproject.org)
+
+There is an extensive global community of over 1,000 companies collaborating around the OpenChain Project to make the supply chain quicker, more effective and more efficient. For more information, please visit us at [https://www.openchainproject.org](https://www.openchainproject.org)
 
 ## About The Linux Foundation
 
@@ -278,10 +297,14 @@ The Linux Foundation is the world’s leading home for collaboration on open sou
 # Additional considerations
 
 Suppliers should be aware of and potentially include processes to address regulation from government such as the United State’s White House Executive Order [1], the NTIA Minimum Requirements [2], the European Union’s Cyber Resilience Act (CRA) [3] and the EU Product Liability Directive [4].
-[1] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
-[2] https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom
-[3] https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
-[4] https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en (2022 draft revision)
+
+[1] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+
+[2] https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom
+
+[3] https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
+
+[4] https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en (2022 draft revision)
 
 # Final Notes
 
