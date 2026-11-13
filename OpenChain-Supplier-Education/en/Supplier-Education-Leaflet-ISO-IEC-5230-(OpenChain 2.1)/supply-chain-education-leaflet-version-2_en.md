@@ -214,6 +214,21 @@ Software procurement personnel must receive information about any open source co
 
 Procurement personnel are required to pay attention to the software in all the different kinds of deliverables that the company receives.
 
+### Security personnel
+Security personnel should be aware of the specific characteristics of Open Source security issues, such as:
+
+Common Vulnerabilities and Exposures ([CVE](https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures))
+Common Vulnerability Scoring System ([CVSS](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System))
+Common Weakness Enumeration ([CWE](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration))
+Exploit Prediction Scoring System ([EPSS](https://en.wikipedia.org/wiki/Exploit_Prediction_Scoring_System))
+Vulnerability Exploitability eXchange ([VEX[(https://www.ntia.gov/sites/default/files/publications/vex_one-page_summary_0.pdf))
+
+They should also have a policies for the Organization, e.g. which level vulnerabilities are acceptable and what kind of mitigation/remediation must happen at what stages. There should also be policies and processes in place regarding how to communicate vulnerabilities to downstream customers.
+
+### Risk management personnel
+
+An Organization should be aware of, and capture, any relevant risks and possible mitigations related to Open Source and ensure inclusion in risk register(s), policies, etc. e.g. components from projects that have had no activity in past X years, may need to be replaced, etc.
+
 ### Sales personnel
 
 Sales personnel are required to communicate with customers regarding open source. A customer may have special requirements related to the use of open source. For example, a company may have an open source policy that precludes it from using open source with specific licenses.
