@@ -1,0 +1,26 @@
+version = 1
+
+[[annotations]]
+path = "**"
+precedence = "closest"
+SPDX-FileCopyrightText = "The Linux Foundation and The OpenChain Authors"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = [".github/**", ".gitignore", "scripts/**", "*.py", "*.sh", "*.js", "*.ts"]
+precedence = "override"
+SPDX-FileCopyrightText = "The Linux Foundation and The OpenChain Authors"
+SPDX-License-Identifier = "Apache-2.0"
+
+# Override illustrative SPDX-License-Identifier examples inside documentation body text
+[[annotations]]
+path = [
+    "Guides/Community/Reusing-Software/en/reusing_software.html",
+    "Guides/Community/Reusing-Software/en/reusing_software.md",
+    "Guides/Community/Reusing-Software/en/including_license_info.html",
+    "Guides/Community/Reusing-Software/en/including_license_info.rst",
+    "Open-Source-Policy/Community/Contribution-Policy-Template/BestpracticesTemplate.md",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "The Linux Foundation and The OpenChain Authors"
+SPDX-License-Identifier = "CC0-1.0"
