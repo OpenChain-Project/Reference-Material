@@ -28,21 +28,20 @@
 
 Before starting this course, participants must complete both of the following Linux Foundation courses, in order:
 
-1. [LFC193 – Introduction to Open Source License Compliance Management](https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/): foundational licensing, intellectual property, compliance concepts, code building and distribution, and structuring a compliance programme.
-2. [LFC194 – Implementing Open Source License Compliance Management](https://training.linuxfoundation.org/training/implementing-open-source-license-compliance-management-lfc194/): open source review, end-to-end compliance processes, common pitfalls and developer guidelines.
+1. [LFC193 – Introduction to Open Source License Compliance Management](https://training.linuxfoundation.org/training/introduction-to-open-source-license-compliance-management-lfc193/): foundational licensing, intellectual property, compliance concepts, code building and distribution, and structuring a compliance programme. Content also available from OpenChain under a CC0 license [here](https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Training/en/Online-Training-Courses/LFC193%20Course%20Content).
+2. [LFC194 – Implementing Open Source License Compliance Management](https://training.linuxfoundation.org/training/implementing-open-source-license-compliance-management-lfc194/): open source review, end-to-end compliance processes, common pitfalls and developer guidelines. ontent also available from OpenChain under a CC0 license [here](https://github.com/OpenChain-Project/Reference-Material/tree/master/OpenChain-Training/en/Online-Training-Courses/LFC194%20Course%20Content).
 
-Both are listed as free, self-paced courses with 1–2 hours of material each. These are mandatory prerequisites for **this tooling course**, not a statement about Linux Foundation enrolment requirements.
+Both are listed as free, self-paced courses with 1–2 hours of material each. These are mandatory prerequisites for **this tooling course**.
 
 ### Scope of this follow-on course
 
 This course assumes participants understand licensing obligations, review roles, compliance programme design and distribution processes. These subjects are recalled only where necessary to explain tool inputs, outputs, configuration, limitations or integration. The emphasis is on selecting, combining and operating tools that support an established compliance process. Participants needing a refresher should return to LFC193 or LFC194 rather than receive a repeat of those courses here.
 
-The prerequisite mapping is based on the Linux Foundation's published course outlines, not a review of the full lesson materials.
-
 ---
 
 ## Source material and teaching approach
 
+**(MY Note: kept in for now for transparancy, TODO: remove/revise later)**
 This expanded course uses the supplied Markdown outline as its framework and draws its historical training content from:
 
 - **Tooling-Overview.pdf** — *Covering OSS Compliance with Software Tools*, Software Compliance Academy, Dr. Catharina Maracke and Dr. Michael C. Jaeger (35 pages).
@@ -51,6 +50,8 @@ This expanded course uses the supplied Markdown outline as its framework and dra
 Page references below identify the original PDF slide numbers. Teaching explanations, scenarios and Mermaid diagrams are newly written adaptations of the source material, not reproductions of the slides. Content from the pre-existing skeleton that the presentations do not address is labelled accordingly; current legal or regulatory requirements have **not** been independently verified.
 
 ### Overview diagram: End-to-end compliance process
+
+**(MY Note: TODO: LFT will require good quality .png images)**
 
 ```mermaid
 flowchart LR
@@ -70,7 +71,7 @@ flowchart LR
 
 ### 1.1 What Is Open Source Compliance?
 
-**Quick recap — LFC193 and LFC194:** Licence compliance concerns satisfying applicable licence obligations; governance defines responsibilities and processes, while security review addresses a different risk domain. Refer to the prerequisite courses for licensing fundamentals, risks and stakeholder responsibilities. Here, focus on the evidence and workflows tools must support.
+**Quick recap — LFC193 and LFC194:** Licence compliance concerns satisfying applicable licence obligations; governance defines responsibilities and processes, while security review addresses a different risk domain. Refer to the prerequisite courses for licensing fundamentals, risks and stakeholder responsibilities. Here, we focus on the evidence and workflows tools must support.
 
 #### Teaching content: Define the process before choosing tools
 
@@ -105,9 +106,14 @@ A component inventory or bill of materials answers the fundamental supply-chain 
 
 **Worked example:** A product combines an internally developed application, a third-party library and a commercial SDK. Its evidence pack should record the included components, versions where known, their provenance, licensing evidence, review decisions and the obligations applicable to the release. The commercial SDK must be checked too: third-party contractual restrictions are not limited to OSS. [Source: *Tooling-Overview*, pp. 9, 27.]
 
+**(MY Note: TODO: change any Exercises to learning quiz questions when section content firmed up)**
+
 **Exercise:** Sketch a release evidence pack and distinguish evidence collected automatically from evidence requiring human review.
 
 ### 1.3 Standards and Best Practices
+
+**(MY Note: TODO: These would be examples mostly)**
+
 - SPDX
   - License identifiers and expressions
   - Document structure and fields
@@ -144,6 +150,7 @@ The older training explicitly identifies **SPDX files** as a means of exchanging
 - Limitations
   - Generated code
   - Minified or binary artifacts
+**(MY Note: TODO: snippet scanning??)**
 
 
 
@@ -190,6 +197,9 @@ flowchart TD
 This categorisation and the associated limitations are drawn from *Tooling-Overview-Part 2*, pp. 2–32. Named software examples remain in Appendix A rather than being inserted into the main teaching chapters.
 
 ### 2.3 Hands-On Lab
+
+**(MY Note: TODO: change to worked example?)**
+
 - Selecting a representative project  
 - Running an initial scan  
 - Reviewing detected licenses and confidence levels  
